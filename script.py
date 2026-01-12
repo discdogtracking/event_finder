@@ -5,7 +5,7 @@ Saves structured events to `data/events.json`.
 
 
 Dependencies:
- pip install requests beautifulsoup4 python-dateutil tqdm
+ pip install requests beautifulsoup4 python-dateutil
 """
 
 
