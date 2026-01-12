@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 UpDog Challenge scraper (table-based, focused fields, limited events for testing).
-Saves structured events to `events_test.json`.
+Saves structured events to `data/events.json`.
 
 
 Dependencies:
@@ -17,11 +17,14 @@ from urllib.parse import urljoin, urlparse
 from dateutil import parser as dateparser
 import hashlib
 from tqdm import tqdm
+import os  # added to create data folder
 
+# Ensure the data folder exists
+os.makedirs("data", exist_ok=True)
 
 BASE = "https://updogchallenge.com"
 START = BASE + "/events/"
-OUTPUT = "events.json"
+OUTPUT = "data/events.json"  # changed to save inside data folder
 
 
 HEADERS = {
@@ -37,8 +40,6 @@ HEADERS = {
 DELAY = 1.0  # seconds between requests (polite)
 
 
-
-
 def safe_get(session, url):
    try:
        resp = session.get(url, headers=HEADERS, timeout=30)
@@ -49,8 +50,6 @@ def safe_get(session, url):
        return None
 
 
-
-
 def normalize_key(text: str) -> str:
    if not text:
        return ""
@@ -59,8 +58,6 @@ def normalize_key(text: str) -> str:
    if text.endswith(":"):
        text = text[:-1]
    return text.strip()
-
-
 
 
 def make_persistent_event_id(details: dict, event_url: str) -> str:
@@ -74,21 +71,16 @@ def make_persistent_event_id(details: dict, event_url: str) -> str:
    path = urlparse(event_url).path.rstrip("/")
    slug = path.split("/")[-1].lower()
 
-
    club = (details.get("club_name") or "").strip().lower()
    host = (details.get("contact_name") or "").strip().lower()
-
 
    raw = f"{slug}|{club}|{host}"
    return hashlib.sha256(raw.encode("utf-8")).hexdigest()
 
 
-
-
 def parse_table_rows_to_dict(soup):
    data = {}
    tables = soup.select("table")
-
 
    for table in tables:
        for row in table.select("tr"):
@@ -97,28 +89,18 @@ def parse_table_rows_to_dict(soup):
            if not th or not td:
                continue
 
-
            key_raw = th.get_text(" ", strip=True)
            key = normalize_key(key_raw)
            val = td.get_text("\n", strip=True)
 
-
            if key == "Club Name":
                data["club_name"] = val
-
-
            elif key == "Contact Name":
                data["contact_name"] = val
-
-
            elif key == "Contact Email":
                data["contact_email"] = val
-
-
            elif key == "Event Address":
                data["event_address"] = val
-
-
            elif key == "Event Start Date":
                data["start_date"] = val
                try:
@@ -128,40 +110,25 @@ def parse_table_rows_to_dict(soup):
                    data["notification_date"] = dt.strftime("%Y-%m-%d")
                except Exception:
                    pass
-
-
            elif key == "Event End Date":
                data["end_date"] = val
                try:
                    data["end_date_iso"] = dateparser.parse(val, fuzzy=True).isoformat()
                except Exception:
                    pass
-
-
            elif key == "Event Start Time":
                data["start_time"] = val
-
-
            elif key == "Event End Time":
                data["end_time"] = val
-
-
            elif key == "Games Being Played":
                data["games"] = [line.strip() for line in val.split("\n") if line.strip()]
-
-
            elif key.startswith("Additional event information"):
                data["additional_event_information_for_participants"] = val
-
-
            elif key == "Link for pre-registration":
                a_tag = td.select_one("a[href]")
                data["prereg_url"] = a_tag.get("href") if a_tag else val
 
-
    return data
-
-
 
 
 def parse_event_detail(session, url):
@@ -169,21 +136,14 @@ def parse_event_detail(session, url):
    if not soup:
        return {}
 
-
    detail = {}
-
-
    title_el = soup.select_one(".entry-title, h1.entry-title, h1")
    detail["title"] = title_el.get_text(strip=True) if title_el else None
-
 
    table_data = parse_table_rows_to_dict(soup)
    detail.update(table_data)
 
-
    return detail
-
-
 
 
 def scrape_listing_page(session, url):
@@ -191,10 +151,8 @@ def scrape_listing_page(session, url):
    if not soup:
        return [], None
 
-
    events = []
    cards = soup.select(".em-item-info") or soup.select("article, .event-card")
-
 
    for c in cards:
        a = c.select_one(".em-item-title a")
@@ -204,14 +162,10 @@ def scrape_listing_page(session, url):
                "url": urljoin(url, a.get("href"))
            })
 
-
    next_el = soup.select_one(".next.page-numbers, a.next, a[rel='next']")
    next_url = urljoin(url, next_el.get("href")) if next_el and next_el.get("href") else None
 
-
    return events, next_url
-
-
 
 
 def crawl_all():
@@ -220,27 +174,21 @@ def crawl_all():
    all_events = []
    seen = set()
 
-
    print("Starting crawl...")
-
 
    while url:
        print(f"\nListing page: {url}")
        listing_events, next_url = scrape_listing_page(session, url)
-
 
        for ev in listing_events:
            ev_url = ev.get("url")
            if not ev_url or ev_url in seen:
                continue
 
-
            seen.add(ev_url)
            time.sleep(DELAY)
 
-
            details = parse_event_detail(session, ev_url)
-
 
            record = {
                "id": make_persistent_event_id(details, ev_url),
@@ -250,9 +198,7 @@ def crawl_all():
            }
            all_events.append(record)
 
-
        url = next_url
-
 
    payload = {
        "last_updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
@@ -260,14 +206,10 @@ def crawl_all():
        "events": all_events
    }
 
-
    with open(OUTPUT, "w", encoding="utf-8") as f:
        json.dump(payload, f, ensure_ascii=False, indent=2)
 
-
    print(f"\nDone. Saved {len(all_events)} events to {OUTPUT}")
-
-
 
 
 if __name__ == "__main__":
