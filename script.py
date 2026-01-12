@@ -16,7 +16,6 @@ import json
 from urllib.parse import urljoin, urlparse
 from dateutil import parser as dateparser
 import hashlib
-from tqdm import tqdm
 import os  # added to create data folder
 
 # Ensure the data folder exists
