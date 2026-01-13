@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-12T18:23:47Z",
-  "count": 150,
+  "last_updated": "2026-01-13T08:25:07Z",
+  "count": 157,
   "events": [
     {
       "id": "efeda4c39469d9c086b21765cd63efa1c7ba9f2713e723fa13aa6e3148f63cd6",
@@ -838,6 +838,44 @@
         ],
         "additional_event_information_for_participants": "Follow Nashvertical on Facebook for further information\nfacebook.com/nashverticaldiscdogs",
         "prereg_url": "https://www.cognitoforms.com/NashVerticalDiscDogs/NashVerticalCamp1"
+      }
+    },
+    {
+      "id": "2cde6a8578962a569f3996071c7e34a26df20e7b879df6b6c65924e342d7a7d7",
+      "title": "Leesburg, VA, US - March 21st & 22nd - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-march-21st-22nd-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – March 21st & 22nd – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "3/21/2026",
+        "start_date_iso": "2026-03-21T00:00:00",
+        "notification_date": "2026-03-21",
+        "end_date": "3/22/2026",
+        "end_date_iso": "2026-03-22T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle will be offered both days.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationMarch2026"
       }
     },
     {
@@ -2132,6 +2170,44 @@
       }
     },
     {
+      "id": "d72a0dddf287b54797d1aac9a0c88a9f9daa67fe20381c8d7eedeccf5621ba75",
+      "title": "Leesburg, VA, US - June 20th & 21st - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-june-20th-21st-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – June 20th & 21st – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20191, United States",
+        "start_date": "6/20/2026",
+        "start_date_iso": "2026-06-20T00:00:00",
+        "notification_date": "2026-06-20",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationJune2026"
+      }
+    },
+    {
       "id": "8e68dd016ad43fba2734b49a693db1af6999a950a89b7dd5bf01fb0dc8733f6a",
       "title": "Millersville, MD, US - June 20th & 21st - Mad Dogs Club",
       "url": "https://updogchallenge.com/events/millersville-md-us-june-27th-28th-mad-dogs-club/",
@@ -2594,6 +2670,44 @@
       }
     },
     {
+      "id": "951072a90357f6d9cbeaaee77c3fd4b8bd6c6c14d8020cce70885eff3f41e6c7",
+      "title": "Leesburg, VA, US - July 18th & 19th - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-july-18th-19th-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – July 18th & 19th – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/19/2026",
+        "end_date_iso": "2026-07-19T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormJuly2026"
+      }
+    },
+    {
       "id": "dacd3c557e8e42f6ff0db7cdb478edcfed9b4df6de5ec02aa7c8fc45da8055b2",
       "title": "Jacksonville, FL, US - July 20th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-july-20th-jacksonville-disc-dogs/",
@@ -2887,6 +3001,44 @@
       }
     },
     {
+      "id": "25f20bee2ff2fe1f3acdb1eaeecd382f72249bc1c32efd3f38fdad97001ee361",
+      "title": "Leesburg, VA, US - Aug 22nd & 23rd - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-aug-22nd-23rd-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – Aug 22nd & 23rd – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "8/22/2026",
+        "start_date_iso": "2026-08-22T00:00:00",
+        "notification_date": "2026-08-22",
+        "end_date": "8/23/2026",
+        "end_date_iso": "2026-08-23T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormAugust2026"
+      }
+    },
+    {
       "id": "44a100e92b5fb5b5aba4b54ee047a2fa978d623b3999c13a3861bfd5319ca29b",
       "title": "Pilot Mountain, NC, US - Aug 22nd - Jam-Min' Disc Dogs",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-aug-22nd-jam-min-disc-dogs/",
@@ -3046,6 +3198,43 @@
           "To Be Determined"
         ],
         "prereg_url": "https://forms.gle/s99hzR5UBDe6RVhj7"
+      }
+    },
+    {
+      "id": "451d649e568ade1fbc8ad9fb31b7ce6544ffaed3f45cb57c724d3795264b6b54",
+      "title": "Leesburg, VA, US - Sept 5th & 6th - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-sept-5th-6th-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – Sept 5th & 6th – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "9/5/2026",
+        "start_date_iso": "2026-09-05T00:00:00",
+        "notification_date": "2026-09-05",
+        "end_date": "9/6/2026",
+        "end_date_iso": "2026-09-06T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormSeptember2026"
       }
     },
     {
@@ -3637,6 +3826,44 @@
       }
     },
     {
+      "id": "09826b24adaee78ee8f4eefaf9452354d5e439a8c7bf176b827959c0163a79ce",
+      "title": "Leesburg, VA, US - Nov 21st & 22nd - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-nov-21st-22nd-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – Nov 21st & 22nd – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "11/21/2026",
+        "start_date_iso": "2026-11-21T00:00:00",
+        "notification_date": "2026-11-21",
+        "end_date": "11/22/2026",
+        "end_date_iso": "2026-11-22T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormNovember2026"
+      }
+    },
+    {
       "id": "2206a9394bd1600c83b59735d54a8b57ca801e4f2ecf6fac1104f3266b894c2c",
       "title": "Pilot Mountain, NC, US - Nov 28th & 29th - Jam-Min' Disc Dogs",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-nov-28th-29th-jam-min-disc-dogs-2/",
@@ -3738,6 +3965,44 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/\nSaturday Dec 5th will be the First Coast Crown, we will be offering three rounds of Throw N Go, Frizgility, and Far Out with overall placements and prizes. Sunday Dec 6th will be a points only You Pick.",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSf4C8Ojngq3UXmM3xfP55NFZIdA1gSZsQJZtXtVePON-w9WgA/viewform?usp=publish-editor"
+      }
+    },
+    {
+      "id": "558601fedd8efc904db2ace433fa0b79ed9e23fa82cec5cf33fc86d9a98c23e5",
+      "title": "Leesburg, VA, US - Dec 12th & 13th - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-dec-12th-13th-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – Dec 12th & 13th – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "12/12/2026",
+        "start_date_iso": "2026-12-12T00:00:00",
+        "notification_date": "2026-12-12",
+        "end_date": "12/13/2026",
+        "end_date_iso": "2026-12-13T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormDecember2026"
       }
     },
     {
