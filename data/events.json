@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-13T08:25:07Z",
-  "count": 157,
+  "last_updated": "2026-01-14T08:24:43Z",
+  "count": 167,
   "events": [
     {
       "id": "efeda4c39469d9c086b21765cd63efa1c7ba9f2713e723fa13aa6e3148f63cd6",
@@ -105,6 +105,33 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Please see\nhttps://www.facebook.com/NewJerseyDiscDogs\nor contact Sarah at\nNewJerseyDiscDogs@gmail.com\nfor registration information."
+      }
+    },
+    {
+      "id": "35829b9f156f1f6daabf49ff156b2bd0681e8c3d18291b0222b6661a7aa42873",
+      "title": "Bunnell, FL, US - Jan 24th - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-jan-24th-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – Jan 24th – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "bfidler1996@gmail.com",
+        "event_address": "345 county rd 335, Bunnell, FL 32110, United States",
+        "start_date": "1/24/2026",
+        "start_date_iso": "2026-01-24T00:00:00",
+        "notification_date": "2026-01-24",
+        "end_date": "1/24/2026",
+        "end_date_iso": "2026-01-24T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Frizgility level 2 will be offered as well as frizgility level 1"
       }
     },
     {
@@ -316,6 +343,33 @@
         ],
         "additional_event_information_for_participants": "Follow our Facebook page for updates and important announcements!\nhttps://www.facebook.com/forestcitysportdogs/",
         "prereg_url": "https://www.cognitoforms.com/ForestCitySportDogs/UppyPowersInternationalMuttOfMystery"
+      }
+    },
+    {
+      "id": "5b3fbb3988a96816ddd47862eede0e4acf09e64da3bee0042d1b7ea990fb52f5",
+      "title": "Bunnell, FL, US - Feb 7th & 8th - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-feb-7th-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – Feb 7th & 8th – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "bfidler1996@gmail.com",
+        "event_address": "345 county rd 335, Bunnell, FL 32110, United States",
+        "start_date": "2/7/2026",
+        "start_date_iso": "2026-02-07T00:00:00",
+        "notification_date": "2026-02-07",
+        "end_date": "2/8/2026",
+        "end_date_iso": "2026-02-08T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Frizgility level 2 will be offered as well as frizgility level 1"
       }
     },
     {
@@ -594,6 +648,33 @@
       }
     },
     {
+      "id": "89ffeb36e4a9dfd1dccba514490ca11bb6ec8969a0ef23bfc3463b70b678ed12",
+      "title": "Bunnell, FL, US - March 1st - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-march-1st-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – March 1st – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "bfidler1996@gmail.com",
+        "event_address": "345 county rd 335, Bunnell, FL 32110, United States",
+        "start_date": "3/1/2026",
+        "start_date_iso": "2026-03-01T00:00:00",
+        "notification_date": "2026-03-01",
+        "end_date": "3/1/2026",
+        "end_date_iso": "2026-03-01T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Frizgility level 2 will be offered as well as frizgility level 1"
+      }
+    },
+    {
       "id": "0585b2b4ba832c1616b8694f3c5643e046f8893a1fd0d5099e6ef4f8ee221a23",
       "title": "Pilot Mountain, NC, US - March 1st - Jam-Min' Disc Dogs",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-march-1st-jam-min-disc-dogs/",
@@ -780,6 +861,33 @@
         ],
         "additional_event_information_for_participants": "See Evergreen Disc Dogs on Facebook",
         "prereg_url": "https://www.cognitoforms.com/evergreendiscdogs1/march2026/"
+      }
+    },
+    {
+      "id": "fbb5b51d72fc0b4c6b2e1d0ebdf48de012a59c2378318e81cfc9c3d135e9886a",
+      "title": "Bunnell, FL, US - March 21st & 22nd - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-march-21st-22nd-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – March 21st & 22nd – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "bfidler1996@gmail.com",
+        "event_address": "345 county rd 335, Bunnell, FL 32110, United States",
+        "start_date": "3/21/2026",
+        "start_date_iso": "2026-03-21T00:00:00",
+        "notification_date": "2026-03-21",
+        "end_date": "3/22/2026",
+        "end_date_iso": "2026-03-22T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Frizgility level 2 will be offered as well as frizgility level 1"
       }
     },
     {
@@ -1571,6 +1679,30 @@
       }
     },
     {
+      "id": "c5552f5d98175b85bc1f37fed27a494198364c81f3e80e7b5c45117a002930b2",
+      "title": "Rio Dell, CA, US - May 30th & 31st - Humboldt Disc Dog Club",
+      "url": "https://updogchallenge.com/events/rio-dell-ca-us-may-30th-31st-humboldt-disc-dog-club/",
+      "details": {
+        "title": "Rio Dell, CA, US – May 30th & 31st – Humboldt Disc Dog Club",
+        "club_name": "Humboldt Disc Dog Club",
+        "contact_name": "Debra Lake",
+        "contact_email": "lake_95554@yahoo.com",
+        "event_address": "50 W Center St, Rio Dell, CA 95562, United States",
+        "start_date": "5/30/2026",
+        "start_date_iso": "2026-05-30T00:00:00",
+        "notification_date": "2026-05-30",
+        "end_date": "5/31/2026",
+        "end_date_iso": "2026-05-31T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "The site is completely fenced. It is flat. Temperatures are moderate.",
+        "prereg_url": "pending"
+      }
+    },
+    {
       "id": "a66b43dd682732b889c00fc83f85781eed9755fb57f35d658cf83494151d6145",
       "title": "Shermans Dale, PA, US - May 30th & 31st - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-may-30th-31st-woof-pack-disc-dogs/",
@@ -2339,6 +2471,28 @@
       }
     },
     {
+      "id": "06eb34cef9b64e3429a213b6ddaa2d40b97d9147993711b2d49e5a2af2693bbb",
+      "title": "Rio Dell, CA, US - June 27th & 28th - Humboldt Disc Dog Club",
+      "url": "https://updogchallenge.com/events/rio-dell-ca-us-june-27th-28th-humboldt-disc-dog-club/",
+      "details": {
+        "title": "Rio Dell, CA, US – June 27th & 28th – Humboldt Disc Dog Club",
+        "club_name": "Humboldt Disc Dog",
+        "contact_name": "Debra Lake",
+        "contact_email": "lake_95554@yahoo.com",
+        "event_address": "50 W Center St, Rio Dell, CA 95562, United States",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "581b01ffed37d6769776a55c2baafcf036aa0ef90aeeee73c77a7e8ed94591dc",
       "title": "Dartmouth, NS, CA - July 1st - Gale Force Disc Dogs",
       "url": "https://updogchallenge.com/events/dartmouth-ns-ca-july-1st-gale-force-disc-dogs/",
@@ -2793,6 +2947,30 @@
       }
     },
     {
+      "id": "ee2a890d33832f410702f400bf45a2e2dfeb3c0f3af735d8d4ab4194a8b7d6a6",
+      "title": "Hillgrove, NB, CA - July 31st thru Aug 2nd - PJs Canine Club",
+      "url": "https://updogchallenge.com/events/hillgrove-nb-ca-july-31st-thru-aug-2nd-pjs-canine-club/",
+      "details": {
+        "title": "Hillgrove, NB, CA – July 31st thru Aug 2nd – PJs Canine Club",
+        "club_name": "PJ’s Canine Club",
+        "contact_name": "Janice Aube",
+        "contact_email": "pjs.canineclub@gmail.com",
+        "event_address": "3420 ROUTE 890, Hillgrove, NB E4Z 5W4, Canada",
+        "start_date": "7/31/2026",
+        "start_date_iso": "2026-07-31T00:00:00",
+        "notification_date": "2026-07-31",
+        "end_date": "8/2/2026",
+        "end_date_iso": "2026-08-02T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Fressstyle on Friday night!",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeKusGoDVQcP_jyfkqthle2fhTHsoVhTSGHZ2_eIoSX_c57iw/viewform"
+      }
+    },
+    {
       "id": "725cffc4da0442e88c8aadf765132f9d620991a8f5fcef21c0f7ef048cf01c56",
       "title": "Lebanon, PA, US - Aug 7th thru 9th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/lebanon-pa-us-aug-7th-thru-9th-woof-pack-disc-dogs/",
@@ -3073,6 +3251,28 @@
         ],
         "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
         "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration"
+      }
+    },
+    {
+      "id": "32cb1324699857d43a3720980c8a73f8f5ed843eae736321d1f210a4b9f6a251",
+      "title": "Rio Dell, CA, US - Aug 29th & 30th - Humboldt Disc Dog Club",
+      "url": "https://updogchallenge.com/events/rio-dell-ca-us-aug-29th-30th-humboldt-disc-dog-club/",
+      "details": {
+        "title": "Rio Dell, CA, US – Aug 29th & 30th – Humboldt Disc Dog Club",
+        "club_name": "Humboldt Disc Dog",
+        "contact_name": "Debra Lake",
+        "contact_email": "lake_95554@yahoo.com",
+        "event_address": "50 W Center St, Rio Dell, CA 95562, United States",
+        "start_date": "8/29/2026",
+        "start_date_iso": "2026-08-29T00:00:00",
+        "notification_date": "2026-08-29",
+        "end_date": "8/30/2026",
+        "end_date_iso": "2026-08-30T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -3366,6 +3566,28 @@
       }
     },
     {
+      "id": "2826d42fe5a244001786a19bdd83973c04f27567442991a5db8e4b8a117ab964",
+      "title": "Rio Dell, CA, US - Sept 19th & 20th - Humboldt Disc Dog Club - Triple Crown",
+      "url": "https://updogchallenge.com/events/rio-dell-ca-us-sept-19th-20th-humboldt-disc-dog-club/",
+      "details": {
+        "title": "Rio Dell, CA, US – Sept 19th & 20th – Humboldt Disc Dog Club – Triple Crown",
+        "club_name": "Humboldt Disc Dogs",
+        "contact_name": "Debra Lake",
+        "contact_email": "humboldtdiscdogs@yahoo.com",
+        "event_address": "50 W Center St, Rio Dell, CA 95562, United States",
+        "start_date": "9/19/2026",
+        "start_date_iso": "2026-09-19T00:00:00",
+        "notification_date": "2026-09-19",
+        "end_date": "9/20/2026",
+        "end_date_iso": "2026-09-20T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "e6a4ee335f675f627f757219e59174f240bd2c4aa2e03524884358b285232f05",
       "title": "Jacksonville, FL, US - Sept 19th & 20th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-sept-19th-20th-jacksonville-disc-dogs/",
@@ -3564,6 +3786,29 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "In conjunction with the Beauceron National Specialty and Nickel City Cluster"
+      }
+    },
+    {
+      "id": "dbaf5bfcc2b7ac0a2445d866b1ba1d0d3adfa6eebd7d75ef309b95cccf26842e",
+      "title": "Rio Dell, CA, US - Oct 10th & 11th - Humboldt Disc Dog Club",
+      "url": "https://updogchallenge.com/events/rio-dell-ca-us-oct-10th-11th-humboldt-disc-dog-club/",
+      "details": {
+        "title": "Rio Dell, CA, US – Oct 10th & 11th – Humboldt Disc Dog Club",
+        "club_name": "Humboldt Disc Dogs",
+        "contact_name": "Debra Lake",
+        "contact_email": "humboldtdiscdogs@yahoo.com",
+        "event_address": "50 W Center St, Rio Dell, CA 95562, United States",
+        "start_date": "10/10/2026",
+        "start_date_iso": "2026-10-10T00:00:00",
+        "notification_date": "2026-10-10",
+        "end_date": "10/11/2026",
+        "end_date_iso": "2026-10-11T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This is our Monster Mash event. Costumes encouraged."
       }
     },
     {
