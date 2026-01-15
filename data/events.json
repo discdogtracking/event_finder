@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-14T08:24:43Z",
-  "count": 167,
+  "last_updated": "2026-01-15T08:25:44Z",
+  "count": 176,
   "events": [
     {
       "id": "efeda4c39469d9c086b21765cd63efa1c7ba9f2713e723fa13aa6e3148f63cd6",
@@ -373,6 +373,30 @@
       }
     },
     {
+      "id": "f31cde5df6b56ff8318429e2942fdf6d4a48d640fc2808df234bf8bd3ae0c72d",
+      "title": "Ocala, FL, US - Feb 8th - Ocala Dog Ranch",
+      "url": "https://updogchallenge.com/events/ocala-fl-us-feb-8th-ocala-dog-ranch/",
+      "details": {
+        "title": "Ocala, FL, US – Feb 8th – Ocala Dog Ranch",
+        "club_name": "Ocala Dog Ranch",
+        "contact_name": "Carrie Pelzer",
+        "contact_email": "carrieverde@gmail.com",
+        "event_address": "440 SW 110 Ave, Ocala, FL 34481, United States",
+        "start_date": "2/8/2026",
+        "start_date_iso": "2026-02-08T00:00:00",
+        "notification_date": "2026-02-08",
+        "end_date": "2/8/2026",
+        "end_date_iso": "2026-02-08T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This will be an informational seminar in the morning where we go over the rules of 4 of the UpDog games (TBD). In the afternoon we will play the games we learned for the opportunity for attendees to earn their first UpDog points! The afternoon tournament will also be open to any UpDoggers whol would like to participate.",
+        "prereg_url": "https://www.ocaladogranch.com/home/disc-dog/"
+      }
+    },
+    {
       "id": "44d56dee722263f4332e1917089c49c95818960a20708e9226dee03ff07fee2f",
       "title": "Williamston, NC, US - Feb 13th & 14th - Hat Trick Caos",
       "url": "https://updogchallenge.com/events/williamston-nc-us-feb-13th-14th-hat-trick-caos/",
@@ -720,6 +744,40 @@
       }
     },
     {
+      "id": "5504a84eeb23b9d296ab608dda0c4b1287693e6ef5711ace9c81b1bb9bd0d8f4",
+      "title": "Mitchell, ACT, AU - March 7th & 8th - 4 Paws Sports & Belconnen Dog Obedience Club",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-march-7th-8th-4-paws-sports-belconnen-dog-obedience-club/",
+      "details": {
+        "title": "Mitchell, ACT, AU – March 7th & 8th – 4 Paws Sports & Belconnen Dog Obedience Club",
+        "club_name": "4 Paws Sports & Belconnen Dog Obedience Club",
+        "contact_name": "Kim Murrie",
+        "contact_email": "fourpawssports1@gmail.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "3/7/2026",
+        "start_date_iso": "2026-03-07T00:00:00",
+        "notification_date": "2026-03-07",
+        "end_date": "3/8/2026",
+        "end_date_iso": "2026-03-08T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We will also be playing 4 Way Play Level 2 and Frizgility Level 2."
+      }
+    },
+    {
       "id": "2acf8039a921e84c81f68325f67ac1e5e648b338f3934ee50e9bea86d25299b1",
       "title": "Eustis, FL, US - March 7th - Central Florida K9",
       "url": "https://updogchallenge.com/events/eustis-fl-us-march-7th-central-florida-k9/",
@@ -1021,6 +1079,63 @@
         ],
         "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
         "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration"
+      }
+    },
+    {
+      "id": "77d482391e984553bf4659a97de91486f3ae34e651f8b14ef58586724f6516c9",
+      "title": "Manhattan, KS, US - March 28th - Prairie Disc Dogs",
+      "url": "https://updogchallenge.com/events/manhattan-ks-us-march-28th-prairie-disc-dogs/",
+      "details": {
+        "title": "Manhattan, KS, US – March 28th – Prairie Disc Dogs",
+        "club_name": "Prairie Disc Dogs",
+        "contact_name": "Jennifer Anthony",
+        "contact_email": "jennanthony@gmail.com",
+        "event_address": "1191 E 26th Ave, Manhattan, KS 66502, United States",
+        "start_date": "3/28/2026",
+        "start_date_iso": "2026-03-28T00:00:00",
+        "notification_date": "2026-03-28",
+        "end_date": "3/28/2026",
+        "end_date_iso": "2026-03-28T00:00:00",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/1YCX9Epeje7eP8rBxlnd8cgp27UUwP-5NUBH82uBOisw/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
+      }
+    },
+    {
+      "id": "f5b7fc5483e4c7b172ea5728c7f540dded3b5d9dc3ebadc1be6501c2236345df",
+      "title": "Odenville, AL, US - March 28th & 29th - CC Canine Air Dog Club",
+      "url": "https://updogchallenge.com/events/odenville-al-us-march-28th-29th-cc-canine-air-dog-club/",
+      "details": {
+        "title": "Odenville, AL, US – March 28th & 29th – CC Canine Air Dog Club",
+        "club_name": "CC Canine Air Dog Club",
+        "contact_name": "Chris Sides",
+        "contact_email": "dcsides1@gmail.com",
+        "event_address": "125 Aspen Lane, Odenville, AL 35120, United States",
+        "start_date": "3/28/2026",
+        "start_date_iso": "2026-03-28T00:00:00",
+        "notification_date": "2026-03-28",
+        "end_date": "3/29/2026",
+        "end_date_iso": "2026-03-29T00:00:00",
+        "start_time": "8:30 AM",
+        "games": [
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/260024882058153"
       }
     },
     {
@@ -1380,6 +1495,35 @@
       }
     },
     {
+      "id": "2987e7fb01e32d76f34ac0070b4e7eaa1deb0924fdb756fe26325d7f434e0469",
+      "title": "Bunnell, FL, US - May 2nd & 3rd - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-may-2nd-3rd-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – May 2nd & 3rd – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "bfidler1996@gmail.com",
+        "event_address": "345 county rd 335, Bunnell, Fl 32110, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "FunKey",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "a83a4119a0fb0023fc09f22c883e208833705a97bbf04b3b9fddbe4d667998a1",
       "title": "Dacula, GA, US - May 2nd & 3rd - Forest City Sport Dogs",
       "url": "https://updogchallenge.com/events/dacula-ga-us-may-2nd-3rd-forest-city-sport-dogs/",
@@ -1521,6 +1665,32 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "For the most up-to-date info on events, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/share/16YiDprWFy/?mibextid=wwXIfr"
+      }
+    },
+    {
+      "id": "7e7fdcea5ca796c5cca5512c2ad95b1be24ae21f08979c61c5490389f4781f01",
+      "title": "Manhattan, KS, US - May 17th - Prairie Disc Dogs",
+      "url": "https://updogchallenge.com/events/manhattan-ks-us-may-17th-prairie-disc-dogs/",
+      "details": {
+        "title": "Manhattan, KS, US – May 17th – Prairie Disc Dogs",
+        "club_name": "Prairie Disc Dogs",
+        "contact_name": "Jennifer Anthony",
+        "contact_email": "jennanthony@gmail.com",
+        "event_address": "1191 E 26th Ave, Manhattan, KS 66502, United States",
+        "start_date": "5/17/2026",
+        "start_date_iso": "2026-05-17T00:00:00",
+        "notification_date": "2026-05-17",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "games": [
+          "Boom!",
+          "Four Way Play",
+          "Freestyle",
+          "7Up",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/10g218QnOmrjuuk0Ty99WE2GvLuTLA9d_3H-nhkRlJxY/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
       }
     },
     {
@@ -3521,6 +3691,31 @@
       }
     },
     {
+      "id": "00297bc0918beb7613eb55ad38486621722688869f5882e76bd6985b6db8a129",
+      "title": "Manhattan, KS, US - Sep 12th - Prairie Disc Dogs",
+      "url": "https://updogchallenge.com/events/manhattan-ks-us-sep-12th-prairie-disc-dogs/",
+      "details": {
+        "title": "Manhattan, KS, US – Sep 12th – Prairie Disc Dogs",
+        "club_name": "Prairie Disc Dogs",
+        "contact_name": "Jennifer Anthony",
+        "contact_email": "jennanthony@gmail.com",
+        "event_address": "1191 E 26th Ave, Manhattan, KS 66502, United States",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/12/2026",
+        "end_date_iso": "2026-09-12T00:00:00",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/1Qq-9TltdpCuOP4dBKlZxRRpfKr6H6093aR_2zWgxLDw/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
+      }
+    },
+    {
       "id": "91d26848e67fa839be7f7885a9c70d92a15f4a7cacfa8a57a2f7f6cf856314c3",
       "title": "Shermans Dale, PA, US - Sept 12th & 13th - Woof Pack Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-12th-13th-woof-pack-disc-dogs-triple-crown/",
@@ -3835,6 +4030,28 @@
       }
     },
     {
+      "id": "c93d3c998de34601c2503bf649b622c2544a98758f2df8120918f6ccc81e776f",
+      "title": "Bridgewater, NS, CA - Oct 11th - Gale Force Disc Dogs",
+      "url": "https://updogchallenge.com/events/bridgewater-ns-ca-oct-11th-gale-force-disc-dogs/",
+      "details": {
+        "title": "Bridgewater, NS, CA – Oct 11th – Gale Force Disc Dogs",
+        "club_name": "Gale Force Disc Dogs",
+        "contact_name": "Ashley McGuiness",
+        "contact_email": "ashleydawn.mcguiness@gmail.com",
+        "event_address": "543 Glen Allan Drive, Bridgewater, NS B4V 0A8, Canada",
+        "start_date": "10/11/2026",
+        "start_date_iso": "2026-10-11T00:00:00",
+        "notification_date": "2026-10-11",
+        "end_date": "10/11/2026",
+        "end_date_iso": "2026-10-11T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "6:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "3e85f1e99442b3f65616c7782a901e5da231c059559df48c6642b49b3fedbd74",
       "title": "Eustis, FL, US - Oct 17th - Central Florida K9",
       "url": "https://updogchallenge.com/events/eustis-fl-us-oct-17th-central-florida-k9/",
@@ -4013,6 +4230,28 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSc8hIa6WaeyUntM6SNpwW8dI6K3E-Ur8RNfW1PtDg8YPi9AJQ/viewform?usp=header"
+      }
+    },
+    {
+      "id": "fae605c415ba1051a7bfd28be55b5c19e63d4bac2afee6f1d02331294eb2c986",
+      "title": "Manhattan, KS, US - Nov 14th - Prairie Disc Dogs",
+      "url": "https://updogchallenge.com/events/manhattan-ks-us-nov-14th-prairie-disc-dogs/",
+      "details": {
+        "title": "Manhattan, KS, US – Nov 14th – Prairie Disc Dogs",
+        "club_name": "Prairie Disc Dogs",
+        "contact_name": "Jennifer Anthony",
+        "contact_email": "jennanthony@gmail.com",
+        "event_address": "1191 E 26th Ave, Manhattan, KS 66502, United States",
+        "start_date": "11/14/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "notification_date": "2026-11-14",
+        "end_date": "11/14/2026",
+        "end_date_iso": "2026-11-14T00:00:00",
+        "games": [
+          "Freestyle",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "The other games will be announced later.\nThe event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/1HSxS1C22tJur0tqX2PiwxR9zETHqtXSnVb4giqxOpOU/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
       }
     },
     {
