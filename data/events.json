@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-15T08:25:44Z",
-  "count": 176,
+  "last_updated": "2026-01-16T08:25:37Z",
+  "count": 209,
   "events": [
     {
       "id": "efeda4c39469d9c086b21765cd63efa1c7ba9f2713e723fa13aa6e3148f63cd6",
@@ -162,6 +162,32 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Attention all cowboys and cowgirls! Join us for our annual Canine Round Up Cluster at the Bergeron Rodeo Arena.\nSaturday Games:\nFireball\n4 Way Play\nFrizgility\nGreedy\nSunday:\nThrow N Go\nSeven Up\nTime Warp\nSpaced Out\nFollow us on IG/Facebook for up to date information and registration. @southfloridadiscdogs\nRegister at:\nhttps://forms.gle/DkSQVW622zwuqLyQ7"
+      }
+    },
+    {
+      "id": "6076986a72d7c00c4e39a9446bbbef7cb103b1fb67b6e28e262455f3080a5f1c",
+      "title": "Florence, TX, US - Jan 25th - Lone Star Disc Dogs",
+      "url": "https://updogchallenge.com/events/florence-tx-us-jan-25th-lone-star-disc-dogs/",
+      "details": {
+        "title": "Florence, TX, US – Jan 25th – Lone Star Disc Dogs",
+        "club_name": "Lone Star Disc Dogs",
+        "contact_name": "Tammy Montgomery",
+        "contact_email": "lonestardiscdogs@gmail.com",
+        "event_address": "200 Benedict Ave, Florence, TEXAS 76527, United States",
+        "start_date": "1/25/2026",
+        "start_date_iso": "2026-01-25T00:00:00",
+        "notification_date": "2026-01-25",
+        "end_date": "1/25/2026",
+        "end_date_iso": "2026-01-25T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -492,6 +518,49 @@
           "Pairs Throw N Go"
         ],
         "prereg_url": "https://www.cognitoforms.com/NoVADogSports/LoveAtFirstDisc2026UpDogRegistrationFormNoVADogSports"
+      }
+    },
+    {
+      "id": "713dd1fc072166c78de499b8f1ff626ea7895dcd700e4a028fee577bc6a6ec22",
+      "title": "Calgary, AB, CA - Feb 15th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-feb-15th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Calgary, AB, CA – Feb 15th – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, AB T3L1S4, Canada",
+        "start_date": "2/15/2026",
+        "start_date_iso": "2026-02-15T00:00:00",
+        "notification_date": "2026-02-15",
+        "end_date": "2/15/2026",
+        "end_date_iso": "2026-02-15T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "2c03f813e629a1dab22b06bf00379e1b223ea0c2bf8b3e00d6d724b6822432d3",
+      "title": "Moose Jaw, SK, CA - Feb 15th - Regina Disc Dog Club",
+      "url": "https://updogchallenge.com/events/moose-jaw-sk-ca-feb-15th-regina-disc-dog-club/",
+      "details": {
+        "title": "Moose Jaw, SK, CA – Feb 15th – Regina Disc Dog Club",
+        "club_name": "Regina Disc Dog Club",
+        "contact_name": "Margaret Lewis",
+        "contact_email": "lewism40@gmail.com",
+        "event_address": "Over the Top riding arena, Moose Jaw, SK S4T 6J7, Canada",
+        "start_date": "2/15/2026",
+        "start_date_iso": "2026-02-15T00:00:00",
+        "notification_date": "2026-02-15",
+        "end_date": "2/15/2026",
+        "end_date_iso": "2026-02-15T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This will be a no-frills, points only trial"
       }
     },
     {
@@ -884,6 +953,26 @@
           "Spaced Out",
           "Throw N Go",
           "Time Warp"
+        ]
+      }
+    },
+    {
+      "id": "c32b763c85a0f27f332721b715ba57010f0bc9c74f47fa2fa1066c77a545b73e",
+      "title": "Calgary, AB, CA - March 15th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-march-15th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Calgary, AB, CA – March 15th – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, AB T3L1S4, Canada",
+        "start_date": "3/15/2026",
+        "start_date_iso": "2026-03-15T00:00:00",
+        "notification_date": "2026-03-15",
+        "end_date": "3/15/2026",
+        "end_date_iso": "2026-03-15T00:00:00",
+        "games": [
+          "To Be Determined"
         ]
       }
     },
@@ -1306,6 +1395,35 @@
       }
     },
     {
+      "id": "61cc6c819c5a664b236f19bfa0de1c97ab44d5cb36cd1cf964ae3a9145cf1916",
+      "title": "Odenville, AL, US - April 11th - CC Canine Air Dogs Club",
+      "url": "https://updogchallenge.com/events/odenville-al-us-april-11th-cc-canine-air-dogs-club/",
+      "details": {
+        "title": "Odenville, AL, US – April 11th – CC Canine Air Dogs Club",
+        "club_name": "CC Canine Air Dogs Club",
+        "contact_name": "Chris Sides",
+        "contact_email": "dcsides1@gmail.com",
+        "event_address": "125 Aspen Lane, Odenville, AL 35120, United States",
+        "start_date": "4/11/2026",
+        "start_date_iso": "2026-04-11T00:00:00",
+        "notification_date": "2026-04-11",
+        "end_date": "4/11/2026",
+        "end_date_iso": "2026-04-11T00:00:00",
+        "start_time": "8:45 AM",
+        "games": [
+          "Far Out",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/260065765539162"
+      }
+    },
+    {
       "id": "9b30c97f683fd278bc3c5ee78103439a9ae2cc56974161a4ee5e6b2e4fb4a11d",
       "title": "Thorsby, AB, CA - April 12th - Edmonton Disc Dog Club",
       "url": "https://updogchallenge.com/events/thorsby-ab-ca-april-12th-edmonton-disc-dog-club/",
@@ -1352,6 +1470,46 @@
       }
     },
     {
+      "id": "3e361826e8467a8839c49d499f823c9fbb9af29d08a3decddd311955cd03cd97",
+      "title": "Calgary, AB, CA - April 19th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-april-19th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Calgary, AB, CA – April 19th – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, AB T3L1S4, Canada",
+        "start_date": "4/19/2026",
+        "start_date_iso": "2026-04-19T00:00:00",
+        "notification_date": "2026-04-19",
+        "end_date": "4/19/2026",
+        "end_date_iso": "2026-04-19T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "79ff777c4ea612ae28979f821571c4735684609f918ada1eb86567b3ac37efd2",
+      "title": "Southbridge, MA, US - April 19th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-april-19th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – April 19th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "4/19/2026",
+        "start_date_iso": "2026-04-19T00:00:00",
+        "notification_date": "2026-04-19",
+        "end_date": "4/19/2026",
+        "end_date_iso": "2026-04-19T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "acbfa55b0122f0fbf06608a1a86e86bea557ccc5e83a24e06395b50cf6db1137",
       "title": "Dayton, OH, US - April 19th - Southern Ohio Flying K9s",
       "url": "https://updogchallenge.com/events/dayton-oh-us-april-19th-southern-ohio-flying-k9s/",
@@ -1374,6 +1532,50 @@
       }
     },
     {
+      "id": "5310a154b9e225e269518aa9acbfe038a210bc5b6b1c485fba561f09c0007beb",
+      "title": "Greenfield, MA, US - April 24th - Face to Face",
+      "url": "https://updogchallenge.com/events/greenfield-ma-us-april-24th-face-to-face/",
+      "details": {
+        "title": "Greenfield, MA, US – April 24th – Face to Face",
+        "club_name": "Face to Face Dog Sports",
+        "contact_name": "Ashley Fulton",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "85 Wisdom Way, Greenfield, Ma 01301, United States",
+        "start_date": "4/24/2026",
+        "start_date_iso": "2026-04-24T00:00:00",
+        "notification_date": "2026-04-24",
+        "end_date": "4/24/2026",
+        "end_date_iso": "2026-04-24T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "In combination with Flyball at the Fair."
+      }
+    },
+    {
+      "id": "a07bfe7f99f4eb5ac8feffb891c1b7fae101ae8b3ad90896167b7b0cef017ca0",
+      "title": "Brooklyn, CT, US - April 25th - Granite State Disc Dogs",
+      "url": "https://updogchallenge.com/events/brooklyn-ct-us-april-25th-granite-state-disc-dogs/",
+      "details": {
+        "title": "Brooklyn, CT, US – April 25th – Granite State Disc Dogs",
+        "club_name": "Granite State Disc Dogs",
+        "contact_name": "Sarah Stewart",
+        "contact_email": "granitestatedd@gmail.com",
+        "event_address": "619 Allen Hill Rd, Brooklyn, CT 06234, United States",
+        "start_date": "4/25/2026",
+        "start_date_iso": "2026-04-25T00:00:00",
+        "notification_date": "2026-04-25",
+        "end_date": "4/25/2026",
+        "end_date_iso": "2026-04-25T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This is a points only event."
+      }
+    },
+    {
       "id": "53c33a5da87992f627ab088b7ee790f8ba82bcff23133dea2e3a6fd47184994b",
       "title": "Vinita, OK, US - April 25th - UpDog Tulsa",
       "url": "https://updogchallenge.com/events/vinita-ok-us-april-25th-updog-tulsa/",
@@ -1392,6 +1594,35 @@
         "end_time": "7:00 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "f6977ee3ad672b86af39da2a902b249e4400adec5e41decb8a81bb986f04be3a",
+      "title": "East Selkirk, MB, CA - April 25th & 26th - Whipp'In Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-april-25th-26th-whippin-disc-dogs/",
+      "details": {
+        "title": "East Selkirk, MB, CA – April 25th & 26th – Whipp’In Disc Dogs",
+        "club_name": "Whipp’In Disc Dogs",
+        "contact_name": "Tanya Welsh",
+        "contact_email": "whippindiscdogs@outlook.com",
+        "event_address": "353 Stone Church Rd, East Selkirk, Manitoba R0E 0M0, Canada",
+        "start_date": "4/25/2026",
+        "start_date_iso": "2026-04-25T00:00:00",
+        "notification_date": "2026-04-25",
+        "end_date": "4/26/2026",
+        "end_date_iso": "2026-04-26T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
@@ -1462,6 +1693,26 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "UPDIF prep outdoors on a full field! Follow our Facebook page, Woof Pack Disc Dogs, for the most up-to-date information!\nhttps://www.facebook.com/woofpackdiscdogs"
+      }
+    },
+    {
+      "id": "05a20a5a31cf1e45330ab182daa99fee26a4ee089c78ffb540acccbc64efb716",
+      "title": "Southbridge, MA, US - April 28th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-april-28th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – April 28th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -1558,6 +1809,26 @@
       }
     },
     {
+      "id": "e5213943e5bcf367a52709368dc89f055be9e057016c1e884092f8be3a238e3d",
+      "title": "Southbridge, MA, US - May 5th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-may-5th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – May 5th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "5/5/2026",
+        "start_date_iso": "2026-05-05T00:00:00",
+        "notification_date": "2026-05-05",
+        "end_date": "5/5/2026",
+        "end_date_iso": "2026-05-05T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "1c350f6e48a9fd0af8a2a7e178fa38873c6e5653f15f4235e8b23f8ea32f1866",
       "title": "Garland, TX, US - May 9th & 10th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-may-9th-10th-updog-dallas/",
@@ -1613,6 +1884,26 @@
       }
     },
     {
+      "id": "d200e9f9354e3279863d729bb78ae82918edc8c4b48ded2fe5a1fef88148d01f",
+      "title": "Southbridge, MA, US - May 12th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-may-12th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – May 12th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "5/12/2026",
+        "start_date_iso": "2026-05-12T00:00:00",
+        "notification_date": "2026-05-12",
+        "end_date": "5/12/2026",
+        "end_date_iso": "2026-05-12T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "b92adeda9c2db3b7516388bb4336a1d12e983b51daf8dc9ee91ca9a2b2d06947",
       "title": "Hopkinton, MA, US - May 13th - The Fetch Collective",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-may-13th-the-fetch-collective/",
@@ -1631,6 +1922,26 @@
         "end_time": "7:30 PM",
         "games": [
           "Four Way Play"
+        ]
+      }
+    },
+    {
+      "id": "39cefef8bbc640d8f81e886a4138619df05c11ab84908f3e4937d880429aa4cd",
+      "title": "North Grosvenordale, MA, US - May 16th - Face to Face",
+      "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-may-16th-face-to-face/",
+      "details": {
+        "title": "North Grosvenordale, MA, US – May 16th – Face to Face",
+        "club_name": "Face to Face Dog Sports",
+        "contact_name": "Ashley Fulton",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "65 Valley Rd, North Grosvenordale, CT 06255, United States",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "games": [
+          "To Be Determined"
         ]
       }
     },
@@ -1691,6 +2002,26 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/10g218QnOmrjuuk0Ty99WE2GvLuTLA9d_3H-nhkRlJxY/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
+      }
+    },
+    {
+      "id": "66344c71ccc7f9add760135248d867c9ea266ebb086a8547601cc69ff3f66b98",
+      "title": "Southbridge, MA, US - May 19th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-may-19th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – May 19th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "5/19/2026",
+        "start_date_iso": "2026-05-19T00:00:00",
+        "notification_date": "2026-05-19",
+        "end_date": "5/19/2026",
+        "end_date_iso": "2026-05-19T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -1775,6 +2106,26 @@
         ],
         "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeojEri1QVWiWagBll-ctjqsshwWpHW1Cts1txBtUMGCbUBpw/viewform?usp=dialog"
+      }
+    },
+    {
+      "id": "8af5a17cf6de5a437dd2d274d85d11991a0e71fd371c8ef0b3d75983697795d1",
+      "title": "Southbridge, MA, US - May 26th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-may-26th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – May 26th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "5/26/2026",
+        "start_date_iso": "2026-05-26T00:00:00",
+        "notification_date": "2026-05-26",
+        "end_date": "5/26/2026",
+        "end_date_iso": "2026-05-26T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -1918,6 +2269,26 @@
       }
     },
     {
+      "id": "f883b18d5f62a43b53fb12eb7b34214bcf80a690f39f1e039fedb24c5928b08e",
+      "title": "Calgary, AB, CA - May 31st - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-may-31st-calgary-disc-dog-club/",
+      "details": {
+        "title": "Calgary, AB, CA – May 31st – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, AB T3L1S4, Canada",
+        "start_date": "5/31/2026",
+        "start_date_iso": "2026-05-31T00:00:00",
+        "notification_date": "2026-05-31",
+        "end_date": "5/31/2026",
+        "end_date_iso": "2026-05-31T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "c0fe2f7fecb165a28dd2ac7c825337dea54ce4a50308fd7928d9e31abd1ca009",
       "title": "Gordonsville, VA, US - May 31st - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/gordonsville-va-us-may-31st-gdu-disc-dogs/",
@@ -1988,6 +2359,26 @@
         ],
         "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLScjMN6goJ3fjnMX2cIDZsDr_6sWMY2Ii_8VnzgeyOBXKZtBXw/viewform?usp=dialog"
+      }
+    },
+    {
+      "id": "cd5e8a551ad5ebf434ffc1ff5258a26c8c4a8fa45a614140360f6a94d97f8d0d",
+      "title": "Southbridge, MA, US - June 2nd - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-april-24th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – June 2nd – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "6/2/2026",
+        "start_date_iso": "2026-06-02T00:00:00",
+        "notification_date": "2026-06-02",
+        "end_date": "6/2/2026",
+        "end_date_iso": "2026-06-02T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -2210,6 +2601,27 @@
           "7Up",
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "e1395decb796ab57649ae4ba31ef4752ec5851023e601dcc53fbd9ef98eceb67",
+      "title": "North Grosvenordale, MA, US - June 13th - Face to Face - Crossover Crown",
+      "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-june-13th-face-to-face/",
+      "details": {
+        "title": "North Grosvenordale, MA, US – June 13th – Face to Face – Crossover Crown",
+        "club_name": "Face to Face Dog Sports",
+        "contact_name": "Ashley Fulton",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "65 Valley Rd, North Grosvenordale, CT 06255, United States",
+        "start_date": "6/13/2026",
+        "start_date_iso": "2026-06-13T00:00:00",
+        "notification_date": "2026-06-13",
+        "end_date": "6/13/2026",
+        "end_date_iso": "2026-06-13T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Crossover Crown"
       }
     },
     {
@@ -2442,6 +2854,29 @@
       }
     },
     {
+      "id": "1c66d7e70c67465616a77f0d5542176c3bc8768d2bc965f633086787e520dc10",
+      "title": "Arnprior, ON, CA - June 19th thru 21st - Sunshine Disc Dog Group - Crossover Crown",
+      "url": "https://updogchallenge.com/events/arnprior-on-ca-june-19th-thru-21st-sunshine-disc-dog-group/",
+      "details": {
+        "title": "Arnprior, ON, CA – June 19th thru 21st – Sunshine Disc Dog Group – Crossover Crown",
+        "club_name": "Sunshine Disc Dog Group",
+        "contact_name": "Heather Gallagher",
+        "contact_email": "getyourgroomon@gmail.com",
+        "event_address": "4290 Ivy Acres Road, Arnprior, Ontario K7S3G7, Canada",
+        "start_date": "6/19/2026",
+        "start_date_iso": "2026-06-19T00:00:00",
+        "notification_date": "2026-06-19",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Freestyle Friday, Disc and Crossover Games on both Saturday and Sunday"
+      }
+    },
+    {
       "id": "4228eacac020d80be2b1ee715a4045184c77695835b5c7b0bc6fcb9714f69cd6",
       "title": "Lutz, FL, US - June 20th & 21st - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-june-20th-21st-cfddc/",
@@ -2566,6 +3001,26 @@
       }
     },
     {
+      "id": "a515e33ac4b0acd704ddd450d1e3f6d0373710f2c4535e43692994ee14ed53f6",
+      "title": "Southbridge, MA, US - June 21st - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-june-21st-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – June 21st – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "6/21/2026",
+        "start_date_iso": "2026-06-21T00:00:00",
+        "notification_date": "2026-06-21",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "9cfe226917d83b545547bbaf7734003568aa50d110960c7bc2d81bf09a022c79",
       "title": "Hopkinton, MA, US - June 24th - The Fetch Collective",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-june-24th-the-fetch-collective/",
@@ -2663,6 +3118,26 @@
       }
     },
     {
+      "id": "2d7ac2aa293f7c8cefd45985d26bb5465f282bc6257b331c88e6a0c611715e9c",
+      "title": "Southbridge, MA, US - June 30th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-june-30th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – June 30th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "6/30/2026",
+        "start_date_iso": "2026-06-30T00:00:00",
+        "notification_date": "2026-06-30",
+        "end_date": "6/30/2026",
+        "end_date_iso": "2026-06-30T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "581b01ffed37d6769776a55c2baafcf036aa0ef90aeeee73c77a7e8ed94591dc",
       "title": "Dartmouth, NS, CA - July 1st - Gale Force Disc Dogs",
       "url": "https://updogchallenge.com/events/dartmouth-ns-ca-july-1st-gale-force-disc-dogs/",
@@ -2750,6 +3225,26 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Mulligan Event"
+      }
+    },
+    {
+      "id": "5fdf22b6ff146316d796064de77f4b549adc0dd62ad74bbab9bdad0b2c653d6c",
+      "title": "Southbridge, MA, US - July 7th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-july-7th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – July 7th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "7/7/2026",
+        "start_date_iso": "2026-07-07T00:00:00",
+        "notification_date": "2026-07-07",
+        "end_date": "7/7/2026",
+        "end_date_iso": "2026-07-07T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -2850,6 +3345,29 @@
       }
     },
     {
+      "id": "c6fe07375cc77ce669af4cc995256671a8417611e201882f33e75a7dcfb1551f",
+      "title": "Arnprior, ON, CA - July 11th & 12th - Sunshine Disc Dog Group - Crossover Crown",
+      "url": "https://updogchallenge.com/events/arnprior-on-ca-july-11th-12th-sunshine-disc-dog-group-crossover-crown/",
+      "details": {
+        "title": "Arnprior, ON, CA – July 11th & 12th – Sunshine Disc Dog Group – Crossover Crown",
+        "club_name": "Sunshine Disc Dog Group",
+        "contact_name": "Heather Gallagher",
+        "contact_email": "getyourgroomon@gmail.com",
+        "event_address": "4290 Ivy Acres Road, Arnprior, Ontario K7S3G7, Canada",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Disc and Cross Over Games and Freestyle will be offered"
+      }
+    },
+    {
       "id": "9819cc94ca77ad44dc22d37d040b456c4ffa1c908bc6d48a6364bf9165ee99ac",
       "title": "Jacksonville, FL, US - July 13th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-july-13th-jacksonville-disc-dogs/",
@@ -2872,6 +3390,26 @@
         ],
         "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSd7x07xSrs1AmxRhe6vbl6ebCPrEjNf6gUuB3eRqJHhm_QJOg/viewform?usp=dialog"
+      }
+    },
+    {
+      "id": "a6a2dbfc31400679a4a282dd3ed99eeb5211fdcee18146a05fc7a697ccaff8e4",
+      "title": "Southbridge, MA, US - July 14th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-july-14th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – July 14th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "7/14/2026",
+        "start_date_iso": "2026-07-14T00:00:00",
+        "notification_date": "2026-07-14",
+        "end_date": "7/14/2026",
+        "end_date_iso": "2026-07-14T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -3057,6 +3595,26 @@
       }
     },
     {
+      "id": "ac056a4309efeb18b7174ca0f063cd16eba98e6a8d499adbd2cad24d4e2ab995",
+      "title": "Southbridge, MA, US - July 21st - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-july-21st-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – July 21st – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "7/21/2026",
+        "start_date_iso": "2026-07-21T00:00:00",
+        "notification_date": "2026-07-21",
+        "end_date": "7/21/2026",
+        "end_date_iso": "2026-07-21T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "72f7a852918970958f572a9655e6c5238ebe4826896efdf943e1ccf7d3a17525",
       "title": "Dartmouth, NS, CA - July 22nd - Gale Force Disc Dogs",
       "url": "https://updogchallenge.com/events/dartmouth-ns-ca-july-22nd-gale-force-disc-dogs/",
@@ -3084,6 +3642,46 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided."
+      }
+    },
+    {
+      "id": "86759a42a5f2d12115c16d3ecfbe3235a42dc4749c83e43812ff547c97c18c49",
+      "title": "North Grosvenordale, MA, US - July 25th & 26th - Face to Face",
+      "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-july-25th-26th-face-to-face/",
+      "details": {
+        "title": "North Grosvenordale, MA, US – July 25th & 26th – Face to Face",
+        "club_name": "Face to Face Dog Sports",
+        "contact_name": "Ashley Fulton",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "65 Valley Rd, North Grosvenordale, CT 06255, United States",
+        "start_date": "7/25/2026",
+        "start_date_iso": "2026-07-25T00:00:00",
+        "notification_date": "2026-07-25",
+        "end_date": "7/26/2026",
+        "end_date_iso": "2026-07-26T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "8ea0fd5e8d962f219dbf56d2d123c9aadca0108264509896c006fdd2afed0434",
+      "title": "Southbridge, MA, US - July 28th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-july-28th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – July 28th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "7/28/2026",
+        "start_date_iso": "2026-07-28T00:00:00",
+        "notification_date": "2026-07-28",
+        "end_date": "7/28/2026",
+        "end_date_iso": "2026-07-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -3212,6 +3810,29 @@
         ],
         "additional_event_information_for_participants": "Mad-Dogs.Org",
         "prereg_url": "Mad-Dogs,Org"
+      }
+    },
+    {
+      "id": "3013d863ed4fc29410e93951d66a6055a3b67de456a0a656a60a75bf474ab216",
+      "title": "Arnprior, ON, CA - Aug 8th & 9th - Sunshine Disc Dog Group - Crossover Crown",
+      "url": "https://updogchallenge.com/events/arnprior-on-ca-aug-8th-9th-sunshine-disc-dog-group-crossover-crown/",
+      "details": {
+        "title": "Arnprior, ON, CA – Aug 8th & 9th – Sunshine Disc Dog Group – Crossover Crown",
+        "club_name": "Sunshine Disc Dog Group",
+        "contact_name": "Heather Gallagher",
+        "contact_email": "getyourgroomon@gmail.com",
+        "event_address": "4290 Ivy Acres Road, Arnprior, Ontario K7S3G7, Canada",
+        "start_date": "8/8/2026",
+        "start_date_iso": "2026-08-08T00:00:00",
+        "notification_date": "2026-08-08",
+        "end_date": "8/9/2026",
+        "end_date_iso": "2026-08-09T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Disc and Cross Over Games and Freestyle will be offered"
       }
     },
     {
@@ -3739,6 +4360,27 @@
       }
     },
     {
+      "id": "26d267c37955dd7491263cf3d580ee6bdb9c289ff8d81dcb933c5ee6944eacaf",
+      "title": "North Grosvenordale, MA, US - Sept 13th - Face to Face - Triple Crown",
+      "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-sept-13th-face-to-face-triple-crown/",
+      "details": {
+        "title": "North Grosvenordale, MA, US – Sept 13th – Face to Face – Triple Crown",
+        "club_name": "Face to Face Dog Sports",
+        "contact_name": "Ashley Fulton",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "65 Valley Rd, North Grosvenordale, CT 06255, United States",
+        "start_date": "9/13/2026",
+        "start_date_iso": "2026-09-13T00:00:00",
+        "notification_date": "2026-09-13",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Triple Crown"
+      }
+    },
+    {
       "id": "445fcc0d65c6d96875e61854504fb2da28270477b184042f4a829e746549ec47",
       "title": "Hopkinton, MA, US - Sept 13th - The Fetch Collective",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-sept-13th-the-fetch-collective/",
@@ -3838,20 +4480,49 @@
       }
     },
     {
+      "id": "0d8feab2299e2c8b0e1f73cb5b30614dff73e82f680749f67abf4f2e664a4c9b",
+      "title": "Brooklyn, CT, US - Sept 26th - Granite State Disc Dogs",
+      "url": "https://updogchallenge.com/events/brooklyn-ct-us-sept-26th-granite-state-disc-dogs/",
+      "details": {
+        "title": "Brooklyn, CT, US – Sept 26th – Granite State Disc Dogs",
+        "club_name": "Granite State Disc Dogs",
+        "contact_name": "Sarah Stewart",
+        "contact_email": "granitestatedd@gmail.com",
+        "event_address": "619 Allen Hill Rd, Brooklyn, CT 06234, United States",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/26/2026",
+        "end_date_iso": "2026-09-26T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This is a points only event."
+      }
+    },
+    {
+      "id": "b6a1ec44b1219284cd889f3a6dc56723275e2a95359ec631fee9611d283ec2aa",
+      "title": "Lutz, FL, US - Sept 26th & 27th - CFDDC",
+      "url": "https://updogchallenge.com/events/lutz-fl-us-sept-26th-27th-cfddc/",
+      "details": {
+        "title": "Lutz, FL, US – Sept 26th & 27th – CFDDC"
+      }
+    },
+    {
       "id": "0e45960f58a76665d830f1b371cc52feb842453e697b87c3cdc3fb1209cd090d",
-      "title": "Shermans Dale, PA, US - Sept 25th thru 27th - Woof Pack Disc Dogs",
+      "title": "Shermans Dale, PA, US - Oct 1st thru 4th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-25th-thru-27th-woof-pack-disc-dogs/",
       "details": {
-        "title": "Shermans Dale, PA, US – Sept 25th thru 27th – Woof Pack Disc Dogs",
+        "title": "Shermans Dale, PA, US – Oct 1st thru 4th – Woof Pack Disc Dogs",
         "club_name": "Woof Pack Disc Dogs",
         "contact_name": "Emily Leiby",
         "contact_email": "woofpackdiscdogs@gmail.com",
         "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
-        "start_date": "9/25/2026",
-        "start_date_iso": "2026-09-25T00:00:00",
-        "notification_date": "2026-09-25",
-        "end_date": "9/27/2026",
-        "end_date_iso": "2026-09-27T00:00:00",
+        "start_date": "10/1/2026",
+        "start_date_iso": "2026-10-01T00:00:00",
+        "notification_date": "2026-10-01",
+        "end_date": "10/4/2026",
+        "end_date_iso": "2026-10-04T00:00:00",
         "start_time": "8:00 AM",
         "end_time": "6:00 PM",
         "games": [
@@ -3869,14 +4540,6 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "2026 Northeast Classic! Three days, three fields, players packs, amazing awards and prizes, raffles and so much more! Location subject to change.\nFor the most up-to-date information, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/woofpackdiscdogs\n."
-      }
-    },
-    {
-      "id": "b6a1ec44b1219284cd889f3a6dc56723275e2a95359ec631fee9611d283ec2aa",
-      "title": "Lutz, FL, US - Sept 26th & 27th - CFDDC",
-      "url": "https://updogchallenge.com/events/lutz-fl-us-sept-26th-27th-cfddc/",
-      "details": {
-        "title": "Lutz, FL, US – Sept 26th & 27th – CFDDC"
       }
     },
     {
@@ -4004,29 +4667,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This is our Monster Mash event. Costumes encouraged."
-      }
-    },
-    {
-      "id": "eb577e457ecfaa37183562998d9ce03e937825be15111e6f6e42d8c2a6c90f21",
-      "title": "Shermans Dale, PA, US - Oct 10th & 11th - Woof Pack Disc Dogs",
-      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-oct-10th-11th-woof-pack-disc-dogs/",
-      "details": {
-        "title": "Shermans Dale, PA, US – Oct 10th & 11th – Woof Pack Disc Dogs",
-        "club_name": "Woof Pack Disc Dogs",
-        "contact_name": "Emily Leiby",
-        "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
-        "start_date": "10/10/2026",
-        "start_date_iso": "2026-10-10T00:00:00",
-        "notification_date": "2026-10-10",
-        "end_date": "10/11/2026",
-        "end_date_iso": "2026-10-11T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "UPDIF prep outdoors on a full field! Follow our Facebook page, Woof Pack Disc Dogs, for the most up-to-date information!\nhttps://www.facebook.com/woofpackdiscdogs"
       }
     },
     {
@@ -4208,6 +4848,26 @@
       }
     },
     {
+      "id": "a204e07de75e24ed259be6b607c7907c498e8426d4f474029dac2101232f3782",
+      "title": "Southbridge, MA, US - Nov 8th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-nov-8th-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – Nov 8th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "11/8/2026",
+        "start_date_iso": "2026-11-08T00:00:00",
+        "notification_date": "2026-11-08",
+        "end_date": "11/8/2026",
+        "end_date_iso": "2026-11-08T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "b6a40247c1c9de7d0993965468fc8d5a9b2e6c5af0ac93df86a8a0fac1bbcc89",
       "title": "Jacksonville, FL, US - Nov 9th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-nov-9th-jacksonville-disc-dogs/",
@@ -4348,6 +5008,26 @@
       }
     },
     {
+      "id": "f4b4e6760d326550e80b9336d6a565ea8ca1c3f64a2a288e1e4083632679fda4",
+      "title": "Southbridge, MA, US - Nov 22nd - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-nov-22nd-face-to-face/",
+      "details": {
+        "title": "Southbridge, MA, US – Nov 22nd – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "start_date": "11/22/2026",
+        "start_date_iso": "2026-11-22T00:00:00",
+        "notification_date": "2026-11-22",
+        "end_date": "11/22/2026",
+        "end_date_iso": "2026-11-22T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "2206a9394bd1600c83b59735d54a8b57ca801e4f2ecf6fac1104f3266b894c2c",
       "title": "Pilot Mountain, NC, US - Nov 28th & 29th - Jam-Min' Disc Dogs",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-nov-28th-29th-jam-min-disc-dogs-2/",
@@ -4414,6 +5094,40 @@
           "Throw N Go",
           "Time Warp"
         ]
+      }
+    },
+    {
+      "id": "9a8b5bbdca5b01c0492d538dc493d285637d471f0daa4409f8bc2f648d9e4f46",
+      "title": "Palmyra, PA, US - Dec 5th & 6th - Woof Pack Disc Dogs",
+      "url": "https://updogchallenge.com/events/palmyra-pa-us-dec-5th-6th-woof-pack-disc-dogs/",
+      "details": {
+        "title": "Palmyra, PA, US – Dec 5th & 6th – Woof Pack Disc Dogs",
+        "club_name": "Woof Pack Disc Dogs",
+        "contact_name": "Emily Leiby",
+        "contact_email": "woofpackdiscdogs@gmail.com",
+        "event_address": "798 Airport Rd, Palmyra, PA 17078, United States",
+        "start_date": "12/5/2026",
+        "start_date_iso": "2026-12-05T00:00:00",
+        "notification_date": "2026-12-05",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Indoors, heated on turf, full field (possibly two full fields), indoor distance, and all the games, even freestyle! Distance will be the feature game of the weekend."
       }
     },
     {
