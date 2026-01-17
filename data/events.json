@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-16T08:25:37Z",
-  "count": 209,
+  "last_updated": "2026-01-17T08:22:56Z",
+  "count": 222,
   "events": [
     {
       "id": "efeda4c39469d9c086b21765cd63efa1c7ba9f2713e723fa13aa6e3148f63cd6",
@@ -977,6 +977,49 @@
       }
     },
     {
+      "id": "71295f690f8da77f1efab1eb02051c4812a01966f6b5b338f1c30c12bd4ecc4a",
+      "title": "Middle Island, NY, US - March 15th - \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/middle-island-ny-us-march-15th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Middle Island, NY, US – March 15th – \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
+        "start_date": "3/15/2026",
+        "start_date_iso": "2026-03-15T00:00:00",
+        "notification_date": "2026-03-15",
+        "end_date": "3/15/2026",
+        "end_date_iso": "2026-03-15T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
+      }
+    },
+    {
+      "id": "0b9256a9aafb4600221b244a7e02c6f30bf2f53f3c590a2f8ec50b82a17fcaf0",
+      "title": "Princeton, IL, US - March 20th thru 22nd - Harmony Training Club",
+      "url": "https://updogchallenge.com/events/princeton-il-us-march-20th-thru-22nd-harmony-training-club/",
+      "details": {
+        "title": "Princeton, IL, US – March 20th thru 22nd – Harmony Training Club",
+        "club_name": "Harmony Training Club",
+        "contact_name": "Lynette VandeVenter",
+        "contact_email": "firstharmonyfarms@yahoo.com",
+        "event_address": "1616 North Main Street, Princeton, Illinois 61356, United States",
+        "start_date": "3/20/2026",
+        "start_date_iso": "2026-03-20T00:00:00",
+        "notification_date": "2026-03-20",
+        "end_date": "3/22/2026",
+        "end_date_iso": "2026-03-22T00:00:00",
+        "start_time": "3:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "e2e0aa880499c0356186d987f6ef245689013b0e664edbcca82ab10667e40494",
       "title": "Sultan, WA, US - March 21st & 22nd - Evergreen Disc Dogs",
       "url": "https://updogchallenge.com/events/sultan-wa-us-march-21st-22nd-evergreen-disc-dogs/",
@@ -1193,6 +1236,27 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/1YCX9Epeje7eP8rBxlnd8cgp27UUwP-5NUBH82uBOisw/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
+      }
+    },
+    {
+      "id": "cfb5a23e8cc2f1a48f69c277a1ef71a88dd87c386d3478a78e27ae6cdd1ac330",
+      "title": "Middle Island, NY, US - March 28th - \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/middle-island-ny-us-march-28th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Middle Island, NY, US – March 28th – \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
+        "start_date": "3/28/2026",
+        "start_date_iso": "2026-03-28T00:00:00",
+        "notification_date": "2026-03-28",
+        "end_date": "3/28/2026",
+        "end_date_iso": "2026-03-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
       }
     },
     {
@@ -1946,6 +2010,27 @@
       }
     },
     {
+      "id": "60f5f18c95887ede0e82bd3740abff65cd31f450718499cc40542f3cf91ccf99",
+      "title": "Oyster Bay, NY, US - May 16th & 17th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/oyster-bay-ny-us-may-16th-17th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Oyster Bay, NY, US – May 16th & 17th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Planting Fields Arboretum, 1395 Planting Fields Road, Oyster Bay, NY 11771, United States",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
+      }
+    },
+    {
       "id": "99b9dbafba29eb23d4aa3ad2c0b07d9496e6012578c414549e70f56813c286f1",
       "title": "Biglerville, PA, US - May 16th & 17th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/biglerville-pa-us-may-16th-17th-woof-pack-disc-dogs/",
@@ -2289,6 +2374,27 @@
       }
     },
     {
+      "id": "80b5d7f8dc8ff3f0d38aef3ad4aabb3ff27e89febfaf9a90ce31313f1dc27433",
+      "title": "Middle Island, NY, US - May 31st - \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/middle-island-ny-us-may-31st-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Middle Island, NY, US – May 31st – \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
+        "start_date": "5/31/2026",
+        "start_date_iso": "2026-05-31T00:00:00",
+        "notification_date": "2026-05-31",
+        "end_date": "5/31/2026",
+        "end_date_iso": "2026-05-31T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
+      }
+    },
+    {
       "id": "c0fe2f7fecb165a28dd2ac7c825337dea54ce4a50308fd7928d9e31abd1ca009",
       "title": "Gordonsville, VA, US - May 31st - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/gordonsville-va-us-may-31st-gdu-disc-dogs/",
@@ -2409,6 +2515,30 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided."
+      }
+    },
+    {
+      "id": "5a6b603417352be36ccd653c04b398ae7b7fbcb3948861a55edfbe1f338f5372",
+      "title": "Winnipeg, MB, CA - June 6th - River City Disc Dogs - Crossover Crown",
+      "url": "https://updogchallenge.com/events/winnipeg-mb-ca-june-6th-river-city-disc-dogs-crossover-crown/",
+      "details": {
+        "title": "Winnipeg, MB, CA – June 6th – River City Disc Dogs – Crossover Crown",
+        "club_name": "River City Disc Dogs",
+        "contact_name": "Shawna Kondratuk",
+        "contact_email": "rivercitydiscdogs@gmail.com",
+        "event_address": "Bord-Aire Community Club 471 Hampton St, Winnipeg, MB R3J 1R1, Canada",
+        "start_date": "6/6/2026",
+        "start_date_iso": "2026-06-06T00:00:00",
+        "notification_date": "2026-06-06",
+        "end_date": "6/6/2026",
+        "end_date_iso": "2026-06-06T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ]
       }
     },
     {
@@ -3073,6 +3203,27 @@
       }
     },
     {
+      "id": "9a10ea2d35c2de8eafdfa14fc57090979f3d89e5159abdc28db2e15e29622ad8",
+      "title": "Middle Island, NY, US - June 27th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/middle-island-ny-us-june-27th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Middle Island, NY, US – June 27th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/27/2026",
+        "end_date_iso": "2026-06-27T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
+      }
+    },
+    {
       "id": "3077d4164d1220e5e36008a780569272fa731d28dbf464130c75f0737692270e",
       "title": "Biglerville, PA, US - June 27th & 28th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/biglerville-pa-us-june-27th-28th-woof-pack-disc-dogs/",
@@ -3112,6 +3263,28 @@
         "end_date_iso": "2026-06-28T00:00:00",
         "start_time": "8:00 AM",
         "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "a8a823191fd51aa17a24431e82860d6c0ae1e070e07b924988470c0c54b592b9",
+      "title": "Winnipeg, MB, CA - June 27th - River City Disc Dogs",
+      "url": "https://updogchallenge.com/events/winnipeg-mb-ca-june-27th-river-city-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Winnipeg, MB, CA – June 27th – River City Disc Dogs",
+        "club_name": "River City Disc Dogs",
+        "contact_name": "Shawna Kondratuk",
+        "contact_email": "rivercitydiscdogs@gmail.com",
+        "event_address": "Bord-aire community club 471 Hampton St, Winnipeg, MB R3J 1R1, Canada",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/27/2026",
+        "end_date_iso": "2026-06-27T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -3297,6 +3470,28 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided."
+      }
+    },
+    {
+      "id": "e7bf8d2630e23e4db9d204fe88baefa974aca73e24797d761c1129f84e850085",
+      "title": "Winnipeg, MB, CA - July 11th & 12th - River City Disc Dogs",
+      "url": "https://updogchallenge.com/events/winnipeg-mb-ca-july-11th-12th-river-city-disc-dogs/",
+      "details": {
+        "title": "Winnipeg, MB, CA – July 11th & 12th – River City Disc Dogs",
+        "club_name": "River City Disc Dogs",
+        "contact_name": "Shawna Kondratuk",
+        "contact_email": "rivercitydiscdogs@gmail.com",
+        "event_address": "Bord-aire community club 471 Hampton St, Winnipeg, MB R3J 1R1, Canada",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -3736,6 +3931,28 @@
         ],
         "additional_event_information_for_participants": "Fressstyle on Friday night!",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeKusGoDVQcP_jyfkqthle2fhTHsoVhTSGHZ2_eIoSX_c57iw/viewform"
+      }
+    },
+    {
+      "id": "2f522be2757962cd3be8093c59725415c87464f9c3826b74a4e7d451e5752c7d",
+      "title": "Petersfield, MB, CA - Aug 3rd - River City Disc Dogs",
+      "url": "https://updogchallenge.com/events/petersfield-mb-ca-aug-3rd-river-city-disc-dogs/",
+      "details": {
+        "title": "Petersfield, MB, CA – Aug 3rd – River City Disc Dogs",
+        "club_name": "River City Disc Dogs",
+        "contact_name": "Shawna Kondratuk",
+        "contact_email": "rivercitydiscdogs@gmail.com",
+        "event_address": "Bark X Motel 800 Netley Rd, Petersfield, MB R0C 2L0, Canada",
+        "start_date": "8/3/2026",
+        "start_date_iso": "2026-08-03T00:00:00",
+        "notification_date": "2026-08-03",
+        "end_date": "8/3/2026",
+        "end_date_iso": "2026-08-03T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -4381,6 +4598,28 @@
       }
     },
     {
+      "id": "fbc8ebd57dfd03e083139b9df9b7eb959ad06766c0b82979cebf98608a3e2d07",
+      "title": "Winnipeg, MB, CA - Sept 13th - River City Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/winnipeg-mb-ca-sept-13th-river-city-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Winnipeg, MB, CA – Sept 13th – River City Disc Dogs – Triple Crown",
+        "club_name": "River City Disc Dogs",
+        "contact_name": "Shawna Kondratuk",
+        "contact_email": "shawnabillingham@yahoo.ca",
+        "event_address": "Bord-aire Community Club 471 Hampton St, Winnipeg, MB R3J 1R1, Canada",
+        "start_date": "9/13/2026",
+        "start_date_iso": "2026-09-13T00:00:00",
+        "notification_date": "2026-09-13",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "445fcc0d65c6d96875e61854504fb2da28270477b184042f4a829e746549ec47",
       "title": "Hopkinton, MA, US - Sept 13th - The Fetch Collective",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-sept-13th-the-fetch-collective/",
@@ -4827,6 +5066,27 @@
       }
     },
     {
+      "id": "6cb0611c1d8c4ef4f6b317af597842af177791bb0c9b415fd279224aa3912d02",
+      "title": "Middle Island, NY, US - Nov 7th & 8th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/middle-island-ny-us-nov-7th-8th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Middle Island, NY, US – Nov 7th & 8th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
+        "start_date": "11/7/2026",
+        "start_date_iso": "2026-11-07T00:00:00",
+        "notification_date": "2026-11-07",
+        "end_date": "11/8/2026",
+        "end_date_iso": "2026-11-08T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
+      }
+    },
+    {
       "id": "dd65fff914a92ba6311c9f6f060b5e120b0036783c4f8fe2eb0646526526800f",
       "title": "Rochester, MN, US - Nov 7th & 8th - QuickWits Disc Dogs - Crossover Crown",
       "url": "https://updogchallenge.com/events/rochester-mn-us-nov-7th-8th-quickwits-disc-dogs-crossover-crown/",
@@ -5163,6 +5423,27 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/\nSaturday Dec 5th will be the First Coast Crown, we will be offering three rounds of Throw N Go, Frizgility, and Far Out with overall placements and prizes. Sunday Dec 6th will be a points only You Pick.",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSf4C8Ojngq3UXmM3xfP55NFZIdA1gSZsQJZtXtVePON-w9WgA/viewform?usp=publish-editor"
+      }
+    },
+    {
+      "id": "ddd88fad4fe1001cd17b23f13cad630d183e8df221ea27f9bc8da015bd7d7a3e",
+      "title": "Middle Island, NY, US - Dec 6th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/middle-island-ny-us-dec-6th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Middle Island, NY, US – Dec 6th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
+        "start_date": "12/6/2026",
+        "start_date_iso": "2026-12-06T00:00:00",
+        "notification_date": "2026-12-06",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
       }
     },
     {
