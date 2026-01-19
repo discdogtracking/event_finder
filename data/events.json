@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-01-18T08:23:48Z",
-  "count": 225,
+  "last_updated": "2026-01-19T08:28:26Z",
+  "count": 224,
   "events": [
-    {
-      "id": "efeda4c39469d9c086b21765cd63efa1c7ba9f2713e723fa13aa6e3148f63cd6",
-      "title": "Garland, TX, US - Jan 17th & 18th - UpDog Dallas",
-      "url": "https://updogchallenge.com/events/garland-tx-us-jan-17th-18th-updog-dallas/",
-      "details": {
-        "title": "Garland, TX, US – Jan 17th & 18th – UpDog Dallas",
-        "club_name": "UpDog Dallas",
-        "contact_name": "Amy Braid",
-        "contact_email": "updogdallasdisc@gmail.com",
-        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
-        "start_date": "1/17/2026",
-        "start_date_iso": "2026-01-17T00:00:00",
-        "notification_date": "2026-01-17",
-        "end_date": "1/18/2026",
-        "end_date_iso": "2026-01-18T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
     {
       "id": "cea3933f6c447c8fb825c01f0546a349d6b7c2e1f7ec9ccf50d3f22f18ad7e53",
       "title": "Vincentown, NJ, US - Jan 24th & 25th - New Jersey Disc Dogs",
