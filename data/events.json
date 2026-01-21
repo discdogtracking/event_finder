@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-20T08:27:23Z",
-  "count": 224,
+  "last_updated": "2026-01-21T08:28:26Z",
+  "count": 236,
   "events": [
     {
       "id": "cea3933f6c447c8fb825c01f0546a349d6b7c2e1f7ec9ccf50d3f22f18ad7e53",
@@ -1210,6 +1210,26 @@
       }
     },
     {
+      "id": "58cad442db588b73b8a7eec67fb46ea5be8c69ea5b92c9cbc3f8c9cb3b26984d",
+      "title": "Yorktown, NY, US - March 28th & 29th - H2D2",
+      "url": "https://updogchallenge.com/events/yorktown-ny-us-march-28th-29th-h2d2/",
+      "details": {
+        "title": "Yorktown, NY, US – March 28th & 29th – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Corinne Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "FDRPark, 2957 Crompond Rd., Yorktown, Ny 10598, United States",
+        "start_date": "3/28/2026",
+        "start_date_iso": "2026-03-28T00:00:00",
+        "notification_date": "2026-03-28",
+        "end_date": "3/29/2026",
+        "end_date_iso": "2026-03-29T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "a6008802038e68cd18fd2728db43247e8d19d8186e4d3f7326dda4eab8380f5e",
       "title": "Apple Valley, CA, US - March 28th & 29th - Valley Center Disc Dogs",
       "url": "https://updogchallenge.com/events/apple-valley-ca-us-march-28th-29th-valley-center-disc-dogs/",
@@ -1788,6 +1808,28 @@
         ],
         "additional_event_information_for_participants": "Follow our Facebook page for updates and important announcements!\nhttps://www.facebook.com/forestcitysportdogs/",
         "prereg_url": "https://www.cognitoforms.com/ForestCitySportDogs/OopsNoJumps"
+      }
+    },
+    {
+      "id": "4c6b85f4d7de25d9a802a0f1f0b54f95604e58127a1db6a2691fadc06e5211a3",
+      "title": "Goshen, CT, US - May 2nd & 3rd - H2D2",
+      "url": "https://updogchallenge.com/events/goshen-ct-us-may-2nd-3rd-h2d2/",
+      "details": {
+        "title": "Goshen, CT, US – May 2nd & 3rd – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "Canine Sports Center, 416 Old Middle St., Goshen, Ct 06756, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -3045,6 +3087,28 @@
       }
     },
     {
+      "id": "a44f134cf48330ae446f0c21181dd050482bf849934ebf53b0ef5efab1e55999",
+      "title": "Goshen, CT, US - June 20th & 21st - H2D2",
+      "url": "https://updogchallenge.com/events/goshen-ct-us-june-20th-21st-h2d2-2/",
+      "details": {
+        "title": "Goshen, CT, US – June 20th & 21st – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "Canine Sports Center, 416 Old Middle St., Goshen, Ct 06756, United States",
+        "start_date": "6/20/2026",
+        "start_date_iso": "2026-06-20T00:00:00",
+        "notification_date": "2026-06-20",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "2f9a38c8023e6fb97fb9430f4e079db4a6c1112f58ceddce5dac4b7430c66aea",
       "title": "Jacksonville, FL, US - June 21st - Jacksonville Disc Dog - Crossover Crown",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-june-21st-jacksonville-disc-dog-crossover-crown/",
@@ -3087,6 +3151,36 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "d13a531c80c3d3e273e2296c64a5b7826dd82595e0cd7b7e6228e9cb82c7711b",
+      "title": "Repentigny, QC, CA - June 21st - Guides Canins - Crossover Crown",
+      "url": "https://updogchallenge.com/events/repentigny-qc-ca-june-21st-suzanne-lapointe-crossover-crown/",
+      "details": {
+        "title": "Repentigny, QC, CA – June 21st – Guides Canins – Crossover Crown",
+        "club_name": "Guides Canins",
+        "contact_name": "Suzanne Lapointe",
+        "contact_email": "suzanne.frisbee4k9@gmail.com",
+        "event_address": "455 Rue de la Presqu’ile, Repentigny, QC J5Z4C7, Canada",
+        "start_date": "6/21/2026",
+        "start_date_iso": "2026-06-21T00:00:00",
+        "notification_date": "2026-06-21",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "7:30 PM",
+        "games": [
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out"
+        ],
+        "additional_event_information_for_participants": "Cross Over Crown Event"
       }
     },
     {
@@ -3903,6 +3997,30 @@
       }
     },
     {
+      "id": "9cb398ae10593d20c6d2220723de5e5eeba38e2cfe73af033db4b13642e9628d",
+      "title": "Shermans Dale, PA, US - Aug 2nd - Woof Pack Disc Dogs",
+      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-aug-2nd-woof-pack-disc-dogs/",
+      "details": {
+        "title": "Shermans Dale, PA, US – Aug 2nd – Woof Pack Disc Dogs",
+        "club_name": "Woof Pack Disc Dogs",
+        "contact_name": "Emily Leiby",
+        "contact_email": "woofpackdiscdogs@gmail.com",
+        "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
+        "start_date": "8/2/2026",
+        "start_date_iso": "2026-08-02T00:00:00",
+        "notification_date": "2026-08-02",
+        "end_date": "8/2/2026",
+        "end_date_iso": "2026-08-02T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Far Out",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "First ever PA Quadruped on Saturday 8/1! Three rounds of Far Out Sunday 8/2, along with other games to be determined. Follow our Facebook page, Woof Pack Disc Dogs, for the most up to date information."
+      }
+    },
+    {
       "id": "2f522be2757962cd3be8093c59725415c87464f9c3826b74a4e7d451e5752c7d",
       "title": "Petersfield, MB, CA - Aug 3rd - River City Disc Dogs",
       "url": "https://updogchallenge.com/events/petersfield-mb-ca-aug-3rd-river-city-disc-dogs/",
@@ -4089,6 +4207,50 @@
       }
     },
     {
+      "id": "a05aa6522967f9a8515a66782d1fb59d63e304ecb81c61e03f6d4e3b8036a0e5",
+      "title": "Goshen, CT, US - Aug 15th & 16th - H2D2",
+      "url": "https://updogchallenge.com/events/goshen-ct-us-aug-15th-16th-h2d2/",
+      "details": {
+        "title": "Goshen, CT, US – Aug 15th & 16th – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "Canine Sports Center, 416 Old Middle St., Goshen, Ct 06756, United States",
+        "start_date": "8/15/2026",
+        "start_date_iso": "2026-08-15T00:00:00",
+        "notification_date": "2026-08-15",
+        "end_date": "8/16/2026",
+        "end_date_iso": "2026-08-16T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "5414491d6c2a6e340aa4ae892dbe56789702d59ee39988b5f3fc3440ab1b4aca",
+      "title": "Goshen, CT, US - Aug 15th & 16th - H2D2",
+      "url": "https://updogchallenge.com/events/goshen-ct-us-aug-15th-16th-h2d2-2/",
+      "details": {
+        "title": "Goshen, CT, US – Aug 15th & 16th – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "Canine Sports Center, 416 Old Middle St., Goshen, Ct 06756, United States",
+        "start_date": "8/15/2026",
+        "start_date_iso": "2026-08-15T00:00:00",
+        "notification_date": "2026-08-15",
+        "end_date": "8/16/2026",
+        "end_date_iso": "2026-08-16T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "72d415644f12b5d8179c2d930ad14a5fe9df1a28a525d1748d1cc6aafec83790",
       "title": "Pilot Butte, SK, CA - Aug 21st thru 23rd - Encore Disc Dog Club",
       "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-aug-21st-thru-23rd-encore-disc-dog-club/",
@@ -4228,6 +4390,36 @@
         ],
         "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
         "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration"
+      }
+    },
+    {
+      "id": "034c0ef9bf38867d97045f526dcceb6562ef16edeb6e32fc84e02982878a7b23",
+      "title": "Repentigny, QC, CA - Aug 23rd - Guides Canins",
+      "url": "https://updogchallenge.com/events/repentigny-qc-ca-aug-23rd-guides-canins/",
+      "details": {
+        "title": "Repentigny, QC, CA – Aug 23rd – Guides Canins",
+        "club_name": "Guides Canins",
+        "contact_name": "Suzanne Lapointe",
+        "contact_email": "suzanne.frisbee4k9@gmail.com",
+        "event_address": "455 Rue de la Presqu’ile, Repentigny, QC J5Z4C7, Canada",
+        "start_date": "8/23/2026",
+        "start_date_iso": "2026-08-23T00:00:00",
+        "notification_date": "2026-08-23",
+        "end_date": "8/23/2026",
+        "end_date_iso": "2026-08-23T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "7:30 PM",
+        "games": [
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out"
+        ],
+        "additional_event_information_for_participants": "Cross Over Crown Event"
       }
     },
     {
@@ -4589,6 +4781,36 @@
       }
     },
     {
+      "id": "35ec103e6f5d52c20512617d963256cd45b2d34207ac431c85d63ca118fc432d",
+      "title": "Repentigny, QC, CA - Sept 13th - Guides Canins",
+      "url": "https://updogchallenge.com/events/repentigny-qc-ca-sept-13th-guides-canins/",
+      "details": {
+        "title": "Repentigny, QC, CA – Sept 13th – Guides Canins",
+        "club_name": "Guides Canins",
+        "contact_name": "Suzanne Lapointe",
+        "contact_email": "suzanne.frisbee4k9@gmail.com",
+        "event_address": "455 Rue de la Presqu’ile, Repentigny, QC J5Z4C7, Canada",
+        "start_date": "9/13/2026",
+        "start_date_iso": "2026-09-13T00:00:00",
+        "notification_date": "2026-09-13",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "7:30 PM",
+        "games": [
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out"
+        ],
+        "additional_event_information_for_participants": "Cross Over Crown Event"
+      }
+    },
+    {
       "id": "445fcc0d65c6d96875e61854504fb2da28270477b184042f4a829e746549ec47",
       "title": "Hopkinton, MA, US - Sept 13th - The Fetch Collective",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-sept-13th-the-fetch-collective/",
@@ -4665,6 +4887,28 @@
         ],
         "additional_event_information_for_participants": "jaxdiscdogs.weebly.com",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLScxLqf2esmHk-riqsAk2ipxs4mfLRMfWnvl0v-YsMrl1kNizA/viewform?usp=header"
+      }
+    },
+    {
+      "id": "ac183a26645c0b3969de84ab376b7af3543b4936105c906f86b55afb17c4bf61",
+      "title": "Goshen, CT, US - Sept 19th & 20th - H2D2",
+      "url": "https://updogchallenge.com/events/goshen-ct-us-sept-19th-20th-h2d2-2/",
+      "details": {
+        "title": "Goshen, CT, US – Sept 19th & 20th – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "Canine Sports Center, 416 Old Middle St., Goshen, Ct 06756, United States",
+        "start_date": "9/19/2026",
+        "start_date_iso": "2026-09-19T00:00:00",
+        "notification_date": "2026-09-19",
+        "end_date": "9/20/2026",
+        "end_date_iso": "2026-09-20T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -4954,6 +5198,28 @@
       }
     },
     {
+      "id": "1abf977b198dc0ca584baed5426dd0261aec433ad5b043c2f1525ed04a2f6d65",
+      "title": "Goshen, CT, US - Oct 17th & 18th - H2D2",
+      "url": "https://updogchallenge.com/events/goshen-ct-us-oct-17th-18th-h2d2-2/",
+      "details": {
+        "title": "Goshen, CT, US – Oct 17th & 18th – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "Canine Sports Center, 416 Old Middle St., Goshen, Ct 06756, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "4b590a2f89e5df5af193569caeaa1cbd70fb9ced6219277cba4dfbf6598bc388",
       "title": "Lutz, FL, US - Oct 24th & 25th - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-oct-24th-25th-cfddc/",
@@ -5172,6 +5438,26 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "The other games will be announced later.\nThe event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/1HSxS1C22tJur0tqX2PiwxR9zETHqtXSnVb4giqxOpOU/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
+      }
+    },
+    {
+      "id": "97b7d24702107eb4d6d864d366e756dc4764e6e6b7d4b85c8901a0d0c47e2112",
+      "title": "Yorktown, NY, US - March 14th & 15th - H2D2",
+      "url": "https://updogchallenge.com/events/yorktown-ny-us-march-14th-15th-h2d2/",
+      "details": {
+        "title": "Yorktown, NY, US – March 14th & 15th – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Corinne Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "FDRPark, 2957 Crompond Rd., Yorktown, Ny 10598, United States",
+        "start_date": "11/14/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "notification_date": "2026-11-14",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
