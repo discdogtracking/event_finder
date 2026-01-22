@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-21T08:28:26Z",
-  "count": 236,
+  "last_updated": "2026-01-22T08:27:51Z",
+  "count": 240,
   "events": [
     {
       "id": "cea3933f6c447c8fb825c01f0546a349d6b7c2e1f7ec9ccf50d3f22f18ad7e53",
@@ -317,6 +317,32 @@
       }
     },
     {
+      "id": "2ac4b70eef0596998bddc4402348e5c6536a56d9a1de3b811bddec550c3bcbc0",
+      "title": "Myakka City, FL, US - Feb 7th - Florida K9 Sports/Shockwave Disc Dogs",
+      "url": "https://updogchallenge.com/events/myakka-city-fl-us-feb-7th-florida-k9-sports-shockwave-disc-dogs/",
+      "details": {
+        "title": "Myakka City, FL, US – Feb 7th – Florida K9 Sports/Shockwave Disc Dogs",
+        "club_name": "Florida K9 Sports/Shockwave Disc Dogs",
+        "contact_name": "Jay Nichols",
+        "contact_email": "Flk9sports@gmail.com",
+        "event_address": "43525 SR 64 E, Myakka City, FL 34251, United States",
+        "start_date": "2/7/2026",
+        "start_date_iso": "2026-02-07T00:00:00",
+        "notification_date": "2026-02-07",
+        "end_date": "2/7/2026",
+        "end_date_iso": "2026-02-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "FunKey",
+          "Spaced Out"
+        ],
+        "additional_event_information_for_participants": "This will be a learn and play event where the judge will teach each game along with strategies to help with scoring more points for each game. We will wrap up after lunch with each game open to anyone to sign up.",
+        "prereg_url": "https://forms.gle/1jxTHfjjcPg8fDLB7"
+      }
+    },
+    {
       "id": "f31cde5df6b56ff8318429e2942fdf6d4a48d640fc2808df234bf8bd3ae0c72d",
       "title": "Ocala, FL, US - Feb 8th - Ocala Dog Ranch",
       "url": "https://updogchallenge.com/events/ocala-fl-us-feb-8th-ocala-dog-ranch/",
@@ -609,6 +635,33 @@
         ],
         "additional_event_information_for_participants": "Follow Nashvertical on Facebook for further information\nfacebook.com/nashverticaldiscdogs",
         "prereg_url": "https://www.cognitoforms.com/NashVerticalDiscDogs/UpDogChallenge"
+      }
+    },
+    {
+      "id": "d41fecfbbd24f631d520e4e8dd8ef3ecd65f3a813488680a272eb0b523139535",
+      "title": "Myakka City, FL, US - Feb 21st - Florida K9 Sports/Shockwave Disc Dogs",
+      "url": "https://updogchallenge.com/events/myakka-city-fl-us-feb-21st-florida-k9-sports-shockwave-disc-dogs/",
+      "details": {
+        "title": "Myakka City, FL, US – Feb 21st – Florida K9 Sports/Shockwave Disc Dogs",
+        "club_name": "Florida K9 Sports/Shockwave Disc Dogs",
+        "contact_name": "Jay Nichols",
+        "contact_email": "Flk9sports@gmail.com",
+        "event_address": "43525 SR 64 E, Myakka City, FL 34251, United States",
+        "start_date": "2/21/2026",
+        "start_date_iso": "2026-02-21T00:00:00",
+        "notification_date": "2026-02-21",
+        "end_date": "2/21/2026",
+        "end_date_iso": "2026-02-21T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "FunKey",
+          "Greedy",
+          "Throw N Go",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "This event is in conjunction with our monthly dock diving event. We will play Funkey Level 1 and Level 2, Greedy, Throw and Go and Throw and Go Pairs",
+        "prereg_url": "https://forms.gle/syc9PNXNXr8NG3i29"
       }
     },
     {
@@ -1847,6 +1900,28 @@
         "notification_date": "2026-05-05",
         "end_date": "5/5/2026",
         "end_date_iso": "2026-05-05T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "4c5da7b08678a850cf0f18a5d1f09e65417650180fb43a68eca266ffc9dfaa2f",
+      "title": "Abbotsford, BC, CA - May 9th & 10th - Abbotsford Disc Dogs",
+      "url": "https://updogchallenge.com/events/abbotsford-bc-ca-may-9th-10th-abbotsford-disc-dogs/",
+      "details": {
+        "title": "Abbotsford, BC, CA – May 9th & 10th – Abbotsford Disc Dogs",
+        "club_name": "Abbotsford Disc Dogs",
+        "contact_name": "Naomi Simpson",
+        "contact_email": "abbotsforddiscdogs@gmail.com",
+        "event_address": "18 Ross rd, Abbotsford, BC V4X2M5, Canada",
+        "start_date": "5/9/2026",
+        "start_date_iso": "2026-05-09T00:00:00",
+        "notification_date": "2026-05-09",
+        "end_date": "5/10/2026",
+        "end_date_iso": "2026-05-10T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -3438,6 +3513,28 @@
         ],
         "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
         "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration"
+      }
+    },
+    {
+      "id": "6e81244141eedab2105b19741388c7a260e6ef27e0c375101cd7e444c8c860c3",
+      "title": "Abbotsford, BC, CA - July 4th & 5th - Abbotsford Disc Dogs",
+      "url": "https://updogchallenge.com/events/abbotsford-bc-ca-july-4th-5th-abbotsford-disc-dogs/",
+      "details": {
+        "title": "Abbotsford, BC, CA – July 4th & 5th – Abbotsford Disc Dogs",
+        "club_name": "Abbotsford Disc Dogs",
+        "contact_name": "Naomi Simpson",
+        "contact_email": "abbotsforddiscdogs@gmail.com",
+        "event_address": "18 Ross Rd, Abbotsford, BC V4X2M5, Canada",
+        "start_date": "7/4/2026",
+        "start_date_iso": "2026-07-04T00:00:00",
+        "notification_date": "2026-07-04",
+        "end_date": "7/5/2026",
+        "end_date_iso": "2026-07-05T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
