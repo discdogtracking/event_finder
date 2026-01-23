@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-22T08:27:51Z",
-  "count": 240,
+  "last_updated": "2026-01-23T08:27:06Z",
+  "count": 251,
   "events": [
     {
       "id": "cea3933f6c447c8fb825c01f0546a349d6b7c2e1f7ec9ccf50d3f22f18ad7e53",
@@ -587,6 +587,37 @@
       }
     },
     {
+      "id": "08390751833c4babfc54720df8724375eafa2e923e4d11992d029e8191d7a422",
+      "title": "Anniston, AL, US - Feb 21st - Black Sheep Disc Dog Club",
+      "url": "https://updogchallenge.com/events/anniston-al-us-feb-21st-black-sheep-disc-dog-club/",
+      "details": {
+        "title": "Anniston, AL, US – Feb 21st – Black Sheep Disc Dog Club",
+        "club_name": "Black Sheep Disc Dog Club",
+        "contact_name": "Jonathan Roberts",
+        "contact_email": "Jrdrums21@gmail.com",
+        "event_address": "454 Buckelew Bridge Road, Anniston, Alabama 36207, United States",
+        "start_date": "2/21/2026",
+        "start_date_iso": "2026-02-21T00:00:00",
+        "notification_date": "2026-02-21",
+        "end_date": "2/21/2026",
+        "end_date_iso": "2026-02-21T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/260066245609053"
+      }
+    },
+    {
       "id": "837f002efbd21082fe952c9878984a92fcf11abc7be7575133b10619c625a9a1",
       "title": "Eustis, FL, US - Feb 21st - Central Florida K9",
       "url": "https://updogchallenge.com/events/eustis-fl-us-feb-21st-central-florida-k9/",
@@ -818,6 +849,35 @@
       }
     },
     {
+      "id": "ed09633c6b4f3dea31d27034226b61f40a343b207ea876c0a6018013c0e8203f",
+      "title": "Ropesville, TX, US - March 7th & 8th - Rocking Paw Dog Training",
+      "url": "https://updogchallenge.com/events/ropesville-tx-us-march-7th-8th-rocking-paw-dog-training/",
+      "details": {
+        "title": "Ropesville, TX, US – March 7th & 8th – Rocking Paw Dog Training",
+        "club_name": "Rocking Paw Dog Training",
+        "contact_name": "Daniel Suda",
+        "contact_email": "dksuda13@gmail.com",
+        "event_address": "6634 Foster Rd, Ropesville, TX 79358, United States",
+        "start_date": "3/7/2026",
+        "start_date_iso": "2026-03-07T00:00:00",
+        "notification_date": "2026-03-07",
+        "end_date": "3/8/2026",
+        "end_date_iso": "2026-03-08T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Registration Link:\nhttps://forms.gle/V4YZAC586oTgcHxo9\nGame Order:\nFireball\nFour Way Play\nGreedy\nSpaced Out\nTime Warp\nThrow N Go",
+        "prereg_url": "https://forms.gle/V4YZAC586oTgcHxo9"
+      }
+    },
+    {
       "id": "2acf8039a921e84c81f68325f67ac1e5e648b338f3934ee50e9bea86d25299b1",
       "title": "Eustis, FL, US - March 7th - Central Florida K9",
       "url": "https://updogchallenge.com/events/eustis-fl-us-march-7th-central-florida-k9/",
@@ -966,6 +1026,31 @@
           "To Be Determined"
         ],
         "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
+      }
+    },
+    {
+      "id": "6c988ec199819b3de5c89945b7ffaf528012dcb8af833b7d0f5ad24dbe8332fe",
+      "title": "Crozet, VA, US - March 15th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/crozet-va-us-march-15th-gdu-disc-dogs/",
+      "details": {
+        "title": "Crozet, VA, US – March 15th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "6550 Roseland Farm, Crozet, VA 22932, United States",
+        "start_date": "3/15/2026",
+        "start_date_iso": "2026-03-15T00:00:00",
+        "notification_date": "2026-03-15",
+        "end_date": "3/15/2026",
+        "end_date_iso": "2026-03-15T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.zeffy.com/en-US/ticketing/updog-games--31526"
       }
     },
     {
@@ -1446,7 +1531,7 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Warm-up for UPDIF 2026 at Leesville Lake Campground! We are 2 hours from Tanglewood Park, the site of UPDIF 2026. Book your campsite for the event at LLCampground.com We offer full hook up sites close to our disc field. Tent and car camping is available to competitors.",
-        "prereg_url": "https://llcampground.com/updog.html"
+        "prereg_url": "https://llcampground.com/events.html"
       }
     },
     {
@@ -2553,6 +2638,31 @@
       }
     },
     {
+      "id": "864be22e22bc321591ad45c7c4131527cf9c6f8778f944546faed84803ad6a7e",
+      "title": "St Johns, MI, US - June 3rd - Leashed Favorite Dog Club",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-june-3rd-leashed-favorite-dog-club/",
+      "details": {
+        "title": "St Johns, MI, US – June 3rd – Leashed Favorite Dog Club",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "6/3/2026",
+        "start_date_iso": "2026-06-03T00:00:00",
+        "notification_date": "2026-06-03",
+        "end_date": "6/3/2026",
+        "end_date_iso": "2026-06-03T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Weekly Crossover Series – June 3rd Frizgility, June 10th, 7 UP and June 17th FunKey\nhttps://docs.google.com/document/d/1x0_07gvDSOVOh2wLeAshgbpvICBuS3-0T9ta8QpIqBM/edit?tab=t.de1vayj8kacy"
+      }
+    },
+    {
       "id": "5a6b603417352be36ccd653c04b398ae7b7fbcb3948861a55edfbe1f338f5372",
       "title": "Winnipeg, MB, CA - June 6th - River City Disc Dogs - Crossover Crown",
       "url": "https://updogchallenge.com/events/winnipeg-mb-ca-june-6th-river-city-disc-dogs-crossover-crown/",
@@ -2718,6 +2828,31 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided."
+      }
+    },
+    {
+      "id": "e8a1116ede1c0b551a78e5d2b390882f78df58eec4293f5f0c21019bf3556485",
+      "title": "St Johns, MI, US - June 10th - Leashed Favorite Dog Club",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-june-10th-leashed-favorite-dog-club/",
+      "details": {
+        "title": "St Johns, MI, US – June 10th – Leashed Favorite Dog Club",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "6/10/2026",
+        "start_date_iso": "2026-06-10T00:00:00",
+        "notification_date": "2026-06-10",
+        "end_date": "6/10/2026",
+        "end_date_iso": "2026-06-10T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Weekly Crossover Series – June 3rd Frizgility, June 10th, 7 UP and June 17th FunKey\nhttps://docs.google.com/document/d/1x0_07gvDSOVOh2wLeAshgbpvICBuS3-0T9ta8QpIqBM/edit?tab=t.de1vayj8kacy"
       }
     },
     {
@@ -3040,6 +3175,31 @@
       }
     },
     {
+      "id": "ca7ac4229c25a35b8632f6f3e1cd1f4201666e328202972a066598aa3fe26de6",
+      "title": "St Johns, MI, US - June 17th - Leashed Favorite Dog Club",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-june-17th-leashed-favorite-dog-club/",
+      "details": {
+        "title": "St Johns, MI, US – June 17th – Leashed Favorite Dog Club",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "6/17/2026",
+        "start_date_iso": "2026-06-17T00:00:00",
+        "notification_date": "2026-06-17",
+        "end_date": "6/17/2026",
+        "end_date_iso": "2026-06-17T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Weekly Crossover Series – June 3rd Frizgility, June 10th, 7 UP and June 17th FunKey\nhttps://docs.google.com/document/d/1x0_07gvDSOVOh2wLeAshgbpvICBuS3-0T9ta8QpIqBM/edit?tab=t.de1vayj8kacy"
+      }
+    },
+    {
       "id": "1c66d7e70c67465616a77f0d5542176c3bc8768d2bc965f633086787e520dc10",
       "title": "Arnprior, ON, CA - June 19th thru 21st - Sunshine Disc Dog Group - Crossover Crown",
       "url": "https://updogchallenge.com/events/arnprior-on-ca-june-19th-thru-21st-sunshine-disc-dog-group/",
@@ -3311,6 +3471,31 @@
       }
     },
     {
+      "id": "1126eb2c87da5d5dfb2766e25fb791117ee21da7cf64a93fb817c9075036205e",
+      "title": "St Johns, MI, US - June 24th - Leashed Favorite Dog Club - Crossover Crown",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-june-24th-leashed-favorite-dog-club-crossover-crown/",
+      "details": {
+        "title": "St Johns, MI, US – June 24th – Leashed Favorite Dog Club – Crossover Crown",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "6/24/2026",
+        "start_date_iso": "2026-06-24T00:00:00",
+        "notification_date": "2026-06-24",
+        "end_date": "6/24/2026",
+        "end_date_iso": "2026-06-24T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Crossover Crown – one round of each crossover game"
+      }
+    },
+    {
       "id": "9a10ea2d35c2de8eafdfa14fc57090979f3d89e5159abdc28db2e15e29622ad8",
       "title": "Middle Island, NY, US - June 27th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
       "url": "https://updogchallenge.com/events/middle-island-ny-us-june-27th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
@@ -3476,6 +3661,29 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided."
+      }
+    },
+    {
+      "id": "aa36b0f89ae92cf2c8fe3050aa3bd61cd5f7d2735900cb04335bd39d9133096c",
+      "title": "St Johns, MI, US - July 1st - Leashed Favorite Dog Club",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-july-1st-leashed-favorite-dog-club/",
+      "details": {
+        "title": "St Johns, MI, US – July 1st – Leashed Favorite Dog Club",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "7/1/2026",
+        "start_date_iso": "2026-07-01T00:00:00",
+        "notification_date": "2026-07-01",
+        "end_date": "7/1/2026",
+        "end_date_iso": "2026-07-01T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday evenings in July: July 1, 15, 22– disc games"
       }
     },
     {
@@ -3822,6 +4030,29 @@
       }
     },
     {
+      "id": "3b240f9cc3cc8c5e9cb5628a1cbbf2f05f7515830faa869ee3cf4a739842320a",
+      "title": "St Johns, MI, US - July 15th - Leashed Favorite Dog Club",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-july-15th-leashed-favorite-dog-club/",
+      "details": {
+        "title": "St Johns, MI, US – July 15th – Leashed Favorite Dog Club",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "7/15/2026",
+        "start_date_iso": "2026-07-15T00:00:00",
+        "notification_date": "2026-07-15",
+        "end_date": "7/15/2026",
+        "end_date_iso": "2026-07-15T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday evenings in July: July 1, 15, 22– disc games"
+      }
+    },
+    {
       "id": "37bac5c073972cca53110d6c7bafa3afe013082029d9845502a5c4f13931bf0b",
       "title": "Frankford, ON, CA - July 17th thru 19th - MC Dog Sports",
       "url": "https://updogchallenge.com/events/frankford-on-ca-july-17th-thru-19th-mc-dog-sports/",
@@ -3997,6 +4228,29 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided."
+      }
+    },
+    {
+      "id": "0368f106a5d580c5af00dc70ef980be34c4c11a12893bda928c89abee781fa17",
+      "title": "St Johns, MI, US - July 22nd - Leashed Favorite Dog Club",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-july-22nd-leashed-favorite-dog-club/",
+      "details": {
+        "title": "St Johns, MI, US – July 22nd – Leashed Favorite Dog Club",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "7/22/2026",
+        "start_date_iso": "2026-07-22T00:00:00",
+        "notification_date": "2026-07-22",
+        "end_date": "7/22/2026",
+        "end_date_iso": "2026-07-22T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday evenings in July: July 1, 15, 22– disc games"
       }
     },
     {
@@ -5026,6 +5280,29 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "9c66c23fa579bf6b73f2ff3195af235b2a6be27edf9f04abb36347830326d960",
+      "title": "St Johns, MI, US - Sept 20th - Leashed Favorite Dog Club - Triple Crown",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-sept-20th-leashed-favorite-dog-club-triple-crown/",
+      "details": {
+        "title": "St Johns, MI, US – Sept 20th – Leashed Favorite Dog Club – Triple Crown",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "9/20/2026",
+        "start_date_iso": "2026-09-20T00:00:00",
+        "notification_date": "2026-09-20",
+        "end_date": "9/20/2026",
+        "end_date_iso": "2026-09-20T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Triple Crown!!"
       }
     },
     {
