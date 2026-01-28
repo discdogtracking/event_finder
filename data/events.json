@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-27T08:29:29Z",
-  "count": 254,
+  "last_updated": "2026-01-28T08:28:58Z",
+  "count": 256,
   "events": [
     {
       "id": "5007f3b4a8319f42a624a9cfbe58b66f461662fc54eb1dd631750f45213657e6",
@@ -1499,6 +1499,39 @@
       }
     },
     {
+      "id": "9244c03cacff8d50780f775610fc6db4410ad70d70fd3997810e4622927444c8",
+      "title": "Kelowna, BC, CA - April 3rd & 4th - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-april-3rd-4th-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – April 3rd & 4th – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Tia Itterman",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "2870 Benvoulin Road, Kelowna, BC v1w 2g8, Canada",
+        "start_date": "4/3/2026",
+        "start_date_iso": "2026-04-03T00:00:00",
+        "notification_date": "2026-04-03",
+        "end_date": "4/4/2026",
+        "end_date_iso": "2026-04-04T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "24a590fd7c6aa99afab17cb7db6a9526ad1daf2a95135fb3d3e15919de25b1f7",
       "title": "Gretna, VA, US - April 4th and April 5th, Leesville Lake Campground",
       "url": "https://updogchallenge.com/events/51379/",
@@ -2268,6 +2301,39 @@
         "end_time": "4:30 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "53f094ddaa643a4d417eb706bf40e7c64915af638c13bd4a0dc6f39bf7252f05",
+      "title": "Kelowna, BC, CA - May 23rd & 24th - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-may-23rd-24th-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – May 23rd & 24th – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Tia Itterman",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "Westshore Estates Community Park, Kelowna, BC V1H 2C3, Canada",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
@@ -3434,12 +3500,12 @@
       }
     },
     {
-      "id": "d13a531c80c3d3e273e2296c64a5b7826dd82595e0cd7b7e6228e9cb82c7711b",
-      "title": "Repentigny, QC, CA - June 21st - Guides Canins - Crossover Crown",
+      "id": "4b942d9e208c0a6af257cb91142aaa0f37ab1f36ee112eb6194bd76b0a9f748a",
+      "title": "Repentigny, QC, CA - June 21st - Crossover Crown",
       "url": "https://updogchallenge.com/events/repentigny-qc-ca-june-21st-suzanne-lapointe-crossover-crown/",
       "details": {
-        "title": "Repentigny, QC, CA – June 21st – Guides Canins – Crossover Crown",
-        "club_name": "Guides Canins",
+        "title": "Repentigny, QC, CA – June 21st – Crossover Crown",
+        "club_name": "",
         "contact_name": "Suzanne Lapointe",
         "contact_email": "suzanne.frisbee4k9@gmail.com",
         "event_address": "455 Rue de la Presqu’ile, Repentigny, QC J5Z4C7, Canada",
@@ -4789,12 +4855,12 @@
       }
     },
     {
-      "id": "034c0ef9bf38867d97045f526dcceb6562ef16edeb6e32fc84e02982878a7b23",
-      "title": "Repentigny, QC, CA - Aug 23rd - Guides Canins",
+      "id": "05b0de118f0eee8b26c48b4aa91631df381b33fc2221b9a6167ee30a14cd92b1",
+      "title": "Repentigny, QC, CA - Aug 23rd",
       "url": "https://updogchallenge.com/events/repentigny-qc-ca-aug-23rd-guides-canins/",
       "details": {
-        "title": "Repentigny, QC, CA – Aug 23rd – Guides Canins",
-        "club_name": "Guides Canins",
+        "title": "Repentigny, QC, CA – Aug 23rd",
+        "club_name": "",
         "contact_name": "Suzanne Lapointe",
         "contact_email": "suzanne.frisbee4k9@gmail.com",
         "event_address": "455 Rue de la Presqu’ile, Repentigny, QC J5Z4C7, Canada",
@@ -5177,12 +5243,12 @@
       }
     },
     {
-      "id": "35ec103e6f5d52c20512617d963256cd45b2d34207ac431c85d63ca118fc432d",
-      "title": "Repentigny, QC, CA - Sept 13th - Guides Canins",
+      "id": "e7e827699e562c7ec33187f4af9a3794a51109d4f2b1df1b01aaef20ff9641e8",
+      "title": "Repentigny, QC, CA - Sept 13th",
       "url": "https://updogchallenge.com/events/repentigny-qc-ca-sept-13th-guides-canins/",
       "details": {
-        "title": "Repentigny, QC, CA – Sept 13th – Guides Canins",
-        "club_name": "Guides Canins",
+        "title": "Repentigny, QC, CA – Sept 13th",
+        "club_name": "",
         "contact_name": "Suzanne Lapointe",
         "contact_email": "suzanne.frisbee4k9@gmail.com",
         "event_address": "455 Rue de la Presqu’ile, Repentigny, QC J5Z4C7, Canada",
