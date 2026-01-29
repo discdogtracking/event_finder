@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-28T08:28:58Z",
-  "count": 256,
+  "last_updated": "2026-01-29T08:36:55Z",
+  "count": 258,
   "events": [
     {
       "id": "5007f3b4a8319f42a624a9cfbe58b66f461662fc54eb1dd631750f45213657e6",
@@ -3433,6 +3433,33 @@
       }
     },
     {
+      "id": "6c1450b454cd52c57b7cd01d0d43138442a76aa0538e08635a3743e24e7407ce",
+      "title": "Springhill, NS, CA - June 20th - Simcoe Disc Dogs",
+      "url": "https://updogchallenge.com/events/springhill-ns-ca-june-20th-simcoe-disc-dogs/",
+      "details": {
+        "title": "Springhill, NS, CA – June 20th – Simcoe Disc Dogs",
+        "club_name": "Simcoe Disc Dogs",
+        "contact_name": "Rich Williamson",
+        "contact_email": "simcoediscdogs@gmail.com",
+        "event_address": "6 Main Street, Springhill, Nova Scotia B0M 1X0, Canada",
+        "start_date": "6/20/2026",
+        "start_date_iso": "2026-06-20T00:00:00",
+        "notification_date": "2026-06-20",
+        "end_date": "6/20/2026",
+        "end_date_iso": "2026-06-20T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Our Annual “Who’s Your Daddy?” Father’s Day Saturday event."
+      }
+    },
+    {
       "id": "a44f134cf48330ae446f0c21181dd050482bf849934ebf53b0ef5efab1e55999",
       "title": "Goshen, CT, US - June 20th & 21st - H2D2",
       "url": "https://updogchallenge.com/events/goshen-ct-us-june-20th-21st-h2d2-2/",
@@ -5657,6 +5684,33 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This is our Monster Mash event. Costumes encouraged."
+      }
+    },
+    {
+      "id": "def85ae18c877bff645aed244008e95ec46de5377374bfbe85f8211badabfd5d",
+      "title": "Springhill, NS, CA - Oct 10th - Simcoe Disc Dogs",
+      "url": "https://updogchallenge.com/events/springhill-ns-ca-oct-10th-simcoe-disc-dogs/",
+      "details": {
+        "title": "Springhill, NS, CA – Oct 10th – Simcoe Disc Dogs",
+        "club_name": "Simcoe Disc Dogs",
+        "contact_name": "Rich Williamson",
+        "contact_email": "simcoediscdogs@gmail.com",
+        "event_address": "6 Main Street, Springhill, Nova Scotia B0M 1X0, Canada",
+        "start_date": "6/20/2026",
+        "start_date_iso": "2026-06-20T00:00:00",
+        "notification_date": "2026-06-20",
+        "end_date": "6/20/2026",
+        "end_date_iso": "2026-06-20T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": ""
       }
     },
     {
