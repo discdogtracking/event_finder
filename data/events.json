@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T08:36:55Z",
-  "count": 258,
+  "last_updated": "2026-01-30T08:35:37Z",
+  "count": 273,
   "events": [
     {
       "id": "5007f3b4a8319f42a624a9cfbe58b66f461662fc54eb1dd631750f45213657e6",
@@ -226,14 +226,7 @@
         "end_date_iso": "2026-02-08T00:00:00",
         "start_time": "9:00 AM",
         "end_time": "4:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Frizgility level 2 will be offered as well as frizgility level 1"
+        "additional_event_information_for_participants": "Criterion Freestyle\nPerformance Freestyle\nTNG\nSpaced Out\nFrizgility\nTimeWarp\nBoom\nFunkey\nhttps://form.jotform.com/260057408602047"
       }
     },
     {
@@ -484,6 +477,40 @@
       }
     },
     {
+      "id": "2ea8d39df0ac084b4edacb3707d54241dc618ccadd8779fbe77af6f69ef04fd3",
+      "title": "Sultan, WA, US - Feb 21st & 22nd - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/sultan-wa-us-feb-21st-22nd-evergreen-disc-dogs/",
+      "details": {
+        "title": "Sultan, WA, US – Feb 21st & 22nd – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "rdh112403@gmail.com",
+        "event_address": "617 1st St, Sultan, WA 98294, United States",
+        "start_date": "2/21/2026",
+        "start_date_iso": "2026-02-21T00:00:00",
+        "notification_date": "2026-02-21",
+        "end_date": "2/22/2026",
+        "end_date_iso": "2026-02-22T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ]
+      }
+    },
+    {
       "id": "900757ec298f30c096ed10e22070ab70e201387c5d19454edd903eb091d9655c",
       "title": "Vincentown, NJ, US - Feb 21st & 22nd - New Jersey Disc Dogs",
       "url": "https://updogchallenge.com/events/vincentown-nj-us-feb-21st-22nd-new-jersey-disc-dogs/",
@@ -706,13 +733,15 @@
         "start_time": "9:00 AM",
         "end_time": "4:00 PM",
         "games": [
+          "TNG lvl 1",
+          "TNG lvl 2",
+          "Boom",
           "Fireball",
-          "Four Way Play",
-          "Frizgility",
+          "Four way",
+          "Seven Up",
           "Greedy",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Frizgility level 2 will be offered as well as frizgility level 1"
+          "https://form.jotform.com/260057473850054"
+        ]
       }
     },
     {
@@ -750,14 +779,6 @@
         ],
         "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
         "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration"
-      }
-    },
-    {
-      "id": "d8f73516d9cec8f7f5a706e741a33cb85b14109bdd601ded7e2368d0746e9c62",
-      "title": "Lutz, FL, US - March 7th & 8th - CFDDC",
-      "url": "https://updogchallenge.com/events/lutz-fl-us-march-7th-8th-cfddc/",
-      "details": {
-        "title": "Lutz, FL, US – March 7th & 8th – CFDDC"
       }
     },
     {
@@ -863,6 +884,36 @@
         "end_date_iso": "2026-03-07T00:00:00",
         "start_time": "9:00 AM",
         "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "d8f73516d9cec8f7f5a706e741a33cb85b14109bdd601ded7e2368d0746e9c62",
+      "title": "Lutz, FL, US - March 8th - CFDDC",
+      "url": "https://updogchallenge.com/events/lutz-fl-us-march-7th-8th-cfddc/",
+      "details": {
+        "title": "Lutz, FL, US – March 8th – CFDDC"
+      }
+    },
+    {
+      "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
+      "title": "Brooksville, FL, US - March 14th - CFDDC",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-march-14th-cfddc/",
+      "details": {
+        "title": "Brooksville, FL, US – March 14th – CFDDC",
+        "club_name": "CFDDC",
+        "contact_name": "Kat Fahle",
+        "contact_email": "katfahle@gmail.com",
+        "event_address": "25592 Hayman Rd, Brooksville, FL 34602",
+        "start_date": "3/14/2026",
+        "start_date_iso": "2026-03-14T00:00:00",
+        "notification_date": "2026-03-14",
+        "end_date": "3/14/2026",
+        "end_date_iso": "2026-03-14T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -1074,37 +1125,37 @@
       }
     },
     {
-      "id": "e2e0aa880499c0356186d987f6ef245689013b0e664edbcca82ab10667e40494",
+      "id": "38b95f40ec11b7ca6f4f289dfc4efeb3d9180a4ffccfee56398de3cacd89d967",
       "title": "Sultan, WA, US - March 21st & 22nd - Evergreen Disc Dogs",
-      "url": "https://updogchallenge.com/events/sultan-wa-us-march-21st-22nd-evergreen-disc-dogs/",
+      "url": "https://updogchallenge.com/events/sultan-wa-us-march-21st-22nd-evergreen-disc-dogs-2/",
       "details": {
         "title": "Sultan, WA, US – March 21st & 22nd – Evergreen Disc Dogs",
         "club_name": "Evergreen Disc Dogs",
-        "contact_name": "Corey Polis",
-        "contact_email": "evergreendiscdogs@gmail.com",
-        "event_address": "TBD – See event registration or facebook, Sultan, WA 98294, United States",
+        "contact_name": "Raena Lorio",
+        "contact_email": "rdh112403@gmail.com",
+        "event_address": "617 1st St, Sultan, WA 98294, United States",
         "start_date": "3/21/2026",
         "start_date_iso": "2026-03-21T00:00:00",
         "notification_date": "2026-03-21",
         "end_date": "3/22/2026",
         "end_date_iso": "2026-03-22T00:00:00",
         "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
+        "end_time": "4:30 PM",
         "games": [
           "Boom!",
           "Far Out",
           "Fireball",
           "Four Way Play",
+          "Freestyle",
           "Frizgility",
           "FunKey",
           "Greedy",
           "7Up",
           "Spaced Out",
           "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "See Evergreen Disc Dogs on Facebook",
-        "prereg_url": "https://www.cognitoforms.com/evergreendiscdogs1/march2026/"
+          "Time Warp",
+          "Pairs Four Way Play"
+        ]
       }
     },
     {
@@ -1123,15 +1174,7 @@
         "end_date": "3/22/2026",
         "end_date_iso": "2026-03-22T00:00:00",
         "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Frizgility level 2 will be offered as well as frizgility level 1"
+        "end_time": "4:00 PM"
       }
     },
     {
@@ -1363,6 +1406,32 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "c6aed59984e3e59e36cc6bcda89efe07cb9dfdf7ad53b82da53ee4668ad73436",
+      "title": "Magnolia, TX, US - March 28th & 29th - Houston Canine Frisbee Disc Club",
+      "url": "https://updogchallenge.com/events/magnolia-tx-us-march-28th-29th-houston-canine-frisbee-disc-club/",
+      "details": {
+        "title": "Magnolia, TX, US – March 28th & 29th – Houston Canine Frisbee Disc Club",
+        "club_name": "Houston Canine Frisbee Disc Club",
+        "contact_name": "Jill Best",
+        "contact_email": "jllbest@hotmail.com",
+        "event_address": "2P Ranch, 11931 Presley Drive, Magnolia, Texas 77354, United States",
+        "start_date": "3/28/2026",
+        "start_date_iso": "2026-03-28T00:00:00",
+        "notification_date": "2026-03-28",
+        "end_date": "3/29/2026",
+        "end_date_iso": "2026-03-29T00:00:00",
+        "start_time": "7:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Two games, Four Way Play and Spaced Out, will be played on Saturday, and two games, Frizgility and Time Warp, will be played on Sunday. Competitors will be in the running for the Texas State Championship Games Master award. More information will be posted on the Facebook event page at\nhttps://www.facebook.com/events/1443694164068736\n."
       }
     },
     {
@@ -1867,6 +1936,28 @@
       }
     },
     {
+      "id": "fababfc5f8fd043537a5dd210f47b58e3786d79f2e71389aa1bb0fb344ef9089",
+      "title": "Brooksville, FL, US - April 26th - CFDDC",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-april-26th-cfddc/",
+      "details": {
+        "title": "Brooksville, FL, US – April 26th – CFDDC",
+        "club_name": "CFDDC",
+        "contact_name": "Kat Fahle",
+        "contact_email": "katfahle@gmail.com",
+        "event_address": "25592 Hayman Rd, Brooksville, FL 34602",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "4/26/2026",
+        "end_date_iso": "2026-04-26T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "05a20a5a31cf1e45330ab182daa99fee26a4ee089c78ffb540acccbc64efb716",
       "title": "Southbridge, MA, US - April 28th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-april-28th-face-to-face/",
@@ -1917,6 +2008,40 @@
       }
     },
     {
+      "id": "38b2213dc1232f412b86a6bec790c27320406f355b99feb0f9df438411131ce4",
+      "title": "Sultan, WA, US - May 2nd & 3rd - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/sultan-wa-us-may-2nd-3rd-evergreen-disc-dogs/",
+      "details": {
+        "title": "Sultan, WA, US – May 2nd & 3rd – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "rdh112403@gmail.com",
+        "event_address": "617 1st St, Sultan, WA 98294, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ]
+      }
+    },
+    {
       "id": "2987e7fb01e32d76f34ac0070b4e7eaa1deb0924fdb756fe26325d7f434e0469",
       "title": "Bunnell, FL, US - May 2nd & 3rd - Daytona Disc Dogs",
       "url": "https://updogchallenge.com/events/bunnell-fl-us-may-2nd-3rd-daytona-disc-dogs/",
@@ -1934,14 +2059,15 @@
         "start_time": "8:30 AM",
         "end_time": "3:00 PM",
         "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "FunKey",
-          "7Up",
+          "Funkey",
+          "4Way",
+          "TNG",
+          "Boom",
+          "7up",
+          "Time Warp",
           "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
+          "Fire Ball",
+          "https://form.jotform.com/260057943360052"
         ]
       }
     },
@@ -2074,6 +2200,14 @@
           "Throw N Go",
           "Time Warp"
         ]
+      }
+    },
+    {
+      "id": "0e4f2ab20f7674fdb757720a4a79f017b3a49b1a5f48f4f5872f890499efab90",
+      "title": "Dade City, FL, US - May 9th - CFDDC",
+      "url": "https://updogchallenge.com/events/dade-city-fl-us-may-9th-cfddc/",
+      "details": {
+        "title": "Dade City, FL, US – May 9th – CFDDC"
       }
     },
     {
@@ -2302,6 +2436,57 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "81bc1b5b5c79d8b1f9ad28a39700284688be8383f1fdc4474865aaa8bc4ad1fc",
+      "title": "Brooksville, FL, US - May 23rd & 24th - CFDDC",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-may-23rd-24th-cfddc-2/",
+      "details": {
+        "title": "Brooksville, FL, US – May 23rd & 24th – CFDDC",
+        "club_name": "CFDDC",
+        "contact_name": "Kat Fahle",
+        "contact_email": "katfahle@gmail.com",
+        "event_address": "25592 Hayman Rd, Brooksville, FL 34602",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "c70ba08e1370fe94898a3937bb9abfd3540f9839f6afb847d1234bedd7f34396",
+      "title": "East Selkirk, MB, CA - May 23rd & 24th - Whipp'In Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-may-23rd-24th-whippin-disc-dogs/",
+      "details": {
+        "title": "East Selkirk, MB, CA – May 23rd & 24th – Whipp’In Disc Dogs",
+        "club_name": "Whipp’In Disc Dogs",
+        "contact_name": "Jill Voth",
+        "contact_email": "whippindiscdogs@outlook.com",
+        "event_address": "353 Stone Church Rd, East Selkirk, Manitoba R0E 0M0, Canada",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Freestyle Criteria"
       }
     },
     {
@@ -2793,6 +2978,40 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Crossover Crown"
+      }
+    },
+    {
+      "id": "b8477aab39f59ade3bba656adc306d62be32dd663bd0d861c23a758a0ccd3fad",
+      "title": "Sultan, WA, US - June 6th & 7th - Evergreen Disc Dogs - Crossover Crown",
+      "url": "https://updogchallenge.com/events/sultan-wa-us-june-6th-7th-evergreen-disc-dogs/",
+      "details": {
+        "title": "Sultan, WA, US – June 6th & 7th – Evergreen Disc Dogs – Crossover Crown",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "rdh112403@gmail.com",
+        "event_address": "617 1st St, Sultan, WA 98294, United States",
+        "start_date": "6/6/2026",
+        "start_date_iso": "2026-06-06T00:00:00",
+        "notification_date": "2026-06-06",
+        "end_date": "6/7/2026",
+        "end_date_iso": "2026-06-07T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ]
       }
     },
     {
@@ -3862,6 +4081,28 @@
       }
     },
     {
+      "id": "6bbc082ee1be2050c3db5f4bd4fc1eff7f7e09bd26e04f0757ca1ae958fe027f",
+      "title": "Brooksville, FL, US - July 4th & 5th - CFDDC",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-july-4th-5th-cfddc/",
+      "details": {
+        "title": "Brooksville, FL, US – July 4th & 5th – CFDDC",
+        "club_name": "CFDDC",
+        "contact_name": "Kat Fahle",
+        "contact_email": "katfahle@gmail.com",
+        "event_address": "25592 Hayman Rd, Brooksville, FL 34602",
+        "start_date": "7/4/2026",
+        "start_date_iso": "2026-07-04T00:00:00",
+        "notification_date": "2026-07-04",
+        "end_date": "7/5/2026",
+        "end_date_iso": "2026-07-05T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "6e81244141eedab2105b19741388c7a260e6ef27e0c375101cd7e444c8c860c3",
       "title": "Abbotsford, BC, CA - July 4th & 5th - Abbotsford Disc Dogs",
       "url": "https://updogchallenge.com/events/abbotsford-bc-ca-july-4th-5th-abbotsford-disc-dogs/",
@@ -4227,10 +4468,43 @@
     },
     {
       "id": "45c334ebea4a8adb10a0888e1e6e10313562a03d4997d1c5360f8694938aab3b",
-      "title": "Lutz, FL, US - July 18th & 19th - CFDDC",
+      "title": "Lutz, FL, US - July 18th - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-july-18th-19th-cfddc/",
       "details": {
-        "title": "Lutz, FL, US – July 18th & 19th – CFDDC"
+        "title": "Lutz, FL, US – July 18th – CFDDC"
+      }
+    },
+    {
+      "id": "7fca745beb3de7b44a2fffe3cd42f813956f05c156b02fe2a92884f65a23a984",
+      "title": "Sultan, WA, US - July 18th & 19th - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/sultan-wa-us-july-18th-19th-evergreen-disc-dogs/",
+      "details": {
+        "title": "Sultan, WA, US – July 18th & 19th – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "evergreendiscdogs@gmail.com",
+        "event_address": "617 1st St, Sultan, WA 98294, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/19/2026",
+        "end_date_iso": "2026-07-19T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -4648,6 +4922,14 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "bf55632c7e9c87737c31ec2d16bf52132698cdcfb86c09d5f7babf8e68c96629",
+      "title": "Lutz, FL, US - Aug 15th - CFDDC",
+      "url": "https://updogchallenge.com/events/lutz-fl-us-aug-15th-cfddc/",
+      "details": {
+        "title": "Lutz, FL, US – Aug 15th – CFDDC"
       }
     },
     {
@@ -5473,6 +5755,40 @@
       }
     },
     {
+      "id": "5f84870b903c0d277fefe98e2d66793df50644a807bead2616fce32512761854",
+      "title": "Sultan, WA, US - Sept 26th & 27th - Evergreen Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/sultan-wa-us-sept-26th-27th-evergreen-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Sultan, WA, US – Sept 26th & 27th – Evergreen Disc Dogs – Triple Crown",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "rdh112403@gmail.com",
+        "event_address": "617 1st St, Sultan, WA 98294, United States",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ]
+      }
+    },
+    {
       "id": "09b8ac9bdf53f05c2f28186d692c86dd8c6c21763a5b93e60294a5e528447376",
       "title": "Castlegar, BC, CA - Sept 26th & 27th - West Kootenay Disc Dogs",
       "url": "https://updogchallenge.com/events/castlegar-bc-ca-sept-26th-27th-west-kootenay-disc-dogs/",
@@ -5935,6 +6251,14 @@
       }
     },
     {
+      "id": "8f8fbb90d6f224ee4034d52e6fd9201e4368679e8fc38417930e99d6587dff43",
+      "title": "Dade City, FL, US - Nov 7th & 8th - CFDDC",
+      "url": "https://updogchallenge.com/events/dade-city-fl-us-nov-7th-8th-cfddc/",
+      "details": {
+        "title": "Dade City, FL, US – Nov 7th & 8th – CFDDC"
+      }
+    },
+    {
       "id": "a204e07de75e24ed259be6b607c7907c498e8426d4f474029dac2101232f3782",
       "title": "Southbridge, MA, US - Nov 8th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-nov-8th-face-to-face/",
@@ -6321,6 +6645,14 @@
           "To Be Determined"
         ],
         "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
+      }
+    },
+    {
+      "id": "54bc9eb0c53e59d3b9b831e77f573d41235aa597701326a64e5b8867bfeb3035",
+      "title": "Dade City, FL, US - Nov 7th & 8th - CFDDC",
+      "url": "https://updogchallenge.com/events/dade-city-fl-us-nov-7th-8th-cfddc-2/",
+      "details": {
+        "title": "Dade City, FL, US – Nov 7th & 8th – CFDDC"
       }
     },
     {
