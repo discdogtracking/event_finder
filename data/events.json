@@ -1,30 +1,7 @@
 {
-  "last_updated": "2026-01-31T08:27:05Z",
-  "count": 273,
+  "last_updated": "2026-02-01T08:30:01Z",
+  "count": 272,
   "events": [
-    {
-      "id": "5007f3b4a8319f42a624a9cfbe58b66f461662fc54eb1dd631750f45213657e6",
-      "title": "Eustis, FL, US - Jan 31st - Central Florida K9",
-      "url": "https://updogchallenge.com/events/eustis-fl-us-jan-31st-central-florida-k9/",
-      "details": {
-        "title": "Eustis, FL, US – Jan 31st – Central Florida K9",
-        "club_name": "Central Florida K9",
-        "contact_name": "Justin Smith",
-        "contact_email": "smithhm.info@gmail.com",
-        "event_address": "27101 County Rd 44A, Eustis, FL 32736, United States",
-        "start_date": "1/31/2026",
-        "start_date_iso": "2026-01-31T00:00:00",
-        "notification_date": "2026-01-31",
-        "end_date": "1/31/2026",
-        "end_date_iso": "2026-01-31T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://forms.gle/s99hzR5UBDe6RVhj7"
-      }
-    },
     {
       "id": "ff7cac8aee32f5de1464d86353995b8111897f73e6eb8f7c1e5728c41c05c6d9",
       "title": "Jacksonville, FL, US - Jan 31st & Feb 1st - Jacksonville Disc Dogs",
