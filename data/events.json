@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-02T08:41:04Z",
-  "count": 268,
+  "last_updated": "2026-02-03T08:37:09Z",
+  "count": 276,
   "events": [
     {
       "id": "c67b0f98a31568f62d2514266fc4947ea38e93008bf29c3b2a510c874f2b4844",
@@ -1164,6 +1164,32 @@
       }
     },
     {
+      "id": "7dbfc1bb8eda325f27360ebefd987a4678c9a301c5cd3e4e410988c28d5ac2f3",
+      "title": "Baton Rouge, LA, US - March 22nd - Louisiana Capital City Obedience Club",
+      "url": "https://updogchallenge.com/events/baton-rouge-la-us-feb-1st-louisiana-capital-city-obedience-club/",
+      "details": {
+        "title": "Baton Rouge, LA, US – March 22nd – Louisiana Capital City Obedience Club",
+        "club_name": "Louisiana Capital City Obedience Club",
+        "contact_name": "Natika Anderson",
+        "contact_email": "natikaan@gmail.com",
+        "event_address": "11560 Plank Rd, Baton Rouge, LA 70811, United States",
+        "start_date": "3/22/2026",
+        "start_date_iso": "2026-03-22T00:00:00",
+        "notification_date": "2026-03-22",
+        "end_date": "3/22/2026",
+        "end_date_iso": "2026-03-22T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "lccoc.org"
+      }
+    },
+    {
       "id": "77d482391e984553bf4659a97de91486f3ae34e651f8b14ef58586724f6516c9",
       "title": "Manhattan, KS, US - March 28th - Prairie Disc Dogs",
       "url": "https://updogchallenge.com/events/manhattan-ks-us-march-28th-prairie-disc-dogs/",
@@ -1485,6 +1511,39 @@
         ],
         "additional_event_information_for_participants": "Warm-up for UPDIF 2026 at Leesville Lake Campground! We are 2 hours from Tanglewood Park, the site of UPDIF 2026. Book your campsite for the event at LLCampground.com We offer full hook up sites close to our disc field. Tent and car camping is available to competitors.",
         "prereg_url": "https://llcampground.com/events.html"
+      }
+    },
+    {
+      "id": "eab01b7646fcf80e4c271aa6a6e83f193a32734cdcaf4aa320c2ec17cb8a1c47",
+      "title": "Bartlett, IL, US - April 4th & 5th - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/bartlett-il-us-april-4th-5th-mchenry-disc-dogs/",
+      "details": {
+        "title": "Bartlett, IL, US – April 4th & 5th – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "Mchenrydiscdogs@gmail.com",
+        "event_address": "2255 Southwind Blvd, Bartlett, IL 60103, United States",
+        "start_date": "4/4/2026",
+        "start_date_iso": "2026-04-04T00:00:00",
+        "notification_date": "2026-04-04",
+        "end_date": "4/5/2026",
+        "end_date_iso": "2026-04-05T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -1831,6 +1890,29 @@
       }
     },
     {
+      "id": "13efd46fe665a41c0643d9b64a643decbfb8d007c6229d9a697ab589b12275ac",
+      "title": "Rosemount, MN, US - May 1st, 8th, 15th & 22nd - Bite Club - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-may-1st-8th-15th-22nd-bite-club-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – May 1st, 8th, 15th & 22nd – Bite Club – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "5/1/2026",
+        "start_date_iso": "2026-05-01T00:00:00",
+        "notification_date": "2026-05-01",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
+      }
+    },
+    {
       "id": "f57900c389dc88b52b19ea9418e4880184537ef105d19953a3adfabbb04f3b80",
       "title": "Lutz, FL, US - May 2nd & 3rd - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-may-2nd-3rd-cfddc/",
@@ -1981,6 +2063,28 @@
       }
     },
     {
+      "id": "c61ea97aa31ae9319b83048651aa31496f9b77596107eac7588981a0a79f349f",
+      "title": "Lumsden, SK, CA - May 3rd - Regina Disc Dog Club",
+      "url": "https://updogchallenge.com/events/lumsden-sk-ca-may-3rd-regina-disc-dog-club/",
+      "details": {
+        "title": "Lumsden, SK, CA – May 3rd – Regina Disc Dog Club",
+        "club_name": "Regina Disc Dog Club",
+        "contact_name": "Margaret Lewis",
+        "contact_email": "lewism40@gmail.com",
+        "event_address": "Re+ Riding Arena, Lumsden, Saskatchewan S4T 6J7, Canada",
+        "start_date": "5/3/2026",
+        "start_date_iso": "2026-05-03T00:00:00",
+        "notification_date": "2026-05-03",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "e5213943e5bcf367a52709368dc89f055be9e057016c1e884092f8be3a238e3d",
       "title": "Southbridge, MA, US - May 5th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-5th-face-to-face/",
@@ -2124,6 +2228,31 @@
         "end_time": "7:30 PM",
         "games": [
           "Four Way Play"
+        ]
+      }
+    },
+    {
+      "id": "91cfd8bbead01c9412c2206c71e8f5ab3e36a05d30c86559863e03db55f8698e",
+      "title": "Garland, TX, US - May 15th - UpDog Dallas",
+      "url": "https://updogchallenge.com/events/garland-tx-us-may-15th-updog-dallas/",
+      "details": {
+        "title": "Garland, TX, US – May 15th – UpDog Dallas",
+        "club_name": "UpDog Dallas",
+        "contact_name": "Amy Braid",
+        "contact_email": "updogdallasdisc@gmail.com",
+        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
+        "start_date": "5/15/2026",
+        "start_date_iso": "2026-05-15T00:00:00",
+        "notification_date": "2026-05-15",
+        "end_date": "5/15/2026",
+        "end_date_iso": "2026-05-15T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "11:45 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "7Up"
         ]
       }
     },
@@ -3599,6 +3728,28 @@
       }
     },
     {
+      "id": "af8d68dae8d080965f46c7766ba18d41b590a0537d30e8a173e1386b4fec70b6",
+      "title": "Moose Jaw, SK, CA - June 21st - Regina Disc Dog Club - Crossover Crown",
+      "url": "https://updogchallenge.com/events/moose-jaw-sk-ca-june-21st-regina-disc-dog-club-crossover-crown/",
+      "details": {
+        "title": "Moose Jaw, SK, CA – June 21st – Regina Disc Dog Club – Crossover Crown",
+        "club_name": "Regina Disc Dog Club",
+        "contact_name": "Margaret Lewis",
+        "contact_email": "lewism40@gmail.com",
+        "event_address": "Over the Top Riding Arena, Moose Jaw, Saskatchewan S4T 6J7, Canada",
+        "start_date": "6/21/2026",
+        "start_date_iso": "2026-06-21T00:00:00",
+        "notification_date": "2026-06-21",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "8:15 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "4b942d9e208c0a6af257cb91142aaa0f37ab1f36ee112eb6194bd76b0a9f748a",
       "title": "Repentigny, QC, CA - June 21st - Crossover Crown",
       "url": "https://updogchallenge.com/events/repentigny-qc-ca-june-21st-suzanne-lapointe-crossover-crown/",
@@ -4418,6 +4569,28 @@
         ],
         "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
         "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormJuly2026"
+      }
+    },
+    {
+      "id": "2ce3478f6b276fbbace112f38d4d93b93f6adad3625fbd2fd6f4847d95626cd2",
+      "title": "Wingdale, NY, US - July 19th - H2D2",
+      "url": "https://updogchallenge.com/events/wingdale-ny-us-july-19th-h2d2/",
+      "details": {
+        "title": "Wingdale, NY, US – July 19th – H2D2",
+        "club_name": "H2D2",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "Boyce Park, 6420 State rt. 55, Wingdale, Ny 12594, United States",
+        "start_date": "7/19/2026",
+        "start_date_iso": "2026-07-19T00:00:00",
+        "notification_date": "2026-07-19",
+        "end_date": "7/19/2026",
+        "end_date_iso": "2026-07-19T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -6258,6 +6431,29 @@
         ],
         "additional_event_information_for_participants": "No set games at certain times. Pre-registration guarantees setup.",
         "prereg_url": "https://form.jotform.com/260145167051146"
+      }
+    },
+    {
+      "id": "e4b15fe8c611da7404d40322721d6fdac2bd31c1df05edd183524ee8cc82f549",
+      "title": "Crozet, VA, US - Nov 22nd &",
+      "url": "https://updogchallenge.com/events/crozet-va-us-nov-22nd/",
+      "details": {
+        "title": "Crozet, VA, US – Nov 22nd &",
+        "club_name": "GDU DIsc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "6550 Roseland Farm, Crozet, VA 22932, United States",
+        "start_date": "11/21/2026",
+        "start_date_iso": "2026-11-21T00:00:00",
+        "notification_date": "2026-11-21",
+        "end_date": "11/22/2026",
+        "end_date_iso": "2026-11-22T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Far Out",
+          "To Be Determined"
+        ]
       }
     },
     {
