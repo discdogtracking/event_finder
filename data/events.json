@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-03T08:37:09Z",
-  "count": 276,
+  "last_updated": "2026-02-04T08:38:28Z",
+  "count": 277,
   "events": [
     {
       "id": "c67b0f98a31568f62d2514266fc4947ea38e93008bf29c3b2a510c874f2b4844",
@@ -1368,6 +1368,40 @@
         ],
         "additional_event_information_for_participants": "Follow our Facebook page for updates and important announcements!\nhttps://www.facebook.com/forestcitysportdogs/",
         "prereg_url": "https://www.cognitoforms.com/ForestCitySportDogs/RunUppyRun"
+      }
+    },
+    {
+      "id": "1749e4f208cb51a11adef5f4047074c610d1be75a19fd39f2d29dba6c727513d",
+      "title": "Fernandina Beach, FL, US - March 28th & 29th - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-march-28th-29th-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Fernandina Beach, FL, US – March 28th & 29th – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "95512 Arbor Ln, Fernandina Beach, Florida 32034, United States",
+        "start_date": "3/28/2026",
+        "start_date_iso": "2026-03-28T00:00:00",
+        "notification_date": "2026-03-28",
+        "end_date": "3/29/2026",
+        "end_date_iso": "2026-03-29T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/events.html",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSf4hGJ4kEcZ1bBWkEvpoSlVdZZeTL4wMD9V0ab64nrkGdnxVg/viewform?usp=header"
       }
     },
     {
@@ -3878,29 +3912,6 @@
       }
     },
     {
-      "id": "3077d4164d1220e5e36008a780569272fa731d28dbf464130c75f0737692270e",
-      "title": "Biglerville, PA, US - June 27th & 28th - Woof Pack Disc Dogs",
-      "url": "https://updogchallenge.com/events/biglerville-pa-us-june-27th-28th-woof-pack-disc-dogs/",
-      "details": {
-        "title": "Biglerville, PA, US – June 27th & 28th – Woof Pack Disc Dogs",
-        "club_name": "Woof Pack Disc Dogs",
-        "contact_name": "Emily Leiby",
-        "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "615 Narrows Rd, Biglerville, PA 17307, United States",
-        "start_date": "6/27/2026",
-        "start_date_iso": "2026-06-27T00:00:00",
-        "notification_date": "2026-06-27",
-        "end_date": "6/28/2026",
-        "end_date_iso": "2026-06-28T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "South Mountain Cluster (2025 was the North Mountain Cluster). Follow our Facebook, Woof Pack Disc Dogs, for the most up to date info."
-      }
-    },
-    {
       "id": "06eb34cef9b64e3429a213b6ddaa2d40b97d9147993711b2d49e5a2af2693bbb",
       "title": "Rio Dell, CA, US - June 27th & 28th - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-june-27th-28th-humboldt-disc-dog-club/",
@@ -4126,6 +4137,29 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "3077d4164d1220e5e36008a780569272fa731d28dbf464130c75f0737692270e",
+      "title": "Biglerville, PA, US - July 4th & 5th - Woof Pack Disc Dogs",
+      "url": "https://updogchallenge.com/events/biglerville-pa-us-june-27th-28th-woof-pack-disc-dogs/",
+      "details": {
+        "title": "Biglerville, PA, US – July 4th & 5th – Woof Pack Disc Dogs",
+        "club_name": "Woof Pack Disc Dogs",
+        "contact_name": "Emily Leiby",
+        "contact_email": "woofpackdiscdogs@gmail.com",
+        "event_address": "615 Narrows Rd, Biglerville, PA 17307, United States",
+        "start_date": "7/4/2026",
+        "start_date_iso": "2026-07-04T00:00:00",
+        "notification_date": "2026-07-04",
+        "end_date": "7/5/2026",
+        "end_date_iso": "2026-07-05T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "South Mountain Cluster (2025 was the North Mountain Cluster). Follow our Facebook, Woof Pack Disc Dogs, for the most up to date info."
       }
     },
     {
