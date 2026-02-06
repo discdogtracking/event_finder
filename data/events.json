@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-05T08:43:49Z",
-  "count": 277,
+  "last_updated": "2026-02-06T08:40:30Z",
+  "count": 288,
   "events": [
     {
       "id": "c67b0f98a31568f62d2514266fc4947ea38e93008bf29c3b2a510c874f2b4844",
@@ -251,10 +251,27 @@
       }
     },
     {
-      "id": "5fd4a3e44b61454919dfd8e1be9dd9946fe80083395b3316d4219728f2ecf3fd",
+      "id": "2c03f813e629a1dab22b06bf00379e1b223ea0c2bf8b3e00d6d724b6822432d3",
       "title": "Moose Jaw, SK, CA - Feb 15th - Regina Disc Dog Club",
       "url": "https://updogchallenge.com/events/moose-jaw-sk-ca-feb-15th-regina-disc-dog-club/",
-      "details": {}
+      "details": {
+        "title": "Moose Jaw, SK, CA – Feb 15th – Regina Disc Dog Club",
+        "club_name": "Regina Disc Dog Club",
+        "contact_name": "Margaret Lewis",
+        "contact_email": "lewism40@gmail.com",
+        "event_address": "Over the Top riding arena, Moose Jaw, SK S4T 6J7, Canada",
+        "start_date": "2/15/2026",
+        "start_date_iso": "2026-02-15T00:00:00",
+        "notification_date": "2026-02-15",
+        "end_date": "2/15/2026",
+        "end_date_iso": "2026-02-15T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This will be a no-frills, points only trial"
+      }
     },
     {
       "id": "0e13a01c4a8b49ed42261f71202cb32f52ea6dceda0554dff5c5928f7e927034",
@@ -995,6 +1012,37 @@
       }
     },
     {
+      "id": "38ca4cd7ba4730d23c8baed19974f28ceeb91b894d3a72c1aba05fe808f3594a",
+      "title": "Anniston, AL, US - March 21st - Black Sheep Disc Dog Club",
+      "url": "https://updogchallenge.com/events/anniston-al-us-march-21st-black-sheep-disc-dog-club/",
+      "details": {
+        "title": "Anniston, AL, US – March 21st – Black Sheep Disc Dog Club",
+        "club_name": "Black sheep Disc Dog Club",
+        "contact_name": "Jonathan Roberts",
+        "contact_email": "Jrdrums21@gmail.com",
+        "event_address": "454 Buckelew Bridge Road, Anniston, Alabama 36207, United States",
+        "start_date": "3/21/2026",
+        "start_date_iso": "2026-03-21T00:00:00",
+        "notification_date": "2026-03-21",
+        "end_date": "3/21/2026",
+        "end_date_iso": "2026-03-21T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/260347032521143"
+      }
+    },
+    {
       "id": "fbb5b51d72fc0b4c6b2e1d0ebdf48de012a59c2378318e81cfc9c3d135e9886a",
       "title": "Bunnell, FL, US - March 21st & 22nd - Daytona Disc Dogs",
       "url": "https://updogchallenge.com/events/bunnell-fl-us-march-21st-22nd-daytona-disc-dogs/",
@@ -1170,6 +1218,33 @@
           "Throw N Go"
         ],
         "additional_event_information_for_participants": "lccoc.org"
+      }
+    },
+    {
+      "id": "70c663e2f79311c22282548fbd63f8fc9b573bb82f6bae961cdb152de485566b",
+      "title": "Nanaimo, BC, US - March 22nd - Van Isle Disc Dogs",
+      "url": "https://updogchallenge.com/events/nanaimo-bc-us-march-22nd-van-isle-disc-dogs/",
+      "details": {
+        "title": "Nanaimo, BC, US – March 22nd – Van Isle Disc Dogs",
+        "club_name": "Van Isle Disc Dogs",
+        "contact_name": "Jade Zwingli",
+        "contact_email": "info@vanislediscdogs.ca",
+        "event_address": "1640 MacMillan Rd, Nanaimo, BC V9X 1L9, Canada",
+        "start_date": "3/22/2026",
+        "start_date_iso": "2026-03-22T00:00:00",
+        "notification_date": "2026-03-22",
+        "end_date": "3/22/2026",
+        "end_date_iso": "2026-03-22T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "FunKey",
+          "Greedy",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Our facebook group will have all the info:\nhttps://www.facebook.com/groups/1146907010297502"
       }
     },
     {
@@ -1464,6 +1539,29 @@
       }
     },
     {
+      "id": "1909fe6db5521552e4803100f4cdbd63ad46dce85ba98423f1a8c9039999f081",
+      "title": "Julian, NC, US - March 29th - Quicksilver Canine",
+      "url": "https://updogchallenge.com/events/julian-nc-us-march-29th-quicksilver-canine/",
+      "details": {
+        "title": "Julian, NC, US – March 29th – Quicksilver Canine",
+        "club_name": "Quicksilver Canine",
+        "contact_name": "Leerie Jenkins",
+        "contact_email": "leerie.jenkins@gmail.com",
+        "event_address": "5600 Clarence Rd, Julian, NC 27283, United States",
+        "start_date": "3/29/2026",
+        "start_date_iso": "2026-03-29T00:00:00",
+        "notification_date": "2026-03-29",
+        "end_date": "3/29/2026",
+        "end_date_iso": "2026-03-29T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Indoors on turf"
+      }
+    },
+    {
       "id": "9244c03cacff8d50780f775610fc6db4410ad70d70fd3997810e4622927444c8",
       "title": "Kelowna, BC, CA - April 3rd & 4th - Kelowna Disc Dogs",
       "url": "https://updogchallenge.com/events/kelowna-bc-ca-april-3rd-4th-kelowna-disc-dogs/",
@@ -1612,6 +1710,29 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "662668eda7e236b7d7d5db59fbc9f4dd2e65004c66316c691600a3edd5ca9b3c",
+      "title": "Princeton, IL, US - April 17th thru 19th - Harmony Training Club",
+      "url": "https://updogchallenge.com/events/princeton-il-us-april-17th-thru-19th-harmony-training-club/",
+      "details": {
+        "title": "Princeton, IL, US – April 17th thru 19th – Harmony Training Club",
+        "club_name": "Harmony Training Club",
+        "contact_name": "Lynette VandeVenter",
+        "contact_email": "thecains91@gmail.com",
+        "event_address": "1616 North Main Street, Princeton, Illinois 61356, United States",
+        "start_date": "4/17/2026",
+        "start_date_iso": "2026-04-17T00:00:00",
+        "notification_date": "2026-04-17",
+        "end_date": "4/19/2026",
+        "end_date_iso": "2026-04-19T00:00:00",
+        "start_time": "3:30 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Field is completely fenced in except for a couple open gates at the far end away from the field."
       }
     },
     {
@@ -2024,6 +2145,63 @@
       }
     },
     {
+      "id": "f4843759589f926016283f53721215526163c7ba54c4dfde2ab03e35585d6a5e",
+      "title": "Walkersville, MD, US - May 2nd & 3rd - Camp Hill and Howl Dog Sports",
+      "url": "https://updogchallenge.com/events/walkersville-md-us-may-2nd-3rd-camp-hill-and-howl-dog-sports/",
+      "details": {
+        "title": "Walkersville, MD, US – May 2nd & 3rd – Camp Hill and Howl Dog Sports",
+        "club_name": "Camp Hill and Howl Dog Sports",
+        "contact_name": "Di Matteson",
+        "contact_email": "camphillandhowldogsports@gmail.com",
+        "event_address": "10317 Harp Road, Walkersville, MD 21793, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp",
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "72cef3199a1641c98a67498f9987845d65e65eb0e6e2aa84d6235218d4a97289",
+      "title": "Brookfield, WI, US - May 2nd - Think Pawsitive Dog Training",
+      "url": "https://updogchallenge.com/events/brookfield-wi-us-may-2nd-think-pawsitive-dog-training/",
+      "details": {
+        "title": "Brookfield, WI, US – May 2nd – Think Pawsitive Dog Training",
+        "club_name": "Breaking the ICE-Think Pawsitive Dog Training",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "katie@thinkpawsitivedog.com",
+        "event_address": "Brookfield Indoor Soccer Complex, 19485 Lisbon Rd, Brookfield, WI 53045, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This event will be held on an indoor soccer field featuring indoor turf with a rubberized base. The field is fully fenced on all sides, with a limited entrance/exit for safe and controlled flow of dogs and handlers.\nGames will run in a scheduled running order by time and will be held in conjunction with a UKI ICE Agility Trial. Competitors participating in both the UKI trial and the UpDog event will be accommodated to help ensure dogs are able to run in both events.\nSite Amenities:\nAmple parking available\nLimited RV overnight registrations available\nIndoor concessions on-site\nIndoor crating available immediately adjacent to the field\nAwards\nAwards will be given in three divisions: Beginner, Intermediate, and Expert.\nVolunteers Needed\nVolunteers are needed to help the event run smoothly and will be eligible for volunteer gift basket drawings.\nQuestions?\nFor additional information, please contact:\nKatie Oilschlager —\nkatie@thinkpawsitivedog.com",
+        "prereg_url": "https://thinkpawsitivedog.com/events2/k9-disc-events/"
+      }
+    },
+    {
       "id": "a83a4119a0fb0023fc09f22c883e208833705a97bbf04b3b9fddbe4d667998a1",
       "title": "Dacula, GA, US - May 2nd & 3rd - Forest City Sport Dogs",
       "url": "https://updogchallenge.com/events/dacula-ga-us-may-2nd-3rd-forest-city-sport-dogs/",
@@ -2345,6 +2523,42 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "For the most up-to-date info on events, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/share/16YiDprWFy/?mibextid=wwXIfr"
+      }
+    },
+    {
+      "id": "5f345516e87061a2404e70bdff7c20709cda6e37fb6dfb76023af51d81b22cef",
+      "title": "Nanaimo, BC, CA - May 16th & 18th - Van Isle Disc Dogs",
+      "url": "https://updogchallenge.com/events/nanaimo-bc-ca-may-16th-18th-van-isle-disc-dogs/",
+      "details": {
+        "title": "Nanaimo, BC, CA – May 16th & 18th – Van Isle Disc Dogs",
+        "club_name": "Van Isle Disc Dogs",
+        "contact_name": "Jade Zwingli",
+        "contact_email": "info@vanislediscdogs.ca",
+        "event_address": "1640 MacMillan Rd, Nanaimo, BC V9X 1L9, Canada",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/18/2026",
+        "end_date_iso": "2026-05-18T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Our club facebook group will have all the info:\nhttps://www.facebook.com/groups/1146907010297502"
       }
     },
     {
@@ -3208,6 +3422,31 @@
       }
     },
     {
+      "id": "0c699e0715e059d07539f19c022cd0cc9ba2d8d0fa71b7ad74c78e3181cc9792",
+      "title": "Walkersville, MD, US - June 12th - Camp Hill and Howl Dog Sports",
+      "url": "https://updogchallenge.com/events/walkersville-md-us-june-12th-camp-hill-and-howl-dog-sports/",
+      "details": {
+        "title": "Walkersville, MD, US – June 12th – Camp Hill and Howl Dog Sports",
+        "club_name": "Camp Hill and Howl Dog Sports",
+        "contact_name": "Di Matteson",
+        "contact_email": "camphillandhowldogsports@gmail.com",
+        "event_address": "10317 Harp Road, Walkersville, Maryland 21793, United States",
+        "start_date": "6/12/2026",
+        "start_date_iso": "2026-06-12T00:00:00",
+        "notification_date": "2026-06-12",
+        "end_date": "6/12/2026",
+        "end_date_iso": "2026-06-12T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Time Warp",
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "588fb7bc7dd842349a8a5020480aae5d7d335deafb783c3b379be88f39dc61cc",
       "title": "Garland, TX, US - June 12th & 13th - UpDog Dallas - Crossover Crown",
       "url": "https://updogchallenge.com/events/garland-tx-us-june-12th-13th-updog-dallas-crossover-crown/",
@@ -3871,6 +4110,31 @@
           "7Up"
         ],
         "additional_event_information_for_participants": "Crossover Crown – one round of each crossover game"
+      }
+    },
+    {
+      "id": "23f2da54c1621d34e6210c3f88299bce0d35ce56d6b3fd3881cd09df2b833a41",
+      "title": "Walkersville, MD, US - June 26th - Camp Hill and Howl Dog Sports",
+      "url": "https://updogchallenge.com/events/walkersville-md-us-june-26th-camp-hill-and-howl-dog-sports/",
+      "details": {
+        "title": "Walkersville, MD, US – June 26th – Camp Hill and Howl Dog Sports",
+        "club_name": "Camp Hill and Howl Dog Sports",
+        "contact_name": "Di Matteson",
+        "contact_email": "camphillandhowldogsports@gmail.com",
+        "event_address": "10317 Harp Road, Walkersville, Maryland 21793, United States",
+        "start_date": "6/26/2026",
+        "start_date_iso": "2026-06-26T00:00:00",
+        "notification_date": "2026-06-26",
+        "end_date": "6/26/2026",
+        "end_date_iso": "2026-06-26T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Time Warp",
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -5863,6 +6127,29 @@
       }
     },
     {
+      "id": "e7a77236a17671e55ea0127dbbe6cb5ac7cff97bffaedae9177b5575c8c004d6",
+      "title": "Walkersville, MD, US - Sept 26th & 27th - Camp Hill and Howl Dog Sports",
+      "url": "https://updogchallenge.com/events/walkersville-md-us-sept-26th-27th-camp-hill-and-howl-dog-sports/",
+      "details": {
+        "title": "Walkersville, MD, US – Sept 26th & 27th – Camp Hill and Howl Dog Sports",
+        "club_name": "Camp Hill and Howl Dog Sports",
+        "contact_name": "Di Matteson",
+        "contact_email": "camphillandhowldogsports@gmail.com",
+        "event_address": "10317 Harp Road, Walkersville, Maryland 21793, United States",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Facebook page: Camp Hill and Howl Dog Sports"
+      }
+    },
+    {
       "id": "0e45960f58a76665d830f1b371cc52feb842453e697b87c3cdc3fb1209cd090d",
       "title": "Shermans Dale, PA, US - Oct 1st thru 4th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-25th-thru-27th-woof-pack-disc-dogs/",
@@ -6418,6 +6705,39 @@
           "Throw N Go",
           "Time Warp"
         ]
+      }
+    },
+    {
+      "id": "a947a18980d1a07ab3897f494e33b7203190bd6aa38cfbf6f1b7bd350ad82338",
+      "title": "Gretna, VA, US - Nov 14th & 15th - Leesville Lake Campground",
+      "url": "https://updogchallenge.com/events/gretna-va-us-nov-14th-15th-leesville-lake-campground/",
+      "details": {
+        "title": "Gretna, VA, US – Nov 14th & 15th – Leesville Lake Campground",
+        "club_name": "Leesville Lake Campground",
+        "contact_name": "Tracy Love",
+        "contact_email": "contactus@llcampground.com",
+        "event_address": "3129 Gallows Rd, Gretna, Virginia, VA 24557, United States",
+        "start_date": "11/14/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "notification_date": "2026-11-14",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://llcampground.com/events.html"
       }
     },
     {
