@@ -1,30 +1,7 @@
 {
-  "last_updated": "2026-02-07T08:28:41Z",
-  "count": 288,
+  "last_updated": "2026-02-08T08:31:44Z",
+  "count": 286,
   "events": [
-    {
-      "id": "c67b0f98a31568f62d2514266fc4947ea38e93008bf29c3b2a510c874f2b4844",
-      "title": "Seville, OH, US - Feb 7th - Dawg Gone It",
-      "url": "https://updogchallenge.com/events/seville-oh-us-feb-7th-dawg-gone-it/",
-      "details": {
-        "title": "Seville, OH, US – Feb 7th – Dawg Gone It",
-        "club_name": "Dawg Gone It",
-        "contact_name": "Heidi Pitts",
-        "contact_email": "graehm@gmail.com",
-        "event_address": "5628 buffham Road, Seville, OH 44273, United States",
-        "start_date": "2/7/2026",
-        "start_date_iso": "2026-02-07T00:00:00",
-        "notification_date": "2026-02-07",
-        "end_date": "2/7/2026",
-        "end_date_iso": "2026-02-07T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Indoors on turf with limited buffer"
-      }
-    },
     {
       "id": "4c8e3791414680381aa9464cc8542e6920d63821c36026d997718e636b5f220c",
       "title": "Dacula, GA, US - Feb 7th & 8th - Forest City Sport Dogs",
@@ -80,32 +57,6 @@
         "start_time": "9:00 AM",
         "end_time": "4:00 PM",
         "additional_event_information_for_participants": "Criterion Freestyle\nPerformance Freestyle\nTNG\nSpaced Out\nFrizgility\nTimeWarp\nBoom\nFunkey\nhttps://form.jotform.com/260057408602047"
-      }
-    },
-    {
-      "id": "2ac4b70eef0596998bddc4402348e5c6536a56d9a1de3b811bddec550c3bcbc0",
-      "title": "Myakka City, FL, US - Feb 7th - Florida K9 Sports/Shockwave Disc Dogs",
-      "url": "https://updogchallenge.com/events/myakka-city-fl-us-feb-7th-florida-k9-sports-shockwave-disc-dogs/",
-      "details": {
-        "title": "Myakka City, FL, US – Feb 7th – Florida K9 Sports/Shockwave Disc Dogs",
-        "club_name": "Florida K9 Sports/Shockwave Disc Dogs",
-        "contact_name": "Jay Nichols",
-        "contact_email": "Flk9sports@gmail.com",
-        "event_address": "43525 SR 64 E, Myakka City, FL 34251, United States",
-        "start_date": "2/7/2026",
-        "start_date_iso": "2026-02-07T00:00:00",
-        "notification_date": "2026-02-07",
-        "end_date": "2/7/2026",
-        "end_date_iso": "2026-02-07T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Boom!",
-          "FunKey",
-          "Spaced Out"
-        ],
-        "additional_event_information_for_participants": "This will be a learn and play event where the judge will teach each game along with strategies to help with scoring more points for each game. We will wrap up after lunch with each game open to anyone to sign up.",
-        "prereg_url": "https://forms.gle/1jxTHfjjcPg8fDLB7"
       }
     },
     {
