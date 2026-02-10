@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-09T08:48:43Z",
-  "count": 283,
+  "last_updated": "2026-02-10T08:49:51Z",
+  "count": 287,
   "events": [
     {
       "id": "44d56dee722263f4332e1917089c49c95818960a20708e9226dee03ff07fee2f",
@@ -536,35 +536,6 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "We will also be playing 4 Way Play Level 2 and Frizgility Level 2."
-      }
-    },
-    {
-      "id": "ed09633c6b4f3dea31d27034226b61f40a343b207ea876c0a6018013c0e8203f",
-      "title": "Ropesville, TX, US - March 7th & 8th - Rocking Paw Dog Training",
-      "url": "https://updogchallenge.com/events/ropesville-tx-us-march-7th-8th-rocking-paw-dog-training/",
-      "details": {
-        "title": "Ropesville, TX, US – March 7th & 8th – Rocking Paw Dog Training",
-        "club_name": "Rocking Paw Dog Training",
-        "contact_name": "Daniel Suda",
-        "contact_email": "dksuda13@gmail.com",
-        "event_address": "6634 Foster Rd, Ropesville, TX 79358, United States",
-        "start_date": "3/7/2026",
-        "start_date_iso": "2026-03-07T00:00:00",
-        "notification_date": "2026-03-07",
-        "end_date": "3/8/2026",
-        "end_date_iso": "2026-03-08T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Registration Link:\nhttps://forms.gle/V4YZAC586oTgcHxo9\nGame Order:\nFireball\nFour Way Play\nGreedy\nSpaced Out\nTime Warp\nThrow N Go",
-        "prereg_url": "https://forms.gle/V4YZAC586oTgcHxo9"
       }
     },
     {
@@ -1532,6 +1503,28 @@
       }
     },
     {
+      "id": "9709f7eff08dae6648538b84d08ee8a5c6f204d44375bd877558a44d8fcdcc91",
+      "title": "Bridgewater, NS, CA - April 5th - Irishmans Rd Trackers",
+      "url": "https://updogchallenge.com/events/bridgewater-ns-ca-april-5th-irishmans-rd-trackers/",
+      "details": {
+        "title": "Bridgewater, NS, CA – April 5th – Irishmans Rd Trackers",
+        "club_name": "Irishmans Rd Trackers",
+        "contact_name": "Suzanne Phillips",
+        "contact_email": "suzannegphillips25@gmail.com",
+        "event_address": "HB Studios Sports Center, Bridgewater, Nova Scotia B4V 0A8, Canada",
+        "start_date": "4/5/2026",
+        "start_date_iso": "2026-04-05T00:00:00",
+        "notification_date": "2026-04-05",
+        "end_date": "4/5/2026",
+        "end_date_iso": "2026-04-05T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "61cc6c819c5a664b236f19bfa0de1c97ab44d5cb36cd1cf964ae3a9145cf1916",
       "title": "Odenville, AL, US - April 11th - CC Canine Air Dogs Club",
       "url": "https://updogchallenge.com/events/odenville-al-us-april-11th-cc-canine-air-dogs-club/",
@@ -2396,6 +2389,34 @@
       }
     },
     {
+      "id": "3185dc75eb3d7afb1fd00f897c139ee40284b0501214367527eb0c0ead81a9a1",
+      "title": "Gray Summit, MO, US - May 16th & 17th - Nebraska Disc Dogs",
+      "url": "https://updogchallenge.com/events/gray-summit-mo-us-may-16th-17th-nebraska-disc-dogs/",
+      "details": {
+        "title": "Gray Summit, MO, US – May 16th & 17th – Nebraska Disc Dogs",
+        "club_name": "Nebraska Disc Dogs",
+        "contact_name": "Andrew Strovers",
+        "contact_email": "ADStrovers@gmail.com",
+        "event_address": "300 Checkerboard Dr, Gray Summit, MO 63039, United States",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Part of the MASCUSA Nationals 2026 event"
+      }
+    },
+    {
       "id": "5f345516e87061a2404e70bdff7c20709cda6e37fb6dfb76023af51d81b22cef",
       "title": "Nanaimo, BC, CA - May 16th & 18th - Van Isle Disc Dogs",
       "url": "https://updogchallenge.com/events/nanaimo-bc-ca-may-16th-18th-van-isle-disc-dogs/",
@@ -2825,6 +2846,39 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "b9be6d4a0786968219f414de33fbe177f1877108a730dda568729b7966b75289",
+      "title": "McRae, AR, US - Central Arkansas Disc Dog Organization - Crossover Crown",
+      "url": "https://updogchallenge.com/events/mcrae-ar-us-central-arkansas-disc-dog-organization-crossover-crown/",
+      "details": {
+        "title": "McRae, AR, US – Central Arkansas Disc Dog Organization – Crossover Crown",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "112 Webb Hill Road, McRae, AR 72012, United States",
+        "start_date": "5/30/2026",
+        "start_date_iso": "2026-05-30T00:00:00",
+        "notification_date": "2026-05-30",
+        "end_date": "5/31/2026",
+        "end_date_iso": "2026-05-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/CentralArkansasDiscDogOrganization/CADDOs2026CrossoverCrown"
       }
     },
     {
@@ -4938,17 +4992,17 @@
     },
     {
       "id": "9cb398ae10593d20c6d2220723de5e5eeba38e2cfe73af033db4b13642e9628d",
-      "title": "Shermans Dale, PA, US - Aug 2nd - Woof Pack Disc Dogs",
+      "title": "Shermans Dale, PA, US - Aug 1st & 2nd - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-aug-2nd-woof-pack-disc-dogs/",
       "details": {
-        "title": "Shermans Dale, PA, US – Aug 2nd – Woof Pack Disc Dogs",
+        "title": "Shermans Dale, PA, US – Aug 1st & 2nd – Woof Pack Disc Dogs",
         "club_name": "Woof Pack Disc Dogs",
         "contact_name": "Emily Leiby",
         "contact_email": "woofpackdiscdogs@gmail.com",
         "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
-        "start_date": "8/2/2026",
-        "start_date_iso": "2026-08-02T00:00:00",
-        "notification_date": "2026-08-02",
+        "start_date": "8/1/2026",
+        "start_date_iso": "2026-08-01T00:00:00",
+        "notification_date": "2026-08-01",
         "end_date": "8/2/2026",
         "end_date_iso": "2026-08-02T00:00:00",
         "start_time": "8:00 AM",
@@ -5552,6 +5606,39 @@
         ],
         "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
         "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormSeptember2026"
+      }
+    },
+    {
+      "id": "291ae4cbb3935fb5825a431eb5ae887ce2b653e2030f1359113c48d0c62db785",
+      "title": "McRae, AR, US - Sept 5th & 6th - Central Arkansas Disc Dog Organization - Triple Crown",
+      "url": "https://updogchallenge.com/events/mcrae-ar-us-sept-5th-6th-central-arkansas-disc-dog-organization-triple-crown/",
+      "details": {
+        "title": "McRae, AR, US – Sept 5th & 6th – Central Arkansas Disc Dog Organization – Triple Crown",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "112 Webb Hill Road, McRae, AR 72012, United States",
+        "start_date": "9/5/2026",
+        "start_date_iso": "2026-09-05T00:00:00",
+        "notification_date": "2026-09-05",
+        "end_date": "9/6/2026",
+        "end_date_iso": "2026-09-06T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/centralarkansasdiscdogorganization/caddos2026triplecrown/publish"
       }
     },
     {
@@ -6358,6 +6445,39 @@
         ],
         "additional_event_information_for_participants": "Leesville Lake Campground’s Howl-o-ween weekend. Saturday night music, S’mores costumes and lots of Halloween fun! For on-site camping reservations:\nhttps://llcampground.com/reservations.html",
         "prereg_url": "https://llcampground.com/events.html"
+      }
+    },
+    {
+      "id": "ac72acb4c600286217f52149fbde6b6f2784694ab94a97ae8cf335e69821584e",
+      "title": "McRae, AR, US - Oct 24th & 25th - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/mcrae-ar-us-oct-24th-25th-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "McRae, AR, US – Oct 24th & 25th – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "112 Webb Hill Road, McRae, AR 72012, United States",
+        "start_date": "10/24/2026",
+        "start_date_iso": "2026-10-24T00:00:00",
+        "notification_date": "2026-10-24",
+        "end_date": "10/25/2026",
+        "end_date_iso": "2026-10-25T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/CentralArkansasDiscDogOrganization/CADDOsOctober2026Event"
       }
     },
     {
