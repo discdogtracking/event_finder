@@ -1,30 +1,7 @@
 {
-  "last_updated": "2026-02-11T08:48:31Z",
-  "count": 287,
+  "last_updated": "2026-02-12T08:45:44Z",
+  "count": 295,
   "events": [
-    {
-      "id": "44d56dee722263f4332e1917089c49c95818960a20708e9226dee03ff07fee2f",
-      "title": "Williamston, NC, US - Feb 13th & 14th - Hat Trick Caos",
-      "url": "https://updogchallenge.com/events/williamston-nc-us-feb-13th-14th-hat-trick-caos/",
-      "details": {
-        "title": "Williamston, NC, US – Feb 13th & 14th – Hat Trick Caos",
-        "club_name": "Hat Trick Caos",
-        "contact_name": "Jules Asbed",
-        "contact_email": "HTCDogSports@gmail.com",
-        "event_address": "1106 Penelope Lane, Williamston, NC 27892, United States",
-        "start_date": "2/13/2026",
-        "start_date_iso": "2026-02-13T00:00:00",
-        "notification_date": "2026-02-13",
-        "end_date": "2/14/2026",
-        "end_date_iso": "2026-02-14T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "4 games per day, which games each day TBD\nPOINTS ONLY EVENT"
-      }
-    },
     {
       "id": "2cf89aae18806e723ab4825e37f1fca601a6d4d537e0a6e0da7e585368a2dfcd",
       "title": "Garland, TX, US - Feb 14th & 15th - UpDog Dallas",
@@ -720,6 +697,35 @@
       }
     },
     {
+      "id": "f689937563025896ac9dede61ebc6d14528c119fbe5b81bb14dbd33cdb5175d2",
+      "title": "Baytown, TX, US - March 15th - Disc Dogs of Greater Houston",
+      "url": "https://updogchallenge.com/events/baytown-tx-us-march-15th-disc-dogs-of-greater-houston/",
+      "details": {
+        "title": "Baytown, TX, US – March 15th – Disc Dogs of Greater Houston",
+        "club_name": "Disc Dogs of Greater Houston",
+        "contact_name": "Madisyn Brownlee",
+        "contact_email": "ddofgreaterhouston@gmail.com",
+        "event_address": "9600 N Main St., Baytown, TX 77521, United States",
+        "start_date": "3/15/2026",
+        "start_date_iso": "2026-03-15T00:00:00",
+        "notification_date": "2026-03-15",
+        "end_date": "3/15/2026",
+        "end_date_iso": "2026-03-15T00:00:00",
+        "start_time": "7:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Paired with the 2026 Texas Quad. Follow us on Facebook using the Facebook Event Link to keep up to date with running orders, game order, and any additional information.\nhttps://www.facebook.com/share/1Lba8bW89A/",
+        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfGreaterHouston/DDOGHLandOfOil2026"
+      }
+    },
+    {
       "id": "6c988ec199819b3de5c89945b7ffaf528012dcb8af833b7d0f5ad24dbe8332fe",
       "title": "Crozet, VA, US - March 15th - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/crozet-va-us-march-15th-gdu-disc-dogs/",
@@ -1354,6 +1360,29 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "UPDIF prep outdoors on a full field! Follow our Facebook page, Woof Pack Disc Dogs, for the most up-to-date information!\nhttps://www.facebook.com/woofpackdiscdogs"
+      }
+    },
+    {
+      "id": "44d56dee722263f4332e1917089c49c95818960a20708e9226dee03ff07fee2f",
+      "title": "Williamston, NC, US - March 28th & 29th - Hat Trick Caos",
+      "url": "https://updogchallenge.com/events/williamston-nc-us-feb-13th-14th-hat-trick-caos/",
+      "details": {
+        "title": "Williamston, NC, US – March 28th & 29th – Hat Trick Caos",
+        "club_name": "Hat Trick Caos",
+        "contact_name": "Jules Asbed",
+        "contact_email": "HTCDogSports@gmail.com",
+        "event_address": "1106 Penelope Lane, Williamston, NC 27892, United States",
+        "start_date": "3/28/2026",
+        "start_date_iso": "2026-03-28T00:00:00",
+        "notification_date": "2026-03-28",
+        "end_date": "3/29/2026",
+        "end_date_iso": "2026-03-29T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "4 games per day, which games each day TBD\nPOINTS ONLY EVENT"
       }
     },
     {
@@ -2121,6 +2150,28 @@
       }
     },
     {
+      "id": "c451a3e0a92226bbbcb7956528d8223124a40db01fe7fc1c75df5cf2534915ef",
+      "title": "Rochester, MN, US - May 2nd - QuickWits Disc Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-may-2nd-quickwits-disc-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – May 2nd – QuickWits Disc Dogs",
+        "club_name": "QuickWits Disc Dogs",
+        "contact_name": "Abigail Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 West River Pkwy NW, Rochester, MN 55901, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "c61ea97aa31ae9319b83048651aa31496f9b77596107eac7588981a0a79f349f",
       "title": "Lumsden, SK, CA - May 3rd - Regina Disc Dog Club",
       "url": "https://updogchallenge.com/events/lumsden-sk-ca-may-3rd-regina-disc-dog-club/",
@@ -2389,6 +2440,38 @@
       }
     },
     {
+      "id": "130f28bc0694999d1f3e516f3d9694f9b194e451e593b9f7ccf41d7c15466fc4",
+      "title": "Davison, MI, US - May 16th & 17th - DDOM",
+      "url": "https://updogchallenge.com/events/davison-mi-us-may-16th-17th-ddom/",
+      "details": {
+        "title": "Davison, MI, US – May 16th & 17th – DDOM",
+        "club_name": "DDOM",
+        "contact_name": "Scott Jones",
+        "contact_email": "frisbeejones@gmail.com",
+        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
+      }
+    },
+    {
       "id": "3185dc75eb3d7afb1fd00f897c139ee40284b0501214367527eb0c0ead81a9a1",
       "title": "Gray Summit, MO, US - May 16th & 17th - Nebraska Disc Dogs",
       "url": "https://updogchallenge.com/events/gray-summit-mo-us-may-16th-17th-nebraska-disc-dogs/",
@@ -2621,6 +2704,32 @@
           "Greedy",
           "7Up",
           "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
+      "id": "93cda053b81457ffafc6645f1210c5f05fcf6debb0358230644a48dd73ea2c3d",
+      "title": "Rozental, Poland - May 23rd & 24th - Katarzyna Kaminska",
+      "url": "https://updogchallenge.com/events/rozental-poland-may-23rd-24th-katarzyna-kaminska/",
+      "details": {
+        "title": "Rozental, Poland – May 23rd & 24th – Katarzyna Kaminska",
+        "club_name": "Katarzyna Kaminska",
+        "contact_name": "Katarzyna Kamińska",
+        "contact_email": "kasiarlz94@gmail.com",
+        "event_address": "Rożental, Rozental, warmińsko-mazurskie 14-200, Poland",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Frizgility",
           "Throw N Go",
           "Time Warp"
         ]
@@ -2968,6 +3077,31 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "59889eadb1382cfb958f591ecbe8d8d2a4fa1d78077d4f3a519f4ad26627eb28",
+      "title": "Labelle, QC, CA - May 31st - Frisbee Canin Laurentides/Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-may-31st-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – May 31st – Frisbee Canin Laurentides/Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "5/31/2026",
+        "start_date_iso": "2026-05-31T00:00:00",
+        "notification_date": "2026-05-31",
+        "end_date": "5/31/2026",
+        "end_date_iso": "2026-05-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Freestyle",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Prix pour la meilleur chapeau",
+        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
       }
     },
     {
@@ -4127,6 +4261,38 @@
       }
     },
     {
+      "id": "c1c8c531ba7b89dad4c46f128b0e8ea354cecc88260424b16162a3038b081e2c",
+      "title": "Davison, MI, US - June 27th & 28th - DDOM",
+      "url": "https://updogchallenge.com/events/davison-mi-us-june-27th-28th-ddom-2/",
+      "details": {
+        "title": "Davison, MI, US – June 27th & 28th – DDOM",
+        "club_name": "DDOM",
+        "contact_name": "Scott Jones",
+        "contact_email": "frisbeejones@gmail.com",
+        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
+      }
+    },
+    {
       "id": "b1e120d29c8e55d129fb10af6d1de3d1b643d2ac016e8764d15b90ea5ae47d64",
       "title": "North East, PA, US - June 27th - Flagship Dog Sports",
       "url": "https://updogchallenge.com/events/north-east-pa-us-june-27th-flagship-dog-sports/",
@@ -4426,6 +4592,32 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided."
+      }
+    },
+    {
+      "id": "c05dfe17f7849436b381f40064761a5b09505779c5e3c544fe2f7ce8614059d5",
+      "title": "Rozental, Poland - July 11th & 12th - Katarzyna Kaminska",
+      "url": "https://updogchallenge.com/events/rozental-poland-july-11th-12th-katarzyna-kaminska/",
+      "details": {
+        "title": "Rozental, Poland – July 11th & 12th – Katarzyna Kaminska",
+        "club_name": "Katarzyna Kaminska",
+        "contact_name": "Katarzyna Kamińska",
+        "contact_email": "kasiarlz94@gmail.com",
+        "event_address": "Rożental, Rozental, warmińsko-mazurskie 14-200, Poland",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Frizgility",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -4914,6 +5106,38 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "1c0c9e57c41f87bbd1ed8ea2e8a60a14dc4b09a9c58850793e601a274c818349",
+      "title": "Davison, MI, US - July 25th & 26th - DDOM",
+      "url": "https://updogchallenge.com/events/davison-mi-us-july-25th-26th-ddom/",
+      "details": {
+        "title": "Davison, MI, US – July 25th & 26th – DDOM",
+        "club_name": "DDOM",
+        "contact_name": "Scott Jones",
+        "contact_email": "frisbeejones@gmail.com",
+        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
+        "start_date": "7/25/2026",
+        "start_date_iso": "2026-07-25T00:00:00",
+        "notification_date": "2026-07-25",
+        "end_date": "7/26/2026",
+        "end_date_iso": "2026-07-26T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
       }
     },
     {
