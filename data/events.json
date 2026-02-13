@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T08:45:44Z",
+  "last_updated": "2026-02-13T08:42:52Z",
   "count": 295,
   "events": [
     {
@@ -1951,28 +1951,6 @@
       }
     },
     {
-      "id": "25083e94ca1e4d7c2cb5daea8e6fd5aaa22813b5d14664eabf441c320fd11efa",
-      "title": "Bridgewater, NS, CA - May 2nd - Gale Force Disc Dogs",
-      "url": "https://updogchallenge.com/events/bridgewater-ns-ca-may-2nd-gale-force-disc-dogs/",
-      "details": {
-        "title": "Bridgewater, NS, CA – May 2nd – Gale Force Disc Dogs",
-        "club_name": "Gale Force Disc Dogs",
-        "contact_name": "Ashley McGuiness",
-        "contact_email": "galeforcediscdogs@gmail.com",
-        "event_address": "543 Glen Allan Drive, Bridgewater, NS B4V 0A8, Canada",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
       "id": "38b2213dc1232f412b86a6bec790c27320406f355b99feb0f9df438411131ce4",
       "title": "Sultan, WA, US - May 2nd & 3rd - Evergreen Disc Dogs",
       "url": "https://updogchallenge.com/events/sultan-wa-us-may-2nd-3rd-evergreen-disc-dogs/",
@@ -2292,6 +2270,28 @@
         "end_date": "5/9/2026",
         "end_date_iso": "2026-05-09T00:00:00",
         "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "25083e94ca1e4d7c2cb5daea8e6fd5aaa22813b5d14664eabf441c320fd11efa",
+      "title": "Bridgewater, NS, CA - May 10th - Gale Force Disc Dogs",
+      "url": "https://updogchallenge.com/events/bridgewater-ns-ca-may-2nd-gale-force-disc-dogs/",
+      "details": {
+        "title": "Bridgewater, NS, CA – May 10th – Gale Force Disc Dogs",
+        "club_name": "Gale Force Disc Dogs",
+        "contact_name": "Ashley McGuiness",
+        "contact_email": "galeforcediscdogs@gmail.com",
+        "event_address": "543 Glen Allan Drive, Bridgewater, NS B4V 0A8, Canada",
+        "start_date": "5/10/2026",
+        "start_date_iso": "2026-05-10T00:00:00",
+        "notification_date": "2026-05-10",
+        "end_date": "5/10/2026",
+        "end_date_iso": "2026-05-10T00:00:00",
+        "start_time": "8:00 AM",
         "end_time": "5:00 PM",
         "games": [
           "To Be Determined"
