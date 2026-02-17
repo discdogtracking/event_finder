@@ -1,32 +1,7 @@
 {
-  "last_updated": "2026-02-16T08:45:11Z",
-  "count": 290,
+  "last_updated": "2026-02-17T08:42:58Z",
+  "count": 289,
   "events": [
-    {
-      "id": "0e13a01c4a8b49ed42261f71202cb32f52ea6dceda0554dff5c5928f7e927034",
-      "title": "Jacksonville, FL, US - Feb 16th - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/jacksonville-fl-us-feb-16th-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Jacksonville, FL, US – Feb 16th – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, FL 32218, United States",
-        "start_date": "2/16/2026",
-        "start_date_iso": "2026-02-16T00:00:00",
-        "notification_date": "2026-02-16",
-        "end_date": "2/16/2026",
-        "end_date_iso": "2026-02-16T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSekFIOnV90Hp529wkSpORW8h4FESHxpZ8wndoKn3sJQoT889g/viewform?usp=sharing&ouid=117082340558913374272"
-      }
-    },
     {
       "id": "ef51245e71d1ab418337ebff64f2a61d049324809529dd267ead2281db5efeb3",
       "title": "Phoenix, AZ, US - Feb 21st & 22nd - East Valley Sport Dog Club",
@@ -6214,14 +6189,14 @@
     },
     {
       "id": "0e45960f58a76665d830f1b371cc52feb842453e697b87c3cdc3fb1209cd090d",
-      "title": "Shermans Dale, PA, US - Oct 1st thru 4th - Woof Pack Disc Dogs",
+      "title": "Mechanicsburg, PA, US - Oct 1st thru 4th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-25th-thru-27th-woof-pack-disc-dogs/",
       "details": {
-        "title": "Shermans Dale, PA, US – Oct 1st thru 4th – Woof Pack Disc Dogs",
+        "title": "Mechanicsburg, PA, US – Oct 1st thru 4th – Woof Pack Disc Dogs",
         "club_name": "Woof Pack Disc Dogs",
         "contact_name": "Emily Leiby",
         "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
+        "event_address": "Steam Engine Hill Mechanicsburg, PA 17055",
         "start_date": "10/1/2026",
         "start_date_iso": "2026-10-01T00:00:00",
         "notification_date": "2026-10-01",
