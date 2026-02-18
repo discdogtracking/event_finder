@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T08:42:58Z",
+  "last_updated": "2026-02-18T08:43:05Z",
   "count": 289,
   "events": [
     {
@@ -2223,6 +2223,39 @@
       }
     },
     {
+      "id": "24cee66755964f457a9de54a4084ee187a94f2bfe2acf98728f5fe49396065f6",
+      "title": "Green Bay, WI, US - May 16th & 17th - Northeast Wisconsin Australian Shepherd Club",
+      "url": "https://updogchallenge.com/events/green-bay-wi-us-may-16th-17th-northeast-wisconsin-australian-shepherd-club/",
+      "details": {
+        "title": "Green Bay, WI, US – May 16th & 17th – Northeast Wisconsin Australian Shepherd Club",
+        "club_name": "Northeast Wisconsin Australian Shepherd Club",
+        "contact_name": "Sarah Blodgett",
+        "contact_email": "SnapdragonAussies@gmail.com",
+        "event_address": "Packerland Kennel Club, 2031 Bellevue St., Green Bay, WI 54311, United States",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "9:00 AM",
+        "games": [
+          "Boom!",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Competition field in fenced. No food for sale on site. Indoor crating space available!",
+        "prereg_url": "https://www.newasclub.com/"
+      }
+    },
+    {
       "id": "39cefef8bbc640d8f81e886a4138619df05c11ab84908f3e4937d880429aa4cd",
       "title": "North Grosvenordale, MA, US - May 16th - Face to Face",
       "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-may-16th-face-to-face/",
@@ -2727,10 +2760,10 @@
     },
     {
       "id": "45c74e2ae8d93814d627b6b6885a82d3d4133ed9ccc083ada74a90300bbbd9b4",
-      "title": "Pilot Butte, SK, CA - May 30th & 31st - Encore Disc Dog Club",
+      "title": "Pilot Butte, SK, CA - May 30th & 31st - Encore Disc Dog Club - Crossover Crown",
       "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-may-30th-31st-encore-disc-dog-club/",
       "details": {
-        "title": "Pilot Butte, SK, CA – May 30th & 31st – Encore Disc Dog Club",
+        "title": "Pilot Butte, SK, CA – May 30th & 31st – Encore Disc Dog Club – Crossover Crown",
         "club_name": "Encore Disc Dog Club",
         "contact_name": "Cheryl Petryshyn",
         "contact_email": "encoredogsports@gmail.com",
@@ -3546,26 +3579,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This is a points only event."
-      }
-    },
-    {
-      "id": "50f994d69d0f78f789680af9808924354906b6c38ed5ca9806f81afce019eb4f",
-      "title": "Pilot Butte, SK, CA - June 14th - Encore Disc Dog Club - Crossover Crown",
-      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-june-14th-encore-disc-dog-club-crossover-crown/",
-      "details": {
-        "title": "Pilot Butte, SK, CA – June 14th – Encore Disc Dog Club – Crossover Crown",
-        "club_name": "Encore Disc Dog Club",
-        "contact_name": "Cheryl Petryshyn",
-        "contact_email": "encoredogsports@gmail.com",
-        "event_address": "6 Crocus Lane, Pilot Butte, SK S0G 3Z0, Canada",
-        "start_date": "6/14/2026",
-        "start_date_iso": "2026-06-14T00:00:00",
-        "notification_date": "2026-06-14",
-        "end_date": "6/14/2026",
-        "end_date_iso": "2026-06-14T00:00:00",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
