@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-18T08:43:05Z",
-  "count": 289,
+  "last_updated": "2026-02-19T08:42:00Z",
+  "count": 290,
   "events": [
     {
       "id": "ef51245e71d1ab418337ebff64f2a61d049324809529dd267ead2281db5efeb3",
@@ -2564,6 +2564,34 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Freestyle Criteria"
+      }
+    },
+    {
+      "id": "136180647f212b8d9d903f5bc310dd6bc513c2784b8636430f150f3fbc51118e",
+      "title": "Leesburg, VA, US - May 23rd & 24th - Potomac River Rapid Catchers",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-may-23rd-24th-potomac-river-rapid-catchers/",
+      "details": {
+        "title": "Leesburg, VA, US – May 23rd & 24th – Potomac River Rapid Catchers",
+        "club_name": "Potomac River Rapid Catchers",
+        "contact_name": "Karen Schutz",
+        "contact_email": "karen.a.schutz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This event is being held in conjunction with Flying Dog Agility’s Memorial Day UKI trial. While you do not need to register for agility to play disc, you are welcome to both! Run orders will be made to accommodate people who want to run both sports. Frizgility will be played at the conclusion of the agility rounds on Saturday, as a “disc at dusk”. Sunday will be Throw and go, Four Way Play, Greedy, and Time Warp. Saturday Frizgility limited to 30 funs, Sunday total limited to 150 runs.",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeMS7j8kGol0jXemwMnCVlAOX1kB8B26EL9VvL6eZmO1fMrUQ/viewform?usp=header"
       }
     },
     {
