@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-19T08:42:00Z",
-  "count": 290,
+  "last_updated": "2026-02-20T08:39:39Z",
+  "count": 294,
   "events": [
     {
       "id": "ef51245e71d1ab418337ebff64f2a61d049324809529dd267ead2281db5efeb3",
@@ -657,6 +657,29 @@
           "Throw N Go",
           "Time Warp"
         ]
+      }
+    },
+    {
+      "id": "4eeff8f4763b876dc61660274ea79321fb18082288b73070de4a35eb15d8a342",
+      "title": "Troy, VA, US - March 18th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-march-18th-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – March 18th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "3/18/2026",
+        "start_date_iso": "2026-03-18T00:00:00",
+        "notification_date": "2026-03-18",
+        "end_date": "3/18/2026",
+        "end_date_iso": "2026-03-18T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only event"
       }
     },
     {
@@ -1612,6 +1635,31 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This is a points only event."
+      }
+    },
+    {
+      "id": "43f1eb47630b72c291b077d58f23771533c83b386de83a6abb0ccd8a4f62339c",
+      "title": "Magnolia, TX, US - April 25th - Houston Canine Frisbee Disc Club",
+      "url": "https://updogchallenge.com/events/magnolia-tx-us-april-25th-houston-canine-frisbee-disc-club/",
+      "details": {
+        "title": "Magnolia, TX, US – April 25th – Houston Canine Frisbee Disc Club",
+        "club_name": "Houston Canine Frisbee Disc Club",
+        "contact_name": "Jill Best",
+        "contact_email": "jllbest@hotmail.com",
+        "event_address": "11931 Presley Drive, Magnolia, TX 77354, United States",
+        "start_date": "4/25/2026",
+        "start_date_iso": "2026-04-25T00:00:00",
+        "notification_date": "2026-04-25",
+        "end_date": "4/25/2026",
+        "end_date_iso": "2026-04-25T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -4115,6 +4163,35 @@
       }
     },
     {
+      "id": "3589bf4721d7e0b1bf9c2bd3121c9836c0ef0884f0c9a8867876001415588dd1",
+      "title": "Hillgrove, NB, CA - June 27th & 28th - Fredericton Disc Dog Club/Unleashed",
+      "url": "https://updogchallenge.com/events/hillgrove-nb-ca-june-27th-28th-fredericton-disc-dog-club-unleashed/",
+      "details": {
+        "title": "Hillgrove, NB, CA – June 27th & 28th – Fredericton Disc Dog Club/Unleashed",
+        "club_name": "Fredericton Disc Dog Club / Unleashed",
+        "contact_name": "Amanda Keddy",
+        "contact_email": "Amanda.Keddy@gnb.ca",
+        "event_address": "3420 Route 890, Hillgrove, New Brunswick E4Z 5W4, Canada",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go"
+        ]
+      }
+    },
+    {
       "id": "06eb34cef9b64e3429a213b6ddaa2d40b97d9147993711b2d49e5a2af2693bbb",
       "title": "Rio Dell, CA, US - June 27th & 28th - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-june-27th-28th-humboldt-disc-dog-club/",
@@ -5372,6 +5449,38 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "1f43ccf636ccad899312005f370c61358e8cb6e2c37ae0d9758a7563bb1ac8fa",
+      "title": "Davison, MI, US - Aug 16th - DDOM",
+      "url": "https://updogchallenge.com/events/davison-mi-us-aug-16th-ddom/",
+      "details": {
+        "title": "Davison, MI, US – Aug 16th – DDOM",
+        "club_name": "DDOM",
+        "contact_name": "Scott Jones",
+        "contact_email": "frisbeejones@gmail.com",
+        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
+        "start_date": "8/16/2026",
+        "start_date_iso": "2026-08-16T00:00:00",
+        "notification_date": "2026-08-16",
+        "end_date": "8/16/2026",
+        "end_date_iso": "2026-08-16T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
       }
     },
     {
