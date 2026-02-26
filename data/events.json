@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-25T08:45:41Z",
-  "count": 295,
+  "last_updated": "2026-02-26T08:45:15Z",
+  "count": 300,
   "events": [
     {
       "id": "8fea51e3fd5f2b67c96c809c79a4856ff9a9dd5125e0220abe47c5a26f42e258",
@@ -1864,6 +1864,28 @@
       }
     },
     {
+      "id": "0f800f5dd30d560d5555faaf562263af67fb94224c6dc503417d3a07089eb373",
+      "title": "Great Village, NS, CA - May 2nd - Bite Club - Colchester Disc Dog Club",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-may-2nd-bite-club-colchester-disc-dog-club/",
+      "details": {
+        "title": "Great Village, NS, CA – May 2nd – Bite Club – Colchester Disc Dog Club",
+        "club_name": "Colchester Disc Dog Club",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross Rd, Great Village, NS B0M 1L0, Canada",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "c451a3e0a92226bbbcb7956528d8223124a40db01fe7fc1c75df5cf2534915ef",
       "title": "Rochester, MN, US - May 2nd - QuickWits Disc Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-may-2nd-quickwits-disc-dogs/",
@@ -1905,6 +1927,29 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "19b251c517141d08ee71eb36b78d7d3bb19fe3e8a7f63447affe355084ba9d5f",
+      "title": "Jacksonville, FL, US - May 3rd - Bite Club - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fl-us-may-3rd-bite-club-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville, FL, US – May 3rd – Bite Club – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "12215 Sago Ave, Jacksonville, FL 32218, United States",
+        "start_date": "5/3/2026",
+        "start_date_iso": "2026-05-03T00:00:00",
+        "notification_date": "2026-05-03",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Spring Bite Club Weeks 1 & 2\nSpring Bite Club Weeks 3 & 4"
       }
     },
     {
@@ -2007,6 +2052,28 @@
         "end_date_iso": "2026-05-09T00:00:00",
         "start_time": "9:00 AM",
         "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "6e14550e4ebb66b296a0eaa022034a734b728e689336678a972ca7c3012ce9a1",
+      "title": "Great Village, NS, CA - May 9th - Bite Club - Colchester Disc Dog Club",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-may-9th-bite-club-colchester-disc-dog-club/",
+      "details": {
+        "title": "Great Village, NS, CA – May 9th – Bite Club – Colchester Disc Dog Club",
+        "club_name": "Colchester Disc Dog Club",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross Rd, Great Village, NS B0M 1L0, Canada",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -2350,6 +2417,51 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/10g218QnOmrjuuk0Ty99WE2GvLuTLA9d_3H-nhkRlJxY/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
+      }
+    },
+    {
+      "id": "a624271e758ffe32d74f1591642270a1a04890a35a03551f8f0ab6e21db94f32",
+      "title": "Jacksonville, FL, US - May 17th - Bite Club - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fl-us-may-17th-bite-club-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville, FL, US – May 17th – Bite Club – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "12215 Sago Ave, Jacksonville, FL 32218, United States",
+        "start_date": "5/17/2026",
+        "start_date_iso": "2026-05-17T00:00:00",
+        "notification_date": "2026-05-17",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Spring Bite Club Weeks 1 & 2\nSpring Bite Club Weeks 3 & 4"
+      }
+    },
+    {
+      "id": "de9b3845da13e7fcb870f96a34f1d79e45eefcab6aa9a6ad8d3cadf21851f1fd",
+      "title": "Great Village, NS, CA - May 17th - Bite Club - Colchester Disc Dog Club",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-may-17th-bite-club-colchester-disc-dog-club/",
+      "details": {
+        "title": "Great Village, NS, CA – May 17th – Bite Club – Colchester Disc Dog Club",
+        "club_name": "Colchester Disc Dog Club",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross Rd, Great Village, NS B0M 1L0, Canada",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
