@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T08:40:42Z",
-  "count": 300,
+  "last_updated": "2026-02-28T08:27:18Z",
+  "count": 308,
   "events": [
     {
       "id": "8fea51e3fd5f2b67c96c809c79a4856ff9a9dd5125e0220abe47c5a26f42e258",
@@ -1953,6 +1953,28 @@
       }
     },
     {
+      "id": "eb81fb52b1103fc3f6f078322ad398f1cadafd5b9adb33fea796f7953d4f4abe",
+      "title": "Rochester, MN, US - May 3rd - Bite Club - Rochester Frisbee Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-may-3rd-bite-club-rochester-frisbee-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – May 3rd – Bite Club – Rochester Frisbee Dogs",
+        "club_name": "Rochester Frisbee Dogs",
+        "contact_name": "Abigail Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 West River Pkwy NW, Rochester, MN 55901, United States",
+        "start_date": "5/3/2026",
+        "start_date_iso": "2026-05-03T00:00:00",
+        "notification_date": "2026-05-03",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "3:00 PM",
+        "end_time": "5:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "e5213943e5bcf367a52709368dc89f055be9e057016c1e884092f8be3a238e3d",
       "title": "Southbridge, MA, US - May 5th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-5th-face-to-face/",
@@ -2459,6 +2481,28 @@
         "end_date_iso": "2026-05-02T00:00:00",
         "start_time": "10:00 AM",
         "end_time": "12:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "dbe98144e5b5cff38e3758285bc5d6100f194bd233b8b25f84d27dc893ec3862",
+      "title": "Rochester, MN, US - May 17th - Bite Club - Rochester Frisbee Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-may-17th-bite-club-rochester-frisbee-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – May 17th – Bite Club – Rochester Frisbee Dogs",
+        "club_name": "Rochester Frisbee Dogs",
+        "contact_name": "Abigail Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 West River Pkwy NW, Rochester, MN 55901, United States",
+        "start_date": "5/3/2026",
+        "start_date_iso": "2026-05-03T00:00:00",
+        "notification_date": "2026-05-03",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "3:00 PM",
+        "end_time": "5:30 PM",
         "games": [
           "To Be Determined"
         ]
@@ -4941,6 +4985,28 @@
       }
     },
     {
+      "id": "83d143b6b286a7a8f4d8d1bb74908e8713d63e360e316cf86099132cc37b8c73",
+      "title": "Garland, TX, US - July 17th - Bite Club - UpDog Dallas",
+      "url": "https://updogchallenge.com/events/garland-tx-us-july-17th-bite-club-updog-dallas/",
+      "details": {
+        "title": "Garland, TX, US – July 17th – Bite Club – UpDog Dallas",
+        "club_name": "UpDog Dallas",
+        "contact_name": "Amy Braid",
+        "contact_email": "updogdallasdisc@gmail.com",
+        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "11:45 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "45c334ebea4a8adb10a0888e1e6e10313562a03d4997d1c5360f8694938aab3b",
       "title": "Lutz, FL, US - July 18th - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-july-18th-19th-cfddc/",
@@ -5039,6 +5105,28 @@
         ],
         "additional_event_information_for_participants": "Freestyle both days. Players choice for both field sizes will be offered at the end of each competition day.",
         "prereg_url": "https://www.cognitoforms.com/NoVADogSports/UpDogRegistrationFormJuly2026"
+      }
+    },
+    {
+      "id": "7e4c00566658a3dba02969b86862f4347783250f6a716291a8efc27216c43440",
+      "title": "East Troy, WI, US - July 18th & 19th - MKE Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-troy-wi-us-july-18th-19th-mke-disc-dogs/",
+      "details": {
+        "title": "East Troy, WI, US – July 18th & 19th – MKE Disc Dogs",
+        "club_name": "MKE Disc Dogs",
+        "contact_name": "Andrew Han",
+        "contact_email": "ahan16@gmail.com",
+        "event_address": "N8725 Army Lake Rd, East Troy, WI 53120, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/19/2026",
+        "end_date_iso": "2026-07-19T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -5159,6 +5247,28 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Wednesday evenings in July: July 1, 15, 22– disc games"
+      }
+    },
+    {
+      "id": "95a3bf0034ca1f3244496a510493bdf0ec388f8fb3a036fc33a65469928fcee0",
+      "title": "Garland, TX, US - July 24th - Bite Club - UpDog Dallas",
+      "url": "https://updogchallenge.com/events/garland-tx-us-july-24th-bite-club-updog-dallas/",
+      "details": {
+        "title": "Garland, TX, US – July 24th – Bite Club – UpDog Dallas",
+        "club_name": "UpDog Dallas",
+        "contact_name": "Amy Braid",
+        "contact_email": "updogdallasdisc@gmail.com",
+        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "11:45 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -5288,6 +5398,28 @@
       }
     },
     {
+      "id": "b11c3bfdd5de9e1d6d980b637ea41cd87394ff8a9c3993a2930de16612678407",
+      "title": "Garland, TX, US - July 31st - Bite Club - UpDog Dallas",
+      "url": "https://updogchallenge.com/events/garland-tx-us-july-31st-bite-club-updog-dallas/",
+      "details": {
+        "title": "Garland, TX, US – July 31st – Bite Club – UpDog Dallas",
+        "club_name": "UpDog Dallas",
+        "contact_name": "Amy Braid",
+        "contact_email": "updogdallasdisc@gmail.com",
+        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "11:45 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "9cb398ae10593d20c6d2220723de5e5eeba38e2cfe73af033db4b13642e9628d",
       "title": "Shermans Dale, PA, US - Aug 1st & 2nd - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-aug-2nd-woof-pack-disc-dogs/",
@@ -5354,6 +5486,28 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This event is part of the 2026 Mudi Nationals Cluster! For the most up-to-date information, follow our Facebook page or website, Woof Pack Disc Dogs.\nhttps://www.facebook.com/share/1F5ps7VdYv/?mibextid=wwXIfr\nwww.woofpackdiscdogs.com"
+      }
+    },
+    {
+      "id": "24d8b05e6c06c51277745a5c9cf52d0eb467227610bd9fb17b5015a5d08a4711",
+      "title": "Garland, TX, US - Aug 7th - Bite Club - UpDog Dallas",
+      "url": "https://updogchallenge.com/events/garland-tx-us-aug-7th-bite-club-updog-dallas/",
+      "details": {
+        "title": "Garland, TX, US – Aug 7th – Bite Club – UpDog Dallas",
+        "club_name": "UpDog Dallas",
+        "contact_name": "Amy Braid",
+        "contact_email": "updogdallasdisc@gmail.com",
+        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "11:45 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -5747,6 +5901,28 @@
         ],
         "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
         "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration"
+      }
+    },
+    {
+      "id": "efa45d0b89838b515913c0f976a2d3beef39df484a538cafddc0383ae02b4504",
+      "title": "East Troy, WI, US - Aug 22nd & 23rd - MKE Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-troy-wi-us-aug-22nd-23rd-mke-disc-dogs/",
+      "details": {
+        "title": "East Troy, WI, US – Aug 22nd & 23rd – MKE Disc Dogs",
+        "club_name": "MKE Disc Dogs",
+        "contact_name": "Andrew Han",
+        "contact_email": "ahan16@gmail.com",
+        "event_address": "N8725 Army Lake Rd, East Troy, WI 53120, United States",
+        "start_date": "8/22/2026",
+        "start_date_iso": "2026-08-22T00:00:00",
+        "notification_date": "2026-08-22",
+        "end_date": "8/23/2026",
+        "end_date_iso": "2026-08-23T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
