@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T08:42:30Z",
-  "count": 304,
+  "last_updated": "2026-03-03T08:47:42Z",
+  "count": 332,
   "events": [
     {
       "id": "5504a84eeb23b9d296ab608dda0c4b1287693e6ef5711ace9c81b1bb9bd0d8f4",
@@ -1522,6 +1522,29 @@
       }
     },
     {
+      "id": "7d58810c7f32d6542d7048a5ccd56832a4314b2e2d09f31db5a7c74ae838a8cf",
+      "title": "West St Paul, MN, US - April 27th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-april-27th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – April 27th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "4/27/2026",
+        "start_date_iso": "2026-04-27T00:00:00",
+        "notification_date": "2026-04-27",
+        "end_date": "4/27/2026",
+        "end_date_iso": "2026-04-27T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "05a20a5a31cf1e45330ab182daa99fee26a4ee089c78ffb540acccbc64efb716",
       "title": "Southbridge, MA, US - April 28th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-april-28th-face-to-face/",
@@ -1536,6 +1559,28 @@
         "notification_date": "2026-04-28",
         "end_date": "4/28/2026",
         "end_date_iso": "2026-04-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "cfd797caa60812c4e2c1df82de3030a98112229189cd7f74ae908214a73e7f70",
+      "title": "Seville, OH, US - April 28th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-april-28th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – April 28th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "5/19/2026",
+        "end_date_iso": "2026-05-19T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -1861,6 +1906,29 @@
       }
     },
     {
+      "id": "d1811251ecc723eefbb776e08c366ba24b3b77656089890dd6562f4619f8af3b",
+      "title": "West St Paul, MN, US - May 4th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-may-4th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – May 4th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "4/27/2026",
+        "start_date_iso": "2026-04-27T00:00:00",
+        "notification_date": "2026-04-27",
+        "end_date": "4/27/2026",
+        "end_date_iso": "2026-04-27T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "e5213943e5bcf367a52709368dc89f055be9e057016c1e884092f8be3a238e3d",
       "title": "Southbridge, MA, US - May 5th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-5th-face-to-face/",
@@ -1875,6 +1943,28 @@
         "notification_date": "2026-05-05",
         "end_date": "5/5/2026",
         "end_date_iso": "2026-05-05T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "b3d5f4391b36b30756e74fd7dd8d16bf2c103642bc8050c929906afc6aecb75a",
+      "title": "Seville, OH, US - May 5th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-may-5th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – May 5th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "5/19/2026",
+        "end_date_iso": "2026-05-19T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -2010,6 +2100,29 @@
       }
     },
     {
+      "id": "bfaaa0787df6e03f42bf35f2788c5bc991f32cc43e706ba434ce545778e55ee1",
+      "title": "West St Paul, MN, US - May 11th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-may-4th-bite-club-the-canine-coach-2/",
+      "details": {
+        "title": "West St Paul, MN, US – May 11th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "4/27/2026",
+        "start_date_iso": "2026-04-27T00:00:00",
+        "notification_date": "2026-04-27",
+        "end_date": "4/27/2026",
+        "end_date_iso": "2026-04-27T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "d200e9f9354e3279863d729bb78ae82918edc8c4b48ded2fe5a1fef88148d01f",
       "title": "Southbridge, MA, US - May 12th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-12th-face-to-face/",
@@ -2024,6 +2137,28 @@
         "notification_date": "2026-05-12",
         "end_date": "5/12/2026",
         "end_date_iso": "2026-05-12T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "4fa20fcf5ba986e05a251257150413faeea54b709015de7696aaa74374f59e3c",
+      "title": "Seville, OH, US - May 12th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-may-12th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – May 12th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "5/19/2026",
+        "end_date_iso": "2026-05-19T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -2395,6 +2530,29 @@
       }
     },
     {
+      "id": "2622bdc025a1c25004c9a0728f36049bab9bfdb167978ddaa10579bd17097bb2",
+      "title": "West St Paul, MN, US - May 18th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-may-18th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – May 18th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "4/27/2026",
+        "start_date_iso": "2026-04-27T00:00:00",
+        "notification_date": "2026-04-27",
+        "end_date": "4/27/2026",
+        "end_date_iso": "2026-04-27T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "66344c71ccc7f9add760135248d867c9ea266ebb086a8547601cc69ff3f66b98",
       "title": "Southbridge, MA, US - May 19th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-19th-face-to-face/",
@@ -2409,6 +2567,28 @@
         "notification_date": "2026-05-19",
         "end_date": "5/19/2026",
         "end_date_iso": "2026-05-19T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "d6b711c987108da9e1a29ee8d1f94261b5c9e62c78f17f99654df2ee777316e6",
+      "title": "Seville, OH, US - May 19th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-may-19th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – May 19th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "5/19/2026",
+        "end_date_iso": "2026-05-19T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -3490,6 +3670,29 @@
       }
     },
     {
+      "id": "c6e1172da934a64f639f30e4159d75d215d33d926b64c235fd0fb475cee2b160",
+      "title": "Blaine, MN, US - June 13th & 14th - Minnesota Disc Dog Club",
+      "url": "https://updogchallenge.com/events/blaine-mn-us-june-13th-14th-minnesota-disc-dog-club/",
+      "details": {
+        "title": "Blaine, MN, US – June 13th & 14th – Minnesota Disc Dog Club",
+        "club_name": "Minnesota Disc Dog Club",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "MNDDC.president@gmail.com",
+        "event_address": "1750 105th Ave NE, Blaine, MN 55449, United States",
+        "start_date": "6/13/2026",
+        "start_date_iso": "2026-06-13T00:00:00",
+        "notification_date": "2026-06-13",
+        "end_date": "6/14/2026",
+        "end_date_iso": "2026-06-14T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Freestyle",
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "b906c2a6e0d4946cbd78036ae05ae0d27b6315cdae5cd4e271172f2b957e42b6",
       "title": "Shermans Dale, PA, US - June 13th & 14th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-june-13th-14th-woof-pack-disc-dogs/",
@@ -3532,6 +3735,34 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "e1feba13b771d5799106ee11e57001234a279e322988f6b24b415e4ce6b80e7d",
+      "title": "Avonmore, ON, CA - June 13th - Scout's Pals",
+      "url": "https://updogchallenge.com/events/avonmore-on-ca-june-13th-scouts-pals/",
+      "details": {
+        "title": "Avonmore, ON, CA – June 13th – Scout’s Pals",
+        "club_name": "Scout’s Pals",
+        "contact_name": "Nicholas Theriault",
+        "contact_email": "nick.theriault13@gmail.com",
+        "event_address": "15730 Conc 2-3, Avonmore, ON K0C1C0, Canada",
+        "start_date": "6/13/2026",
+        "start_date_iso": "2026-06-13T00:00:00",
+        "notification_date": "2026-06-13",
+        "end_date": "6/13/2026",
+        "end_date_iso": "2026-06-13T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "7Up",
+          "Spaced Out",
+          "To Be Determined"
+        ],
+        "prereg_url": "https://forms.gle/4pG1DLGhTF6h4gkk9"
       }
     },
     {
@@ -4598,6 +4829,29 @@
       }
     },
     {
+      "id": "a3ffe423b9eadbde98fd8f5606cd9d87e898a8e3d1e3b0a357559db1652886d8",
+      "title": "Burnsville, MN, US - July 11th & 12th - Minnesota Disc Dog Club",
+      "url": "https://updogchallenge.com/events/burnsville-mn-us-july-11th-12th-minnesota-disc-dog-club/",
+      "details": {
+        "title": "Burnsville, MN, US – July 11th & 12th – Minnesota Disc Dog Club",
+        "club_name": "Minnesota Disc Dog Club",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "MNDDC.president@gmail.com",
+        "event_address": "TBD on Specific Park, Burnsville, MN 55337, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Freestyle",
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "c05dfe17f7849436b381f40064761a5b09505779c5e3c544fe2f7ce8614059d5",
       "title": "Rozental, Poland - July 11th & 12th - Katarzyna Kaminska",
       "url": "https://updogchallenge.com/events/rozental-poland-july-11th-12th-katarzyna-kaminska/",
@@ -4714,6 +4968,29 @@
       }
     },
     {
+      "id": "43e9870eee71452770bd624ee128ab2e0e7fc7769e6a91e9beff576894dc0546",
+      "title": "West St Paul, MN, US - July 13th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-july-13th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – July 13th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "7/13/2026",
+        "start_date_iso": "2026-07-13T00:00:00",
+        "notification_date": "2026-07-13",
+        "end_date": "7/13/2026",
+        "end_date_iso": "2026-07-13T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "9819cc94ca77ad44dc22d37d040b456c4ffa1c908bc6d48a6364bf9165ee99ac",
       "title": "Jacksonville, FL, US - July 13th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-july-13th-jacksonville-disc-dogs/",
@@ -4753,6 +5030,28 @@
         "notification_date": "2026-07-14",
         "end_date": "7/14/2026",
         "end_date_iso": "2026-07-14T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "70eb705ec50b5370bbdbb5f3217d9149ab8f4c444a7af117d80ab3bd90b0a1f8",
+      "title": "Seville, OH, US - July 14th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-july-14th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – July 14th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "7/14/2026",
+        "start_date_iso": "2026-07-14T00:00:00",
+        "notification_date": "2026-07-14",
+        "end_date": "8/4/2026",
+        "end_date_iso": "2026-08-04T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -5038,6 +5337,29 @@
       }
     },
     {
+      "id": "36ed168f33d476ac7a6cb3172bea633d19c1cec4c96a6cadc86b4317bef82edc",
+      "title": "West St Paul, MN, US - July 20th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-july-20th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – July 20th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "7/13/2026",
+        "start_date_iso": "2026-07-13T00:00:00",
+        "notification_date": "2026-07-13",
+        "end_date": "7/13/2026",
+        "end_date_iso": "2026-07-13T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "dacd3c557e8e42f6ff0db7cdb478edcfed9b4df6de5ec02aa7c8fc45da8055b2",
       "title": "Jacksonville, FL, US - July 20th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-july-20th-jacksonville-disc-dogs/",
@@ -5077,6 +5399,28 @@
         "notification_date": "2026-07-21",
         "end_date": "7/21/2026",
         "end_date_iso": "2026-07-21T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "5d8668b268b80c86a9f05958364da2e039eed38a00244c1290ad6bf7c1cab673",
+      "title": "Seville, OH, US - July 21st - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-july-21st-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – July 21st – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "7/14/2026",
+        "start_date_iso": "2026-07-14T00:00:00",
+        "notification_date": "2026-07-14",
+        "end_date": "8/4/2026",
+        "end_date_iso": "2026-08-04T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -5210,6 +5554,29 @@
       }
     },
     {
+      "id": "6892843f03f632c92cf78a066e5d570ccc1a85bea1cbe702177da13f721503fe",
+      "title": "West St Paul, MN, US - July 27th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-july-27th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – July 27th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "7/13/2026",
+        "start_date_iso": "2026-07-13T00:00:00",
+        "notification_date": "2026-07-13",
+        "end_date": "7/13/2026",
+        "end_date_iso": "2026-07-13T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "8ea0fd5e8d962f219dbf56d2d123c9aadca0108264509896c006fdd2afed0434",
       "title": "Southbridge, MA, US - July 28th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-28th-face-to-face/",
@@ -5224,6 +5591,28 @@
         "notification_date": "2026-07-28",
         "end_date": "7/28/2026",
         "end_date_iso": "2026-07-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "d71366ff5e80615739d181cf96a167d647ca951c92df244cfc3fa85b43f78097",
+      "title": "Seville, OH, US - July 28th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-july-28th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – July 28th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "7/14/2026",
+        "start_date_iso": "2026-07-14T00:00:00",
+        "notification_date": "2026-07-14",
+        "end_date": "8/4/2026",
+        "end_date_iso": "2026-08-04T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -5346,6 +5735,51 @@
         "end_date_iso": "2026-08-03T00:00:00",
         "start_time": "8:00 AM",
         "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "cafe9d00f35b9888570b1c9dea19484b8412f6ea4a9d28d300f1e240bbe49e7d",
+      "title": "West St Paul, MN, US - Aug 3rd - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-aug-3rd-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – Aug 3rd – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "7/13/2026",
+        "start_date_iso": "2026-07-13T00:00:00",
+        "notification_date": "2026-07-13",
+        "end_date": "7/13/2026",
+        "end_date_iso": "2026-07-13T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
+      "id": "aef64512a9dee985e560661a2a2c03299b99fde086a262a14b5631f656322de1",
+      "title": "Seville, OH, US - Aug 4th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-aug-4th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Aug 4th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "7/14/2026",
+        "start_date_iso": "2026-07-14T00:00:00",
+        "notification_date": "2026-07-14",
+        "end_date": "8/4/2026",
+        "end_date_iso": "2026-08-04T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -6407,6 +6841,29 @@
       }
     },
     {
+      "id": "e7beee7d6c46d8cf37da878e755e8df194edb105ac4c499af3570d212896707e",
+      "title": "Ham Lake, MN, US - Sept 25th thru 27th - Minnesota Disc Dog Club",
+      "url": "https://updogchallenge.com/events/ham-lake-mn-us-june-13th-14th-minnesota-disc-dog-club/",
+      "details": {
+        "title": "Ham Lake, MN, US – Sept 25th thru 27th – Minnesota Disc Dog Club",
+        "club_name": "Minnesota Disc Dog Club",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "MNDDC.president@gmail.com",
+        "event_address": "2400 Constance Blvd NE, Ham Lake, MN 55304, United States",
+        "start_date": "9/25/2026",
+        "start_date_iso": "2026-09-25T00:00:00",
+        "notification_date": "2026-09-25",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Freestyle",
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "0d8feab2299e2c8b0e1f73cb5b30614dff73e82f680749f67abf4f2e664a4c9b",
       "title": "Brooklyn, CT, US - Sept 26th - Granite State Disc Dogs",
       "url": "https://updogchallenge.com/events/brooklyn-ct-us-sept-26th-granite-state-disc-dogs/",
@@ -6756,6 +7213,51 @@
       }
     },
     {
+      "id": "5f4bb99b4dd35b11f574677724d364694375a9bc1608da96bacaeb3de82782dc",
+      "title": "West St Paul, MN, US - Oct 12th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-12th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – Oct 12th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "10/12/2026",
+        "start_date_iso": "2026-10-12T00:00:00",
+        "notification_date": "2026-10-12",
+        "end_date": "10/12/2026",
+        "end_date_iso": "2026-10-12T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
+      "id": "efdd352738fa00f4e4295bd577204d85113c63e340d722bccfd431611123ba4e",
+      "title": "Seville, OH, US - Oct 13th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-oct-13th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Oct 13th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "10/13/2026",
+        "start_date_iso": "2026-10-13T00:00:00",
+        "notification_date": "2026-10-13",
+        "end_date": "11/3/2026",
+        "end_date_iso": "2026-11-03T00:00:00",
+        "start_time": "2:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "3e85f1e99442b3f65616c7782a901e5da231c059559df48c6642b49b3fedbd74",
       "title": "Eustis, FL, US - Oct 17th - Central Florida K9",
       "url": "https://updogchallenge.com/events/eustis-fl-us-oct-17th-central-florida-k9/",
@@ -6795,6 +7297,51 @@
         "end_date_iso": "2026-10-18T00:00:00",
         "start_time": "10:00 AM",
         "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "b73f9404261f804aa313d75f10be9a28f91ac8da04ea82cd8b5dfe722855cc85",
+      "title": "West St Paul, MN, US - Oct 19th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-19th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – Oct 19th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "10/12/2026",
+        "start_date_iso": "2026-10-12T00:00:00",
+        "notification_date": "2026-10-12",
+        "end_date": "10/12/2026",
+        "end_date_iso": "2026-10-12T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
+      "id": "926d92df25280af516dee890fff36ac882b15bcffb972787f3e672d71e6df432",
+      "title": "Seville, OH, US - Oct 20th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-oct-20th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Oct 20th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "10/13/2026",
+        "start_date_iso": "2026-10-13T00:00:00",
+        "notification_date": "2026-10-13",
+        "end_date": "11/3/2026",
+        "end_date_iso": "2026-11-03T00:00:00",
+        "start_time": "2:00 PM",
+        "end_time": "8:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -6921,6 +7468,74 @@
       }
     },
     {
+      "id": "b677c463639b1a820448da5a12da681f721355a6da7408f721c43f648c4e196d",
+      "title": "West St Paul, MN, US - Oct 26th - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-26th-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – Oct 26th – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "10/12/2026",
+        "start_date_iso": "2026-10-12T00:00:00",
+        "notification_date": "2026-10-12",
+        "end_date": "10/12/2026",
+        "end_date_iso": "2026-10-12T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
+      "id": "582b54945f86da0e3a41cc8aa8496b7267174079055c4f764139c90ca24f4af6",
+      "title": "Seville, OH, US - Oct 27th - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-oct-27th-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Oct 27th – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "10/13/2026",
+        "start_date_iso": "2026-10-13T00:00:00",
+        "notification_date": "2026-10-13",
+        "end_date": "11/3/2026",
+        "end_date_iso": "2026-11-03T00:00:00",
+        "start_time": "2:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "11ad510e4cde19bbe69157316a60178a0599c0d1565fb2709bf3f16e6e38c529",
+      "title": "West St Paul, MN, US - Nov 2nd - Bite Club - The Canine Coach!",
+      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-nov-2nd-bite-club-the-canine-coach/",
+      "details": {
+        "title": "West St Paul, MN, US – Nov 2nd – Bite Club – The Canine Coach!",
+        "club_name": "The Canine Coach!",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "jess@thek9coach.com",
+        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
+        "start_date": "10/12/2026",
+        "start_date_iso": "2026-10-12T00:00:00",
+        "notification_date": "2026-10-12",
+        "end_date": "10/12/2026",
+        "end_date_iso": "2026-10-12T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
       "id": "8b5614bed82b67d3b7219f378b59478f375094528ccec6f0f8c34bae93f99f71",
       "title": "Jacksonville, FL, US - Nov 2nd - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-nov-2nd-jacksonville-disc-dogs-2/",
@@ -6943,6 +7558,28 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSfas2ekNZjmHpfRZxshL6041DNSWYevI24ksSOULBmPDRA61A/viewform?usp=header"
+      }
+    },
+    {
+      "id": "2eeaab57aeedb47325dafcb3aef0a9e68e86cfa0b6ff47556711a9bba79a2c3d",
+      "title": "Seville, OH, US - Nov 3rd - Bite Club - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-nov-3rd-bite-club-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Nov 3rd – Bite Club – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
+        "start_date": "10/13/2026",
+        "start_date_iso": "2026-10-13T00:00:00",
+        "notification_date": "2026-10-13",
+        "end_date": "11/3/2026",
+        "end_date_iso": "2026-11-03T00:00:00",
+        "start_time": "2:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
