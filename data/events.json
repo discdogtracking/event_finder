@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T08:47:42Z",
-  "count": 332,
+  "last_updated": "2026-03-04T08:38:45Z",
+  "count": 338,
   "events": [
     {
       "id": "5504a84eeb23b9d296ab608dda0c4b1287693e6ef5711ace9c81b1bb9bd0d8f4",
@@ -5170,6 +5170,37 @@
       }
     },
     {
+      "id": "477a4f0d3925c3b8a91c7023dfb1e3034386b830792fa1879b13f929ffe7c6f1",
+      "title": "Rosemount, MN, US - July 17th - Bite Club - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-july-17th-bite-club-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – July 17th – Bite Club – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page."
+      }
+    },
+    {
       "id": "83d143b6b286a7a8f4d8d1bb74908e8713d63e360e316cf86099132cc37b8c73",
       "title": "Garland, TX, US - July 17th - Bite Club - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-july-17th-bite-club-updog-dallas/",
@@ -5480,6 +5511,37 @@
       }
     },
     {
+      "id": "bd9bda8f1b24d7796af51c99d58090b11aaa4ae5653eaed818f62a2ed6f21c39",
+      "title": "Rosemount, MN, US - July 24th - Bite Club - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-july-24th-bite-club-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – July 24th – Bite Club – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page."
+      }
+    },
+    {
       "id": "95a3bf0034ca1f3244496a510493bdf0ec388f8fb3a036fc33a65469928fcee0",
       "title": "Garland, TX, US - July 24th - Bite Club - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-july-24th-bite-club-updog-dallas/",
@@ -5673,6 +5735,37 @@
       }
     },
     {
+      "id": "39fe648022754f1d3f1fe30c79b312ad8f9e418670d4584a421a875a030707a1",
+      "title": "Rosemount, MN, US - July 31st - Bite Club - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-july-31st-bite-club-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – July 31st – Bite Club – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page."
+      }
+    },
+    {
       "id": "b11c3bfdd5de9e1d6d980b637ea41cd87394ff8a9c3993a2930de16612678407",
       "title": "Garland, TX, US - July 31st - Bite Club - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-july-31st-bite-club-updog-dallas/",
@@ -5806,6 +5899,37 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This event is part of the 2026 Mudi Nationals Cluster! For the most up-to-date information, follow our Facebook page or website, Woof Pack Disc Dogs.\nhttps://www.facebook.com/share/1F5ps7VdYv/?mibextid=wwXIfr\nwww.woofpackdiscdogs.com"
+      }
+    },
+    {
+      "id": "64c7bdec5972243301e6daa0fd9b9957a8e69f1b91eb46f17ae4bd01ec3dac4b",
+      "title": "Rosemount, MN, US - Aug 7th - Bite Club - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-aug-7th-bite-club-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – Aug 7th – Bite Club – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page."
       }
     },
     {
@@ -7303,6 +7427,36 @@
       }
     },
     {
+      "id": "dec31747876d2c6f37c6ac1e48b82774632fc7ae60a46b41c7884fef98c7636f",
+      "title": "Rosemount, MN, US - Oct  17th - Bite Club - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-oct-17th-bite-club-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – Oct  17th – Bite Club – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Additional games will be played each week. Registration will take place on the Outside The Box Bite Club facebook group."
+      }
+    },
+    {
       "id": "b73f9404261f804aa313d75f10be9a28f91ac8da04ea82cd8b5dfe722855cc85",
       "title": "West St Paul, MN, US - Oct 19th - Bite Club - The Canine Coach!",
       "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-19th-bite-club-the-canine-coach/",
@@ -7510,6 +7664,36 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "fa4d68668d7fb0db93998f1a774fd8ac14c429cdcfc3efb0111a523d532e38ac",
+      "title": "Rosemount, MN, US - Oct  31st - Bite Club - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-oct-31st-bite-club-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – Oct  31st – Bite Club – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Additional games will be played each week. Registration will take place on the Outside The Box Bite Club facebook group."
       }
     },
     {
