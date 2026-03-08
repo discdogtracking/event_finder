@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T08:30:02Z",
-  "count": 345,
+  "last_updated": "2026-03-08T08:30:34Z",
+  "count": 343,
   "events": [
     {
       "id": "5504a84eeb23b9d296ab608dda0c4b1287693e6ef5711ace9c81b1bb9bd0d8f4",
@@ -34,51 +34,6 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "We will also be playing 4 Way Play Level 2 and Frizgility Level 2."
-      }
-    },
-    {
-      "id": "2acf8039a921e84c81f68325f67ac1e5e648b338f3934ee50e9bea86d25299b1",
-      "title": "Eustis, FL, US - March 7th - Central Florida K9",
-      "url": "https://updogchallenge.com/events/eustis-fl-us-march-7th-central-florida-k9/",
-      "details": {
-        "title": "Eustis, FL, US – March 7th – Central Florida K9",
-        "club_name": "Central Florida K9",
-        "contact_name": "Justin Smith",
-        "contact_email": "smithhm.info@gmail.com",
-        "event_address": "27101 County Rd 44A, Eustis, FL 32736, United States",
-        "start_date": "3/7/2026",
-        "start_date_iso": "2026-03-07T00:00:00",
-        "notification_date": "2026-03-07",
-        "end_date": "3/7/2026",
-        "end_date_iso": "2026-03-07T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://forms.gle/s99hzR5UBDe6RVhj7"
-      }
-    },
-    {
-      "id": "93d0cca0ae7e7c1523a32f997a17238af5fbdf4d546e857f800b4f26aed665b9",
-      "title": "Julian, NC, US - March 7th - Quicksilver Canine",
-      "url": "https://updogchallenge.com/events/julian-nc-us-march-7th-quicksilver-canine/",
-      "details": {
-        "title": "Julian, NC, US – March 7th – Quicksilver Canine",
-        "club_name": "Quicksilver Canine",
-        "contact_name": "Leerie Jenkins",
-        "contact_email": "leerie.jenkins@gmail.com",
-        "event_address": "5600 Clarence Rd, Julian, NC 27283, United States",
-        "start_date": "3/7/2026",
-        "start_date_iso": "2026-03-07T00:00:00",
-        "notification_date": "2026-03-07",
-        "end_date": "3/7/2026",
-        "end_date_iso": "2026-03-07T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
