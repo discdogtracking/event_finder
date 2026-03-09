@@ -1,77 +1,7 @@
 {
-  "last_updated": "2026-03-08T08:30:34Z",
-  "count": 343,
+  "last_updated": "2026-03-09T08:44:08Z",
+  "count": 340,
   "events": [
-    {
-      "id": "5504a84eeb23b9d296ab608dda0c4b1287693e6ef5711ace9c81b1bb9bd0d8f4",
-      "title": "Mitchell, ACT, AU - March 7th & 8th - 4 Paws Sports & Belconnen Dog Obedience Club",
-      "url": "https://updogchallenge.com/events/mitchell-act-au-march-7th-8th-4-paws-sports-belconnen-dog-obedience-club/",
-      "details": {
-        "title": "Mitchell, ACT, AU – March 7th & 8th – 4 Paws Sports & Belconnen Dog Obedience Club",
-        "club_name": "4 Paws Sports & Belconnen Dog Obedience Club",
-        "contact_name": "Kim Murrie",
-        "contact_email": "fourpawssports1@gmail.com",
-        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
-        "start_date": "3/7/2026",
-        "start_date_iso": "2026-03-07T00:00:00",
-        "notification_date": "2026-03-07",
-        "end_date": "3/8/2026",
-        "end_date_iso": "2026-03-08T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We will also be playing 4 Way Play Level 2 and Frizgility Level 2."
-      }
-    },
-    {
-      "id": "dd0feb2e96d5ed3fa5ce51920d9d6e486f27a6b27a23e302d2464d267e5c3a4b",
-      "title": "Lutz, FL, US - March 8th - CFDDC",
-      "url": "https://updogchallenge.com/events/lutz-fl-us-march-8th-cfddc/",
-      "details": {
-        "title": "Lutz, FL, US – March 8th – CFDDC"
-      }
-    },
-    {
-      "id": "9773441d9f0d379e4eacbd02a3daff828639c8fd89fb2567d45a10e8b8228bcf",
-      "title": "Port St Lucie, FL, US - March 8th - Disc Dogs of Treasure Coast",
-      "url": "https://updogchallenge.com/events/pport-st-lucie-fl-us-march-8th-disc-dogs-of-treasure-coast/",
-      "details": {
-        "title": "Port St Lucie, FL, US – March 8th – Disc Dogs of Treasure Coast",
-        "club_name": "Disc Dogs of Treasure Coast",
-        "contact_name": "Julie Spring",
-        "contact_email": "discdogsoftreasurecoast@gmail.com",
-        "event_address": "1450 SW Heatherwood Blvd, Port St. Lucie, FL 34986, United States",
-        "start_date": "3/8/2026",
-        "start_date_iso": "2026-03-08T00:00:00",
-        "notification_date": "2026-03-08",
-        "end_date": "3/8/2026",
-        "end_date_iso": "2026-03-08T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Set up and Check in: 8:30 AM\nFirst Players Meeting: 9:00AMManatee Academy K-8\n1450 SW Heatherwood Blvd, Port St. Lucie, FL 34986\n(Soccer field)In order: Throw N Go, Fireball, Four-Way Play, Greedy, Far Out\nPlayers meetings will be held prior to playing each game.\nThemed awards will be offered for top 3 of each game.",
-        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfTreasureCoast/DiscOLuck2026"
-      }
-    },
     {
       "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
       "title": "Brooksville, FL, US - March 14th - CFDDC",
