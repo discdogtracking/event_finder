@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T08:44:08Z",
-  "count": 340,
+  "last_updated": "2026-03-10T08:41:56Z",
+  "count": 364,
   "events": [
     {
       "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
@@ -1435,6 +1435,64 @@
       }
     },
     {
+      "id": "0a07c6597c79875e08dfdcc0733490c93081ab48e4abc868504f0443618ca422",
+      "title": "Labelle, QC, CA - April 26th - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-april-26th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – April 26th – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
+        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
+      }
+    },
+    {
+      "id": "169de5aeff6bac0d518c47098fa151a942870e5ae8d8c1f2517ed9d2070ff48c",
+      "title": "Grande Prairie, AB, CA - April 26th - Bite Club - GP Sparkly Purple Unicorn Disc Dog Squad",
+      "url": "https://updogchallenge.com/events/grande-prairie-ab-ca-april-26th-bite-club-gp-sparkly-purple-unicorn-disc-dog-squad/",
+      "details": {
+        "title": "Grande Prairie, AB, CA – April 26th – Bite Club – GP Sparkly Purple Unicorn Disc Dog Squad",
+        "club_name": "GP Sparkly Purple Unicorn Disc Dog Squad",
+        "contact_name": "Tammy/Virginia Brooks/Studer",
+        "contact_email": "virginia.studer91@gmail.com",
+        "event_address": "713002B RR80, County of Grande Prairie, Alberta T0H3S0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/5MELJpbELbayuYBx5"
+      }
+    },
+    {
       "id": "7d58810c7f32d6542d7048a5ccd56832a4314b2e2d09f31db5a7c74ae838a8cf",
       "title": "West St Paul, MN, US - April 27th - Bite Club - The Canine Coach!",
       "url": "https://updogchallenge.com/events/west-st-paul-mn-us-april-27th-bite-club-the-canine-coach/",
@@ -1494,6 +1552,28 @@
         "end_date_iso": "2026-05-19T00:00:00",
         "start_time": "4:00 PM",
         "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "f29361303c281edc4de9c7e471f749b7cfc740b027cb4b34aa7ffb9bf592e536",
+      "title": "Mahopac, NY, US - May 1st - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-may-1st-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – May 1st – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "5/1/2026",
+        "start_date_iso": "2026-05-01T00:00:00",
+        "notification_date": "2026-05-01",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -1752,6 +1832,32 @@
       }
     },
     {
+      "id": "2c57d950154a9cfa7eaad585046bdb7fad5e9d3275682db5645530ed35f08a1e",
+      "title": "Lexington, KY, US - May 2nd - Bite Club - Horse Capital Disc Dogs",
+      "url": "https://updogchallenge.com/events/lexington-ky-us-may-2nd-bite-club-horse-capital-disc-dogs/",
+      "details": {
+        "title": "Lexington, KY, US – May 2nd – Bite Club – Horse Capital Disc Dogs",
+        "club_name": "Horse Capital Disc Dogs",
+        "contact_name": "DJ Cyganiewicz",
+        "contact_email": "djnkkay@gmail.com",
+        "event_address": "179 Bradley Ln, Lexington, KY 40511, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out"
+        ],
+        "additional_event_information_for_participants": "Check Facebook for additional details"
+      }
+    },
+    {
       "id": "c61ea97aa31ae9319b83048651aa31496f9b77596107eac7588981a0a79f349f",
       "title": "Lumsden, SK, CA - May 3rd - Regina Disc Dog Club",
       "url": "https://updogchallenge.com/events/lumsden-sk-ca-may-3rd-regina-disc-dog-club/",
@@ -1794,6 +1900,64 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Spring Bite Club Weeks 1 & 2\nSpring Bite Club Weeks 3 & 4\nWeeks 1 & 2-\nhttps://docs.google.com/forms/d/e/1FAIpQLSc3-Tisck8eZFTxyiiNmGMWlGeAYkDPJIQAlJpl-n_HwskUFg/viewform?usp=publish-editor\nWeeks 3 & 4-\nhttps://docs.google.com/forms/d/e/1FAIpQLSdD4oQsJ1PqolCtsRIUZo_wWMbYhHkmDsecNZAin4IZES-fuQ/viewform?usp=publish-editor"
+      }
+    },
+    {
+      "id": "bb4bcd0a0c33cdb95f015e1ca536005225f5c8151bc3228435cd7f1273a06b0c",
+      "title": "Labelle, QC, CA - May 3rd - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-may-3rd-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – May 3rd – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
+        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
+      }
+    },
+    {
+      "id": "7012de1163835b5718f8187e4992303b622b65f47065f6a96389e21e0829c0ee",
+      "title": "Grande Prairie, AB, CA - May 3rd - Bite Club - GP Sparkly Purple Unicorn Disc Dog Squad",
+      "url": "https://updogchallenge.com/events/grande-prairie-ab-ca-may-3rd-bite-club-gp-sparkly-purple-unicorn-disc-dog-squad/",
+      "details": {
+        "title": "Grande Prairie, AB, CA – May 3rd – Bite Club – GP Sparkly Purple Unicorn Disc Dog Squad",
+        "club_name": "GP Sparkly Purple Unicorn Disc Dog Squad",
+        "contact_name": "Tammy/Virginia Brooks/Studer",
+        "contact_email": "virginia.studer91@gmail.com",
+        "event_address": "713002B RR80, County of Grande Prairie, Alberta T0H3S0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/5MELJpbELbayuYBx5"
       }
     },
     {
@@ -1878,6 +2042,28 @@
         "end_date_iso": "2026-05-19T00:00:00",
         "start_time": "4:00 PM",
         "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "0770337300357cf9fcfdd6fc0adac98d31644776e7615a93fc7a57af893d83ad",
+      "title": "Mahopac, NY, US - May 8th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-may-8th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – May 8th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "5/1/2026",
+        "start_date_iso": "2026-05-01T00:00:00",
+        "notification_date": "2026-05-01",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
         "games": [
           "To Be Determined"
         ]
@@ -2010,6 +2196,64 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "49a7ad7087900148cee505d2a558220d710126087ab91620337b4066087fe20a",
+      "title": "Labelle, QC, CA - May 10th - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-may-10th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – May 10th – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
+        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
+      }
+    },
+    {
+      "id": "5efba003f5abb254e0c92fe8921e1ee344937e894ab2adcc4ad4b7aeaf08be06",
+      "title": "Grande Prairie, AB, CA - May 10th - Bite Club - GP Sparkly Purple Unicorn Disc Dog Squad",
+      "url": "https://updogchallenge.com/events/grande-prairie-ab-ca-may-10th-bite-club-gp-sparkly-purple-unicorn-disc-dog-squad/",
+      "details": {
+        "title": "Grande Prairie, AB, CA – May 10th – Bite Club – GP Sparkly Purple Unicorn Disc Dog Squad",
+        "club_name": "GP Sparkly Purple Unicorn Disc Dog Squad",
+        "contact_name": "Tammy/Virginia Brooks/Studer",
+        "contact_email": "virginia.studer91@gmail.com",
+        "event_address": "713002B RR80, County of Grande Prairie, Alberta T0H3S0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/5MELJpbELbayuYBx5"
       }
     },
     {
@@ -2272,6 +2516,28 @@
       }
     },
     {
+      "id": "a66dcb9faf390be5ad00fffa60f0e2dbea3d60807499917f358fdc7a2130c263",
+      "title": "Mahopac, NY, US - May 16th & 17th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-may-16th-17th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – May 16th & 17th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "5/1/2026",
+        "start_date_iso": "2026-05-01T00:00:00",
+        "notification_date": "2026-05-01",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "5f345516e87061a2404e70bdff7c20709cda6e37fb6dfb76023af51d81b22cef",
       "title": "Nanaimo, BC, CA - May 16th & 18th - Van Isle Disc Dogs",
       "url": "https://updogchallenge.com/events/nanaimo-bc-ca-may-16th-18th-van-isle-disc-dogs/",
@@ -2327,6 +2593,32 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "8447add7f9c16f181b344b26c28eadef11953aa5ff5a60a02a9cdebb75bef9b8",
+      "title": "Lexington, KY, US - May 16th - Bite Club - Horse Capital Disc Dogs",
+      "url": "https://updogchallenge.com/events/lexington-ky-us-may-16th-bite-club-horse-capital-disc-dogs/",
+      "details": {
+        "title": "Lexington, KY, US – May 16th – Bite Club – Horse Capital Disc Dogs",
+        "club_name": "Horse Capital Disc Dogs",
+        "contact_name": "DJ Cyganiewicz",
+        "contact_email": "djnkkay@gmail.com",
+        "event_address": "179 Bradley Ln, Lexington, KY 40511, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out"
+        ],
+        "additional_event_information_for_participants": "Check Facebook for additional details"
       }
     },
     {
@@ -2398,6 +2690,64 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "a6e4facc939af5a997da294322c538bc2e6e9468b5527907cb8379a72b953fee",
+      "title": "Labelle, QC, CA - May 17th - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-may-17th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – May 17th – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
+        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
+      }
+    },
+    {
+      "id": "fe32aa0e8d696cab9e8fdab50696209279f28ac7820f3d0e1b9652089a7c454a",
+      "title": "Grande Prairie, AB, CA - May 17th - Bite Club - GP Sparkly Purple Unicorn Disc Dog Squad",
+      "url": "https://updogchallenge.com/events/grande-prairie-ab-ca-may-17th-bite-club-gp-sparkly-purple-unicorn-disc-dog-squad/",
+      "details": {
+        "title": "Grande Prairie, AB, CA – May 17th – Bite Club – GP Sparkly Purple Unicorn Disc Dog Squad",
+        "club_name": "GP Sparkly Purple Unicorn Disc Dog Squad",
+        "contact_name": "Tammy/Virginia Brooks/Studer",
+        "contact_email": "virginia.studer91@gmail.com",
+        "event_address": "713002B RR80, County of Grande Prairie, Alberta T0H3S0, Canada",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/5MELJpbELbayuYBx5"
       }
     },
     {
@@ -2586,6 +2936,36 @@
         ],
         "additional_event_information_for_participants": "This event is being held in conjunction with Flying Dog Agility’s Memorial Day UKI trial. While you do not need to register for agility to play disc, you are welcome to both! Run orders will be made to accommodate people who want to run both sports. Frizgility will be played at the conclusion of the agility rounds on Saturday, as a “disc at dusk”. Sunday will be Throw and go, Four Way Play, Greedy, and Time Warp. Saturday Frizgility limited to 30 funs, Sunday total limited to 150 runs.",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeMS7j8kGol0jXemwMnCVlAOX1kB8B26EL9VvL6eZmO1fMrUQ/viewform?usp=header"
+      }
+    },
+    {
+      "id": "6175ecbc908260036a1307752d61e2928c111c591ef0d1833c5879b4bff13270",
+      "title": "Alliston, ON, CA - May 23rd & 24th - GTA High Flyers",
+      "url": "https://updogchallenge.com/events/alliston-on-ca-july-11th-12th-gta-high-flyers/",
+      "details": {
+        "title": "Alliston, ON, CA – May 23rd & 24th – GTA High Flyers",
+        "club_name": "GTA High Flyers",
+        "contact_name": "Ty Fox",
+        "contact_email": "gtahighflyers@gmail.com",
+        "event_address": "6311 12th line, Allistin, On L9R1V4, Canada",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "DRY Camping on site ($25) Canadian\nDock Diving Pool rental available\nPlayer Packs\nFull Frills"
       }
     },
     {
@@ -3791,6 +4171,28 @@
       }
     },
     {
+      "id": "faf32b418491b50858acefbbeafafce888636c4c47ab8439ca613986ded94b17",
+      "title": "Mahopac, NY, US - June 14th - Bring Your Own (BYO) Disc Dogs - Crossover Crown",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-june-14th-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – June 14th – Bring Your Own (BYO) Disc Dogs – Crossover Crown",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "6/14/2026",
+        "start_date_iso": "2026-06-14T00:00:00",
+        "notification_date": "2026-06-14",
+        "end_date": "6/14/2026",
+        "end_date_iso": "2026-06-14T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "333b8e4983a3133cba84dec88990c7eb527a4d64704031d10dbb84d001f80870",
       "title": "Pilot Mountain, NC, US - June 14th - Jam-Min' Disc Dogs - Crossover Crown",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-june-14th-jam-min-disc-dogs-crossover-crown/",
@@ -4298,36 +4700,6 @@
           "To Be Determined"
         ],
         "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
-      }
-    },
-    {
-      "id": "6175ecbc908260036a1307752d61e2928c111c591ef0d1833c5879b4bff13270",
-      "title": "Alliston, ON, CA - June 27th & 28th - GTA High Flyers",
-      "url": "https://updogchallenge.com/events/alliston-on-ca-july-11th-12th-gta-high-flyers/",
-      "details": {
-        "title": "Alliston, ON, CA – June 27th & 28th – GTA High Flyers",
-        "club_name": "GTA High Flyers",
-        "contact_name": "Ty Fox",
-        "contact_email": "gtahighflyers@gmail.com",
-        "event_address": "6311 12th line, Allistin, On L9R1V4, Canada",
-        "start_date": "6/27/2026",
-        "start_date_iso": "2026-06-27T00:00:00",
-        "notification_date": "2026-06-27",
-        "end_date": "6/28/2026",
-        "end_date_iso": "2026-06-28T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "DRY Camping on site ($25) Canadian\nDock Diving Pool rental available\nPlayer Packs\nFull Frills"
       }
     },
     {
@@ -4876,6 +5248,28 @@
           "To Be Determined"
         ],
         "prereg_url": "https://forms.gle/s99hzR5UBDe6RVhj7"
+      }
+    },
+    {
+      "id": "5dcab3bd60ae3240f951cb15c86438991fcdbd266dd368c72ac15b23a2adbb6d",
+      "title": "Mahopac, NY, US - July 11th & 12th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-july-11th-12th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – July 11th & 12th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -5474,6 +5868,28 @@
       }
     },
     {
+      "id": "8eb0b27e53af4c8da77f1998fc590c330e6099d5076cbeef50cc75cebb9fa13f",
+      "title": "Mahopac, NY, US - July 24th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-july-24th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – July 24th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "bd9bda8f1b24d7796af51c99d58090b11aaa4ae5653eaed818f62a2ed6f21c39",
       "title": "Rosemount, MN, US - July 24th - Bite Club - Outside The Box Dog Training",
       "url": "https://updogchallenge.com/events/rosemount-mn-us-july-24th-bite-club-outside-the-box-dog-training/",
@@ -5698,6 +6114,28 @@
       }
     },
     {
+      "id": "3654a307b04328a119ba45ce3f5c7695ff13af5d1999fd67ec489a75f1dcf04e",
+      "title": "Mahopac, NY, US - July 31st - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-july-31st-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – July 31st – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "39fe648022754f1d3f1fe30c79b312ad8f9e418670d4584a421a875a030707a1",
       "title": "Rosemount, MN, US - July 31st - Bite Club - Outside The Box Dog Training",
       "url": "https://updogchallenge.com/events/rosemount-mn-us-july-31st-bite-club-outside-the-box-dog-training/",
@@ -5891,6 +6329,28 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This event is part of the 2026 Mudi Nationals Cluster! For the most up-to-date information, follow our Facebook page or website, Woof Pack Disc Dogs.\nhttps://www.facebook.com/share/1F5ps7VdYv/?mibextid=wwXIfr\nwww.woofpackdiscdogs.com"
+      }
+    },
+    {
+      "id": "0d1d1436dc88bee4b72c18ec56b09f1ebbf8750f8d38c4ef4b89bd015c8bbf07",
+      "title": "Mahopac, NY, US - Aug 7th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-aug-7th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – Aug 7th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -6777,6 +7237,28 @@
       }
     },
     {
+      "id": "558b6dd32126b4f738bdc21516c291e9bcec5ff1c2999f3ea41be781a24cb977",
+      "title": "Mahopac, NY, US - Sept 12th & 13th - Bring Your Own (BYO) Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-sept-12th-13th-bring-your-own-byo-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Mahopac, NY, US – Sept 12th & 13th – Bring Your Own (BYO) Disc Dogs – Triple Crown",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "26d267c37955dd7491263cf3d580ee6bdb9c289ff8d81dcb933c5ee6944eacaf",
       "title": "North Grosvenordale, MA, US - Sept 13th - Face to Face - Triple Crown",
       "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-sept-13th-face-to-face-triple-crown/",
@@ -7411,6 +7893,51 @@
       }
     },
     {
+      "id": "dafe7add684ecc9ac0f61d32d97f8006fd414f41c8d3b41e9fa0af0b49352e49",
+      "title": "Mahopac, NY, US - Oct 16th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-oct-16th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – Oct 16th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "10/16/2026",
+        "start_date_iso": "2026-10-16T00:00:00",
+        "notification_date": "2026-10-16",
+        "end_date": "11/8/2026",
+        "end_date_iso": "2026-11-08T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "8d936948b8098e1617f974bf044df0715cbc6bcb007d3307543e98f3d46c3236",
+      "title": "Vanessa, ON, CA - Oct 17th - Pandemonium in Motion",
+      "url": "https://updogchallenge.com/events/vanessa-on-ca-oct-17th-pandemonium-in-motion/",
+      "details": {
+        "title": "Vanessa, ON, CA – Oct 17th – Pandemonium in Motion",
+        "club_name": "Pandemonium in Motion",
+        "contact_name": "Helen Parkinson",
+        "contact_email": "pandemoniumpets@gmail.com",
+        "event_address": "2097 Windham East Quarter LIne Road, Vanessa, Ontario N0E 1V0, Canada",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/17/2026",
+        "end_date_iso": "2026-10-17T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Fully Fenced field with In and Out gate"
+      }
+    },
+    {
       "id": "3e85f1e99442b3f65616c7782a901e5da231c059559df48c6642b49b3fedbd74",
       "title": "Eustis, FL, US - Oct 17th - Central Florida K9",
       "url": "https://updogchallenge.com/events/eustis-fl-us-oct-17th-central-florida-k9/",
@@ -7680,6 +8207,28 @@
       }
     },
     {
+      "id": "1733f667c1fef9cff15daa73894699aae32d143c2cba2327ff00f7c379459bd4",
+      "title": "Mahopac, NY, US - Oct 24th & 25th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-oct-24th-25th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – Oct 24th & 25th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "10/16/2026",
+        "start_date_iso": "2026-10-16T00:00:00",
+        "notification_date": "2026-10-16",
+        "end_date": "11/8/2026",
+        "end_date_iso": "2026-11-08T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "b677c463639b1a820448da5a12da681f721355a6da7408f721c43f648c4e196d",
       "title": "West St Paul, MN, US - Oct 26th - Bite Club - The Canine Coach!",
       "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-26th-bite-club-the-canine-coach/",
@@ -7722,6 +8271,30 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "19fe48dcf47833595529385e300232f810bb8f3b96c0451b04e53f6e445b173a",
+      "title": "Alliston, ON, CA - Oct 31st - Scugog Disc Dog",
+      "url": "https://updogchallenge.com/events/alliston-on-ca-oct-31st-scugog-disc-dog/",
+      "details": {
+        "title": "Alliston, ON, CA – Oct 31st – Scugog Disc Dog",
+        "club_name": "Scugog Disc Dog",
+        "contact_name": "Kate Gartley",
+        "contact_email": "scugogdiscdog@mail.com",
+        "event_address": "Devlin Farm, 6311 12th Line, Alliston, Ontario L9R 1V4, Canada",
+        "start_date": "10/31/2026",
+        "start_date_iso": "2026-10-31T00:00:00",
+        "notification_date": "2026-10-31",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Website:\nhttps://scugogdiscdog.com/home\nFacebook:\nhttps://www.facebook.com/share/g/17isKPyvnN/\nTikTok:\nhttps://www.tiktok.com/@scugog.disc.dog?is_from_webapp=1&sender_device=pc",
+        "prereg_url": "https://forms.gle/krG6vrf6rA18n1cJA"
       }
     },
     {
@@ -7938,6 +8511,28 @@
       "url": "https://updogchallenge.com/events/dade-city-fl-us-nov-7th-8th-cfddc/",
       "details": {
         "title": "Dade City, FL, US – Nov 7th & 8th – CFDDC"
+      }
+    },
+    {
+      "id": "0ba83dc84514fce8d246aa7f320c212883781ee86830aaa6f145a0d6069e6614",
+      "title": "Mahopac, NY, US - Nov 7th & 8th - Bite Club - Bring Your Own (BYO) Disc Dogs",
+      "url": "https://updogchallenge.com/events/mahopac-ny-us-nov-7th-8th-bite-club-bring-your-own-byo-disc-dogs/",
+      "details": {
+        "title": "Mahopac, NY, US – Nov 7th & 8th – Bite Club – Bring Your Own (BYO) Disc Dogs",
+        "club_name": "Bring Your Own (BYO) Disc Dogs",
+        "contact_name": "Sara Gagnon",
+        "contact_email": "byodiscdogs@gmail.com",
+        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
+        "start_date": "10/16/2026",
+        "start_date_iso": "2026-10-16T00:00:00",
+        "notification_date": "2026-10-16",
+        "end_date": "11/8/2026",
+        "end_date_iso": "2026-11-08T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
