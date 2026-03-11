@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T08:41:56Z",
-  "count": 364,
+  "last_updated": "2026-03-11T08:41:24Z",
+  "count": 374,
   "events": [
     {
       "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
@@ -1558,6 +1558,34 @@
       }
     },
     {
+      "id": "43fdf6ca0e8f903cf951eceed43bb9a817c2bc243ad3b2f7ef80ee0eaaeae300",
+      "title": "Saint John, NB, CA - April 29th - Bite Club - Fundy Flyers",
+      "url": "https://updogchallenge.com/events/saint-john-nb-ca-april-29th-bite-club-fundy-flyers/",
+      "details": {
+        "title": "Saint John, NB, CA – April 29th – Bite Club – Fundy Flyers",
+        "club_name": "Fundy Flyers",
+        "contact_name": "Andrea Caines",
+        "contact_email": "andrea_caines54@yahoo.ca",
+        "event_address": "1216 Sand Cove Road, Saint John, NB E2M5V8, Canada",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/20/2026",
+        "end_date_iso": "2026-05-20T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and Fetch\nApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
       "id": "f29361303c281edc4de9c7e471f749b7cfc740b027cb4b34aa7ffb9bf592e536",
       "title": "Mahopac, NY, US - May 1st - Bite Club - Bring Your Own (BYO) Disc Dogs",
       "url": "https://updogchallenge.com/events/mahopac-ny-us-may-1st-bite-club-bring-your-own-byo-disc-dogs/",
@@ -1763,6 +1791,29 @@
         ],
         "additional_event_information_for_participants": "Follow our Facebook page for updates and important announcements!\nhttps://www.facebook.com/forestcitysportdogs/",
         "prereg_url": "https://www.cognitoforms.com/ForestCitySportDogs/OopsNoJumps"
+      }
+    },
+    {
+      "id": "490e8a99dce6dc7b889c93811663ac17bc541ede999312c47057583a1be7440f",
+      "title": "Granville, OH, US - May 2nd - Bite Club - Catch em All Canines",
+      "url": "https://updogchallenge.com/events/granville-oh-us-may-2nd-catch-em-all-canines/",
+      "details": {
+        "title": "Granville, OH, US – May 2nd – Bite Club – Catch em All Canines",
+        "club_name": "Catch em All Canines",
+        "contact_name": "Amanda Burkhart",
+        "contact_email": "help@catchemallcanines.com",
+        "event_address": "4309 Lancaster Ave, Granville, OH 43023, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
       }
     },
     {
@@ -2045,6 +2096,34 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "3c20fa07b3219c2a16f052f44bffdf28b1d5896c3f674f41c34bc83956eecf3c",
+      "title": "Saint John, NB, CA - May 6th - Bite Club - Fundy Flyers",
+      "url": "https://updogchallenge.com/events/saint-john-nb-ca-may-6th-bite-club-fundy-flyers/",
+      "details": {
+        "title": "Saint John, NB, CA – May 6th – Bite Club – Fundy Flyers",
+        "club_name": "Fundy Flyers",
+        "contact_name": "Andrea Caines",
+        "contact_email": "andrea_caines54@yahoo.ca",
+        "event_address": "1216 Sand Cove Road, Saint John, NB E2M5V8, Canada",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/20/2026",
+        "end_date_iso": "2026-05-20T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
       }
     },
     {
@@ -2344,6 +2423,34 @@
       }
     },
     {
+      "id": "23179119b2bb7a2afe025f52d4fd175e50407506c196a920ce28dcbb55278ec7",
+      "title": "Saint John, NB, CA - May 13th - Bite Club - Fundy Flyers",
+      "url": "https://updogchallenge.com/events/saint-john-nb-ca-may-13th-bite-club-fundy-flyers/",
+      "details": {
+        "title": "Saint John, NB, CA – May 13th – Bite Club – Fundy Flyers",
+        "club_name": "Fundy Flyers",
+        "contact_name": "Andrea Caines",
+        "contact_email": "andrea_caines54@yahoo.ca",
+        "event_address": "1216 Sand Cove Road, Saint John, NB E2M5V8, Canada",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/20/2026",
+        "end_date_iso": "2026-05-20T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
       "id": "91cfd8bbead01c9412c2206c71e8f5ab3e36a05d30c86559863e03db55f8698e",
       "title": "Garland, TX, US - May 15th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-may-15th-updog-dallas/",
@@ -2369,37 +2476,10 @@
       }
     },
     {
-      "id": "24cee66755964f457a9de54a4084ee187a94f2bfe2acf98728f5fe49396065f6",
+      "id": "bf1daf27602059ed34f34ec9b56803782cd10a7c444388df172e5797e95e1164",
       "title": "Green Bay, WI, US - May 16th & 17th - Northeast Wisconsin Australian Shepherd Club",
       "url": "https://updogchallenge.com/events/green-bay-wi-us-may-16th-17th-northeast-wisconsin-australian-shepherd-club/",
-      "details": {
-        "title": "Green Bay, WI, US – May 16th & 17th – Northeast Wisconsin Australian Shepherd Club",
-        "club_name": "Northeast Wisconsin Australian Shepherd Club",
-        "contact_name": "Sarah Blodgett",
-        "contact_email": "SnapdragonAussies@gmail.com",
-        "event_address": "Packerland Kennel Club, 2031 Bellevue St., Green Bay, WI 54311, United States",
-        "start_date": "5/16/2026",
-        "start_date_iso": "2026-05-16T00:00:00",
-        "notification_date": "2026-05-16",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "9:00 AM",
-        "games": [
-          "Boom!",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "Pairs Four Way Play",
-          "Pairs Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Competition field in fenced. No food for sale on site. Indoor crating space available!",
-        "prereg_url": "https://www.newasclub.com/"
-      }
+      "details": {}
     },
     {
       "id": "60f5f18c95887ede0e82bd3740abff65cd31f450718499cc40542f3cf91ccf99",
@@ -2486,6 +2566,12 @@
         ],
         "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
       }
+    },
+    {
+      "id": "15c23c7b578ccdf07527fc709a507a042091d0797be9299f33cb06bc6e070a93",
+      "title": "Granville, OH, US - May 16th - Bite Club - Catch em All Canines",
+      "url": "https://updogchallenge.com/events/granville-oh-us-may-16th-bite-club-catch-em-all-canines/",
+      "details": {}
     },
     {
       "id": "3185dc75eb3d7afb1fd00f897c139ee40284b0501214367527eb0c0ead81a9a1",
@@ -2835,6 +2921,34 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "d0e38085e14f95e0883a15355f5ad344ecd51f024585f4bd8fd3936537aab14f",
+      "title": "Saint John, NB, CA - May 20th - Bite Club - Fundy Flyers",
+      "url": "https://updogchallenge.com/events/saint-john-nb-ca-may-20th-bite-club-fundy-flyers/",
+      "details": {
+        "title": "Saint John, NB, CA – May 20th – Bite Club – Fundy Flyers",
+        "club_name": "Fundy Flyers",
+        "contact_name": "Andrea Caines",
+        "contact_email": "andrea_caines54@yahoo.ca",
+        "event_address": "1216 Sand Cove Road, Saint John, NB E2M5V8, Canada",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/20/2026",
+        "end_date_iso": "2026-05-20T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
       }
     },
     {
@@ -5614,6 +5728,29 @@
       }
     },
     {
+      "id": "2a977408f4f37cdeb888d621fe0c007d3a89d30e5b689e93214ff3f1b17131e5",
+      "title": "Granville, OH, US - July 18th - Bite Club - Catch em All Canines",
+      "url": "https://updogchallenge.com/events/granville-oh-us-july-18th-bite-club-catch-em-all-canines/",
+      "details": {
+        "title": "Granville, OH, US – July 18th – Bite Club – Catch em All Canines",
+        "club_name": "Catch em All Canines",
+        "contact_name": "Amanda Burkhart",
+        "contact_email": "help@catchemallcanines.com",
+        "event_address": "4309 Lancaster Ave, Granville, Oh 43023, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "8/1/2026",
+        "end_date_iso": "2026-08-01T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
+      }
+    },
+    {
       "id": "951072a90357f6d9cbeaaee77c3fd4b8bd6c6c14d8020cce70885eff3f41e6c7",
       "title": "Leesburg, VA, US - July 18th & 19th - NoVA Dog Sports",
       "url": "https://updogchallenge.com/events/leesburg-va-us-july-18th-19th-nova-dog-sports/",
@@ -6210,6 +6347,29 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "First ever PA Quadruped on Saturday 8/1! Three rounds of Far Out Sunday 8/2, along with other games to be determined. Follow our Facebook page, Woof Pack Disc Dogs, for the most up to date information."
+      }
+    },
+    {
+      "id": "83ec8873fb641e4ca0362f55f5c627189c2bbaf696e1693041248c2f669e12a7",
+      "title": "Granville, OH, US - Aug 1st - Bite Club - Catch em All Canines",
+      "url": "https://updogchallenge.com/events/granville-oh-us-aug-1st-bite-club-catch-em-all-canines/",
+      "details": {
+        "title": "Granville, OH, US – Aug 1st – Bite Club – Catch em All Canines",
+        "club_name": "Catch em All Canines",
+        "contact_name": "Amanda Burkhart",
+        "contact_email": "help@catchemallcanines.com",
+        "event_address": "4309 Lancaster Ave, Granville, Oh 43023, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "8/1/2026",
+        "end_date_iso": "2026-08-01T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
       }
     },
     {
@@ -7961,6 +8121,29 @@
       }
     },
     {
+      "id": "afff84a582914f316204e55b1ac932e9325378f5e094f852a0e9036dc4ed1845",
+      "title": "Granville, OH, US - Oct 17th - Bite Club - Catch em All Canines",
+      "url": "https://updogchallenge.com/events/granville-oh-us-oct-17th-bite-club-catch-em-all-canines/",
+      "details": {
+        "title": "Granville, OH, US – Oct 17th – Bite Club – Catch em All Canines",
+        "club_name": "Catch em All Canines",
+        "contact_name": "Amanda Burkhart",
+        "contact_email": "help@catchemallcanines.com",
+        "event_address": "4309 Lancaster Ave, Granville, ohio 43023, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
+      }
+    },
+    {
       "id": "1abf977b198dc0ca584baed5426dd0261aec433ad5b043c2f1525ed04a2f6d65",
       "title": "Goshen, CT, US - Oct 17th & 18th - H2D2",
       "url": "https://updogchallenge.com/events/goshen-ct-us-oct-17th-18th-h2d2-2/",
@@ -8295,6 +8478,29 @@
         ],
         "additional_event_information_for_participants": "Website:\nhttps://scugogdiscdog.com/home\nFacebook:\nhttps://www.facebook.com/share/g/17isKPyvnN/\nTikTok:\nhttps://www.tiktok.com/@scugog.disc.dog?is_from_webapp=1&sender_device=pc",
         "prereg_url": "https://forms.gle/krG6vrf6rA18n1cJA"
+      }
+    },
+    {
+      "id": "60959b98098ae7995513b71bcc783397402280a964af58541365c37c0d2f396c",
+      "title": "Granville, OH, US - Oct 31st - Bite Club - Catch em All Canines",
+      "url": "https://updogchallenge.com/events/granville-oh-us-oct-31st-bite-club-catch-em-all-canines/",
+      "details": {
+        "title": "Granville, OH, US – Oct 31st – Bite Club – Catch em All Canines",
+        "club_name": "Catch em All Canines",
+        "contact_name": "Amanda Burkhart",
+        "contact_email": "help@catchemallcanines.com",
+        "event_address": "4309 Lancaster Ave, Granville, ohio 43023, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
       }
     },
     {
