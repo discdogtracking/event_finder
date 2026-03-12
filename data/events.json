@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T08:41:24Z",
-  "count": 374,
+  "last_updated": "2026-03-12T08:43:34Z",
+  "count": 375,
   "events": [
     {
       "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
@@ -946,6 +946,33 @@
           "Throw N Go",
           "Time Warp"
         ]
+      }
+    },
+    {
+      "id": "a115abfa6d013d9f37dbc72faff11ce9aabf3fbfdddc7898a797a0aef44b0e20",
+      "title": "Carrollton, TX, US - April 4th - EveryDog Disc Club",
+      "url": "https://updogchallenge.com/events/carrollton-tx-us-april-4th-everydog-disc-club/",
+      "details": {
+        "title": "Carrollton, TX, US – April 4th – EveryDog Disc Club",
+        "club_name": "EveryDog Disc Club",
+        "contact_name": "Sarah Owen",
+        "contact_email": "sarahowendogtraining@gmail.com",
+        "event_address": "1440 Keller Springs, Field #5, Carrollton, TX 75006, United States",
+        "start_date": "4/4/2026",
+        "start_date_iso": "2026-04-04T00:00:00",
+        "notification_date": "2026-04-04",
+        "end_date": "4/4/2026",
+        "end_date_iso": "2026-04-04T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This is a point-only event, limited to 150 runs. Last chance to get in some runs before you head to UPDIF!\nhttps://sarahowendogtraining.com/everydog-disc-club-event-registration/"
       }
     },
     {
@@ -2476,10 +2503,37 @@
       }
     },
     {
-      "id": "bf1daf27602059ed34f34ec9b56803782cd10a7c444388df172e5797e95e1164",
+      "id": "24cee66755964f457a9de54a4084ee187a94f2bfe2acf98728f5fe49396065f6",
       "title": "Green Bay, WI, US - May 16th & 17th - Northeast Wisconsin Australian Shepherd Club",
       "url": "https://updogchallenge.com/events/green-bay-wi-us-may-16th-17th-northeast-wisconsin-australian-shepherd-club/",
-      "details": {}
+      "details": {
+        "title": "Green Bay, WI, US – May 16th & 17th – Northeast Wisconsin Australian Shepherd Club",
+        "club_name": "Northeast Wisconsin Australian Shepherd Club",
+        "contact_name": "Sarah Blodgett",
+        "contact_email": "SnapdragonAussies@gmail.com",
+        "event_address": "Packerland Kennel Club, 2031 Bellevue St., Green Bay, WI 54311, United States",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "9:00 AM",
+        "games": [
+          "Boom!",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Competition field in fenced. No food for sale on site. Indoor crating space available!",
+        "prereg_url": "https://www.newasclub.com/"
+      }
     },
     {
       "id": "60f5f18c95887ede0e82bd3740abff65cd31f450718499cc40542f3cf91ccf99",
@@ -2568,10 +2622,27 @@
       }
     },
     {
-      "id": "15c23c7b578ccdf07527fc709a507a042091d0797be9299f33cb06bc6e070a93",
+      "id": "70f8493124880fe8dbb22530fb307ca7b279bf9a740e1a36ea9d82df9f9cb7aa",
       "title": "Granville, OH, US - May 16th - Bite Club - Catch em All Canines",
       "url": "https://updogchallenge.com/events/granville-oh-us-may-16th-bite-club-catch-em-all-canines/",
-      "details": {}
+      "details": {
+        "title": "Granville, OH, US – May 16th – Bite Club – Catch em All Canines",
+        "club_name": "Catch em All Canines",
+        "contact_name": "Amanda Burkhart",
+        "contact_email": "help@catchemallcanines.com",
+        "event_address": "4309 Lancaster Ave, Granville, OH 43023, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
+      }
     },
     {
       "id": "3185dc75eb3d7afb1fd00f897c139ee40284b0501214367527eb0c0ead81a9a1",
