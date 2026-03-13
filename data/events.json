@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T08:43:34Z",
-  "count": 375,
+  "last_updated": "2026-03-13T08:44:08Z",
+  "count": 383,
   "events": [
     {
       "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
@@ -107,27 +107,6 @@
         "games": [
           "To Be Determined"
         ]
-      }
-    },
-    {
-      "id": "71295f690f8da77f1efab1eb02051c4812a01966f6b5b338f1c30c12bd4ecc4a",
-      "title": "Middle Island, NY, US - March 15th - \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
-      "url": "https://updogchallenge.com/events/middle-island-ny-us-march-15th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
-      "details": {
-        "title": "Middle Island, NY, US – March 15th – \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "contact_name": "Katrina Winsor",
-        "contact_email": "leadthepackdiscdogs@gmail.com",
-        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
-        "start_date": "3/15/2026",
-        "start_date_iso": "2026-03-15T00:00:00",
-        "notification_date": "2026-03-15",
-        "end_date": "3/15/2026",
-        "end_date_iso": "2026-03-15T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
       }
     },
     {
@@ -957,7 +936,7 @@
         "club_name": "EveryDog Disc Club",
         "contact_name": "Sarah Owen",
         "contact_email": "sarahowendogtraining@gmail.com",
-        "event_address": "1440 Keller Springs, Field #5, Carrollton, TX 75006, United States",
+        "event_address": "1440 Keller Springs, Field #3, Carrollton, TX 75006, United States",
         "start_date": "4/4/2026",
         "start_date_iso": "2026-04-04T00:00:00",
         "notification_date": "2026-04-04",
@@ -1585,6 +1564,35 @@
       }
     },
     {
+      "id": "597d21b251ac554e2fd8192d0a65c612378edf92ea87b84573b53e3c5fe1d231",
+      "title": "Hampshire, IL, US - April 29th - Bite Club - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/hampshire-il-us-april-29th-bite-club-mchenry-disc-dogs/",
+      "details": {
+        "title": "Hampshire, IL, US – April 29th – Bite Club – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "43fdf6ca0e8f903cf951eceed43bb9a817c2bc243ad3b2f7ef80ee0eaaeae300",
       "title": "Saint John, NB, CA - April 29th - Bite Club - Fundy Flyers",
       "url": "https://updogchallenge.com/events/saint-john-nb-ca-april-29th-bite-club-fundy-flyers/",
@@ -1888,6 +1896,32 @@
       }
     },
     {
+      "id": "56cbb67c5e9cd2ff824f97c8d1e7ef721d8b1ade160b94dcfb9b4c5c3d7f6a86",
+      "title": "Kitimat, BC, CA - May 2nd - Bite Club - Kitimat Working Dog Society",
+      "url": "https://updogchallenge.com/events/kitimat-bc-ca-may-2nd-bite-club-kitimat-working-dog-society/",
+      "details": {
+        "title": "Kitimat, BC, CA – May 2nd – Bite Club – Kitimat Working Dog Society",
+        "club_name": "Kitimat Working Dog Society",
+        "contact_name": "Kim Vroon",
+        "contact_email": "kitimatdogclub@gmail.com",
+        "event_address": "BC-37, Kitimat, BC V8C 2K6, Canada",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "c451a3e0a92226bbbcb7956528d8223124a40db01fe7fc1c75df5cf2534915ef",
       "title": "Rochester, MN, US - May 2nd - QuickWits Disc Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-may-2nd-quickwits-disc-dogs/",
@@ -2172,6 +2206,35 @@
         "end_time": "4:00 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "31a50a3fd3c7fffb170151cd7c89c6c659370a42cf64a188b888e8e721d5cb53",
+      "title": "Hampshire, IL, US - May 8th - Bite Club - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/hampshire-il-us-may-8th-bite-club-mchenry-disc-dogs/",
+      "details": {
+        "title": "Hampshire, IL, US – May 8th – Bite Club – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
@@ -2478,6 +2541,35 @@
       }
     },
     {
+      "id": "6f385621635f92956b1079b68d5573afc4b80d911bb855387f099e926e4f6138",
+      "title": "Hampshire, IL, US - May 15th - Bite Club - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/hampshire-il-us-may-15th-bite-club-mchenry-disc-dogs/",
+      "details": {
+        "title": "Hampshire, IL, US – May 15th – Bite Club – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "91cfd8bbead01c9412c2206c71e8f5ab3e36a05d30c86559863e03db55f8698e",
       "title": "Garland, TX, US - May 15th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-may-15th-updog-dallas/",
@@ -2749,6 +2841,57 @@
         "end_time": "7:00 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "2e961575c36939a6e7e371e337c568f26b1b9eca205218c8007d63e2f3878e51",
+      "title": "Kitimat, BC, CA - May 16th - Bite Club - Kitimat Working Dog Society",
+      "url": "https://updogchallenge.com/events/kitimat-bc-ca-may-16th-bite-club-kitimat-working-dog-society/",
+      "details": {
+        "title": "Kitimat, BC, CA – May 16th – Bite Club – Kitimat Working Dog Society",
+        "club_name": "Kitimat Working Dog Society",
+        "contact_name": "Kim Vroon",
+        "contact_email": "kitimatdogclub@gmail.com",
+        "event_address": "BC-37, Kitimat, BC V8C 2K6, Canada",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ]
+      }
+    },
+    {
+      "id": "5ed16c99f8cca05a4a2073ac6d947c291adbd9e8580ef91d30d0207e676f1a71",
+      "title": "Dundurn, SK, CA - May 16th - Bite Club - Saskatoon Disc Dogs",
+      "url": "https://updogchallenge.com/events/dundurn-sk-ca-may-16th-bite-club-saskatoon-disc-dogs/",
+      "details": {
+        "title": "Dundurn, SK, CA – May 16th – Bite Club – Saskatoon Disc Dogs",
+        "club_name": "Saskatoon Disc Dogs",
+        "contact_name": "Steve Ustupski",
+        "contact_email": "stusti@hotmail.com",
+        "event_address": "304030 TWP Rd 343A, Dundurn, SK S7C 0C6, Canada",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Four Way Play",
+          "Greedy",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
@@ -3041,6 +3184,35 @@
         "end_time": "4:30 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "855e1a44c2287a5758a3d050e45ded430735b76d3c64bb2872272a4ee3ad9802",
+      "title": "Hampshire, IL, US - May 22nd - Bite Club - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/hampshire-il-us-may-22nd-bite-club-mchenry-disc-dogs/",
+      "details": {
+        "title": "Hampshire, IL, US – May 22nd – Bite Club – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
+        "start_date": "4/29/2026",
+        "start_date_iso": "2026-04-29T00:00:00",
+        "notification_date": "2026-04-29",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
@@ -5064,6 +5236,34 @@
         "end_date_iso": "2026-06-30T00:00:00",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "2c222c2c87f1263d83090184e5989b7180231c84b65d9b1ed8690f14cde63bc0",
+      "title": "Kitimat, BC, CA - July 1st - Kitimat Working Dog Society - Crossover Crown",
+      "url": "https://updogchallenge.com/events/kitimat-bc-ca-july-1st-kitimat-working-dog-society-crossover-crown-2/",
+      "details": {
+        "title": "Kitimat, BC, CA – July 1st – Kitimat Working Dog Society – Crossover Crown",
+        "club_name": "Kitimat Working Dog Society",
+        "contact_name": "Kim Vroon",
+        "contact_email": "kitimatdogclub@gmail.com",
+        "event_address": "654 Columbia Avenue, Kitimat, BC V8C1V5, Canada",
+        "start_date": "7/1/2026",
+        "start_date_iso": "2026-07-01T00:00:00",
+        "notification_date": "2026-07-01",
+        "end_date": "7/1/2026",
+        "end_date_iso": "2026-07-01T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Fireball",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Time Warp",
+          "Pairs Four Way Play"
         ]
       }
     },
@@ -7878,6 +8078,28 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "2026 Northeast Classic! Three days, three fields, players packs, amazing awards and prizes, raffles and so much more! Location subject to change.\nFor the most up-to-date information, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/woofpackdiscdogs\n."
+      }
+    },
+    {
+      "id": "d814f18d36e78c51f5fcc02c244e62e14969f87291095f3ff86bf31b1f009b72",
+      "title": "Kitimat, BC, CA - Oct 3rd - Kitimat Working Dog Society - Triple Crown",
+      "url": "https://updogchallenge.com/events/kitimat-bc-ca-oct-3rd-kitimat-working-dog-society-triple-crown/",
+      "details": {
+        "title": "Kitimat, BC, CA – Oct 3rd – Kitimat Working Dog Society – Triple Crown",
+        "club_name": "Kitimat Working Dog Society",
+        "contact_name": "Kim Vroon",
+        "contact_email": "kitimatdogclub@gmail.com",
+        "event_address": "BC-37, Kitimat, BC V8C 2K6, Canada",
+        "start_date": "10/3/2026",
+        "start_date_iso": "2026-10-03T00:00:00",
+        "notification_date": "2026-10-03",
+        "end_date": "10/3/2026",
+        "end_date_iso": "2026-10-03T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "5:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
