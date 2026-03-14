@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T08:44:08Z",
-  "count": 383,
+  "last_updated": "2026-03-14T08:36:32Z",
+  "count": 386,
   "events": [
     {
       "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
@@ -6082,6 +6082,28 @@
       }
     },
     {
+      "id": "1d77cc4be8d52ab50c76836165d9b0124fd39bedbf7f3441f3637218bbbf6e13",
+      "title": "Great Village, NS, CA - July 18th - Bite Club - Colchester DDC",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-july-18th-bite-club-colchester-ddc/",
+      "details": {
+        "title": "Great Village, NS, CA – July 18th – Bite Club – Colchester DDC",
+        "club_name": "Colchester DDC",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "1bd238e1c4e7622ba2b70d1a1901444d7966c03e8def54d806c84adf4c4557b5",
       "title": "Fernandina Beach, FL, US - July 19th - Bite Club - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-july-19th-bite-club-jacksonville-disc-dogs/",
@@ -6400,6 +6422,28 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
+      }
+    },
+    {
+      "id": "8c80387f57d099632c971f259dedc36fff6d6a8b6e91af493bea3cb18885c037",
+      "title": "Great Village, NS, CA - July 25th - Bite Club - Colchester DDC",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-july-25th-bite-club-colchester-ddc/",
+      "details": {
+        "title": "Great Village, NS, CA – July 25th – Bite Club – Colchester DDC",
+        "club_name": "Colchester DDC",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -6909,6 +6953,28 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Disc and Cross Over Games and Freestyle will be offered"
+      }
+    },
+    {
+      "id": "b03711ca8fdff1799ff18444bea21d568640c1451637167e47650f3a146559d3",
+      "title": "Great Village, NS, CA - Aug 9th - Bite Club - Colchester DDC",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-aug-9th-bite-club-colchester-ddc/",
+      "details": {
+        "title": "Great Village, NS, CA – Aug 9th – Bite Club – Colchester DDC",
+        "club_name": "Colchester DDC",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
