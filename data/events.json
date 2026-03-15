@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-03-14T08:36:32Z",
-  "count": 386,
+  "last_updated": "2026-03-15T08:37:46Z",
+  "count": 385,
   "events": [
-    {
-      "id": "4f802c37d5e3c712048eceeb7be93c31dd2af9f8d9ae31a33c72cc015a183661",
-      "title": "Brooksville, FL, US - March 14th - CFDDC",
-      "url": "https://updogchallenge.com/events/brooksville-fl-us-march-14th-cfddc/",
-      "details": {
-        "title": "Brooksville, FL, US – March 14th – CFDDC",
-        "club_name": "CFDDC",
-        "contact_name": "Kat Fahle",
-        "contact_email": "katfahle@gmail.com",
-        "event_address": "25592 Hayman Rd, Brooksville, FL 34602",
-        "start_date": "3/14/2026",
-        "start_date_iso": "2026-03-14T00:00:00",
-        "notification_date": "2026-03-14",
-        "end_date": "3/14/2026",
-        "end_date_iso": "2026-03-14T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
     {
       "id": "a5063942a384e749ccce85dcd0f415d44aa3e13452b8445e48f9bae79cb1adea",
       "title": "Eagan, MN, US - March 14th and 15th - Outside the Box Dog Training",
