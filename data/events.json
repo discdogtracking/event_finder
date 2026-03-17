@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T08:57:30Z",
-  "count": 378,
+  "last_updated": "2026-03-17T08:52:14Z",
+  "count": 397,
   "events": [
     {
       "id": "4eeff8f4763b876dc61660274ea79321fb18082288b73070de4a35eb15d8a342",
@@ -132,6 +132,40 @@
       }
     },
     {
+      "id": "a38bc3ac6f26767b791b2ffcdc7cb1443baf3a7079ba66b934db861f8aeb01cf",
+      "title": "Fernandina Beach, FL, US - March 21st & 22nd - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-march-21st-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Fernandina Beach, FL, US – March 21st & 22nd – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "95512 Arbor Ln, Fernandina Beach, FL 32034, United States",
+        "start_date": "3/21/2026",
+        "start_date_iso": "2026-03-21T00:00:00",
+        "notification_date": "2026-03-21",
+        "end_date": "3/22/2026",
+        "end_date_iso": "2026-03-22T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeJxR_18WvhcsX4ZqgrqDCd9LRDkj2A8dVTVjWmN9rA0qdovA/viewform?usp=header"
+      }
+    },
+    {
       "id": "a7839bfa7d8b0315aa0a9042d36eb7d85a858861eede98299303d76191bc35b9",
       "title": "Lebanon, TN, US - March 21st & 22nd - Nashvertical",
       "url": "https://updogchallenge.com/events/lebanon-tn-us-march-21st-22nd-nashvertical/",
@@ -254,40 +288,6 @@
           "Throw N Go"
         ],
         "additional_event_information_for_participants": "lccoc.org"
-      }
-    },
-    {
-      "id": "a38bc3ac6f26767b791b2ffcdc7cb1443baf3a7079ba66b934db861f8aeb01cf",
-      "title": "Fernandina Beach, FL, US - March 22nd - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-march-21st-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Fernandina Beach, FL, US – March 22nd – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "95512 Arbor Ln, Fernandina Beach, FL 32034, United States",
-        "start_date": "3/22/2026",
-        "start_date_iso": "2026-03-22T00:00:00",
-        "notification_date": "2026-03-22",
-        "end_date": "3/22/2026",
-        "end_date_iso": "2026-03-22T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeJxR_18WvhcsX4ZqgrqDCd9LRDkj2A8dVTVjWmN9rA0qdovA/viewform?usp=dialog"
       }
     },
     {
@@ -1228,6 +1228,33 @@
       }
     },
     {
+      "id": "2907e6e7925f05355971fed324d3d4e5ca171e4e11720ba4e11da61cdbfaa642",
+      "title": "Batavia, NY, US - April 26th - Bite Club - Countryside Disc Dogs",
+      "url": "https://updogchallenge.com/events/batavia-ny-us-april-26th-bite-club-countryside-disc-dogs/",
+      "details": {
+        "title": "Batavia, NY, US – April 26th – Bite Club – Countryside Disc Dogs",
+        "club_name": "Countryside Disc Dogs",
+        "contact_name": "Anthony Mineo",
+        "contact_email": "mrtonymineo@gmail.com",
+        "event_address": "9207 Alexander Rd, Batavia, NY 14020, United States",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/26/2026",
+        "end_date_iso": "2026-05-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "0a07c6597c79875e08dfdcc0733490c93081ab48e4abc868504f0443618ca422",
       "title": "Labelle, QC, CA - April 26th - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
       "url": "https://updogchallenge.com/events/labelle-qc-ca-april-26th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
@@ -1306,6 +1333,27 @@
           "To Be Determined"
         ],
         "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
+      }
+    },
+    {
+      "id": "9a823da6a856f6b27950e91c599746d6c85915609d4714b9166e4696efbeef39",
+      "title": "Pilot Butte, SK, CA - April 28th - Bite Club - Encore Disc Dog Club",
+      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-april-28th-bite-club-encore-disc-dog-club/",
+      "details": {
+        "title": "Pilot Butte, SK, CA – April 28th – Bite Club – Encore Disc Dog Club",
+        "club_name": "Encore Disc Dog Club",
+        "contact_name": "Cheryl Petryshyn",
+        "contact_email": "encoredogsports@gmail.com",
+        "event_address": "6 Crocus Lane, Pilot Butte, SK S0G 3Z0, Canada",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdi0lhha8hsX4JQACXNBvjmUmNilRTZDpF-1miC3-awkjEGDA/viewform"
       }
     },
     {
@@ -1405,6 +1453,28 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and Fetch\nApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
+      "id": "1b41ad4fa8c80a3607d3baf9056c9fd751c54a959bc43eceace78f3ce3eab224",
+      "title": "Windsor, NS, CA - April 30th - Bite Club - Irishmans Rd Trackers",
+      "url": "https://updogchallenge.com/events/windsor-ns-ca-april-30th-bite-club-irishmans-rd-trackers/",
+      "details": {
+        "title": "Windsor, NS, CA – April 30th – Bite Club – Irishmans Rd Trackers",
+        "club_name": "Irishmans Rd Trackers",
+        "contact_name": "Suzanne Phillips",
+        "contact_email": "suzannegphillips25@gmail.com",
+        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
+        "start_time": "6:00 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp",
+          "Pairs Throw N Go"
+        ]
       }
     },
     {
@@ -1757,6 +1827,33 @@
       }
     },
     {
+      "id": "df02796ed3a528875dcf710fb96fbcd8ec86585e767d18165895864ab3ac325a",
+      "title": "Batavia, NY, US - May 3rd - Bite Club - Countryside Disc Dogs",
+      "url": "https://updogchallenge.com/events/batavia-ny-us-may-3rd-bite-club-countryside-disc-dogs/",
+      "details": {
+        "title": "Batavia, NY, US – May 3rd – Bite Club – Countryside Disc Dogs",
+        "club_name": "Countryside Disc Dogs",
+        "contact_name": "Anthony Mineo",
+        "contact_email": "mrtonymineo@gmail.com",
+        "event_address": "9207 Alexander Rd, Batavia, NY 14020, United States",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/26/2026",
+        "end_date_iso": "2026-05-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "c61ea97aa31ae9319b83048651aa31496f9b77596107eac7588981a0a79f349f",
       "title": "Lumsden, SK, CA - May 3rd - Regina Disc Dog Club",
       "url": "https://updogchallenge.com/events/lumsden-sk-ca-may-3rd-regina-disc-dog-club/",
@@ -1905,6 +2002,27 @@
       }
     },
     {
+      "id": "028b20014dacb25200d0b0a1fc5e8ad58983d28c5cd827a1bf6ff17872552b55",
+      "title": "Pilot Butte, SK, CA - May 5th - Bite Club - Encore Disc Dog Club",
+      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-may-5th-bite-club-encore-disc-dog-club/",
+      "details": {
+        "title": "Pilot Butte, SK, CA – May 5th – Bite Club – Encore Disc Dog Club",
+        "club_name": "Encore Disc Dog Club",
+        "contact_name": "Cheryl Petryshyn",
+        "contact_email": "encoredogsports@gmail.com",
+        "event_address": "6 Crocus Lane, Pilot Butte, SK S0G 3Z0, Canada",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdi0lhha8hsX4JQACXNBvjmUmNilRTZDpF-1miC3-awkjEGDA/viewform"
+      }
+    },
+    {
       "id": "e5213943e5bcf367a52709368dc89f055be9e057016c1e884092f8be3a238e3d",
       "title": "Southbridge, MA, US - May 5th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-5th-face-to-face/",
@@ -1972,6 +2090,28 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
+      "id": "fddbae188a5f8fd9226502f86771dce3385b3b11f7406319dbe9c04cdf07784a",
+      "title": "Windsor, NS, CA - May 7th - Bite Club - Irishmans Rd Trackers",
+      "url": "https://updogchallenge.com/events/windsor-ns-ca-may-7th-bite-club-irishmans-rd-trackers/",
+      "details": {
+        "title": "Windsor, NS, CA – May 7th – Bite Club – Irishmans Rd Trackers",
+        "club_name": "Irishmans Rd Trackers",
+        "contact_name": "Suzanne Phillips",
+        "contact_email": "suzannegphillips25@gmail.com",
+        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
+        "start_time": "6:00 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp",
+          "Pairs Throw N Go"
+        ]
       }
     },
     {
@@ -2111,6 +2251,32 @@
       }
     },
     {
+      "id": "af8dbe718bf99c23c88c655d5965b9e73f07a3c7273358db6a1b367a5b51edd5",
+      "title": "Leesburg, VA, US - May 9th - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-may-9th-nova-dog-sports/",
+      "details": {
+        "title": "Leesburg, VA, US – May 9th – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20191, United States",
+        "start_date": "5/9/2026",
+        "start_date_iso": "2026-05-09T00:00:00",
+        "notification_date": "2026-05-09",
+        "end_date": "5/9/2026",
+        "end_date_iso": "2026-05-09T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Throw N Go"
+        ]
+      }
+    },
+    {
       "id": "6e14550e4ebb66b296a0eaa022034a734b728e689336678a972ca7c3012ce9a1",
       "title": "Great Village, NS, CA - May 9th - Bite Club - Colchester Disc Dog Club",
       "url": "https://updogchallenge.com/events/great-village-ns-ca-may-9th-bite-club-colchester-disc-dog-club/",
@@ -2129,6 +2295,33 @@
         "end_time": "12:00 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "9b72f85eaa8f19c9a72146574f0431458de0359642ddd1d7bd638c91c7d7ffb6",
+      "title": "Batavia, NY, US - May 10th - Bite Club - Countryside Disc Dogs",
+      "url": "https://updogchallenge.com/events/batavia-ny-us-may-10th-bite-club-countryside-disc-dogs/",
+      "details": {
+        "title": "Batavia, NY, US – May 10th – Bite Club – Countryside Disc Dogs",
+        "club_name": "Countryside Disc Dogs",
+        "contact_name": "Anthony Mineo",
+        "contact_email": "mrtonymineo@gmail.com",
+        "event_address": "9207 Alexander Rd, Batavia, NY 14020, United States",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/26/2026",
+        "end_date_iso": "2026-05-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
@@ -2236,6 +2429,27 @@
       }
     },
     {
+      "id": "f014558397fe9938ea52e5d4bfe201b3430d0973c0e464d07d8b1601fcc2fd1f",
+      "title": "Pilot Butte, SK, CA - May 12th - Bite Club - Encore Disc Dog Club",
+      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-may-12th-bite-club-encore-disc-dog-club/",
+      "details": {
+        "title": "Pilot Butte, SK, CA – May 12th – Bite Club – Encore Disc Dog Club",
+        "club_name": "Encore Disc Dog Club",
+        "contact_name": "Cheryl Petryshyn",
+        "contact_email": "encoredogsports@gmail.com",
+        "event_address": "6 Crocus Lane, Pilot Butte, SK S0G 3Z0, Canada",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdi0lhha8hsX4JQACXNBvjmUmNilRTZDpF-1miC3-awkjEGDA/viewform"
+      }
+    },
+    {
       "id": "d200e9f9354e3279863d729bb78ae82918edc8c4b48ded2fe5a1fef88148d01f",
       "title": "Southbridge, MA, US - May 12th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-12th-face-to-face/",
@@ -2325,6 +2539,28 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
+      "id": "1d13c9fb1b8ddab48e932c7ba8c11ab2843daa214102ec03b7b0c10f01d454b2",
+      "title": "Windsor, NS, CA - May 14th - Bite Club - Irishmans Rd Trackers",
+      "url": "https://updogchallenge.com/events/windsor-ns-ca-may-14th-bite-club-irishmans-rd-trackers/",
+      "details": {
+        "title": "Windsor, NS, CA – May 14th – Bite Club – Irishmans Rd Trackers",
+        "club_name": "Irishmans Rd Trackers",
+        "contact_name": "Suzanne Phillips",
+        "contact_email": "suzannegphillips25@gmail.com",
+        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
+        "start_time": "6:00 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp",
+          "Pairs Throw N Go"
+        ]
       }
     },
     {
@@ -2735,6 +2971,33 @@
       }
     },
     {
+      "id": "30f2028fd256aaa5ef5ee2c78a2e239907e5e9f7df222aa86da46b31a01b469a",
+      "title": "Batavia, NY, US - May 17th - Bite Club - Countryside Disc Dogs",
+      "url": "https://updogchallenge.com/events/batavia-ny-us-may-17th-bite-club-countryside-disc-dogs/",
+      "details": {
+        "title": "Batavia, NY, US – May 17th – Bite Club – Countryside Disc Dogs",
+        "club_name": "Countryside Disc Dogs",
+        "contact_name": "Anthony Mineo",
+        "contact_email": "mrtonymineo@gmail.com",
+        "event_address": "9207 Alexander Rd, Batavia, NY 14020, United States",
+        "start_date": "4/26/2026",
+        "start_date_iso": "2026-04-26T00:00:00",
+        "notification_date": "2026-04-26",
+        "end_date": "5/26/2026",
+        "end_date_iso": "2026-05-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "a624271e758ffe32d74f1591642270a1a04890a35a03551f8f0ab6e21db94f32",
       "title": "Jacksonville, FL, US - May 17th - Bite Club - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-may-17th-bite-club-jacksonville-disc-dogs/",
@@ -2777,6 +3040,31 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "991227f00464ec2d8fddba11f34bd6ba551684fae96df9c7bcc28bf8d8cddfd2",
+      "title": "Ste Genevieve, MO, US - May 17th - St Louis Disc Dogs",
+      "url": "https://updogchallenge.com/events/ste-genevieve-mo-us-may-17th-st-louis-disc-dogs/",
+      "details": {
+        "title": "Ste Genevieve, MO, US – May 17th – St Louis Disc Dogs",
+        "club_name": "St Louis Disc Dogs",
+        "contact_name": "Nickie Nowak",
+        "contact_email": "nlnowak@outlook.com",
+        "event_address": "14490 Hennick Rd., Ste. Genevieve, MO 63670, United States",
+        "start_date": "5/17/2026",
+        "start_date_iso": "2026-05-17T00:00:00",
+        "notification_date": "2026-05-17",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "TBD"
       }
     },
     {
@@ -2883,6 +3171,27 @@
       }
     },
     {
+      "id": "5067c0c3d2dc3b38e8d07ab0efab5467181175d505c8c612a70e4d3c25228abe",
+      "title": "Pilot Butte, SK, CA - May 19th - Bite Club - Encore Disc Dog Club",
+      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-may-19th-bite-club-encore-disc-dog-club/",
+      "details": {
+        "title": "Pilot Butte, SK, CA – May 19th – Bite Club – Encore Disc Dog Club",
+        "club_name": "Encore Disc Dog Club",
+        "contact_name": "Cheryl Petryshyn",
+        "contact_email": "encoredogsports@gmail.com",
+        "event_address": "6 Crocus Lane, Pilot Butte, SK S0G 3Z0, Canada",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdi0lhha8hsX4JQACXNBvjmUmNilRTZDpF-1miC3-awkjEGDA/viewform"
+      }
+    },
+    {
       "id": "66344c71ccc7f9add760135248d867c9ea266ebb086a8547601cc69ff3f66b98",
       "title": "Southbridge, MA, US - May 19th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-19th-face-to-face/",
@@ -2950,6 +3259,28 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
+      "id": "774a71befa7c8f68d1fceaa4325a145cb0cd73cab4dc7edf3105f4190b21aded",
+      "title": "Windsor, NS, CA - May 21st - Bite Club - Irishmans Rd Trackers",
+      "url": "https://updogchallenge.com/events/windsor-ns-ca-may-21st-bite-club-irishmans-rd-trackers/",
+      "details": {
+        "title": "Windsor, NS, CA – May 21st – Bite Club – Irishmans Rd Trackers",
+        "club_name": "Irishmans Rd Trackers",
+        "contact_name": "Suzanne Phillips",
+        "contact_email": "suzannegphillips25@gmail.com",
+        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
+        "start_time": "6:00 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp",
+          "Pairs Throw N Go"
+        ]
       }
     },
     {
@@ -3842,6 +4173,28 @@
         "end_date_iso": "2026-06-07T00:00:00",
         "start_time": "8:30 AM",
         "end_time": "5:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "577f1ffc579bcbf96b3e49790d4cc951092437b85a595ac4571660b1ba262ebc",
+      "title": "Spruce Grove, AB, CA - June 6th - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-june-6th-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – June 6th – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "6/6/2026",
+        "start_date_iso": "2026-06-06T00:00:00",
+        "notification_date": "2026-06-06",
+        "end_date": "6/6/2026",
+        "end_date_iso": "2026-06-06T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
         "games": [
           "To Be Determined"
         ]
@@ -5212,6 +5565,29 @@
       }
     },
     {
+      "id": "a83c870e959b44858e0d088720fd95f92b1acea3eab885181b0f957b35f59140",
+      "title": "Rochester, PA, US - July 4th & 5th - Steel City Disc Dogs",
+      "url": "https://updogchallenge.com/events/rochester-pa-us-july-4th-5th-steel-city-disc-dogs/",
+      "details": {
+        "title": "Rochester, PA, US – July 4th & 5th – Steel City Disc Dogs",
+        "club_name": "Steel City Disc Dogs",
+        "contact_name": "Lynn Mitchell",
+        "contact_email": "allariawhippets@gmail.com",
+        "event_address": "K9 Athletes Sports Academy, 354 Glen Eden Rd, Rochester, PA 15074, United States",
+        "start_date": "7/4/2026",
+        "start_date_iso": "2026-07-04T00:00:00",
+        "notification_date": "2026-07-04",
+        "end_date": "7/5/2026",
+        "end_date_iso": "2026-07-05T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This even is being held in conjunction with their NADD Summer Sizzle dock diving event."
+      }
+    },
+    {
       "id": "c46e876e9717b7fbd3fe3c9f4b19ea8304be480b9613e168927e7be92d577338",
       "title": "Seville, OH, US - July 5th - Dawg Gone It",
       "url": "https://updogchallenge.com/events/seville-oh-us-july-5th-dawg-gone-it-crossover-crown/",
@@ -5397,6 +5773,35 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "9f56817ca087117b6bacc193621f4a5511c7aae959169c0a6a5d52923894dd0b",
+      "title": "Batavia, NY, US - July 11th & 12th - Countryside Disc Dogs",
+      "url": "https://updogchallenge.com/events/batavia-ny-us-july-11th-12th-countryside-disc-dogs/",
+      "details": {
+        "title": "Batavia, NY, US – July 11th & 12th – Countryside Disc Dogs",
+        "club_name": "Countryside Disc Dogs",
+        "contact_name": "Anthony Mineo",
+        "contact_email": "mrtonymineo@gmail.com",
+        "event_address": "9207 Alexander Rd, Batavia, NY 14020, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/dRZvQ8Jis9BhRL2XA"
       }
     },
     {
@@ -6174,6 +6579,28 @@
         "notification_date": "2026-07-25",
         "end_date": "7/26/2026",
         "end_date_iso": "2026-07-26T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "abc48074307818f72ceaf05882a6803e96b56a0063eba2e12cd5ee7a47ced8fa",
+      "title": "Spruce Grove, AB, CA - July 25th - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-july-25th-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – July 25th – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "7/25/2026",
+        "start_date_iso": "2026-07-25T00:00:00",
+        "notification_date": "2026-07-25",
+        "end_date": "7/25/2026",
+        "end_date_iso": "2026-07-25T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
         "games": [
           "To Be Determined"
         ]
@@ -7136,6 +7563,28 @@
       }
     },
     {
+      "id": "07f9792b80c191ae1c84f810853cf4dde5c95bd31a4dd14f81d96376bb281e3c",
+      "title": "Spruce Grove, AB, CA - Aug 23rd - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-aug-23rd-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Aug 23rd – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "8/23/2026",
+        "start_date_iso": "2026-08-23T00:00:00",
+        "notification_date": "2026-08-23",
+        "end_date": "8/23/2026",
+        "end_date_iso": "2026-08-23T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "32cb1324699857d43a3720980c8a73f8f5ed843eae736321d1f210a4b9f6a251",
       "title": "Rio Dell, CA, US - Aug 29th & 30th - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-aug-29th-30th-humboldt-disc-dog-club/",
@@ -7215,10 +7664,27 @@
       }
     },
     {
-      "id": "9f589581776a316588b833beee65c530b93b1eb6266ef61a76788dd52f6885c4",
+      "id": "4eb7e6a467ce26a10065a608ca0f9852b97b8c904f2d6dc221c38b7c93862212",
       "title": "Garland, TX, US - Sept 4th & 5th - UpDog Dallas - Triple Crown",
       "url": "https://updogchallenge.com/events/garland-tx-us-sept-4th-5th-updog-dallas-triple-crown/",
-      "details": {}
+      "details": {
+        "title": "Garland, TX, US – Sept 4th & 5th – UpDog Dallas – Triple Crown",
+        "club_name": "UpDog Dallas",
+        "contact_name": "Amy Braid",
+        "contact_email": "updogdallasdisc@gmail.com",
+        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
+        "start_date": "9/4/2026",
+        "start_date_iso": "2026-09-04T00:00:00",
+        "notification_date": "2026-09-04",
+        "end_date": "9/5/2026",
+        "end_date_iso": "2026-09-05T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "11:45 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Triple Crown"
+      }
     },
     {
       "id": "96b959ad6f726a9ae4970d2cde97f9751e88dfb040ce7eeaa1460f1b601b732f",
