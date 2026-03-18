@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T08:52:14Z",
-  "count": 397,
+  "last_updated": "2026-03-18T08:48:15Z",
+  "count": 403,
   "events": [
     {
       "id": "4eeff8f4763b876dc61660274ea79321fb18082288b73070de4a35eb15d8a342",
@@ -5273,6 +5273,38 @@
       }
     },
     {
+      "id": "2059016ec027dc55d75afbdd4fefee595bebed7f39689b0ad0a63e75cf0e70ea",
+      "title": "Spruce Grove, AB, CA - June 27th & 28th - Edmonton Disc Dog Club - Crossover Crown",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-june-27th-28th-edmonton-disc-dog-club-crossover-crown/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – June 27th & 28th – Edmonton Disc Dog Club – Crossover Crown",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "40421dd1f96babb8ebff608f49991cb31082924c1a83e1cb264d9a37fd4e7988",
       "title": "Vanessa, ON, CA - June 27th - Pandemonium in Motion - Crossover Crown",
       "url": "https://updogchallenge.com/events/vanessa-on-ca-june-27th-pandemonium-in-motion-crossover-crown/",
@@ -7806,6 +7838,28 @@
       }
     },
     {
+      "id": "ee2eb79234435ff905b15ddd67b6905629bbe51ee9b185f53fd6f2044a91198b",
+      "title": "Lloydminster, SK, CA - Sept 5th thru 7th - Border City Dog Sports - Triple Crown",
+      "url": "https://updogchallenge.com/events/lloydminster-sk-ca-sept-5th-thru-7th-border-city-dog-sports-triple-crown/",
+      "details": {
+        "title": "Lloydminster, SK, CA – Sept 5th thru 7th – Border City Dog Sports – Triple Crown",
+        "club_name": "Border City Dog Sports",
+        "contact_name": "Stacey Gamble",
+        "contact_email": "bordercitydogsports@gmail.com",
+        "event_address": "3705 57A AVENUE, Lloydminster, SK T9V 2N6, Canada",
+        "start_date": "9/5/2026",
+        "start_date_iso": "2026-09-05T00:00:00",
+        "notification_date": "2026-09-05",
+        "end_date": "9/7/2026",
+        "end_date_iso": "2026-09-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "291ae4cbb3935fb5825a431eb5ae887ce2b653e2030f1359113c48d0c62db785",
       "title": "McRae, AR, US - Sept 5th & 6th - Central Arkansas Disc Dog Organization - Triple Crown",
       "url": "https://updogchallenge.com/events/mcrae-ar-us-sept-5th-6th-central-arkansas-disc-dog-organization-triple-crown/",
@@ -8103,6 +8157,28 @@
         "end_date_iso": "2026-09-20T00:00:00",
         "start_time": "8:00 AM",
         "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "0a346a38a9cc296c27ba66dc1ae628ca16351553b02a855aa3b3a61388255979",
+      "title": "Spruce Grove, AB, CA - Sept 19th - Edmonton Disc Dog Club - Triple Crown",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-sept-19th-edmonton-disc-dog-club-triple-crown/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Sept 19th – Edmonton Disc Dog Club – Triple Crown",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "9/19/2026",
+        "start_date_iso": "2026-09-19T00:00:00",
+        "notification_date": "2026-09-19",
+        "end_date": "9/19/2026",
+        "end_date_iso": "2026-09-19T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
         "games": [
           "To Be Determined"
         ]
@@ -8464,6 +8540,28 @@
       }
     },
     {
+      "id": "ddbefb1bdeef2758449a172ebd760dcdd03dc9cd5fb65d874dff90ea7d118ee4",
+      "title": "Spruce Grove, AB, CA - Oct 3rd & 4th - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-oct-3rd-4th-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Oct 3rd & 4th – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "10/3/2026",
+        "start_date_iso": "2026-10-03T00:00:00",
+        "notification_date": "2026-10-03",
+        "end_date": "10/4/2026",
+        "end_date_iso": "2026-10-04T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "1a46e500536fa276732936addaa396720430672d688dcfa892c43b81b526b62c",
       "title": "Hebron, IN, US - Oct 4th - Stoney Run Canine Camp",
       "url": "https://updogchallenge.com/events/hebron-in-us-oct-4th-stoney-run-canine-camp/",
@@ -8736,6 +8834,34 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
+      }
+    },
+    {
+      "id": "05268a9e92be0ca5efe7028f77a5629ff7cdd80fb5f182b188a5a0769f21434c",
+      "title": "Spruce Grove, AB, CA - Oct 17th - Bite Club - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-oct-17th-bite-club-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Oct 17th – Bite Club – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Weeks 1 + 2 played on\nOct 17 –\n4 Way Play, Throw n Go Level 2, Time Warp, Spaced Out.\nWeeks 3 + 4 played on\nNov 1 –\n4 Way Play, Greedy, Throw n Go Level 1, Fireball."
       }
     },
     {
@@ -9155,6 +9281,34 @@
         ],
         "additional_event_information_for_participants": "jaxdiscdogs.weebly.com",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSfT5Tyld1uBto2UWOu3F31gluNOWrRV8L75wbaMSU7HnnsMfw/viewform?usp=publish-editor"
+      }
+    },
+    {
+      "id": "dd2e88fbbe03b3e45add936a52fe5eab59c36f2b8b278d351fa3d6d5eee97d54",
+      "title": "Spruce Grove, AB, CA - Nov 1st - Bite Club - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-nov-1st-bite-club-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Nov 1st – Bite Club – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Weeks 1 + 2 played on\nOct 17 –\n4 Way Play, Throw n Go Level 2, Time Warp, Spaced Out.\nWeeks 3 + 4 played on\nNov 1 –\n4 Way Play, Greedy, Throw n Go Level 1, Fireball."
       }
     },
     {
