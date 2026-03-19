@@ -1,30 +1,7 @@
 {
-  "last_updated": "2026-03-18T08:48:15Z",
-  "count": 403,
+  "last_updated": "2026-03-19T08:43:08Z",
+  "count": 402,
   "events": [
-    {
-      "id": "4eeff8f4763b876dc61660274ea79321fb18082288b73070de4a35eb15d8a342",
-      "title": "Troy, VA, US - March 18th - GDU Disc Dogs",
-      "url": "https://updogchallenge.com/events/troy-va-us-march-18th-gdu-disc-dogs/",
-      "details": {
-        "title": "Troy, VA, US – March 18th – GDU Disc Dogs",
-        "club_name": "GDU Disc Dogs",
-        "contact_name": "Kevin Proctor",
-        "contact_email": "gdudiscdogs@gmail.com",
-        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
-        "start_date": "3/18/2026",
-        "start_date_iso": "2026-03-18T00:00:00",
-        "notification_date": "2026-03-18",
-        "end_date": "3/18/2026",
-        "end_date_iso": "2026-03-18T00:00:00",
-        "start_time": "1:00 PM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Points-only event"
-      }
-    },
     {
       "id": "0b9256a9aafb4600221b244a7e02c6f30bf2f53f3c590a2f8ec50b82a17fcaf0",
       "title": "Princeton, IL, US - March 20th thru 22nd - Harmony Training Club",
@@ -2492,28 +2469,6 @@
       }
     },
     {
-      "id": "b92adeda9c2db3b7516388bb4336a1d12e983b51daf8dc9ee91ca9a2b2d06947",
-      "title": "Hopkinton, MA, US - May 13th - The Fetch Collective",
-      "url": "https://updogchallenge.com/events/hopkinton-ma-us-may-13th-the-fetch-collective/",
-      "details": {
-        "title": "Hopkinton, MA, US – May 13th – The Fetch Collective",
-        "club_name": "The Fetch Collective",
-        "contact_name": "Leah Lodato",
-        "contact_email": "fetchcollectiveclub@gmail.com",
-        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
-        "start_date": "5/13/2026",
-        "start_date_iso": "2026-05-13T00:00:00",
-        "notification_date": "2026-05-13",
-        "end_date": "5/13/2026",
-        "end_date_iso": "2026-05-13T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:30 PM",
-        "games": [
-          "Four Way Play"
-        ]
-      }
-    },
-    {
       "id": "23179119b2bb7a2afe025f52d4fd175e50407506c196a920ce28dcbb55278ec7",
       "title": "Saint John, NB, CA - May 13th - Bite Club - Fundy Flyers",
       "url": "https://updogchallenge.com/events/saint-john-nb-ca-may-13th-bite-club-fundy-flyers/",
@@ -3608,28 +3563,6 @@
       }
     },
     {
-      "id": "aa5b9183a9bbf64627cd2aac37f5a8d78557a21024552bf32ae9d33a345baf7c",
-      "title": "Hopkinton, MA, US - May 27th - The Fetch Collective",
-      "url": "https://updogchallenge.com/events/hopkinton-ma-us-may-27th-the-fetch-collective/",
-      "details": {
-        "title": "Hopkinton, MA, US – May 27th – The Fetch Collective",
-        "club_name": "The Fetch Collective",
-        "contact_name": "Leah Lodato",
-        "contact_email": "fetchcollectiveclub@gmail.com",
-        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
-        "start_date": "5/27/2026",
-        "start_date_iso": "2026-05-27T00:00:00",
-        "notification_date": "2026-05-27",
-        "end_date": "5/27/2026",
-        "end_date_iso": "2026-05-27T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:30 PM",
-        "games": [
-          "Greedy"
-        ]
-      }
-    },
-    {
       "id": "a7cdf06e4f6cbd201cd69738a67b55dfc905cee18938530490ea7dc5bcd9c582",
       "title": "Oklahoma City, OK, US - May 29th & 30th - Tornado Alley Disc Dogs",
       "url": "https://updogchallenge.com/events/oklahoma-city-ok-us-may-29th-30th-tornado-alley-disc-dogs/",
@@ -4289,8 +4222,7 @@
         "end_time": "8:00 PM",
         "games": [
           "Four Way Play",
-          "Greedy",
-          "Throw N Go"
+          "Fireball"
         ]
       }
     },
@@ -6168,6 +6100,33 @@
       }
     },
     {
+      "id": "33a90265ce87f033c6e47e06c04f8c9b2208514a390be2d8fb913b4b300ca221",
+      "title": "Hopkinton, MA, US - July 18th - Bite Club - The Fetch Collective",
+      "url": "https://updogchallenge.com/events/hopkinton-ma-us-july-18th-bite-club-the-fetch-collective/",
+      "details": {
+        "title": "Hopkinton, MA, US – July 18th – Bite Club – The Fetch Collective",
+        "club_name": "The Fetch Collective",
+        "contact_name": "Leah Lodato",
+        "contact_email": "fetchcollectiveclub@gmail.com",
+        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "7fca745beb3de7b44a2fffe3cd42f813956f05c156b02fe2a92884f65a23a984",
       "title": "Sultan, WA, US - July 18th & 19th - Evergreen Disc Dogs",
       "url": "https://updogchallenge.com/events/sultan-wa-us-july-18th-19th-evergreen-disc-dogs/",
@@ -6883,6 +6842,33 @@
         "end_time": "11:45 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "428b34bdb6eba5e06c12ee897192e49cb85d41e46fda3b2322e250f3914c6a38",
+      "title": "Hopkinton, MA, US - Aug 1st - Bite Club - The Fetch Collective",
+      "url": "https://updogchallenge.com/events/hopkinton-ma-us-aug-1st-bite-club-the-fetch-collective/",
+      "details": {
+        "title": "Hopkinton, MA, US – Aug 1st – Bite Club – The Fetch Collective",
+        "club_name": "The Fetch Collective",
+        "contact_name": "Leah Lodato",
+        "contact_email": "fetchcollectiveclub@gmail.com",
+        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
