@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-03-19T08:43:08Z",
-  "count": 402,
+  "last_updated": "2026-03-20T08:41:56Z",
+  "count": 406,
   "events": [
+    {
+      "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
+      "title": "Eagan, MN, US - March 13th & 14th - Outside the Box Dog Training",
+      "url": "https://updogchallenge.com/events/eagan-mn-us-march-13th-14th-outside-the-box-dog-training/",
+      "details": {
+        "title": "Eagan, MN, US – March 13th & 14th – Outside the Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "outsidetheboxdogtraining@gmail.com",
+        "event_address": "Eagan Civic Arena, 3870 Pilot Knob Rd, Eagan, MN 55122, United States",
+        "start_date": "3/13/2027",
+        "start_date_iso": "2027-03-13T00:00:00",
+        "notification_date": "2027-03-13",
+        "end_date": "3/14/2027",
+        "end_date_iso": "2027-03-14T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "5:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
+      }
+    },
     {
       "id": "0b9256a9aafb4600221b244a7e02c6f30bf2f53f3c590a2f8ec50b82a17fcaf0",
       "title": "Princeton, IL, US - March 20th thru 22nd - Harmony Training Club",
@@ -1500,6 +1532,28 @@
       }
     },
     {
+      "id": "f0cfc37f41bf5efb8e87ca9e6587b8575a5d69fa1c9628beae4f119c3c051c9d",
+      "title": "Mitchell, ACT, AU - May 1st - Bite Club - BDOC Disc Dogs",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-may-1st-bite-club-bdoc-disc-dogs/",
+      "details": {
+        "title": "Mitchell, ACT, AU – May 1st – Bite Club – BDOC Disc Dogs",
+        "club_name": "BDOC Disc Dogs (Belconnen Dog Club)",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "5/1/2026",
+        "start_date_iso": "2026-05-01T00:00:00",
+        "notification_date": "2026-05-01",
+        "end_date": "5/1/2026",
+        "end_date_iso": "2026-05-01T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "f57900c389dc88b52b19ea9418e4880184537ef105d19953a3adfabbb04f3b80",
       "title": "Lutz, FL, US - May 2nd & 3rd - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-may-2nd-3rd-cfddc/",
@@ -2139,6 +2193,28 @@
           "Spaced Out",
           "Throw N Go",
           "Time Warp"
+        ]
+      }
+    },
+    {
+      "id": "15298ddeb6ddf750da762769e56ae0028f3329d578e49b7253ef054bd4de07d9",
+      "title": "Mitchell, ACT, AU - May 9th - Bite Club - BDOC Disc Dogs",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-may-9th-bite-club-bdoc-disc-dogs/",
+      "details": {
+        "title": "Mitchell, ACT, AU – May 9th – Bite Club – BDOC Disc Dogs",
+        "club_name": "BDOC Disc Dogs (Belconnen Dog Club)",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "5/1/2026",
+        "start_date_iso": "2026-05-01T00:00:00",
+        "notification_date": "2026-05-01",
+        "end_date": "5/1/2026",
+        "end_date_iso": "2026-05-01T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
         ]
       }
     },
@@ -3286,6 +3362,28 @@
           "Spaced Out",
           "Throw N Go",
           "Time Warp"
+        ]
+      }
+    },
+    {
+      "id": "9c453bd3ea3cd46a3dbe9210f0f9658a982899214823c07e8f37232e98a4dd41",
+      "title": "Mitchell, ACT, AU - May 22nd - Bite Club - BDOC Disc Dogs",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-may-22nd-bite-club-bdoc-disc-dogs/",
+      "details": {
+        "title": "Mitchell, ACT, AU – May 22nd – Bite Club – BDOC Disc Dogs",
+        "club_name": "BDOC Disc Dogs (Belconnen Dog Club)",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "5/1/2026",
+        "start_date_iso": "2026-05-01T00:00:00",
+        "notification_date": "2026-05-01",
+        "end_date": "5/1/2026",
+        "end_date_iso": "2026-05-01T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
         ]
       }
     },
