@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21T08:32:52Z",
-  "count": 406,
+  "last_updated": "2026-03-22T08:35:47Z",
+  "count": 405,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -88,37 +88,6 @@
           "Time Warp",
           "Pairs Four Way Play"
         ]
-      }
-    },
-    {
-      "id": "38ca4cd7ba4730d23c8baed19974f28ceeb91b894d3a72c1aba05fe808f3594a",
-      "title": "Anniston, AL, US - March 21st - Black Sheep Disc Dog Club",
-      "url": "https://updogchallenge.com/events/anniston-al-us-march-21st-black-sheep-disc-dog-club/",
-      "details": {
-        "title": "Anniston, AL, US – March 21st – Black Sheep Disc Dog Club",
-        "club_name": "Black sheep Disc Dog Club",
-        "contact_name": "Jonathan Roberts",
-        "contact_email": "Jrdrums21@gmail.com",
-        "event_address": "454 Buckelew Bridge Road, Anniston, Alabama 36207, United States",
-        "start_date": "3/21/2026",
-        "start_date_iso": "2026-03-21T00:00:00",
-        "notification_date": "2026-03-21",
-        "end_date": "3/21/2026",
-        "end_date_iso": "2026-03-21T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/260347032521143"
       }
     },
     {
