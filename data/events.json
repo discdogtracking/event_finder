@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T08:54:55Z",
-  "count": 396,
+  "last_updated": "2026-03-27T08:51:40Z",
+  "count": 398,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -3261,6 +3261,36 @@
           "Throw N Go",
           "Time Warp"
         ]
+      }
+    },
+    {
+      "id": "fb0c713760be09836576d4c6698282919214fcefbdf9efe67a39122f3067c56d",
+      "title": "Irmo, SC, US - May 24th - Soda City Disc Dogs",
+      "url": "https://updogchallenge.com/events/irmo-sc-us-may-24th-soda-city-disc-dogs/",
+      "details": {
+        "title": "Irmo, SC, US – May 24th – Soda City Disc Dogs",
+        "club_name": "Soda City Disc Dogs",
+        "contact_name": "Alex Nolte",
+        "contact_email": "info@scDiscdogs.com",
+        "event_address": "1501 Kennerly Rd,, Irmo, SC 29063, United States",
+        "start_date": "5/24/2026",
+        "start_date_iso": "2026-05-24T00:00:00",
+        "notification_date": "2026-05-24",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Far Out",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Get ready to turn it up —this is a one-day, music-themed event and we’re planning to jam out all day long! Join us at the Irmo YMCA starting at 9:30 AM for a full day of disc dog fun, good vibes, and great runs.",
+        "prereg_url": "https://www.cognitoforms.com/SodaCityDiscDogs/SCDDMay24thUpdogChallenge"
       }
     },
     {
@@ -6595,6 +6625,38 @@
         "end_time": "4:00 PM",
         "games": [
           "To Be Determined"
+        ]
+      }
+    },
+    {
+      "id": "033438d2d07a03fc3edc0839b7770f5c7947bed119516301da24e4c54b87803f",
+      "title": "Canfield, OH, US - July 31st thru Aug 2nd - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/canfield-oh-us-july-31st-thru-aug-2nd-dawg-gone-it/",
+      "details": {
+        "title": "Canfield, OH, US – July 31st thru Aug 2nd – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "7265 Colombians-Canfield Road, Canfield, Ohio 44406, United States",
+        "start_date": "7/31/2026",
+        "start_date_iso": "2026-07-31T00:00:00",
+        "notification_date": "2026-07-31",
+        "end_date": "8/2/2026",
+        "end_date_iso": "2026-08-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ]
       }
     },
