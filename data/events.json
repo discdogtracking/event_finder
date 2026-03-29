@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T08:39:52Z",
-  "count": 398,
+  "last_updated": "2026-03-29T08:44:27Z",
+  "count": 393,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,52 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "77d482391e984553bf4659a97de91486f3ae34e651f8b14ef58586724f6516c9",
-      "title": "Manhattan, KS, US - March 28th - Prairie Disc Dogs",
-      "url": "https://updogchallenge.com/events/manhattan-ks-us-march-28th-prairie-disc-dogs/",
-      "details": {
-        "title": "Manhattan, KS, US – March 28th – Prairie Disc Dogs",
-        "club_name": "Prairie Disc Dogs",
-        "contact_name": "Jennifer Anthony",
-        "contact_email": "jennanthony@gmail.com",
-        "event_address": "1191 E 26th Ave, Manhattan, KS 66502, United States",
-        "start_date": "3/28/2026",
-        "start_date_iso": "2026-03-28T00:00:00",
-        "notification_date": "2026-03-28",
-        "end_date": "3/28/2026",
-        "end_date_iso": "2026-03-28T00:00:00",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/1YCX9Epeje7eP8rBxlnd8cgp27UUwP-5NUBH82uBOisw/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share"
-      }
-    },
-    {
-      "id": "cfb5a23e8cc2f1a48f69c277a1ef71a88dd87c386d3478a78e27ae6cdd1ac330",
-      "title": "Middle Island, NY, US - March 28th - \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
-      "url": "https://updogchallenge.com/events/middle-island-ny-us-march-28th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
-      "details": {
-        "title": "Middle Island, NY, US – March 28th – \tLong Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "contact_name": "Katrina Winsor",
-        "contact_email": "leadthepackdiscdogs@gmail.com",
-        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
-        "start_date": "3/28/2026",
-        "start_date_iso": "2026-03-28T00:00:00",
-        "notification_date": "2026-03-28",
-        "end_date": "3/28/2026",
-        "end_date_iso": "2026-03-28T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
       }
     },
     {
@@ -187,35 +141,6 @@
       }
     },
     {
-      "id": "9ae5794dc074b541412b0c83a7c321781b608d54151c412eeb720785f0b723d2",
-      "title": "Dacula, GA, US - March 28th - Forest City Sport Dogs",
-      "url": "https://updogchallenge.com/events/dacula-ga-us-march-28th-forest-city-sport-dogs/",
-      "details": {
-        "title": "Dacula, GA, US – March 28th – Forest City Sport Dogs",
-        "club_name": "Forest City Sport Dogs",
-        "contact_name": "Rowe Galt",
-        "contact_email": "ForestCitySportDogs@gmail.com",
-        "event_address": "2032 Jones Phillips Rd, Dacula, Georgia 30019, United States",
-        "start_date": "3/28/2026",
-        "start_date_iso": "2026-03-28T00:00:00",
-        "notification_date": "2026-03-28",
-        "end_date": "3/28/2026",
-        "end_date_iso": "2026-03-28T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Pairs Four Way Play"
-        ],
-        "additional_event_information_for_participants": "Follow our Facebook page for updates and important announcements!\nhttps://www.facebook.com/forestcitysportdogs/",
-        "prereg_url": "https://www.cognitoforms.com/ForestCitySportDogs/RunUppyRun"
-      }
-    },
-    {
       "id": "1749e4f208cb51a11adef5f4047074c610d1be75a19fd39f2d29dba6c727513d",
       "title": "Fernandina Beach, FL, US - March 28th & 29th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-march-28th-29th-jacksonville-disc-dogs/",
@@ -247,36 +172,6 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/events.html",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSf4hGJ4kEcZ1bBWkEvpoSlVdZZeTL4wMD9V0ab64nrkGdnxVg/viewform?usp=header"
-      }
-    },
-    {
-      "id": "8a0af6ad5b3a5774977e85fc5039f8dd334a954b3bcff4a262a211ffc54bb4b7",
-      "title": "Kenosha, WI, US - March 28th - Dairyland Disc Dogs",
-      "url": "https://updogchallenge.com/events/kenosha-wi-us-march-28th-dairyland-disc-dogs/",
-      "details": {
-        "title": "Kenosha, WI, US – March 28th – Dairyland Disc Dogs",
-        "club_name": "Dairyland Disc Dogs",
-        "contact_name": "Dean Shavit",
-        "contact_email": "dean.shavit@gmail.com",
-        "event_address": "Somers Memorial Park, 7511 12th St., Kenosha, WI 53144, United States",
-        "start_date": "3/28/2026",
-        "start_date_iso": "2026-03-28T00:00:00",
-        "notification_date": "2026-03-28",
-        "end_date": "3/28/2026",
-        "end_date_iso": "2026-03-28T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:30 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
       }
     },
     {
@@ -323,33 +218,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "4 games per day, which games each day TBD\nPOINTS ONLY EVENT"
-      }
-    },
-    {
-      "id": "f2c8d270f375230bf18e26fe5b0463be9c5c89cc31c562b5a19650df5f8df8e8",
-      "title": "Thornill, BC, CA - March 28th - Kermode K9 Sports Club",
-      "url": "https://updogchallenge.com/events/thornill-bc-ca-march-28th-kermode-k9-sports-club/",
-      "details": {
-        "title": "Thornill, BC, CA – March 28th – Kermode K9 Sports Club",
-        "club_name": "Kermode K9 Sports Club",
-        "contact_name": "Danielle McColl",
-        "contact_email": "kermodek9@gmail.com",
-        "event_address": "3128 BC-16, Thornhill, BC V8G 4N8, Canada",
-        "start_date": "3/28/2026",
-        "start_date_iso": "2026-03-28T00:00:00",
-        "notification_date": "2026-03-28",
-        "end_date": "3/28/2026",
-        "end_date_iso": "2026-03-28T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Fireball",
-          "Frizgility",
-          "Greedy",
-          "7Up",
-          "Time Warp",
-          "Pairs Four Way Play"
-        ]
       }
     },
     {
