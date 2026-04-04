@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T08:52:10Z",
-  "count": 384,
+  "last_updated": "2026-04-04T08:41:07Z",
+  "count": 388,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -2218,6 +2218,31 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "Our club facebook group will have all the info:\nhttps://www.facebook.com/groups/1146907010297502"
+      }
+    },
+    {
+      "id": "b8ac01420530e18104d9fc2714bac5b638a4ae927192f0d78b7f251144b39a5f",
+      "title": "Ste-Genevieve de Batiscan, QC, CA - May 16th - Centre Canin L'Etoile Filante S.E.N.C",
+      "url": "https://updogchallenge.com/events/ste-genevieve-de-batiscan-qc-ca-may-16th-centre-canin-letoile-filante-s-e-n-c/",
+      "details": {
+        "title": "Ste-Genevieve de Batiscan, QC, CA – May 16th – Centre Canin L’Etoile Filante S.E.N.C",
+        "club_name": "CENTRE CANIN L’ÉTOILE FILANTE S.E.N.C.",
+        "contact_name": "ISABELLE PERREAULT",
+        "contact_email": "INFO@CENTRECEF.CA",
+        "event_address": "180 ROUTE DE LA POINTE TRUDEL, STE-GENEVIÈVE DE BATISCAN, QUEBEC, CANADA G0X2R0, Canada",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -4766,6 +4791,33 @@
       }
     },
     {
+      "id": "ade771028fe43ba5b7d14651986231c1a63752d92f40267c8ea80e591ce9ab53",
+      "title": "Lebanon, TN, US - June 27th - NashVertical - Crossover Crown",
+      "url": "https://updogchallenge.com/events/lebanon-tn-us-june-27th-nashvertical-crossover-crown/",
+      "details": {
+        "title": "Lebanon, TN, US – June 27th – NashVertical – Crossover Crown",
+        "club_name": "NashVertical",
+        "contact_name": "Melissa Moerland",
+        "contact_email": "nashvertical@gmail.com",
+        "event_address": "5242 E Richmond Shop Rd, Lebanon, TN 37090, United States",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/27/2026",
+        "end_date_iso": "2026-06-27T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Far Out",
+          "Four Way Play",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Follow NashVertical on Facebook for further details!\nfacebook.com/nashverticaldiscdogs",
+        "prereg_url": "https://www.cognitoforms.com/NashVerticalDiscDogs/NashVerticalCrossoverCrown"
+      }
+    },
+    {
       "id": "b1e120d29c8e55d129fb10af6d1de3d1b643d2ac016e8764d15b90ea5ae47d64",
       "title": "North East, PA, US - June 27th - Flagship Dog Sports",
       "url": "https://updogchallenge.com/events/north-east-pa-us-june-27th-flagship-dog-sports/",
@@ -6520,29 +6572,6 @@
       }
     },
     {
-      "id": "725cffc4da0442e88c8aadf765132f9d620991a8f5fcef21c0f7ef048cf01c56",
-      "title": "Lebanon, PA, US - Aug 7th thru 9th - Woof Pack Disc Dogs",
-      "url": "https://updogchallenge.com/events/lebanon-pa-us-aug-7th-thru-9th-woof-pack-disc-dogs/",
-      "details": {
-        "title": "Lebanon, PA, US – Aug 7th thru 9th – Woof Pack Disc Dogs",
-        "club_name": "Woof Pack Disc Dogs",
-        "contact_name": "Emily Leiby",
-        "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "80 Rocherty Rd, Lebanon, PA 17042, United States",
-        "start_date": "8/7/2026",
-        "start_date_iso": "2026-08-07T00:00:00",
-        "notification_date": "2026-08-07",
-        "end_date": "8/9/2026",
-        "end_date_iso": "2026-08-09T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This event is part of the 2026 Mudi Nationals Cluster! For the most up-to-date information, follow our Facebook page or website, Woof Pack Disc Dogs.\nhttps://www.facebook.com/share/1F5ps7VdYv/?mibextid=wwXIfr\nwww.woofpackdiscdogs.com"
-      }
-    },
-    {
       "id": "0d1d1436dc88bee4b72c18ec56b09f1ebbf8750f8d38c4ef4b89bd015c8bbf07",
       "title": "Mahopac, NY, US - Aug 7th - Bite Club - Bring Your Own (BYO) Disc Dogs",
       "url": "https://updogchallenge.com/events/mahopac-ny-us-aug-7th-bite-club-bring-your-own-byo-disc-dogs/",
@@ -6908,6 +6937,30 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "43f742ceccd3de42b477bd09ccefa3743bc5e66334d6d2e31512ff316172d810",
+      "title": "Lebanon, TN, US - Aug 21st thru 23rd - NashVertical",
+      "url": "https://updogchallenge.com/events/lebanon-tn-us-june-27th-nashvertical-crossover-crown-2/",
+      "details": {
+        "title": "Lebanon, TN, US – Aug 21st thru 23rd – NashVertical",
+        "club_name": "NashVertical",
+        "contact_name": "Melissa Moerland",
+        "contact_email": "nashvertical@gmail.com",
+        "event_address": "5242 E Richmond Shop Rd, Lebanon, TN 37090, United States",
+        "start_date": "8/21/2026",
+        "start_date_iso": "2026-08-21T00:00:00",
+        "notification_date": "2026-08-21",
+        "end_date": "8/23/2026",
+        "end_date_iso": "2026-08-23T00:00:00",
+        "start_time": "3:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Follow NashVertical on Facebook for further information!\nfacebook.com/nashverticaldiscdogs",
+        "prereg_url": "https://www.cognitoforms.com/NashVerticalDiscDogs/CampNVSummer"
       }
     },
     {
@@ -8623,6 +8676,30 @@
       }
     },
     {
+      "id": "112e6dd55745d0a49363bbaf07e1a2b50c8a52cdb62216207e127eeaafbe06a9",
+      "title": "Lebanon, TN, US - Oct 24th & 25th - NashVertical",
+      "url": "https://updogchallenge.com/events/lebanon-tn-us-oct-24th-25th-nashvertical/",
+      "details": {
+        "title": "Lebanon, TN, US – Oct 24th & 25th – NashVertical",
+        "club_name": "NashVertical",
+        "contact_name": "Melissa Moerland",
+        "contact_email": "nashvertical@gmail.com",
+        "event_address": "5242 E Richmond Shop Rd, Lebanon, TN 37090, United States",
+        "start_date": "10/24/2026",
+        "start_date_iso": "2026-10-24T00:00:00",
+        "notification_date": "2026-10-24",
+        "end_date": "10/25/2026",
+        "end_date_iso": "2026-10-25T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Follow NashVertical on Facebook for further details!\nfacebook.com/nashverticaldiscdogs",
+        "prereg_url": "https://www.cognitoforms.com/NashVerticalDiscDogs/CampNVFall"
+      }
+    },
+    {
       "id": "b677c463639b1a820448da5a12da681f721355a6da7408f721c43f648c4e196d",
       "title": "West St Paul, MN, US - Oct 26th - Bite Club - The Canine Coach!",
       "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-26th-bite-club-the-canine-coach/",
@@ -9402,6 +9479,30 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/\nSaturday Dec 5th will be the First Coast Crown, we will be offering three rounds of Throw N Go, Frizgility, and Far Out with overall placements and prizes. Sunday Dec 6th will be a points only You Pick.",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSf4C8Ojngq3UXmM3xfP55NFZIdA1gSZsQJZtXtVePON-w9WgA/viewform?usp=publish-editor"
+      }
+    },
+    {
+      "id": "26d9cc28ebd9498ea790cbc5b9127d074c6821d3d77938ebe59008bf09d4456f",
+      "title": "Lebanon, TN, US - Dec 5th & 6th - NashVertical",
+      "url": "https://updogchallenge.com/events/lebanon-tn-us-dec-5th-6th-nashvertical/",
+      "details": {
+        "title": "Lebanon, TN, US – Dec 5th & 6th – NashVertical",
+        "club_name": "NashVertical",
+        "contact_name": "Melissa Moerland",
+        "contact_email": "nashvertical@gmail.com",
+        "event_address": "5242 E Richmond Shop Rd, Lebanon, TN 37090, United States",
+        "start_date": "12/5/2026",
+        "start_date_iso": "2026-12-05T00:00:00",
+        "notification_date": "2026-12-05",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Follow NashVertical on Facebook for further details!\nfacebook.com/nashverticaldiscdogs",
+        "prereg_url": "https://www.cognitoforms.com/NashVerticalDiscDogs/UpDogDisney"
       }
     },
     {
