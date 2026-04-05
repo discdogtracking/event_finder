@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-04T08:41:07Z",
-  "count": 388,
+  "last_updated": "2026-04-05T08:43:59Z",
+  "count": 386,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,66 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "9244c03cacff8d50780f775610fc6db4410ad70d70fd3997810e4622927444c8",
-      "title": "Kelowna, BC, CA - April 3rd & 4th - Kelowna Disc Dogs",
-      "url": "https://updogchallenge.com/events/kelowna-bc-ca-april-3rd-4th-kelowna-disc-dogs/",
-      "details": {
-        "title": "Kelowna, BC, CA – April 3rd & 4th – Kelowna Disc Dogs",
-        "club_name": "Kelowna Disc Dogs",
-        "contact_name": "Tia Itterman",
-        "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "2870 Benvoulin Road, Kelowna, BC v1w 2g8, Canada",
-        "start_date": "4/3/2026",
-        "start_date_iso": "2026-04-03T00:00:00",
-        "notification_date": "2026-04-03",
-        "end_date": "4/4/2026",
-        "end_date_iso": "2026-04-04T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "a115abfa6d013d9f37dbc72faff11ce9aabf3fbfdddc7898a797a0aef44b0e20",
-      "title": "Carrollton, TX, US - April 4th - EveryDog Disc Club",
-      "url": "https://updogchallenge.com/events/carrollton-tx-us-april-4th-everydog-disc-club/",
-      "details": {
-        "title": "Carrollton, TX, US – April 4th – EveryDog Disc Club",
-        "club_name": "EveryDog Disc Club",
-        "contact_name": "Sarah Owen",
-        "contact_email": "sarahowendogtraining@gmail.com",
-        "event_address": "1440 Keller Springs, Field #3, Carrollton, TX 75006, United States",
-        "start_date": "4/4/2026",
-        "start_date_iso": "2026-04-04T00:00:00",
-        "notification_date": "2026-04-04",
-        "end_date": "4/4/2026",
-        "end_date_iso": "2026-04-04T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "This is a point-only event, limited to 150 runs. Last chance to get in some runs before you head to UPDIF!\nhttps://sarahowendogtraining.com/everydog-disc-club-event-registration/"
       }
     },
     {
