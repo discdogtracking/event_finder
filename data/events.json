@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-05T08:43:59Z",
-  "count": 386,
+  "last_updated": "2026-04-06T09:11:02Z",
+  "count": 383,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,95 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "24a590fd7c6aa99afab17cb7db6a9526ad1daf2a95135fb3d3e15919de25b1f7",
-      "title": "Gretna, VA, US - April 4th and April 5th, Leesville Lake Campground",
-      "url": "https://updogchallenge.com/events/51379/",
-      "details": {
-        "title": "Gretna, VA, US – April 4th and April 5th, Leesville Lake Campground",
-        "club_name": "Leesville Lake Campground",
-        "contact_name": "Tracy Love",
-        "contact_email": "contactus@llcampground.com",
-        "event_address": "3129 Gallows Rd, Gretna, VA 24557, United States",
-        "start_date": "4/4/2026",
-        "start_date_iso": "2026-04-04T00:00:00",
-        "notification_date": "2026-04-04",
-        "end_date": "4/5/2026",
-        "end_date_iso": "2026-04-05T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Warm-up for UPDIF 2026 at Leesville Lake Campground! We are 2 hours from Tanglewood Park, the site of UPDIF 2026. Book your campsite for the event at LLCampground.com We offer full hook up sites close to our disc field. Tent and car camping is available to competitors.",
-        "prereg_url": "https://llcampground.com/events.html"
-      }
-    },
-    {
-      "id": "eab01b7646fcf80e4c271aa6a6e83f193a32734cdcaf4aa320c2ec17cb8a1c47",
-      "title": "Bartlett, IL, US - April 4th & 5th - McHenry Disc Dogs",
-      "url": "https://updogchallenge.com/events/bartlett-il-us-april-4th-5th-mchenry-disc-dogs/",
-      "details": {
-        "title": "Bartlett, IL, US – April 4th & 5th – McHenry Disc Dogs",
-        "club_name": "McHenry Disc Dogs",
-        "contact_name": "Zach Perlmutter",
-        "contact_email": "Mchenrydiscdogs@gmail.com",
-        "event_address": "2255 Southwind Blvd, Bartlett, IL 60103, United States",
-        "start_date": "4/4/2026",
-        "start_date_iso": "2026-04-04T00:00:00",
-        "notification_date": "2026-04-04",
-        "end_date": "4/5/2026",
-        "end_date_iso": "2026-04-05T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "9709f7eff08dae6648538b84d08ee8a5c6f204d44375bd877558a44d8fcdcc91",
-      "title": "Bridgewater, NS, CA - April 5th - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/bridgewater-ns-ca-april-5th-irishmans-rd-trackers/",
-      "details": {
-        "title": "Bridgewater, NS, CA – April 5th – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "HB Studios Sports Center, Bridgewater, Nova Scotia B4V 0A8, Canada",
-        "start_date": "4/5/2026",
-        "start_date_iso": "2026-04-05T00:00:00",
-        "notification_date": "2026-04-05",
-        "end_date": "4/5/2026",
-        "end_date_iso": "2026-04-05T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
