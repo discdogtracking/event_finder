@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-11T08:42:53Z",
-  "count": 383,
+  "last_updated": "2026-04-12T08:48:06Z",
+  "count": 382,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,35 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "61cc6c819c5a664b236f19bfa0de1c97ab44d5cb36cd1cf964ae3a9145cf1916",
-      "title": "Odenville, AL, US - April 11th - CC Canine Air Dogs Club",
-      "url": "https://updogchallenge.com/events/odenville-al-us-april-11th-cc-canine-air-dogs-club/",
-      "details": {
-        "title": "Odenville, AL, US – April 11th – CC Canine Air Dogs Club",
-        "club_name": "CC Canine Air Dogs Club",
-        "contact_name": "Chris Sides",
-        "contact_email": "dcsides1@gmail.com",
-        "event_address": "125 Aspen Lane, Odenville, AL 35120, United States",
-        "start_date": "4/11/2026",
-        "start_date_iso": "2026-04-11T00:00:00",
-        "notification_date": "2026-04-11",
-        "end_date": "4/11/2026",
-        "end_date_iso": "2026-04-11T00:00:00",
-        "start_time": "8:45 AM",
-        "games": [
-          "Far Out",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/260065765539162"
       }
     },
     {
