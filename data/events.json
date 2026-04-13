@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T08:48:06Z",
-  "count": 382,
+  "last_updated": "2026-04-13T09:38:37Z",
+  "count": 380,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,54 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "f29ec4454b96933d82fc1b4610ef7e07c010d5ba59f9667cd78fa365b6403300",
-      "title": "Abbotsford, BC, CA - April 12th - Abbotsford Disc Dogs",
-      "url": "https://updogchallenge.com/events/abbotsford-bc-ca-april-12th-abbotsford-disc-dogs/",
-      "details": {
-        "title": "Abbotsford, BC, CA – April 12th – Abbotsford Disc Dogs",
-        "club_name": "Abbotsford Disc Dogs",
-        "contact_name": "Naomi Simpson",
-        "contact_email": "abbotsforddiscdogs@gmail.com",
-        "event_address": "18 Ross Rd, Abbotsford, BC V4X2M5, Canada",
-        "start_date": "4/12/2026",
-        "start_date_iso": "2026-04-12T00:00:00",
-        "notification_date": "2026-04-12",
-        "end_date": "4/12/2026",
-        "end_date_iso": "2026-04-12T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "9b30c97f683fd278bc3c5ee78103439a9ae2cc56974161a4ee5e6b2e4fb4a11d",
-      "title": "Thorsby, AB, CA - April 12th - Edmonton Disc Dog Club",
-      "url": "https://updogchallenge.com/events/thorsby-ab-ca-april-12th-edmonton-disc-dog-club/",
-      "details": {
-        "title": "Thorsby, AB, CA – April 12th – Edmonton Disc Dog Club",
-        "club_name": "Edmonton disc dog club",
-        "contact_name": "Nicky Monson",
-        "contact_email": "info@edmontondiscdogclub.ca",
-        "event_address": "TWP 482, Thorsby, AB T0C0C5, Canada",
-        "start_date": "4/12/2026",
-        "start_date_iso": "2026-04-12T00:00:00",
-        "notification_date": "2026-04-12",
-        "end_date": "4/12/2026",
-        "end_date_iso": "2026-04-12T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
