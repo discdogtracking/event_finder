@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T09:21:22Z",
-  "count": 421,
+  "last_updated": "2026-04-17T09:21:31Z",
+  "count": 433,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -308,6 +308,32 @@
           "Throw N Go"
         ],
         "additional_event_information_for_participants": "This is a points-only event. No placements or awards provided. See our Facebook Page for entry forms, prices and requirements."
+      }
+    },
+    {
+      "id": "b5d9ab3434fb381e6daac77dd8d38c9184f6b973c738ae2c2c59cf227946997d",
+      "title": "Stare Babice, Poland - April 25th & 26th - Discbusters1",
+      "url": "https://updogchallenge.com/events/stare-babice-poland-april-25th-26th-discbusters1/",
+      "details": {
+        "title": "Stare Babice, Poland – April 25th & 26th – Discbusters1",
+        "club_name": "DISCBUSTERS1 – DOG GAMES SPRING",
+        "contact_name": "ANNA RADOMSKA",
+        "contact_email": "INTERDECO.ANNA@GMAIL.COM",
+        "event_address": "GOSIR ZIELONKI PARCELA, STARE BABICE, POŁUDNIOWA 2B 05082, Poland",
+        "start_date": "4/25/2026",
+        "start_date_iso": "2026-04-25T00:00:00",
+        "notification_date": "2026-04-25",
+        "end_date": "4/26/2026",
+        "end_date_iso": "2026-04-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -721,6 +747,56 @@
       }
     },
     {
+      "id": "65b03c467fbf4ce64e5034347a0ff7db0ad61fc1d71b28b677046c3ab979e551",
+      "title": "St Genevieve, MO, US - April 30th - Bite Club - St Louis Disc Dogs",
+      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-april-30th-bite-club-st-louis-disc-dogs/",
+      "details": {
+        "title": "St Genevieve, MO, US – April 30th – Bite Club – St Louis Disc Dogs",
+        "club_name": "St. Louis Disc Dogs",
+        "contact_name": "Nickie Nowak",
+        "contact_email": "nlnowak@outlook.com",
+        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/21/2026",
+        "end_date_iso": "2026-05-21T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
+      }
+    },
+    {
+      "id": "66813b2d40e251cd49e2b6746d19cbe11928be2ea04999ca1d1d53c5c99dd400",
+      "title": "Armstrong, BC, CA - April 30th - Bite Club - Armstrong Disc Dog Club",
+      "url": "https://updogchallenge.com/events/armstrong-bc-ca-april-30th-bite-club-armstrong-disc-dog-club/",
+      "details": {
+        "title": "Armstrong, BC, CA – April 30th – Bite Club – Armstrong Disc Dog Club",
+        "club_name": "Armstrong Disc Dog Club",
+        "contact_name": "Florence Hubicka",
+        "contact_email": "thecaninehub.bc@gmail.com",
+        "event_address": "1945 Otter Lake Cross Rd, Armstrong, BC V4Y 0N4, Canada",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "1b41ad4fa8c80a3607d3baf9056c9fd751c54a959bc43eceace78f3ce3eab224",
       "title": "Windsor, NS, CA - April 30th - Bite Club - Irishmans Rd Trackers",
       "url": "https://updogchallenge.com/events/windsor-ns-ca-april-30th-bite-club-irishmans-rd-trackers/",
@@ -867,7 +943,8 @@
           "Frizgility",
           "Greedy",
           "Spaced Out",
-          "Throw N Go"
+          "Throw N Go",
+          "Time Warp"
         ],
         "prereg_url": "https://form.jotform.com/260906002605144"
       }
@@ -966,22 +1043,49 @@
       }
     },
     {
-      "id": "72cef3199a1641c98a67498f9987845d65e65eb0e6e2aa84d6235218d4a97289",
-      "title": "Brookfield, WI, US - May 2nd - Think Pawsitive Dog Training",
+      "id": "b8d41ac15c1ff61ea4f7f38143d52e47d6a6cbccef803a8b83ae2705386c89b5",
+      "title": "Armstrong, BC, CA - May 2nd - Bite Club - Armstrong Disc Dog Club",
+      "url": "https://updogchallenge.com/events/armstrong-bc-ca-may-2nd-bite-club-armstrong-disc-dog-club/",
+      "details": {
+        "title": "Armstrong, BC, CA – May 2nd – Bite Club – Armstrong Disc Dog Club",
+        "club_name": "Armstrong Disc Dog Club",
+        "contact_name": "Florence Hubicka",
+        "contact_email": "thecaninehub.bc@gmail.com",
+        "event_address": "1945 Otter Lake Cross Rd, Armstrong, BC V4Y 0N4, Canada",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
+      "id": "772f804e0bfd3e4a1cd62793b5c7089786979002d8ee132eaab759dc77bbb832",
+      "title": "Brookfield, WI, US - May 2nd - Run for the Discs! Hosted by K9 Ventures",
       "url": "https://updogchallenge.com/events/brookfield-wi-us-may-2nd-think-pawsitive-dog-training/",
       "details": {
-        "title": "Brookfield, WI, US – May 2nd – Think Pawsitive Dog Training",
-        "club_name": "Breaking the ICE-Think Pawsitive Dog Training",
-        "contact_name": "Katie Oilschlager",
-        "contact_email": "katie@thinkpawsitivedog.com",
-        "event_address": "Brookfield Indoor Soccer Complex, 19485 Lisbon Rd, Brookfield, WI 53045, United States",
+        "title": "Brookfield, WI, US – May 2nd – Run for the Discs! Hosted by K9 Ventures",
+        "club_name": "Run for the Discs! Hosted by K9 Ventures",
+        "contact_name": "Todd Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "19485 W. Lisbon Rd, Brookfield, WI 53045, United States",
         "start_date": "5/2/2026",
         "start_date_iso": "2026-05-02T00:00:00",
         "notification_date": "2026-05-02",
         "end_date": "5/2/2026",
         "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
+        "start_time": "8:30 AM",
+        "end_time": "4:00 PM",
         "games": [
           "Four Way Play",
           "Frizgility",
@@ -989,8 +1093,8 @@
           "Throw N Go",
           "Time Warp"
         ],
-        "additional_event_information_for_participants": "This event will be held on an indoor soccer field featuring indoor turf with a rubberized base. The field is fully fenced on all sides, with a limited entrance/exit for safe and controlled flow of dogs and handlers.\nGames will run in a scheduled running order by time and will be held in conjunction with a UKI ICE Agility Trial. Competitors participating in both the UKI trial and the UpDog event will be accommodated to help ensure dogs are able to run in both events.\nSite Amenities:\nAmple parking available\nLimited RV overnight registrations available\nIndoor concessions on-site\nIndoor crating available immediately adjacent to the field\nAwards\nAwards will be given in three divisions: Beginner, Intermediate, and Expert.\nVolunteers Needed\nVolunteers are needed to help the event run smoothly and will be eligible for volunteer gift basket drawings.\nQuestions?\nFor additional information, please contact:\nKatie Oilschlager —\nkatie@thinkpawsitivedog.com",
-        "prereg_url": "https://thinkpawsitivedog.com/events2/k9-disc-events/"
+        "additional_event_information_for_participants": "The event will be held on an indoor soccer field. The field is made of indoor turf with a rubberized bed. The field is fenced on all sides with a limited entrance and exit. The games to be played will have a running order set by time. The site has ample parking, limited RV overnight registerations, and indoor concessions will be available. Indoor crating will also be available immediately adjacent to the field. Awards will be given in three divisions, beginner, intermediate, an expert. Volunteers are needed to help run the event smoothly and are eligable for volunteer gift basket drawings. For additional information please contact: Todd Oilschlager @\ninfo.k9ventures@gmail.com",
+        "prereg_url": "https://www.facebook.com/groups/2132791874144740"
       }
     },
     {
@@ -1533,6 +1637,29 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
+      "id": "a1bb9c675204d40b1fcf1eadebb73805366d464f8c0af71e649cc54c5a3bde9a",
+      "title": "St Genevieve, MO, US - May 7th - Bite Club - St Louis Disc Dogs",
+      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-may-7th-bite-club-st-louis-disc-dogs/",
+      "details": {
+        "title": "St Genevieve, MO, US – May 7th – Bite Club – St Louis Disc Dogs",
+        "club_name": "St. Louis Disc Dogs",
+        "contact_name": "Nickie Nowak",
+        "contact_email": "nlnowak@outlook.com",
+        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/21/2026",
+        "end_date_iso": "2026-05-21T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
       }
     },
     {
@@ -2114,6 +2241,33 @@
       }
     },
     {
+      "id": "327f20c0b3cff985dd1dd192dee7e3e29574ff5a6332e6262c9f52d4de6a8d12",
+      "title": "Armstrong, BC, CA - May 13th - Bite Club - Armstrong Disc Dog Club",
+      "url": "https://updogchallenge.com/events/armstrong-bc-ca-may-13th-bite-club-armstrong-disc-dog-club/",
+      "details": {
+        "title": "Armstrong, BC, CA – May 13th – Bite Club – Armstrong Disc Dog Club",
+        "club_name": "Armstrong Disc Dog Club",
+        "contact_name": "Florence Hubicka",
+        "contact_email": "thecaninehub.bc@gmail.com",
+        "event_address": "1945 Otter Lake Cross Rd, Armstrong, BC V4Y 0N4, Canada",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "23179119b2bb7a2afe025f52d4fd175e50407506c196a920ce28dcbb55278ec7",
       "title": "Saint John, NB, CA - May 13th - Bite Club - Fundy Flyers",
       "url": "https://updogchallenge.com/events/saint-john-nb-ca-may-13th-bite-club-fundy-flyers/",
@@ -2139,6 +2293,29 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
+      "id": "3b956ef70d2b48e70cc780d7020fab1f14ee1eff5752cd185a6a550630182e69",
+      "title": "St Genevieve, MO, US - May 14th - Bite Club - St Louis Disc Dogs",
+      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-may-14th-bite-club-st-louis-disc-dogs/",
+      "details": {
+        "title": "St Genevieve, MO, US – May 14th – Bite Club – St Louis Disc Dogs",
+        "club_name": "St. Louis Disc Dogs",
+        "contact_name": "Nickie Nowak",
+        "contact_email": "nlnowak@outlook.com",
+        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/21/2026",
+        "end_date_iso": "2026-05-21T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
       }
     },
     {
@@ -3011,6 +3188,29 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
+      }
+    },
+    {
+      "id": "9e51b231e9dee03a55112e0c265feb902f0c99cbcf22010fc209792769f56d72",
+      "title": "St Genevieve, MO, US - May 21st - Bite Club - St Louis Disc Dogs",
+      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-may-21st-bite-club-st-louis-disc-dogs/",
+      "details": {
+        "title": "St Genevieve, MO, US – May 21st – Bite Club – St Louis Disc Dogs",
+        "club_name": "St. Louis Disc Dogs",
+        "contact_name": "Nickie Nowak",
+        "contact_email": "nlnowak@outlook.com",
+        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/21/2026",
+        "end_date_iso": "2026-05-21T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
       }
     },
     {
@@ -4709,6 +4909,39 @@
       }
     },
     {
+      "id": "5982e5765163363ba77373e2c47ef1f561e0aa9f69d4c8bba5f572b064eceeeb",
+      "title": "Brookfield, WI, US - June 19th thru 21st - K9 Ventures",
+      "url": "https://updogchallenge.com/events/brookfield-wi-us-june-19th-thru-21st-run-for-the-discs-hosted-by-k9-ventures/",
+      "details": {
+        "title": "Brookfield, WI, US – June 19th thru 21st – K9 Ventures",
+        "club_name": "Lightyear Leap & Catch! Hosted by K9 Ventures",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "503 N. Jackson Ave, Jefferson, WI 53549, United States",
+        "start_date": "6/19/2026",
+        "start_date_iso": "2026-06-19T00:00:00",
+        "notification_date": "2026-06-19",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Come join us for a fun 3-day event to be part of the second annual “To Infinity and Beyond Classic-2026,” featuring the Lightyear Leap & Catch UpDog Disc Trial hosted by K9 Ventures!\nWe’re excited to host this disc event over three days at a beautiful site featuring both RV and tent camping. The grounds include shaded areas with trees lining the perimeter and a large grass field, with fencing along one side for added safety.\nAll games offered during the event will be Level 1, making it a great opportunity for teams of all experience levels. Additional events at the fairgrounds will include dock diving and flyball, creating a fun, multi-sport atmosphere.\nGames will run on a time schedule similar to UPDIF-style events, with accommodations made for those participating in other dog sports on-site to avoid conflicts.\nAwards will be given in three divisions:\nAstronaut – Novice/Beginner\nSpace Traveler – Intermediate\nStar Commander – Expert\nHandlers may enter different dogs at the level appropriate for each team.\nVolunteer giveaways for those who help support the event\nRV and camping options will be listed on the entry form\nSchedule:\nFriday: Games begin approximately at 12:00 PM (depending on the number of entrants)\nSaturday & Sunday:\nPlayers meeting at 8:00 AM\nGames begin at 8:30 AM\nFor additional information please contact: Katie Oilschlager @\ninfo.k9ventures@gmail.com"
+      }
+    },
+    {
       "id": "1c66d7e70c67465616a77f0d5542176c3bc8768d2bc965f633086787e520dc10",
       "title": "Arnprior, ON, CA - June 19th thru 21st - Sunshine Disc Dog Group - Crossover Crown",
       "url": "https://updogchallenge.com/events/arnprior-on-ca-june-19th-thru-21st-sunshine-disc-dog-group/",
@@ -5450,6 +5683,32 @@
       }
     },
     {
+      "id": "c23c8a3e1d05c7847004e1f958c73ace3c7ccb48b2bacd62d3516d44e7546fdd",
+      "title": "Stare Babice, Poland - July 3rd thru 5th - Discbusters1",
+      "url": "https://updogchallenge.com/events/stare-babice-poland-july-3rd-thru-5th-discbusters1/",
+      "details": {
+        "title": "Stare Babice, Poland – July 3rd thru 5th – Discbusters1",
+        "club_name": "DISCBUSTERS1 – DOG GAMES SUMMER",
+        "contact_name": "ANNA RADOMSKA",
+        "contact_email": "INTERDECO.ANNA@GMAIL.COM",
+        "event_address": "GOSIR ZIELONKI PARCELA, STARE BABICE, POŁUDNIOWA 2B 05082, Poland",
+        "start_date": "7/3/2026",
+        "start_date_iso": "2026-07-03T00:00:00",
+        "notification_date": "2026-07-03",
+        "end_date": "7/5/2026",
+        "end_date_iso": "2026-07-05T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "683290b068ceccbda689e4ba6c68c7fefc34da8cb8225a81a5ef60ed8ba1ad04",
       "title": "Pilot Mountain, NC, US - July 3rd - Jam-Min' Disc Dogs",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-july-13th-jam-min-disc-dogs/",
@@ -5484,6 +5743,32 @@
         ],
         "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
         "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration"
+      }
+    },
+    {
+      "id": "74c1f780302b1318b99532f83d7362e22e56100bcdbc3c1964361b0d53410cb8",
+      "title": "Rosemount, MN, US - July 3rd - Outside The Box Dog Training",
+      "url": "https://updogchallenge.com/events/rosemount-mn-us-july-3rd-outside-the-box-dog-training/",
+      "details": {
+        "title": "Rosemount, MN, US – July 3rd – Outside The Box Dog Training",
+        "club_name": "Outside The Box Dog Training",
+        "contact_name": "Autumn and Melissa Fenmar",
+        "contact_email": "ousidetheboxdogtraining@gmail.com",
+        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
+        "start_date": "7/3/2026",
+        "start_date_iso": "2026-07-03T00:00:00",
+        "notification_date": "2026-07-03",
+        "end_date": "7/3/2026",
+        "end_date_iso": "2026-07-03T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Registration will occur through the Outside The Box Bite Club facebook group."
       }
     },
     {
@@ -8678,6 +8963,33 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "2026 Northeast Classic! Three days, three fields, players packs, amazing awards and prizes, raffles and so much more! Location subject to change.\nFor the most up-to-date information, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/woofpackdiscdogs\n."
+      }
+    },
+    {
+      "id": "82c69ab0d72451c57b0a5a540939894d59e1031d24e6ae10191d2c215bd2b29a",
+      "title": "Stare Babice, Poland - Oct 3rd & 4th - Discbusters1",
+      "url": "https://updogchallenge.com/events/stare-babice-poland-oct-3rd-4th-discbusters1/",
+      "details": {
+        "title": "Stare Babice, Poland – Oct 3rd & 4th – Discbusters1",
+        "club_name": "DISCBUSTERS1 – DOG GAMES FALL",
+        "contact_name": "ANNA RADOMSKA",
+        "contact_email": "INTERDECO.ANNA@GMAIL.COM",
+        "event_address": "GOSIR ZIELONKI PARCELA, STARE BABICE, POŁUDNIOWA 2B 05082, Poland",
+        "start_date": "10/3/2026",
+        "start_date_iso": "2026-10-03T00:00:00",
+        "notification_date": "2026-10-03",
+        "end_date": "10/4/2026",
+        "end_date_iso": "2026-10-04T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Far Out",
+          "Frizgility",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
