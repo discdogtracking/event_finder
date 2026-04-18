@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T09:21:31Z",
-  "count": 433,
+  "last_updated": "2026-04-18T08:50:34Z",
+  "count": 440,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -477,36 +477,6 @@
       }
     },
     {
-      "id": "0a07c6597c79875e08dfdcc0733490c93081ab48e4abc868504f0443618ca422",
-      "title": "Labelle, QC, CA - April 26th - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
-      "url": "https://updogchallenge.com/events/labelle-qc-ca-april-26th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
-      "details": {
-        "title": "Labelle, QC, CA – April 26th – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "contact_name": "Cara Smeeton",
-        "contact_email": "cara@frisbeecanin.com",
-        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
-        "start_date": "4/26/2026",
-        "start_date_iso": "2026-04-26T00:00:00",
-        "notification_date": "2026-04-26",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
-        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
-      }
-    },
-    {
       "id": "9013e8d3fd6b9017aa3d4b7370a980abf36d44682cc00c578c2915e106c9a279",
       "title": "Grand Rapids, MI, US - April 26th - Bite Club - Bring It Back Disc-o",
       "url": "https://updogchallenge.com/events/grand-rapids-mi-us-april-26th-bite-club-bring-it-back-disc-o/",
@@ -815,6 +785,33 @@
           "Spaced Out",
           "Time Warp",
           "Pairs Throw N Go"
+        ]
+      }
+    },
+    {
+      "id": "d0bff94d63fae26d2964b2f9ed0d1e397f9fdec61df9a42507ade7ab9dbd6664",
+      "title": "Kelowna, BC, CA - April 30th - Bite Club - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-april-30th-bite-club-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – April 30th – Bite Club – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Roni Bedard",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "1035 Hollywood Rd S, KELOWNA, BC V1X 4N3, Canada",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
         ]
       }
     },
@@ -1377,36 +1374,6 @@
       }
     },
     {
-      "id": "bb4bcd0a0c33cdb95f015e1ca536005225f5c8151bc3228435cd7f1273a06b0c",
-      "title": "Labelle, QC, CA - May 3rd - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
-      "url": "https://updogchallenge.com/events/labelle-qc-ca-may-3rd-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
-      "details": {
-        "title": "Labelle, QC, CA – May 3rd – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "contact_name": "Cara Smeeton",
-        "contact_email": "cara@frisbeecanin.com",
-        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
-        "start_date": "4/26/2026",
-        "start_date_iso": "2026-04-26T00:00:00",
-        "notification_date": "2026-04-26",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
-        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
-      }
-    },
-    {
       "id": "98e7622810b7792c84e277b70679e332ce6fa3551bba883cfefde0a22a71cba3",
       "title": "Grand Rapids, MI, US - May 3rd - Bite Club - Bring It Back Disc-o",
       "url": "https://updogchallenge.com/events/grand-rapids-mi-us-may-3rd-bite-club-bring-it-back-disc-o/",
@@ -1681,6 +1648,33 @@
           "Spaced Out",
           "Time Warp",
           "Pairs Throw N Go"
+        ]
+      }
+    },
+    {
+      "id": "cc6a361bb1e9f0421cb6a385e4b16eaadef85665386541f47dd8dc61b475eae1",
+      "title": "Kelowna, BC, CA - May 7th - Bite Club - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-may-7th-bite-club-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – May 7th – Bite Club – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Roni Bedard",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "1035 Hollywood Rd S, KELOWNA, BC V1X 4N3, Canada",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
         ]
       }
     },
@@ -2028,36 +2022,6 @@
       }
     },
     {
-      "id": "49a7ad7087900148cee505d2a558220d710126087ab91620337b4066087fe20a",
-      "title": "Labelle, QC, CA - May 10th - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
-      "url": "https://updogchallenge.com/events/labelle-qc-ca-may-10th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
-      "details": {
-        "title": "Labelle, QC, CA – May 10th – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "contact_name": "Cara Smeeton",
-        "contact_email": "cara@frisbeecanin.com",
-        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
-        "start_date": "4/26/2026",
-        "start_date_iso": "2026-04-26T00:00:00",
-        "notification_date": "2026-04-26",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
-        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
-      }
-    },
-    {
       "id": "c378b9cfaa032bc1844a8ee18c02cebd9b9db830e98d4f3036564083758de861",
       "title": "Grand Rapids, MI, US - May 10th - Bite Club - Bring It Back Disc-o",
       "url": "https://updogchallenge.com/events/grand-rapids-mi-us-may-10th-bite-club-bring-it-back-disc-o/",
@@ -2341,6 +2305,33 @@
       }
     },
     {
+      "id": "8259ecbe3bceed48a23f9d6a7a1fb5e8c8a1214b0ba005fba3ae1fd4720f0c1e",
+      "title": "Kelowna, BC, CA - May 14th - Bite Club - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-may-14th-bite-club-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – May 14th – Bite Club – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Roni Bedard",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "1035 Hollywood Rd S, KELOWNA, BC V1X 4N3, Canada",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "4f795a1b71b546fd1113fa01ee434954b1a0cc9f7b6c8d2454cab71582763e16",
       "title": "Ottawa, ON, CA - May 15th - Bite Club - Scout's Pals",
       "url": "https://updogchallenge.com/events/ottawa-on-ca-may-15th-bite-club-scouts-pals/",
@@ -2505,6 +2496,32 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "For the most up-to-date info on events, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/share/16YiDprWFy/?mibextid=wwXIfr"
+      }
+    },
+    {
+      "id": "e05aab95e94d8f0bd726c264a769658c16fcb1456b8697c7b29543717a773a35",
+      "title": "Poznan, Poland - May 16th & 17th - Discbusters",
+      "url": "https://updogchallenge.com/events/poznan-poland-may-16th-17th-discbusters/",
+      "details": {
+        "title": "Poznan, Poland – May 16th & 17th – Discbusters",
+        "club_name": "DISCBUSTERS1 – LATAJACE PSY POZNAN",
+        "contact_name": "ANNA RADOMSKA",
+        "contact_email": "INTERDECO.ANNA@GMAIL.COM",
+        "event_address": "PARK CYTADELA OD UL.GARBARY, POZNAN, WIELKOPOLSKIE 61001, Poland",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/17/2026",
+        "end_date_iso": "2026-05-17T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Frizgility",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -2928,36 +2945,6 @@
       }
     },
     {
-      "id": "a6e4facc939af5a997da294322c538bc2e6e9468b5527907cb8379a72b953fee",
-      "title": "Labelle, QC, CA - May 17th - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
-      "url": "https://updogchallenge.com/events/labelle-qc-ca-may-17th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
-      "details": {
-        "title": "Labelle, QC, CA – May 17th – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "contact_name": "Cara Smeeton",
-        "contact_email": "cara@frisbeecanin.com",
-        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
-        "start_date": "4/26/2026",
-        "start_date_iso": "2026-04-26T00:00:00",
-        "notification_date": "2026-04-26",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Nous allons jouer après les rondes de Toss & Fetch de notre Club de Labelle / We will be playing after the rounds for Toss & Fetch for our Labelle Frisbee club.",
-        "prereg_url": "https://www.frisbeecanin.com/competitions-frisbee"
-      }
-    },
-    {
       "id": "d5a21cd3b301d36e91e5a609b30e90f91a3af9b62bb640dc1cdd7adf1aba4a90",
       "title": "Grand Rapids, MI, US - May 17th - Bite Club - Bring It Back Disc-o",
       "url": "https://updogchallenge.com/events/grand-rapids-mi-us-may-17th-bite-club-bring-it-back-disc-o/",
@@ -3313,6 +3300,33 @@
       }
     },
     {
+      "id": "1cb306b4e9265b702b6f8e7fb3e180880c32066398f2f962dff668860f2060f9",
+      "title": "Armstrong, BC, CA - May 22nd - Bite Club - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/armstrong-bc-ca-may-22nd-bite-club-kelowna-disc-dogs/",
+      "details": {
+        "title": "Armstrong, BC, CA – May 22nd – Bite Club – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Roni Bedard",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "Armstrong, BC",
+        "start_date": "4/30/2026",
+        "start_date_iso": "2026-04-30T00:00:00",
+        "notification_date": "2026-04-30",
+        "end_date": "5/22/2026",
+        "end_date_iso": "2026-05-22T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "9c453bd3ea3cd46a3dbe9210f0f9658a982899214823c07e8f37232e98a4dd41",
       "title": "Mitchell, ACT, AU - May 22nd - Bite Club - BDOC Disc Dogs",
       "url": "https://updogchallenge.com/events/mitchell-act-au-may-22nd-bite-club-bdoc-disc-dogs/",
@@ -3444,22 +3458,22 @@
       }
     },
     {
-      "id": "53f094ddaa643a4d417eb706bf40e7c64915af638c13bd4a0dc6f39bf7252f05",
-      "title": "Kelowna, BC, CA - May 23rd & 24th - Kelowna Disc Dogs",
+      "id": "3d5196d0147e7daf11e3878c27cec3b05ac3270754b2a9e4a91aa2712b65135d",
+      "title": "Armstrong, BC, CA - May 23rd & 24th - Kelowna Disc Dogs",
       "url": "https://updogchallenge.com/events/kelowna-bc-ca-may-23rd-24th-kelowna-disc-dogs/",
       "details": {
-        "title": "Kelowna, BC, CA – May 23rd & 24th – Kelowna Disc Dogs",
-        "club_name": "Kelowna Disc Dogs",
-        "contact_name": "Tia Itterman",
-        "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "Westshore Estates Community Park, Kelowna, BC V1H 2C3, Canada",
+        "title": "Armstrong, BC, CA – May 23rd & 24th – Kelowna Disc Dogs",
+        "club_name": "KELOWNA DISC DOGS",
+        "contact_name": "RONI BEDARD",
+        "contact_email": "INFO@KELOWNADISCDOGS.COM",
+        "event_address": "1945 OTTER LAKE CROSS RD, ARMSTRONG, BC V4Y 0N4, Canada",
         "start_date": "5/23/2026",
         "start_date_iso": "2026-05-23T00:00:00",
         "notification_date": "2026-05-23",
         "end_date": "5/24/2026",
         "end_date_iso": "2026-05-24T00:00:00",
         "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
+        "end_time": "6:30 PM",
         "games": [
           "Boom!",
           "Far Out",
@@ -4306,6 +4320,37 @@
       }
     },
     {
+      "id": "cf0e84410065de15ee369f506f51703ebefde31e0fe71eb63d8b4fbba6936a79",
+      "title": "New Richmond, OH, US - June 6th & 7th - Cross Creek Farm",
+      "url": "https://updogchallenge.com/events/new-richmond-oh-us-may-16th-cross-creek-farm-2/",
+      "details": {
+        "title": "New Richmond, OH, US – June 6th & 7th – Cross Creek Farm",
+        "club_name": "Cross Creek Farm",
+        "contact_name": "Linda Macke",
+        "contact_email": "Lmacke@roadrunner.com",
+        "event_address": "2200 Black Road, New Richmond, OH 45157, United States",
+        "start_date": "6/6/2026",
+        "start_date_iso": "2026-06-06T00:00:00",
+        "notification_date": "2026-06-06",
+        "end_date": "6/7/2026",
+        "end_date_iso": "2026-06-07T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Field has no fencing – in conjunction with an NADD dock diving event."
+      }
+    },
+    {
       "id": "fd44b13e884582b31ec98a64a4fc6aeac137083b1938a84966564153abc5033f",
       "title": "Danville, IN, US - June 6th - Clever Girl Disc Dogs - Crossover Crown",
       "url": "https://updogchallenge.com/events/danville-in-us-june-6th-clever-girl-disc-dogs-crossover-crown/",
@@ -4970,6 +5015,31 @@
       "url": "https://updogchallenge.com/events/lutz-fl-us-june-20th-21st-cfddc/",
       "details": {
         "title": "Lutz, FL, US – June 20th & 21st – CFDDC"
+      }
+    },
+    {
+      "id": "6ad9626b2c721ab0c7132cd6009d4838543e006d83322fb9b76297e9b74393f6",
+      "title": "Wroclaw, Poland - June 20th & 21st - Discbusters",
+      "url": "https://updogchallenge.com/events/wroclaw-poland-june-20th-21st-discbusters/",
+      "details": {
+        "title": "Wroclaw, Poland – June 20th & 21st – Discbusters",
+        "club_name": "DISCBUSTERS1 – LATAJACE PSY WROCLAW",
+        "contact_name": "ANNA RADOMSKA",
+        "contact_email": "INTERDECO.ANNA@GMAIL.COM",
+        "event_address": "PARK POŁUDNIOWY, WROCLAW, JANUSZOWICKA/KUTNOWSKA 53135, Poland",
+        "start_date": "6/20/2026",
+        "start_date_iso": "2026-06-20T00:00:00",
+        "notification_date": "2026-06-20",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Freestyle",
+          "Frizgility",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -7272,6 +7342,32 @@
       }
     },
     {
+      "id": "66443d97fb6a3d89157c2ba0efbdbf8e16cff7cd3e77984b5a15cf72cfaeaf66",
+      "title": "Gdynia, Poland - Aug 1st & 2nd - Discbusters",
+      "url": "https://updogchallenge.com/events/gdynia-poland-aug-1st-2nd-discbusters/",
+      "details": {
+        "title": "Gdynia, Poland – Aug 1st & 2nd – Discbusters",
+        "club_name": "DISCBUSTERS1 – LATAJACE PSY GDYNIA",
+        "contact_name": "ANNA RADOMSKA",
+        "contact_email": "INTERDECO.ANNA@GMAIL.COM",
+        "event_address": "PARK KOLIBKI, GDYNIA, AL.ZWYCIESTWA 291 81525, Poland",
+        "start_date": "8/1/2026",
+        "start_date_iso": "2026-08-01T00:00:00",
+        "notification_date": "2026-08-01",
+        "end_date": "8/2/2026",
+        "end_date_iso": "2026-08-02T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "428b34bdb6eba5e06c12ee897192e49cb85d41e46fda3b2322e250f3914c6a38",
       "title": "Hopkinton, MA, US - Aug 1st - Bite Club - The Fetch Collective",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-aug-1st-bite-club-the-fetch-collective/",
@@ -8080,6 +8176,32 @@
       }
     },
     {
+      "id": "0e5af5acfb06696fe544c8760a0b60ed593d1e84c2c26170036a630e19403a2e",
+      "title": "Warsaw, Poland - Aug 28th thru 30th - Discbusters",
+      "url": "https://updogchallenge.com/events/warsaw-poland-aug-28th-thru-30th-discbusters/",
+      "details": {
+        "title": "Warsaw, Poland – Aug 28th thru 30th – Discbusters",
+        "club_name": "DISCBUSTERS1 – LATAJACE PSY WARSZAWA",
+        "contact_name": "ANNA RADOMSKA",
+        "contact_email": "INTERDECO.ANNA@GMAIL.COM",
+        "event_address": "PLAZA WILANOW, WARSZAWA, FRANCISZKA KLIMCZAKA 2 02792, Poland",
+        "start_date": "8/28/2026",
+        "start_date_iso": "2026-08-28T00:00:00",
+        "notification_date": "2026-08-28",
+        "end_date": "8/30/2026",
+        "end_date_iso": "2026-08-30T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "32cb1324699857d43a3720980c8a73f8f5ed843eae736321d1f210a4b9f6a251",
       "title": "Rio Dell, CA, US - Aug 29th & 30th - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-aug-29th-30th-humboldt-disc-dog-club/",
@@ -8702,6 +8824,38 @@
         ],
         "additional_event_information_for_participants": "jaxdiscdogs.weebly.com",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLScxLqf2esmHk-riqsAk2ipxs4mfLRMfWnvl0v-YsMrl1kNizA/viewform?usp=header"
+      }
+    },
+    {
+      "id": "ab76abb6c61513c70aa1cfb96e85bd4697c4fed28f752c2d4c6796994f3a7dcd",
+      "title": "New Richmond, OH, US - Sept 19th & 20th - Cross Creek Farm",
+      "url": "https://updogchallenge.com/events/new-richmond-oh-us-sept-19th-20th-cross-creek-farm/",
+      "details": {
+        "title": "New Richmond, OH, US – Sept 19th & 20th – Cross Creek Farm",
+        "club_name": "Cross Creek Farm",
+        "contact_name": "Linda Macke",
+        "contact_email": "Lmacke@roadrunner.com",
+        "event_address": "2200 Black Road, New Richmond, OH 45157, United States",
+        "start_date": "9/19/2026",
+        "start_date_iso": "2026-09-19T00:00:00",
+        "notification_date": "2026-09-19",
+        "end_date": "9/20/2026",
+        "end_date_iso": "2026-09-20T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ],
+        "additional_event_information_for_participants": "This is Cross Creek Farm big “Try-It-All” event. We will have an Try-It’s in tracking, shed hunt, farm dog, fetch, and dock diving. We will also have competition/titling in NADD Dock Diving, Fetch, UpDog and Farm dog. Keep checking on our Facebook page for more information and additional games and try-its."
       }
     },
     {
@@ -10865,6 +11019,14 @@
         ],
         "additional_event_information_for_participants": "No set games at certain times. Pre-registration guarantees setup.",
         "prereg_url": "https://form.jotform.com/260145167051146"
+      }
+    },
+    {
+      "id": "c14db5b1bc3c8741c59bc6590bf0d2b1feb886b19cbcd7f183204ba786d1002c",
+      "title": "Decatur, AL, US - April 7th thru 11th - UpDog International Finals",
+      "url": "https://updogchallenge.com/events/decatur-al-us-april-7th-thru-11th-updog-international-finals/",
+      "details": {
+        "title": "Decatur, AL, US – April 7th thru 11th – UpDog International Finals"
       }
     }
   ]
