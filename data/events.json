@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T08:50:34Z",
-  "count": 440,
+  "last_updated": "2026-04-19T08:54:20Z",
+  "count": 438,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,57 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Field is completely fenced in except for a couple open gates at the far end away from the field."
-      }
-    },
-    {
-      "id": "32ca116acf34b93ee33d6bccda57b856303a876ebe20131497ceb0fb367139a7",
-      "title": "Punta Gorda, FL, US - April 18th - Disc Dogs of Treasure Coast",
-      "url": "https://updogchallenge.com/events/punta-gorda-fl-us-april-18th-disc-dogs-of-treasure-coast/",
-      "details": {
-        "title": "Punta Gorda, FL, US – April 18th – Disc Dogs of Treasure Coast",
-        "club_name": "Disc Dogs of Treasure Coast",
-        "contact_name": "Julie Spring",
-        "contact_email": "discdogsoftreasurecoast@gmail.com",
-        "event_address": "2551 Taylor Rd, Punta Gorda, FL 33950, United States",
-        "start_date": "4/18/2026",
-        "start_date_iso": "2026-04-18T00:00:00",
-        "notification_date": "2026-04-18",
-        "end_date": "4/18/2026",
-        "end_date_iso": "2026-04-18T00:00:00",
-        "start_time": "8:45 AM",
-        "end_time": "2:30 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Game order: Greedy, Throw N Go, Four Way Play, Frizgility\nWe will be playing on the SMALL UpDog FIELD.",
-        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfTreasureCoast/BrattyPawsSPRINGFEST"
-      }
-    },
-    {
-      "id": "aa0432fcc00bc1a1e3264d533d617cff17e48320c580c2db6e54635d685cf1e9",
-      "title": "Hopkinton, MA, US - April 18th - The Fetch Collective",
-      "url": "https://updogchallenge.com/events/hopkinton-ma-us-april-18th-the-fetch-collective/",
-      "details": {
-        "title": "Hopkinton, MA, US – April 18th – The Fetch Collective",
-        "club_name": "The Fetch Collective",
-        "contact_name": "Leah Lodato",
-        "contact_email": "fetchcollectiveclub@gmail.com",
-        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
-        "start_date": "4/18/2026",
-        "start_date_iso": "2026-04-18T00:00:00",
-        "notification_date": "2026-04-18",
-        "end_date": "4/18/2026",
-        "end_date_iso": "2026-04-18T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Frizgility",
-          "Spaced Out",
-          "Throw N Go"
-        ]
       }
     },
     {
