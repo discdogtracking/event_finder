@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T08:54:20Z",
-  "count": 438,
+  "last_updated": "2026-04-20T10:01:24Z",
+  "count": 434,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,91 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "662668eda7e236b7d7d5db59fbc9f4dd2e65004c66316c691600a3edd5ca9b3c",
-      "title": "Princeton, IL, US - April 17th thru 19th - Harmony Training Club",
-      "url": "https://updogchallenge.com/events/princeton-il-us-april-17th-thru-19th-harmony-training-club/",
-      "details": {
-        "title": "Princeton, IL, US – April 17th thru 19th – Harmony Training Club",
-        "club_name": "Harmony Training Club",
-        "contact_name": "Lynette VandeVenter",
-        "contact_email": "thecains91@gmail.com",
-        "event_address": "1616 North Main Street, Princeton, Illinois 61356, United States",
-        "start_date": "4/17/2026",
-        "start_date_iso": "2026-04-17T00:00:00",
-        "notification_date": "2026-04-17",
-        "end_date": "4/19/2026",
-        "end_date_iso": "2026-04-19T00:00:00",
-        "start_time": "3:30 PM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Field is completely fenced in except for a couple open gates at the far end away from the field."
-      }
-    },
-    {
-      "id": "3e361826e8467a8839c49d499f823c9fbb9af29d08a3decddd311955cd03cd97",
-      "title": "Calgary, AB, CA - April 19th - Calgary Disc Dog Club",
-      "url": "https://updogchallenge.com/events/calgary-ab-ca-april-19th-calgary-disc-dog-club/",
-      "details": {
-        "title": "Calgary, AB, CA – April 19th – Calgary Disc Dog Club",
-        "club_name": "Calgary Disc Dog Club",
-        "contact_name": "Kara Bellingham",
-        "contact_email": "kara.marciniak@gmail.com",
-        "event_address": "5151 101 Street NW, Calgary, AB T3L1S4, Canada",
-        "start_date": "4/19/2026",
-        "start_date_iso": "2026-04-19T00:00:00",
-        "notification_date": "2026-04-19",
-        "end_date": "4/19/2026",
-        "end_date_iso": "2026-04-19T00:00:00",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "79ff777c4ea612ae28979f821571c4735684609f918ada1eb86567b3ac37efd2",
-      "title": "Southbridge, MA, US - April 19th - Face to Face",
-      "url": "https://updogchallenge.com/events/southbridge-ma-us-april-19th-face-to-face/",
-      "details": {
-        "title": "Southbridge, MA, US – April 19th – Face to Face",
-        "club_name": "Face to Face Disc",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
-        "start_date": "4/19/2026",
-        "start_date_iso": "2026-04-19T00:00:00",
-        "notification_date": "2026-04-19",
-        "end_date": "4/19/2026",
-        "end_date_iso": "2026-04-19T00:00:00",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "acbfa55b0122f0fbf06608a1a86e86bea557ccc5e83a24e06395b50cf6db1137",
-      "title": "Dayton, OH, US - April 19th - Southern Ohio Flying K9s",
-      "url": "https://updogchallenge.com/events/dayton-oh-us-april-19th-southern-ohio-flying-k9s/",
-      "details": {
-        "title": "Dayton, OH, US – April 19th – Southern Ohio Flying K9s",
-        "club_name": "Southern Ohio Flying K9s",
-        "contact_name": "Kathleen O’Neill",
-        "contact_email": "oneillkathleen0907@gmail.com",
-        "event_address": "542 Valleycrest Drive, Dayton, OH 45404, United States",
-        "start_date": "4/19/2026",
-        "start_date_iso": "2026-04-19T00:00:00",
-        "notification_date": "2026-04-19",
-        "end_date": "4/19/2026",
-        "end_date_iso": "2026-04-19T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
