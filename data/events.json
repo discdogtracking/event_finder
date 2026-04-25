@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T09:38:35Z",
-  "count": 470,
+  "last_updated": "2026-04-25T08:54:09Z",
+  "count": 469,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,29 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "5310a154b9e225e269518aa9acbfe038a210bc5b6b1c485fba561f09c0007beb",
-      "title": "Greenfield, MA, US - April 24th - Face to Face",
-      "url": "https://updogchallenge.com/events/greenfield-ma-us-april-24th-face-to-face/",
-      "details": {
-        "title": "Greenfield, MA, US – April 24th – Face to Face",
-        "club_name": "Face to Face Dog Sports",
-        "contact_name": "Ashley Fulton",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "85 Wisdom Way, Greenfield, Ma 01301, United States",
-        "start_date": "4/24/2026",
-        "start_date_iso": "2026-04-24T00:00:00",
-        "notification_date": "2026-04-24",
-        "end_date": "4/24/2026",
-        "end_date_iso": "2026-04-24T00:00:00",
-        "start_time": "12:00 PM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "In combination with Flyball at the Fair."
       }
     },
     {
