@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25T08:54:09Z",
-  "count": 469,
+  "last_updated": "2026-04-26T09:02:06Z",
+  "count": 463,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -35,77 +35,6 @@
       }
     },
     {
-      "id": "a07bfe7f99f4eb5ac8feffb891c1b7fae101ae8b3ad90896167b7b0cef017ca0",
-      "title": "Brooklyn, CT, US - April 25th - Granite State Disc Dogs",
-      "url": "https://updogchallenge.com/events/brooklyn-ct-us-april-25th-granite-state-disc-dogs/",
-      "details": {
-        "title": "Brooklyn, CT, US – April 25th – Granite State Disc Dogs",
-        "club_name": "Granite State Disc Dogs",
-        "contact_name": "Sarah Stewart",
-        "contact_email": "granitestatedd@gmail.com",
-        "event_address": "619 Allen Hill Rd, Brooklyn, CT 06234, United States",
-        "start_date": "4/25/2026",
-        "start_date_iso": "2026-04-25T00:00:00",
-        "notification_date": "2026-04-25",
-        "end_date": "4/25/2026",
-        "end_date_iso": "2026-04-25T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This is a points only event."
-      }
-    },
-    {
-      "id": "43f1eb47630b72c291b077d58f23771533c83b386de83a6abb0ccd8a4f62339c",
-      "title": "Magnolia, TX, US - April 25th - Houston Canine Frisbee Disc Club",
-      "url": "https://updogchallenge.com/events/magnolia-tx-us-april-25th-houston-canine-frisbee-disc-club/",
-      "details": {
-        "title": "Magnolia, TX, US – April 25th – Houston Canine Frisbee Disc Club",
-        "club_name": "Houston Canine Frisbee Disc Club",
-        "contact_name": "Jill Best",
-        "contact_email": "jllbest@hotmail.com",
-        "event_address": "11931 Presley Drive, Magnolia, TX 77354, United States",
-        "start_date": "4/25/2026",
-        "start_date_iso": "2026-04-25T00:00:00",
-        "notification_date": "2026-04-25",
-        "end_date": "4/25/2026",
-        "end_date_iso": "2026-04-25T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Four Way Play",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "596d62f5a373a2699f405ee0ae1acd2dbd62a08c8eacc4d780ae2c9be65ad822",
-      "title": "Rio Dell, CA, US - April 25th - Humboldt Disc Dogs",
-      "url": "https://updogchallenge.com/events/rio-dell-ca-us-april-25th-humboldt-disc-dogs/",
-      "details": {
-        "title": "Rio Dell, CA, US – April 25th – Humboldt Disc Dogs",
-        "club_name": "Humboldt Disc Dog",
-        "contact_name": "Debra Lake",
-        "contact_email": "humboldtdiscdogs@yahoo.com",
-        "event_address": "50 Center St, Rio Dell, CA 95562, United States",
-        "start_date": "4/25/2026",
-        "start_date_iso": "2026-04-25T00:00:00",
-        "notification_date": "2026-04-25",
-        "end_date": "4/25/2026",
-        "end_date_iso": "2026-04-25T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Boom!",
-          "Four Way Play",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "This is a points-only event. No placements or awards provided. See our Facebook Page for entry forms, prices and requirements."
-      }
-    },
-    {
       "id": "b5d9ab3434fb381e6daac77dd8d38c9184f6b973c738ae2c2c59cf227946997d",
       "title": "Stare Babice, Poland - April 25th & 26th - Discbusters1",
       "url": "https://updogchallenge.com/events/stare-babice-poland-april-25th-26th-discbusters1/",
@@ -129,74 +58,6 @@
           "Throw N Go",
           "Time Warp"
         ]
-      }
-    },
-    {
-      "id": "53c33a5da87992f627ab088b7ee790f8ba82bcff23133dea2e3a6fd47184994b",
-      "title": "Vinita, OK, US - April 25th - UpDog Tulsa",
-      "url": "https://updogchallenge.com/events/vinita-ok-us-april-25th-updog-tulsa/",
-      "details": {
-        "title": "Vinita, OK, US – April 25th – UpDog Tulsa",
-        "club_name": "UpDog Tulsa",
-        "contact_name": "Evan Plew",
-        "contact_email": "runevanrun33@gmail.com",
-        "event_address": "24512 S 4350 Rd, Vinita, OK 74301, United States",
-        "start_date": "4/25/2026",
-        "start_date_iso": "2026-04-25T00:00:00",
-        "notification_date": "2026-04-25",
-        "end_date": "4/25/2026",
-        "end_date_iso": "2026-04-25T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "eddba5a659e1353cf76e182dc64fc8dc307dda208e84ab49aabf1551334488b8",
-      "title": "Eustis, FL, US - April 25th - Central Florida K9",
-      "url": "https://updogchallenge.com/events/eustis-fl-us-april-25th-central-florida-k9/",
-      "details": {
-        "title": "Eustis, FL, US – April 25th – Central Florida K9",
-        "club_name": "Central Florida K9",
-        "contact_name": "Justin Smith",
-        "contact_email": "smithhm.info@gmail.com",
-        "event_address": "27101 County Rd 44A, Eustis, FL 32736, United States",
-        "start_date": "4/25/2026",
-        "start_date_iso": "2026-04-25T00:00:00",
-        "notification_date": "2026-04-25",
-        "end_date": "4/25/2026",
-        "end_date_iso": "2026-04-25T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://forms.gle/s99hzR5UBDe6RVhj7"
-      }
-    },
-    {
-      "id": "88d66416637d1a8bdc2505efb161d0b8e4168d7dda7c69960b099f0948c9acc4",
-      "title": "Eustis, FL, US - May 16th - Central Florida K9",
-      "url": "https://updogchallenge.com/events/eustis-fl-us-may-16th-central-florida-k9/",
-      "details": {
-        "title": "Eustis, FL, US – May 16th – Central Florida K9",
-        "club_name": "Central Florida K9",
-        "contact_name": "Justin Smith",
-        "contact_email": "smithhm.info@gmail.com",
-        "event_address": "27101 County Rd 44A, Eustis, FL 32736, United States",
-        "start_date": "5/16/2026",
-        "start_date_iso": "2026-05-16T00:00:00",
-        "notification_date": "2026-05-16",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://forms.gle/s99hzR5UBDe6RVhj7"
       }
     },
     {
