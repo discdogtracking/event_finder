@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T10:21:40Z",
-  "count": 456,
+  "last_updated": "2026-04-28T10:19:20Z",
+  "count": 464,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,29 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "7d58810c7f32d6542d7048a5ccd56832a4314b2e2d09f31db5a7c74ae838a8cf",
-      "title": "West St Paul, MN, US - April 27th - Bite Club - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-april-27th-bite-club-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – April 27th – Bite Club – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "jess@thek9coach.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
-        "start_date": "4/27/2026",
-        "start_date_iso": "2026-04-27T00:00:00",
-        "notification_date": "2026-04-27",
-        "end_date": "4/27/2026",
-        "end_date_iso": "2026-04-27T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
       }
     },
     {
@@ -141,6 +118,33 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Bite Club rounds will be held before Toss & Fetch League and after Toss & Fetch League. From 3:45 to 5:45 and from 7:30 until 8pm. Please contact\ndean.shavit@gmail.com\nfor location information.\nSomers, WI is 55 miles north of Chicago and 35 miles south of Milwaukee, east of I94.\nJoin the Dairyland Disc dogs group on Facebook to access event information and registration links."
+      }
+    },
+    {
+      "id": "268a15625559767a8b59add782fb95519bd4670a06fc12b0c3c5c7cda8cd79e2",
+      "title": "Snohomish, WA, US - April 28th - Bite Club - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/snohomish-wa-us-april-28th-bite-club-evergreen-disc-dogs/",
+      "details": {
+        "title": "Snohomish, WA, US – April 28th – Bite Club – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "evergreendiscdogs@gmail.com",
+        "event_address": "18208 67th Ave SE, Snohomish, WA 98296, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -503,6 +507,32 @@
           "Time Warp"
         ],
         "prereg_url": "https://form.jotform.com/260906002605144"
+      }
+    },
+    {
+      "id": "433b4674e32e8d3ef016de14bb782cacf29f5f194b67ec9bd54a9d7c8db69bfe",
+      "title": "Perry, GA, US - May 2nd - Bite Club - DISCtinctive Dogs of MKC",
+      "url": "https://updogchallenge.com/events/perry-ga-us-may-2nd-bite-club-disctinctive-dogs-of-mkc/",
+      "details": {
+        "title": "Perry, GA, US – May 2nd – Bite Club – DISCtinctive Dogs of MKC",
+        "club_name": "DISCtinctive Dogs of MKC",
+        "contact_name": "Cate Johnson",
+        "contact_email": "catecjohnson@gmail.com",
+        "event_address": "132 Hicks Drive, Perry, Ga 31069, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/2/2026",
+        "end_date_iso": "2026-05-02T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out"
+        ],
+        "prereg_url": "https://forms.gle/9yujW9waexfaBVpJ7"
       }
     },
     {
@@ -909,8 +939,6 @@
         "end_time": "2:00 PM",
         "games": [
           "Fireball",
-          "Four Way Play",
-          "Greedy",
           "Spaced Out"
         ],
         "additional_event_information_for_participants": "Check Facebook for additional details"
@@ -1299,6 +1327,33 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Bite Club rounds will be held before Toss & Fetch League and after Toss & Fetch League. From 3:45 to 5:45 and from 7:30 until 8pm. Please contact\ndean.shavit@gmail.com\nfor location information.\nSomers, WI is 55 miles north of Chicago and 35 miles south of Milwaukee, east of I94.\nJoin the Dairyland Disc dogs group on Facebook to access event information and registration links."
+      }
+    },
+    {
+      "id": "55a24ca9fc69feae4aa5ad6c0c0a93ccd7bc1031c31b9b900e7bbdc77b568a41",
+      "title": "Snohomish, WA, US - May 5th - Bite Club - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/snohomish-wa-us-may-5th-bite-club-evergreen-disc-dogs/",
+      "details": {
+        "title": "Snohomish, WA, US – May 5th – Bite Club – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "evergreendiscdogs@gmail.com",
+        "event_address": "18208 67th Ave SE, Snohomish, WA 98296, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
       }
     },
     {
@@ -2062,6 +2117,33 @@
       }
     },
     {
+      "id": "0dec3a35462c5c7e70e8166aef4be3305f199256762ee733555d16483beb4878",
+      "title": "Snohomish, WA, US - May 12th - Bite Club - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/snohomish-wa-us-may-2th-bite-club-evergreen-disc-dogs/",
+      "details": {
+        "title": "Snohomish, WA, US – May 12th – Bite Club – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "evergreendiscdogs@gmail.com",
+        "event_address": "18208 67th Ave SE, Snohomish, WA 98296, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "c21346974f6e01ffc366c1b45850307c474dd69d3c82b243d9db1045fe250125",
       "title": "Huntertown, IN, US - May 12th - Summit City Disc Dog Group",
       "url": "https://updogchallenge.com/events/huntertown-in-us-may-12th-summit-city-disc-dog-group/",
@@ -2428,6 +2510,32 @@
       }
     },
     {
+      "id": "2d23f8b998dbf985870e9dbe6deaf009509f461aaa9c906e2510aac0ade2a66f",
+      "title": "Perry, GA, US - May 16th - Bite Club - DISCtinctive Dogs of MKC",
+      "url": "https://updogchallenge.com/events/perry-ga-us-may-16th-bite-club-disctinctive-dogs-of-mkc/",
+      "details": {
+        "title": "Perry, GA, US – May 16th – Bite Club – DISCtinctive Dogs of MKC",
+        "club_name": "DISCtinctive Dogs of MKC",
+        "contact_name": "Cate Johnson",
+        "contact_email": "catecjohnson@gmail.com",
+        "event_address": "132 Hicks Drive, Perry, Ga 31069, United States",
+        "start_date": "5/2/2026",
+        "start_date_iso": "2026-05-02T00:00:00",
+        "notification_date": "2026-05-02",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out"
+        ],
+        "prereg_url": "https://forms.gle/9yujW9waexfaBVpJ7"
+      }
+    },
+    {
       "id": "e05aab95e94d8f0bd726c264a769658c16fcb1456b8697c7b29543717a773a35",
       "title": "Poznan, Poland - May 16th & 17th - Discbusters",
       "url": "https://updogchallenge.com/events/poznan-poland-may-16th-17th-discbusters/",
@@ -2617,6 +2725,29 @@
           "Frizgility",
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "9c3a2636e415e6307dfe6063c775a2dbf1e2d57917f6187802cd6fe05ada81d5",
+      "title": "Wrentham, MA, US - May 16th - Minute Dog Disc",
+      "url": "https://updogchallenge.com/events/wrentham-ma-us-may-16th-minute-dog-disc/",
+      "details": {
+        "title": "Wrentham, MA, US – May 16th – Minute Dog Disc",
+        "club_name": "Minute Dog Disc",
+        "contact_name": "Chris Magruder",
+        "contact_email": "minutedogdisc@gmail.com",
+        "event_address": "Crackerbarrel Fairgrounds, 54 Emerald St, Wrentham, MA 02093, United States",
+        "start_date": "5/16/2026",
+        "start_date_iso": "2026-05-16T00:00:00",
+        "notification_date": "2026-05-16",
+        "end_date": "5/16/2026",
+        "end_date_iso": "2026-05-16T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Updated info available via fb group –\nhttps://www.facebook.com/share/g/1CnMfUHdMd/"
       }
     },
     {
@@ -3164,6 +3295,33 @@
       }
     },
     {
+      "id": "2a0b8e51bcf04c468d1ae8ffff87ebe7a402cfc0061eb092f4a392c15447a07b",
+      "title": "Snohomish, WA, US - May 19th - Bite Club - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/snohomish-wa-us-may-19th-bite-club-evergreen-disc-dogs/",
+      "details": {
+        "title": "Snohomish, WA, US – May 19th – Bite Club – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "evergreendiscdogs@gmail.com",
+        "event_address": "18208 67th Ave SE, Snohomish, WA 98296, United States",
+        "start_date": "4/28/2026",
+        "start_date_iso": "2026-04-28T00:00:00",
+        "notification_date": "2026-04-28",
+        "end_date": "4/28/2026",
+        "end_date_iso": "2026-04-28T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
       "id": "e01d594c2228d357a7413ecf2e999e506bacab2257159d3d733e5b6fccab00e5",
       "title": "Huntertown, IN, US - May 19th - Summit City Disc Dog Group",
       "url": "https://updogchallenge.com/events/huntertown-in-us-may-19th-summit-city-disc-dog-group/",
@@ -3395,7 +3553,7 @@
         "club_name": "Kelowna Disc Dogs",
         "contact_name": "Roni Bedard",
         "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "Armstrong, BC",
+        "event_address": "1945 Otter Lake Cross Rd Armstrong, BC Canada",
         "start_date": "4/30/2026",
         "start_date_iso": "2026-04-30T00:00:00",
         "notification_date": "2026-04-30",
@@ -4600,6 +4758,29 @@
       }
     },
     {
+      "id": "e1159706685f1d9d4117bb9f095b1784ad106abaead00a09d6897e78534bdfb1",
+      "title": "Wrentham, MA, US - June 7th - Minute Dog Disc",
+      "url": "https://updogchallenge.com/events/wrentham-ma-us-june-7th-minute-dog-disc/",
+      "details": {
+        "title": "Wrentham, MA, US – June 7th – Minute Dog Disc",
+        "club_name": "Minute Dog Disc",
+        "contact_name": "Chris Magruder",
+        "contact_email": "minutedogdisc@gmail.com",
+        "event_address": "Crackerbarrel Fairgrounds, 54 Emerald St, Wrentham, MA 02093, United States",
+        "start_date": "6/7/2026",
+        "start_date_iso": "2026-06-07T00:00:00",
+        "notification_date": "2026-06-07",
+        "end_date": "6/7/2026",
+        "end_date_iso": "2026-06-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Updated info available via fb group –\nhttps://www.facebook.com/share/g/1CnMfUHdMd/"
+      }
+    },
+    {
       "id": "453fce9a017e7b685cd8511a6ed50299a0c201b9da7c87126097bcedf9307fcd",
       "title": "Hillgrove, NB, CA - June 7th - PJs Canine Club - Crossover Crown",
       "url": "https://updogchallenge.com/events/hillgrove-nb-ca-june-7th-pjs-canine-club-crossover-crown/",
@@ -5649,27 +5830,6 @@
       }
     },
     {
-      "id": "9a10ea2d35c2de8eafdfa14fc57090979f3d89e5159abdc28db2e15e29622ad8",
-      "title": "Middle Island, NY, US - June 27th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-      "url": "https://updogchallenge.com/events/middle-island-ny-us-june-27th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
-      "details": {
-        "title": "Middle Island, NY, US – June 27th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "contact_name": "Katrina Winsor",
-        "contact_email": "leadthepackdiscdogs@gmail.com",
-        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, NY 11953, United States",
-        "start_date": "6/27/2026",
-        "start_date_iso": "2026-06-27T00:00:00",
-        "notification_date": "2026-06-27",
-        "end_date": "6/27/2026",
-        "end_date_iso": "2026-06-27T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
-      }
-    },
-    {
       "id": "b87c34d615954595f0ad2fa272671470de7845a063999566048ca39756dc20fd",
       "title": "Penobscot, ME, US - June 27th & 28th - Downeast Dog Sports",
       "url": "https://updogchallenge.com/events/penobscot-me-us-june-27th-28th-downeast-dog-sports/",
@@ -6481,6 +6641,29 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "fe91e9c403f4c4f3d2f8f5c4d8f2558baaab0241f87e3ced8d9a097510ab432d",
+      "title": "Wrentham, MA, US - July 11th & 12th - Minute Dog Disc",
+      "url": "https://updogchallenge.com/events/wrentham-ma-us-july-11th-12th-minute-dog-disc/",
+      "details": {
+        "title": "Wrentham, MA, US – July 11th & 12th – Minute Dog Disc",
+        "club_name": "Minute Dog Disc",
+        "contact_name": "Chris Magruder",
+        "contact_email": "minutedogdisc@gmail.com",
+        "event_address": "Crackerbarrel Fairgrounds, 54 Emerald St, Wrentham, MA 02093, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Updated info available via fb group –\nhttps://www.facebook.com/share/g/1CnMfUHdMd/"
       }
     },
     {
@@ -8101,6 +8284,29 @@
         ],
         "additional_event_information_for_participants": "Mad-Dogs.Org",
         "prereg_url": "Mad-Dogs,Org"
+      }
+    },
+    {
+      "id": "0fed22543b360716ca99a5c27ff40a5bc7c2f4cc9abbae81778b89400d789d1e",
+      "title": "Wrentham, MA, US - Aug 8th & 9th - Minute Dog Disc",
+      "url": "https://updogchallenge.com/events/wrentham-ma-us-aug-8th-9th-minute-dog-disc/",
+      "details": {
+        "title": "Wrentham, MA, US – Aug 8th & 9th – Minute Dog Disc",
+        "club_name": "Minute Dog Disc",
+        "contact_name": "Chris Magruder",
+        "contact_email": "minutedogdisc@gmail.com",
+        "event_address": "Crackerbarrel Fairgrounds, 54 Emerald St, Wrentham, MA 02093, United States",
+        "start_date": "8/8/2026",
+        "start_date_iso": "2026-08-08T00:00:00",
+        "notification_date": "2026-08-08",
+        "end_date": "8/9/2026",
+        "end_date_iso": "2026-08-09T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Updated info available via fb group –\nhttps://www.facebook.com/share/g/1CnMfUHdMd/"
       }
     },
     {
