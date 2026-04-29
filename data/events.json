@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T10:19:20Z",
-  "count": 464,
+  "last_updated": "2026-04-29T10:09:44Z",
+  "count": 459,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,142 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "9a823da6a856f6b27950e91c599746d6c85915609d4714b9166e4696efbeef39",
-      "title": "Pilot Butte, SK, CA - April 28th - Bite Club - Encore Disc Dog Club",
-      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-april-28th-bite-club-encore-disc-dog-club/",
-      "details": {
-        "title": "Pilot Butte, SK, CA – April 28th – Bite Club – Encore Disc Dog Club",
-        "club_name": "Encore Disc Dog Club",
-        "contact_name": "Cheryl Petryshyn",
-        "contact_email": "encoredogsports@gmail.com",
-        "event_address": "6 Crocus Lane, Pilot Butte, SK S0G 3Z0, Canada",
-        "start_date": "4/28/2026",
-        "start_date_iso": "2026-04-28T00:00:00",
-        "notification_date": "2026-04-28",
-        "end_date": "4/28/2026",
-        "end_date_iso": "2026-04-28T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdi0lhha8hsX4JQACXNBvjmUmNilRTZDpF-1miC3-awkjEGDA/viewform"
-      }
-    },
-    {
-      "id": "05a20a5a31cf1e45330ab182daa99fee26a4ee089c78ffb540acccbc64efb716",
-      "title": "Southbridge, MA, US - April 28th - Face to Face",
-      "url": "https://updogchallenge.com/events/southbridge-ma-us-april-28th-face-to-face/",
-      "details": {
-        "title": "Southbridge, MA, US – April 28th – Face to Face",
-        "club_name": "Face to Face Disc",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
-        "start_date": "4/28/2026",
-        "start_date_iso": "2026-04-28T00:00:00",
-        "notification_date": "2026-04-28",
-        "end_date": "4/28/2026",
-        "end_date_iso": "2026-04-28T00:00:00",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "cfd797caa60812c4e2c1df82de3030a98112229189cd7f74ae908214a73e7f70",
-      "title": "Seville, OH, US - April 28th - Bite Club - Dawg Gone It",
-      "url": "https://updogchallenge.com/events/seville-oh-us-april-28th-bite-club-dawg-gone-it/",
-      "details": {
-        "title": "Seville, OH, US – April 28th – Bite Club – Dawg Gone It",
-        "club_name": "Dawg Gone It",
-        "contact_name": "Heidi Pitts",
-        "contact_email": "graehm@gmail.com",
-        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
-        "start_date": "4/28/2026",
-        "start_date_iso": "2026-04-28T00:00:00",
-        "notification_date": "2026-04-28",
-        "end_date": "5/19/2026",
-        "end_date_iso": "2026-05-19T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "e3a0fd3d7d21482bb66ce0e67174aad7d736a838856a36d966bb892254507830",
-      "title": "Somers, WI, US - April 28th - Bite Club - Dairyland Disc Dogs",
-      "url": "https://updogchallenge.com/events/somers-wi-us-april-28th-bite-club-dairyland-disc-dogs/",
-      "details": {
-        "title": "Somers, WI, US – April 28th – Bite Club – Dairyland Disc Dogs",
-        "club_name": "Dairyland Disc Dogs",
-        "contact_name": "Dean Shavit",
-        "contact_email": "dean.shavit@gmail.com",
-        "event_address": "Private Residence, SOMERS, WI 53171, United States",
-        "start_date": "4/28/2026",
-        "start_date_iso": "2026-04-28T00:00:00",
-        "notification_date": "2026-04-28",
-        "end_date": "4/28/2026",
-        "end_date_iso": "2026-04-28T00:00:00",
-        "start_time": "3:45 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Bite Club rounds will be held before Toss & Fetch League and after Toss & Fetch League. From 3:45 to 5:45 and from 7:30 until 8pm. Please contact\ndean.shavit@gmail.com\nfor location information.\nSomers, WI is 55 miles north of Chicago and 35 miles south of Milwaukee, east of I94.\nJoin the Dairyland Disc dogs group on Facebook to access event information and registration links."
-      }
-    },
-    {
-      "id": "268a15625559767a8b59add782fb95519bd4670a06fc12b0c3c5c7cda8cd79e2",
-      "title": "Snohomish, WA, US - April 28th - Bite Club - Evergreen Disc Dogs",
-      "url": "https://updogchallenge.com/events/snohomish-wa-us-april-28th-bite-club-evergreen-disc-dogs/",
-      "details": {
-        "title": "Snohomish, WA, US – April 28th – Bite Club – Evergreen Disc Dogs",
-        "club_name": "Evergreen Disc Dogs",
-        "contact_name": "Raena Lorio",
-        "contact_email": "evergreendiscdogs@gmail.com",
-        "event_address": "18208 67th Ave SE, Snohomish, WA 98296, United States",
-        "start_date": "4/28/2026",
-        "start_date_iso": "2026-04-28T00:00:00",
-        "notification_date": "2026-04-28",
-        "end_date": "4/28/2026",
-        "end_date_iso": "2026-04-28T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "ecac054946adc2ce23fcc1a0fca31886790ec209282da60f7f66c08705bd91a9",
-      "title": "Huntertown, IN, US - April 28th - Summit City Disc Dog Group",
-      "url": "https://updogchallenge.com/events/huntertown-in-us-april-28th-summit-city-disc-dog-group/",
-      "details": {
-        "title": "Huntertown, IN, US – April 28th – Summit City Disc Dog Group",
-        "club_name": "Summit City Disc Dog Group",
-        "contact_name": "Mark Smith",
-        "contact_email": "summitcityddg@hotmail.com",
-        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
-        "start_date": "4/21/2026",
-        "start_date_iso": "2026-04-21T00:00:00",
-        "notification_date": "2026-04-21",
-        "end_date": "4/21/2026",
-        "end_date_iso": "2026-04-21T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Points only"
       }
     },
     {
@@ -1218,6 +1082,34 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "7134afc25db78f1dd8d14fc5aec3c44a2c3337360f02b5441256f068f65aef21",
+      "title": "McRae, AR, US - May 3rd - Bite Club - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/mcrae-ar-us-may-3rd-bite-club-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "McRae, AR, US – May 3rd – Bite Club – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "112 Webb Hill Road, McRae, AR 72102, United States",
+        "start_date": "5/3/2026",
+        "start_date_iso": "2026-05-03T00:00:00",
+        "notification_date": "2026-05-03",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Extra rounds may be played for the offered games. $10/round."
       }
     },
     {
@@ -2456,27 +2348,6 @@
       }
     },
     {
-      "id": "60f5f18c95887ede0e82bd3740abff65cd31f450718499cc40542f3cf91ccf99",
-      "title": "Oyster Bay, NY, US - May 16th & 17th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-      "url": "https://updogchallenge.com/events/oyster-bay-ny-us-may-16th-17th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
-      "details": {
-        "title": "Oyster Bay, NY, US – May 16th & 17th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "contact_name": "Katrina Winsor",
-        "contact_email": "leadthepackdiscdogs@gmail.com",
-        "event_address": "Planting Fields Arboretum, 1395 Planting Fields Road, Oyster Bay, NY 11771, United States",
-        "start_date": "5/16/2026",
-        "start_date_iso": "2026-05-16T00:00:00",
-        "notification_date": "2026-05-16",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
-      }
-    },
-    {
       "id": "99b9dbafba29eb23d4aa3ad2c0b07d9496e6012578c414549e70f56813c286f1",
       "title": "Biglerville, PA, US - May 16th & 17th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/biglerville-pa-us-may-16th-17th-woof-pack-disc-dogs/",
@@ -3126,6 +2997,34 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "a627b538bbce3dc30521a08dace3131e1eaec53ea73e8c0f9d37f2c61822b635",
+      "title": "McRae, AR, US - May 18th - Bite Club - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/mcrae-ar-us-may-18th-bite-club-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "McRae, AR, US – May 18th – Bite Club – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "112 Webb Hill Road, McRae, AR 72102, United States",
+        "start_date": "5/3/2026",
+        "start_date_iso": "2026-05-03T00:00:00",
+        "notification_date": "2026-05-03",
+        "end_date": "5/3/2026",
+        "end_date_iso": "2026-05-03T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Extra rounds may be played for the offered games. $10/round."
       }
     },
     {
