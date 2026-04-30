@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T10:09:44Z",
-  "count": 459,
+  "last_updated": "2026-04-30T10:10:23Z",
+  "count": 456,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,85 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "9e7cd77ccc9d7b3eba7255d985c4920eddcb8125b10e01cf9555a81e083c37d0",
-      "title": "Princeton, IL, US - April 29th - Bite Club - Harmony Training Club",
-      "url": "https://updogchallenge.com/events/princeton-il-us-april-29th-bite-club-harmony-training-club/",
-      "details": {
-        "title": "Princeton, IL, US – April 29th – Bite Club – Harmony Training Club",
-        "club_name": "Harmony Training Club",
-        "contact_name": "Lynette VandeVenter",
-        "contact_email": "firstharmonyfarms@yahoo.com",
-        "event_address": "1616 North Main Street, Princeton, Illinois 61356, United States",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "4/29/2026",
-        "end_date_iso": "2026-04-29T00:00:00",
-        "start_time": "3:30 PM",
-        "end_time": "6:30 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "597d21b251ac554e2fd8192d0a65c612378edf92ea87b84573b53e3c5fe1d231",
-      "title": "Hampshire, IL, US - April 29th - Bite Club - McHenry Disc Dogs",
-      "url": "https://updogchallenge.com/events/hampshire-il-us-april-29th-bite-club-mchenry-disc-dogs/",
-      "details": {
-        "title": "Hampshire, IL, US – April 29th – Bite Club – McHenry Disc Dogs",
-        "club_name": "McHenry Disc Dogs",
-        "contact_name": "Zach Perlmutter",
-        "contact_email": "zperlmut@gmail.com",
-        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "5/22/2026",
-        "end_date_iso": "2026-05-22T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:30 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "43fdf6ca0e8f903cf951eceed43bb9a817c2bc243ad3b2f7ef80ee0eaaeae300",
-      "title": "Saint John, NB, CA - April 29th - Bite Club - Fundy Flyers",
-      "url": "https://updogchallenge.com/events/saint-john-nb-ca-april-29th-bite-club-fundy-flyers/",
-      "details": {
-        "title": "Saint John, NB, CA – April 29th – Bite Club – Fundy Flyers",
-        "club_name": "Fundy Flyers",
-        "contact_name": "Andrea Caines",
-        "contact_email": "andrea_caines54@yahoo.ca",
-        "event_address": "1216 Sand Cove Road, Saint John, NB E2M5V8, Canada",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "5/20/2026",
-        "end_date_iso": "2026-05-20T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and Fetch\nApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
       }
     },
     {
@@ -2779,6 +2700,26 @@
       }
     },
     {
+      "id": "66344c71ccc7f9add760135248d867c9ea266ebb086a8547601cc69ff3f66b98",
+      "title": "Woodstock, MA, US - May 17th - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-may-19th-face-to-face/",
+      "details": {
+        "title": "Woodstock, MA, US – May 17th – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
+        "start_date": "5/19/2026",
+        "start_date_iso": "2026-05-19T00:00:00",
+        "notification_date": "2026-05-19",
+        "end_date": "5/19/2026",
+        "end_date_iso": "2026-05-19T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "30f2028fd256aaa5ef5ee2c78a2e239907e5e9f7df222aa86da46b31a01b469a",
       "title": "Batavia, NY, US - May 17th - Bite Club - Countryside Disc Dogs",
       "url": "https://updogchallenge.com/events/batavia-ny-us-may-17th-bite-club-countryside-disc-dogs/",
@@ -3096,26 +3037,6 @@
           "To Be Determined"
         ],
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdi0lhha8hsX4JQACXNBvjmUmNilRTZDpF-1miC3-awkjEGDA/viewform"
-      }
-    },
-    {
-      "id": "66344c71ccc7f9add760135248d867c9ea266ebb086a8547601cc69ff3f66b98",
-      "title": "Southbridge, MA, US - May 19th - Face to Face",
-      "url": "https://updogchallenge.com/events/southbridge-ma-us-may-19th-face-to-face/",
-      "details": {
-        "title": "Southbridge, MA, US – May 19th – Face to Face",
-        "club_name": "Face to Face Disc",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
-        "start_date": "5/19/2026",
-        "start_date_iso": "2026-05-19T00:00:00",
-        "notification_date": "2026-05-19",
-        "end_date": "5/19/2026",
-        "end_date_iso": "2026-05-19T00:00:00",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
