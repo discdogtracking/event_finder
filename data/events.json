@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T10:10:23Z",
-  "count": 456,
+  "last_updated": "2026-05-01T09:39:37Z",
+  "count": 452,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -32,105 +32,6 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "This event will be held indoors on padded turf.\nRegistration will be posted at\nhttps://www.outsidetheboxdogtraining.com/events\nAdditional information will be available as a facebook event page."
-      }
-    },
-    {
-      "id": "65b03c467fbf4ce64e5034347a0ff7db0ad61fc1d71b28b677046c3ab979e551",
-      "title": "St Genevieve, MO, US - April 30th - Bite Club - St Louis Disc Dogs",
-      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-april-30th-bite-club-st-louis-disc-dogs/",
-      "details": {
-        "title": "St Genevieve, MO, US – April 30th – Bite Club – St Louis Disc Dogs",
-        "club_name": "St. Louis Disc Dogs",
-        "contact_name": "Nickie Nowak",
-        "contact_email": "nlnowak@outlook.com",
-        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/21/2026",
-        "end_date_iso": "2026-05-21T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
-      }
-    },
-    {
-      "id": "66813b2d40e251cd49e2b6746d19cbe11928be2ea04999ca1d1d53c5c99dd400",
-      "title": "Armstrong, BC, CA - April 30th - Bite Club - Armstrong Disc Dog Club",
-      "url": "https://updogchallenge.com/events/armstrong-bc-ca-april-30th-bite-club-armstrong-disc-dog-club/",
-      "details": {
-        "title": "Armstrong, BC, CA – April 30th – Bite Club – Armstrong Disc Dog Club",
-        "club_name": "Armstrong Disc Dog Club",
-        "contact_name": "Florence Hubicka",
-        "contact_email": "thecaninehub.bc@gmail.com",
-        "event_address": "1945 Otter Lake Cross Rd, Armstrong, BC V4Y 0N4, Canada",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/24/2026",
-        "end_date_iso": "2026-05-24T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "1b41ad4fa8c80a3607d3baf9056c9fd751c54a959bc43eceace78f3ce3eab224",
-      "title": "Windsor, NS, CA - April 30th - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-april-30th-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – April 30th – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
-        "start_time": "6:00 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
-        ]
-      }
-    },
-    {
-      "id": "d0bff94d63fae26d2964b2f9ed0d1e397f9fdec61df9a42507ade7ab9dbd6664",
-      "title": "Kelowna, BC, CA - April 30th - Bite Club - Kelowna Disc Dogs",
-      "url": "https://updogchallenge.com/events/kelowna-bc-ca-april-30th-bite-club-kelowna-disc-dogs/",
-      "details": {
-        "title": "Kelowna, BC, CA – April 30th – Bite Club – Kelowna Disc Dogs",
-        "club_name": "Kelowna Disc Dogs",
-        "contact_name": "Roni Bedard",
-        "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "1035 Hollywood Rd S, KELOWNA, BC V1X 4N3, Canada",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/22/2026",
-        "end_date_iso": "2026-05-22T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp"
-        ]
       }
     },
     {
