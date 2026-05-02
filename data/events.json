@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T09:39:37Z",
-  "count": 452,
+  "last_updated": "2026-05-02T09:08:30Z",
+  "count": 448,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -35,84 +35,6 @@
       }
     },
     {
-      "id": "5f91ac70af3491048ad0cecc59e63ee49f363b173a0399e83e45ad325f5d7206",
-      "title": "Ottawa, ON, CA - May 1st - Bite Club - Scout's Pals",
-      "url": "https://updogchallenge.com/events/ottawa-on-ca-may-1st-bite-club-scouts-pals/",
-      "details": {
-        "title": "Ottawa, ON, CA – May 1st – Bite Club – Scout’s Pals",
-        "club_name": "Scout’s Pals",
-        "contact_name": "Nicholas Theriault",
-        "contact_email": "nick.theriault13@gmail.com",
-        "event_address": "3859 Carling Ave, Ottawa, ON K2K2Y7, Canada",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/1/2026",
-        "end_date_iso": "2026-05-01T00:00:00",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/J6bXjUkj4gX5t1Cq8"
-      }
-    },
-    {
-      "id": "f29361303c281edc4de9c7e471f749b7cfc740b027cb4b34aa7ffb9bf592e536",
-      "title": "Mahopac, NY, US - May 1st - Bite Club - Bring Your Own (BYO) Disc Dogs",
-      "url": "https://updogchallenge.com/events/mahopac-ny-us-may-1st-bite-club-bring-your-own-byo-disc-dogs/",
-      "details": {
-        "title": "Mahopac, NY, US – May 1st – Bite Club – Bring Your Own (BYO) Disc Dogs",
-        "club_name": "Bring Your Own (BYO) Disc Dogs",
-        "contact_name": "Sara Gagnon",
-        "contact_email": "byodiscdogs@gmail.com",
-        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "a7828fa18b26d5d579ffb397107f613dafc0deb0ef02db76b9a35112a1e38569",
-      "title": "Drumheller, AB, CA - May 1st - Bite Club - DinoMite Disc Dog Club",
-      "url": "https://updogchallenge.com/events/drumheller-ab-ca-may-1st-bite-club-dinomite-disc-dog-club/",
-      "details": {
-        "title": "Drumheller, AB, CA – May 1st – Bite Club – DinoMite Disc Dog Club",
-        "club_name": "DinoMite Disc Dog Club",
-        "contact_name": "Marion Paulson",
-        "contact_email": "discdoggurl@gmail.com",
-        "event_address": "122 Hy Grade Crescent, Drumheller, AB T0J 0Y0, Canada",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/19/2026",
-        "end_date_iso": "2026-05-19T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Contact\ndiscdoggurl@gmail.com\nfor registration information"
-      }
-    },
-    {
       "id": "13efd46fe665a41c0643d9b64a643decbfb8d007c6229d9a697ab589b12275ac",
       "title": "Rosemount, MN, US - May 1st, 8th, 15th & 22nd - Bite Club - Outside The Box Dog Training",
       "url": "https://updogchallenge.com/events/rosemount-mn-us-may-1st-8th-15th-22nd-bite-club-outside-the-box-dog-training/",
@@ -133,28 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "f0cfc37f41bf5efb8e87ca9e6587b8575a5d69fa1c9628beae4f119c3c051c9d",
-      "title": "Mitchell, ACT, AU - May 1st - Bite Club - BDOC Disc Dogs",
-      "url": "https://updogchallenge.com/events/mitchell-act-au-may-1st-bite-club-bdoc-disc-dogs/",
-      "details": {
-        "title": "Mitchell, ACT, AU – May 1st – Bite Club – BDOC Disc Dogs",
-        "club_name": "BDOC Disc Dogs (Belconnen Dog Club)",
-        "contact_name": "Justin Allen",
-        "contact_email": "allen.online@bigpond.com",
-        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/1/2026",
-        "end_date_iso": "2026-05-01T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
