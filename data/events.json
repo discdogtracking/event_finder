@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T09:08:30Z",
-  "count": 448,
+  "last_updated": "2026-05-03T09:25:56Z",
+  "count": 436,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -63,62 +63,6 @@
       "url": "https://updogchallenge.com/events/lutz-fl-us-may-2nd-3rd-cfddc/",
       "details": {
         "title": "Lutz, FL, US – May 2nd & 3rd – CFDDC"
-      }
-    },
-    {
-      "id": "420d74587e48a1f3217aa6e0836787d99f132ada25e800416c00f56063692864",
-      "title": "Odenville, AL, US - May 2nd - CC Canine Air Dogs Club",
-      "url": "https://updogchallenge.com/events/odenville-al-us-may-2nd-cc-canine-air-dogs-club/",
-      "details": {
-        "title": "Odenville, AL, US – May 2nd – CC Canine Air Dogs Club",
-        "club_name": "CC Canine Air Dogs Club",
-        "contact_name": "Chris Sides",
-        "contact_email": "dcsides1@gmail.com",
-        "event_address": "125 Aspen Lane, Odenville, AL 35120, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/260906002605144"
-      }
-    },
-    {
-      "id": "433b4674e32e8d3ef016de14bb782cacf29f5f194b67ec9bd54a9d7c8db69bfe",
-      "title": "Perry, GA, US - May 2nd - Bite Club - DISCtinctive Dogs of MKC",
-      "url": "https://updogchallenge.com/events/perry-ga-us-may-2nd-bite-club-disctinctive-dogs-of-mkc/",
-      "details": {
-        "title": "Perry, GA, US – May 2nd – Bite Club – DISCtinctive Dogs of MKC",
-        "club_name": "DISCtinctive Dogs of MKC",
-        "contact_name": "Cate Johnson",
-        "contact_email": "catecjohnson@gmail.com",
-        "event_address": "132 Hicks Drive, Perry, Ga 31069, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out"
-        ],
-        "prereg_url": "https://forms.gle/9yujW9waexfaBVpJ7"
       }
     },
     {
@@ -215,61 +159,6 @@
       }
     },
     {
-      "id": "b8d41ac15c1ff61ea4f7f38143d52e47d6a6cbccef803a8b83ae2705386c89b5",
-      "title": "Armstrong, BC, CA - May 2nd - Bite Club - Armstrong Disc Dog Club",
-      "url": "https://updogchallenge.com/events/armstrong-bc-ca-may-2nd-bite-club-armstrong-disc-dog-club/",
-      "details": {
-        "title": "Armstrong, BC, CA – May 2nd – Bite Club – Armstrong Disc Dog Club",
-        "club_name": "Armstrong Disc Dog Club",
-        "contact_name": "Florence Hubicka",
-        "contact_email": "thecaninehub.bc@gmail.com",
-        "event_address": "1945 Otter Lake Cross Rd, Armstrong, BC V4Y 0N4, Canada",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/24/2026",
-        "end_date_iso": "2026-05-24T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "772f804e0bfd3e4a1cd62793b5c7089786979002d8ee132eaab759dc77bbb832",
-      "title": "Brookfield, WI, US - May 2nd - Bite Club - Run for the Discs! Hosted by K9 Ventures",
-      "url": "https://updogchallenge.com/events/brookfield-wi-us-may-2nd-think-pawsitive-dog-training/",
-      "details": {
-        "title": "Brookfield, WI, US – May 2nd – Bite Club – Run for the Discs! Hosted by K9 Ventures",
-        "club_name": "Run for the Discs! Hosted by K9 Ventures",
-        "contact_name": "Todd Oilschlager",
-        "contact_email": "info.k9ventures@gmail.com",
-        "event_address": "19485 W. Lisbon Rd, Brookfield, WI 53045, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "The event will be held on an indoor soccer field. The field is made of indoor turf with a rubberized bed. The field is fenced on all sides with a limited entrance and exit. The games to be played will have a running order set by time. The site has ample parking, limited RV overnight registerations, and indoor concessions will be available. Indoor crating will also be available immediately adjacent to the field. Awards will be given in three divisions, beginner, intermediate, an expert. Volunteers are needed to help run the event smoothly and are eligable for volunteer gift basket drawings. For additional information please contact: Todd Oilschlager @\ninfo.k9ventures@gmail.com",
-        "prereg_url": "https://www.facebook.com/groups/2132791874144740"
-      }
-    },
-    {
       "id": "a83a4119a0fb0023fc09f22c883e208833705a97bbf04b3b9fddbe4d667998a1",
       "title": "Dacula, GA, US - May 2nd & 3rd - Forest City Sport Dogs",
       "url": "https://updogchallenge.com/events/dacula-ga-us-may-2nd-3rd-forest-city-sport-dogs/",
@@ -304,57 +193,6 @@
       }
     },
     {
-      "id": "490e8a99dce6dc7b889c93811663ac17bc541ede999312c47057583a1be7440f",
-      "title": "Granville, OH, US - May 2nd - Bite Club - Catch em All Canines",
-      "url": "https://updogchallenge.com/events/granville-oh-us-may-2nd-catch-em-all-canines/",
-      "details": {
-        "title": "Granville, OH, US – May 2nd – Bite Club – Catch em All Canines",
-        "club_name": "Catch em All Canines",
-        "contact_name": "Amanda Burkhart",
-        "contact_email": "help@catchemallcanines.com",
-        "event_address": "4309 Lancaster Ave, Granville, OH 43023, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
-      }
-    },
-    {
-      "id": "5707e1157c7e38a1712e4f6736ab7b9b3b78f02fdb80ac82391279ecd1509c88",
-      "title": "Trail, BC, CA - May 2nd - Bite Club - West Kootenay Disc Dogs",
-      "url": "https://updogchallenge.com/events/trail-bc-ca-may-2nd-bite-club-west-kootenay-disc-dogs/",
-      "details": {
-        "title": "Trail, BC, CA – May 2nd – Bite Club – West Kootenay Disc Dogs",
-        "club_name": "West Kootenay Disc Dogs",
-        "contact_name": "Sarah Dixon",
-        "contact_email": "dixonthedogtrainer@gmail.com",
-        "event_address": "1208 Pine Avenue, Trail, BC V1R 4E4, Canada",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/24/2026",
-        "end_date_iso": "2026-05-24T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ]
-      }
-    },
-    {
       "id": "4c6b85f4d7de25d9a802a0f1f0b54f95604e58127a1db6a2691fadc06e5211a3",
       "title": "Goshen, CT, US - May 2nd & 3rd - H2D2",
       "url": "https://updogchallenge.com/events/goshen-ct-us-may-2nd-3rd-h2d2/",
@@ -373,54 +211,6 @@
         "end_time": "5:00 PM",
         "games": [
           "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "0f800f5dd30d560d5555faaf562263af67fb94224c6dc503417d3a07089eb373",
-      "title": "Great Village, NS, CA - May 2nd - Bite Club - Colchester Disc Dog Club",
-      "url": "https://updogchallenge.com/events/great-village-ns-ca-may-2nd-bite-club-colchester-disc-dog-club/",
-      "details": {
-        "title": "Great Village, NS, CA – May 2nd – Bite Club – Colchester Disc Dog Club",
-        "club_name": "Colchester Disc Dog Club",
-        "contact_name": "Melanie Smith",
-        "contact_email": "melanieangus@hotmail.com",
-        "event_address": "10 Cross Rd, Great Village, NS B0M 1L0, Canada",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "12:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "56cbb67c5e9cd2ff824f97c8d1e7ef721d8b1ade160b94dcfb9b4c5c3d7f6a86",
-      "title": "Kitimat, BC, CA - May 2nd - Bite Club - Kitimat Working Dog Society",
-      "url": "https://updogchallenge.com/events/kitimat-bc-ca-may-2nd-bite-club-kitimat-working-dog-society/",
-      "details": {
-        "title": "Kitimat, BC, CA – May 2nd – Bite Club – Kitimat Working Dog Society",
-        "club_name": "Kitimat Working Dog Society",
-        "contact_name": "Kim Vroon",
-        "contact_email": "kitimatdogclub@gmail.com",
-        "event_address": "BC-37, Kitimat, BC V8C 2K6, Canada",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp"
         ]
       }
     },
@@ -450,111 +240,6 @@
           "Time Warp"
         ],
         "prereg_url": "https://prairiedogsports.as.me/?appointmentType=91961410"
-      }
-    },
-    {
-      "id": "c451a3e0a92226bbbcb7956528d8223124a40db01fe7fc1c75df5cf2534915ef",
-      "title": "Rochester, MN, US - May 2nd - QuickWits Disc Dogs",
-      "url": "https://updogchallenge.com/events/rochester-mn-us-may-2nd-quickwits-disc-dogs/",
-      "details": {
-        "title": "Rochester, MN, US – May 2nd – QuickWits Disc Dogs",
-        "club_name": "QuickWits Disc Dogs",
-        "contact_name": "Abigail Reynolds",
-        "contact_email": "quickwitsbc@gmail.com",
-        "event_address": "2800 West River Pkwy NW, Rochester, MN 55901, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "c6d279da3e94637b663c28adf9f95c3a4544e851a4fb9bab4e6f8292791f43fc",
-      "title": "Smyrna, TN, US - May 2nd - Bite Club - NashVertical Disc Dogs",
-      "url": "https://updogchallenge.com/events/smyrna-tn-us-may-2nd-bite-club-nashvertical-disc-dogs/",
-      "details": {
-        "title": "Smyrna, TN, US – May 2nd – Bite Club – NashVertical Disc Dogs",
-        "club_name": "NashVertical Disc Dogs",
-        "contact_name": "Ashton Bemis",
-        "contact_email": "nashvertical@gmail.com",
-        "event_address": "635 Olive Branch Rd, Smyrna, TN 37167, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We will be playing one round of Greedy, Four Way Play, Spaced Out, and Fireball for Bite Club Weeks 1+2 on 5/2.\nOn 5/16, we will be playing one round of Time Warp and Greedy, followed by a round of Freestyle Performance. Then, we will complete the Bite Club games for Weeks 3+4 with a round of Four Way Play and Throw N Go Level 2 before opening up the field for walk-up style games.\nThe field is a 3×3 format and is fully fenced. A roll call will be posted on the NashVertical facebook page the week prior to each event. facebook.com/nashverticaldiscdogs"
-      }
-    },
-    {
-      "id": "2c57d950154a9cfa7eaad585046bdb7fad5e9d3275682db5645530ed35f08a1e",
-      "title": "Lexington, KY, US - May 2nd - Bite Club - Horse Capital Disc Dogs",
-      "url": "https://updogchallenge.com/events/lexington-ky-us-may-2nd-bite-club-horse-capital-disc-dogs/",
-      "details": {
-        "title": "Lexington, KY, US – May 2nd – Bite Club – Horse Capital Disc Dogs",
-        "club_name": "Horse Capital Disc Dogs",
-        "contact_name": "DJ Cyganiewicz",
-        "contact_email": "djnkkay@gmail.com",
-        "event_address": "179 Bradley Ln, Lexington, KY 40511, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Fireball",
-          "Spaced Out"
-        ],
-        "additional_event_information_for_participants": "Check Facebook for additional details"
-      }
-    },
-    {
-      "id": "3e8b6bc4a72b42698710f7cbc616ecdebf78ef08b98912052b74c35f8c32888a",
-      "title": "Avon, IN, US - May 2nd - Bite Club - Clever Girl Disc Dogs",
-      "url": "https://updogchallenge.com/events/avon-in-us-may-2nd-bite-club-clever-girl-disc-dogs/",
-      "details": {
-        "title": "Avon, IN, US – May 2nd – Bite Club – Clever Girl Disc Dogs",
-        "club_name": "Clever Girl Disc Dogs",
-        "contact_name": "Samantha Stinson",
-        "contact_email": "clevergirldisc@gmail.com",
-        "event_address": "5203 E County Rd 150 N, Avon, IN 46123, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "12:00 PM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Please Visit\nhttps://www.facebook.com/CleverGirlDiscDogs\nfor more information"
       }
     },
     {
