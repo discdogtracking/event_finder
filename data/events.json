@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T10:17:06Z",
-  "count": 418,
+  "last_updated": "2026-05-05T10:05:38Z",
+  "count": 417,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,29 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "d1811251ecc723eefbb776e08c366ba24b3b77656089890dd6562f4619f8af3b",
-      "title": "West St Paul, MN, US - May 4th - Bite Club - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-may-4th-bite-club-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – May 4th – Bite Club – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "jess@thek9coach.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
-        "start_date": "4/27/2026",
-        "start_date_iso": "2026-04-27T00:00:00",
-        "notification_date": "2026-04-27",
-        "end_date": "4/27/2026",
-        "end_date_iso": "2026-04-27T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club"
       }
     },
     {
@@ -1519,14 +1496,14 @@
       }
     },
     {
-      "id": "b8ac01420530e18104d9fc2714bac5b638a4ae927192f0d78b7f251144b39a5f",
+      "id": "b9e0b2a03a70a23aba98facabc1aa828fef84f75c62c096d7827dd7f5760bfb4",
       "title": "Ste-Genevieve de Batiscan, QC, CA - May 16th - Centre Canin L'Etoile Filante S.E.N.C",
       "url": "https://updogchallenge.com/events/ste-genevieve-de-batiscan-qc-ca-may-16th-centre-canin-letoile-filante-s-e-n-c/",
       "details": {
         "title": "Ste-Genevieve de Batiscan, QC, CA – May 16th – Centre Canin L’Etoile Filante S.E.N.C",
         "club_name": "CENTRE CANIN L’ÉTOILE FILANTE S.E.N.C.",
-        "contact_name": "ISABELLE PERREAULT",
-        "contact_email": "INFO@CENTRECEF.CA",
+        "contact_name": "ISABELLE PERREAULT or Colette Boudreau",
+        "contact_email": "INFO@CENTRECEF.CA or coletteboudreau@hotmail.com",
         "event_address": "180 ROUTE DE LA POINTE TRUDEL, STE-GENEVIÈVE DE BATISCAN, QUEBEC, CANADA G0X2R0, Canada",
         "start_date": "5/16/2026",
         "start_date_iso": "2026-05-16T00:00:00",
@@ -1837,7 +1814,7 @@
           "Freestyle",
           "Throw N Go"
         ],
-        "additional_event_information_for_participants": "TBD"
+        "additional_event_information_for_participants": "https://www.facebook.com/events/2404630269959048/"
       }
     },
     {
