@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T10:19:56Z",
-  "count": 411,
+  "last_updated": "2026-05-07T10:24:48Z",
+  "count": 409,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,56 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "1c48183b4dd6ec2c3d8abad11d14b5683216f10383fea44b2a97b8c741987fd8",
-      "title": "Princeton, IL, US - May 6th - Bite Club - Harmony Training Club",
-      "url": "https://updogchallenge.com/events/princeton-il-us-may-6th-bite-club-harmony-training-club/",
-      "details": {
-        "title": "Princeton, IL, US – May 6th – Bite Club – Harmony Training Club",
-        "club_name": "Harmony Training Club",
-        "contact_name": "Lynette VandeVenter",
-        "contact_email": "firstharmonyfarms@yahoo.com",
-        "event_address": "1616 North Main Street, Princeton, Illinois 61356, United States",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "4/29/2026",
-        "end_date_iso": "2026-04-29T00:00:00",
-        "start_time": "3:30 PM",
-        "end_time": "6:30 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "3c20fa07b3219c2a16f052f44bffdf28b1d5896c3f674f41c34bc83956eecf3c",
-      "title": "Saint John, NB, CA - May 6th - Bite Club - Fundy Flyers",
-      "url": "https://updogchallenge.com/events/saint-john-nb-ca-may-6th-bite-club-fundy-flyers/",
-      "details": {
-        "title": "Saint John, NB, CA – May 6th – Bite Club – Fundy Flyers",
-        "club_name": "Fundy Flyers",
-        "contact_name": "Andrea Caines",
-        "contact_email": "andrea_caines54@yahoo.ca",
-        "event_address": "1216 Sand Cove Road, Saint John, NB E2M5V8, Canada",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "5/20/2026",
-        "end_date_iso": "2026-05-20T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
       }
     },
     {
@@ -701,14 +651,14 @@
     },
     {
       "id": "d200e9f9354e3279863d729bb78ae82918edc8c4b48ded2fe5a1fef88148d01f",
-      "title": "Southbridge, MA, US - May 12th - Face to Face",
+      "title": "Woodstock, CT, US - May 12th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-12th-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – May 12th – Face to Face",
+        "title": "Woodstock, CT, US – May 12th – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "5/12/2026",
         "start_date_iso": "2026-05-12T00:00:00",
         "notification_date": "2026-05-12",
@@ -2279,28 +2229,6 @@
       }
     },
     {
-      "id": "81bc1b5b5c79d8b1f9ad28a39700284688be8383f1fdc4474865aaa8bc4ad1fc",
-      "title": "Brooksville, FL, US - May 23rd & 24th - CFDDC",
-      "url": "https://updogchallenge.com/events/brooksville-fl-us-may-23rd-24th-cfddc-2/",
-      "details": {
-        "title": "Brooksville, FL, US – May 23rd & 24th – CFDDC",
-        "club_name": "CFDDC",
-        "contact_name": "Kat Fahle",
-        "contact_email": "katfahle@gmail.com",
-        "event_address": "25592 Hayman Rd, Brooksville, FL 34602",
-        "start_date": "5/23/2026",
-        "start_date_iso": "2026-05-23T00:00:00",
-        "notification_date": "2026-05-23",
-        "end_date": "5/24/2026",
-        "end_date_iso": "2026-05-24T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
       "id": "c70ba08e1370fe94898a3937bb9abfd3540f9839f6afb847d1234bedd7f34396",
       "title": "East Selkirk, MB, CA - May 23rd & 24th - Whipp'In Disc Dogs",
       "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-may-23rd-24th-whippin-disc-dogs/",
@@ -2485,6 +2413,28 @@
       }
     },
     {
+      "id": "81bc1b5b5c79d8b1f9ad28a39700284688be8383f1fdc4474865aaa8bc4ad1fc",
+      "title": "Brooksville, FL, US - May 23rd & 24th - CFDDC",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-may-23rd-24th-cfddc-2/",
+      "details": {
+        "title": "Brooksville, FL, US – May 23rd & 24th – CFDDC",
+        "club_name": "CFDDC",
+        "contact_name": "Kat Fahle",
+        "contact_email": "katfahle@gmail.com",
+        "event_address": "25592 Hayman Rd, Brooksville, FL 34602",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/24/2026",
+        "end_date_iso": "2026-05-24T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "a68b4cafa373ecb4fcf36379a06bb77036cb7fed6010dbd411eccee8ab0fdc66",
       "title": "Waukesha, WI, US - May 23rd - Bite Club - K9 Ventures",
       "url": "https://updogchallenge.com/events/waukesha-wi-us-may-23rd-bite-club-k9-ventures/",
@@ -2658,14 +2608,14 @@
     },
     {
       "id": "8af5a17cf6de5a437dd2d274d85d11991a0e71fd371c8ef0b3d75983697795d1",
-      "title": "Southbridge, MA, US - May 26th - Face to Face",
+      "title": "Woodstock, CT, US - May 26th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-may-26th-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – May 26th – Face to Face",
+        "title": "Woodstock, CT, US – May 26th – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "5/26/2026",
         "start_date_iso": "2026-05-26T00:00:00",
         "notification_date": "2026-05-26",
@@ -3072,14 +3022,14 @@
     },
     {
       "id": "cd5e8a551ad5ebf434ffc1ff5258a26c8c4a8fa45a614140360f6a94d97f8d0d",
-      "title": "Southbridge, MA, US - June 2nd - Face to Face",
+      "title": "Woodstock, CT, US - June 2nd - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-april-24th-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – June 2nd – Face to Face",
+        "title": "Woodstock, CT, US – June 2nd – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "6/2/2026",
         "start_date_iso": "2026-06-02T00:00:00",
         "notification_date": "2026-06-02",
@@ -3674,14 +3624,14 @@
     },
     {
       "id": "e1395decb796ab57649ae4ba31ef4752ec5851023e601dcc53fbd9ef98eceb67",
-      "title": "North Grosvenordale, MA, US - June 13th - Face to Face - Crossover Crown",
+      "title": "Woodstock, CT, US - June 13th - Face to Face - Crossover Crown",
       "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-june-13th-face-to-face/",
       "details": {
-        "title": "North Grosvenordale, MA, US – June 13th – Face to Face – Crossover Crown",
+        "title": "Woodstock, CT, US – June 13th – Face to Face – Crossover Crown",
         "club_name": "Face to Face Dog Sports",
         "contact_name": "Ashley Fulton",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "65 Valley Rd, North Grosvenordale, CT 06255, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "6/13/2026",
         "start_date_iso": "2026-06-13T00:00:00",
         "notification_date": "2026-06-13",
@@ -4342,14 +4292,14 @@
     },
     {
       "id": "a515e33ac4b0acd704ddd450d1e3f6d0373710f2c4535e43692994ee14ed53f6",
-      "title": "Southbridge, MA, US - June 21st - Face to Face",
+      "title": "Woodstock, CT, US - June 21st - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-june-21st-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – June 21st – Face to Face",
+        "title": "Woodstock, CT, US – June 21st – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "6/21/2026",
         "start_date_iso": "2026-06-21T00:00:00",
         "notification_date": "2026-06-21",
@@ -4760,14 +4710,14 @@
     },
     {
       "id": "2d7ac2aa293f7c8cefd45985d26bb5465f282bc6257b331c88e6a0c611715e9c",
-      "title": "Southbridge, MA, US - June 30th - Face to Face",
+      "title": "Woodstock, CT, US - June 30th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-june-30th-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – June 30th – Face to Face",
+        "title": "Woodstock, CT, US – June 30th – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "6/30/2026",
         "start_date_iso": "2026-06-30T00:00:00",
         "notification_date": "2026-06-30",
@@ -5063,14 +5013,14 @@
     },
     {
       "id": "5fdf22b6ff146316d796064de77f4b549adc0dd62ad74bbab9bdad0b2c653d6c",
-      "title": "Southbridge, MA, US - July 7th - Face to Face",
+      "title": "Woodstock, CT, US - July 7th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-7th-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – July 7th – Face to Face",
+        "title": "Woodstock, CT, US – July 7th – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "7/7/2026",
         "start_date_iso": "2026-07-07T00:00:00",
         "notification_date": "2026-07-07",
@@ -5424,14 +5374,14 @@
     },
     {
       "id": "a6a2dbfc31400679a4a282dd3ed99eeb5211fdcee18146a05fc7a697ccaff8e4",
-      "title": "Southbridge, MA, US - July 14th - Face to Face",
+      "title": "Woodstock, CT, US - July 14th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-14th-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – July 14th – Face to Face",
+        "title": "Woodstock, CT, US – July 14th – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "7/14/2026",
         "start_date_iso": "2026-07-14T00:00:00",
         "notification_date": "2026-07-14",
@@ -6003,14 +5953,14 @@
     },
     {
       "id": "ac056a4309efeb18b7174ca0f063cd16eba98e6a8d499adbd2cad24d4e2ab995",
-      "title": "Southbridge, MA, US - July 21st - Face to Face",
+      "title": "Woodstock, CT, US - July 21st - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-21st-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – July 21st – Face to Face",
+        "title": "Woodstock, CT, US – July 21st – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "7/21/2026",
         "start_date_iso": "2026-07-21T00:00:00",
         "notification_date": "2026-07-21",
@@ -6201,14 +6151,14 @@
     },
     {
       "id": "86759a42a5f2d12115c16d3ecfbe3235a42dc4749c83e43812ff547c97c18c49",
-      "title": "North Grosvenordale, MA, US - July 25th & 26th - Face to Face",
+      "title": "Woodstock, CT, US - July 25th & 26th - Face to Face",
       "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-july-25th-26th-face-to-face/",
       "details": {
-        "title": "North Grosvenordale, MA, US – July 25th & 26th – Face to Face",
+        "title": "Woodstock, CT, US – July 25th & 26th – Face to Face",
         "club_name": "Face to Face Dog Sports",
         "contact_name": "Ashley Fulton",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "65 Valley Rd, North Grosvenordale, CT 06255, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "7/25/2026",
         "start_date_iso": "2026-07-25T00:00:00",
         "notification_date": "2026-07-25",
@@ -6320,14 +6270,14 @@
     },
     {
       "id": "8ea0fd5e8d962f219dbf56d2d123c9aadca0108264509896c006fdd2afed0434",
-      "title": "Southbridge, MA, US - July 28th - Face to Face",
+      "title": "Woodstock, CT, US - July 28th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-28th-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – July 28th – Face to Face",
+        "title": "Woodstock, CT, US – July 28th – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "7/28/2026",
         "start_date_iso": "2026-07-28T00:00:00",
         "notification_date": "2026-07-28",
@@ -7921,6 +7871,27 @@
       }
     },
     {
+      "id": "26d267c37955dd7491263cf3d580ee6bdb9c289ff8d81dcb933c5ee6944eacaf",
+      "title": "Woodstock, CT, US - Sept 12th - Face to Face - Triple Crown",
+      "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-sept-13th-face-to-face-triple-crown/",
+      "details": {
+        "title": "Woodstock, CT, US – Sept 12th – Face to Face – Triple Crown",
+        "club_name": "Face to Face Dog Sports",
+        "contact_name": "Ashley Fulton",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/12/2026",
+        "end_date_iso": "2026-09-12T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Triple Crown"
+      }
+    },
+    {
       "id": "91d26848e67fa839be7f7885a9c70d92a15f4a7cacfa8a57a2f7f6cf856314c3",
       "title": "Shermans Dale, PA, US - Sept 12th & 13th - Woof Pack Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-12th-13th-woof-pack-disc-dogs-triple-crown/",
@@ -7963,27 +7934,6 @@
         "games": [
           "To Be Determined"
         ]
-      }
-    },
-    {
-      "id": "26d267c37955dd7491263cf3d580ee6bdb9c289ff8d81dcb933c5ee6944eacaf",
-      "title": "North Grosvenordale, MA, US - Sept 13th - Face to Face - Triple Crown",
-      "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-sept-13th-face-to-face-triple-crown/",
-      "details": {
-        "title": "North Grosvenordale, MA, US – Sept 13th – Face to Face – Triple Crown",
-        "club_name": "Face to Face Dog Sports",
-        "contact_name": "Ashley Fulton",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "65 Valley Rd, North Grosvenordale, CT 06255, United States",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Triple Crown"
       }
     },
     {
@@ -9457,6 +9407,26 @@
       }
     },
     {
+      "id": "a204e07de75e24ed259be6b607c7907c498e8426d4f474029dac2101232f3782",
+      "title": "Woodstock, CT, US - Nov 1st - Face to Face",
+      "url": "https://updogchallenge.com/events/southbridge-ma-us-nov-8th-face-to-face/",
+      "details": {
+        "title": "Woodstock, CT, US – Nov 1st – Face to Face",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
+        "start_date": "11/1/2026",
+        "start_date_iso": "2026-11-01T00:00:00",
+        "notification_date": "2026-11-01",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "4b6756e724d847e98ebea2d311b10b88dd8a52ad2f7adc09ef69ebf414dd8abb",
       "title": "Jacksonville, FL, US - Nov 1st - Bite Club - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-nov-1st-bite-club-jacksonville-disc-dogs/",
@@ -9715,26 +9685,6 @@
         "end_date_iso": "2026-11-08T00:00:00",
         "start_time": "9:30 AM",
         "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "a204e07de75e24ed259be6b607c7907c498e8426d4f474029dac2101232f3782",
-      "title": "Southbridge, MA, US - Nov 8th - Face to Face",
-      "url": "https://updogchallenge.com/events/southbridge-ma-us-nov-8th-face-to-face/",
-      "details": {
-        "title": "Southbridge, MA, US – Nov 8th – Face to Face",
-        "club_name": "Face to Face Disc",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
-        "start_date": "11/8/2026",
-        "start_date_iso": "2026-11-08T00:00:00",
-        "notification_date": "2026-11-08",
-        "end_date": "11/8/2026",
-        "end_date_iso": "2026-11-08T00:00:00",
         "games": [
           "To Be Determined"
         ]
@@ -10020,14 +9970,14 @@
     },
     {
       "id": "f4b4e6760d326550e80b9336d6a565ea8ca1c3f64a2a288e1e4083632679fda4",
-      "title": "Southbridge, MA, US - Nov 22nd - Face to Face",
+      "title": "Woodstock, CT, US - Nov 22nd - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-nov-22nd-face-to-face/",
       "details": {
-        "title": "Southbridge, MA, US – Nov 22nd – Face to Face",
+        "title": "Woodstock, CT, US – Nov 22nd – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "120 Dudley River Rd, Southbridge, MA 01550, United States",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
         "start_date": "11/22/2026",
         "start_date_iso": "2026-11-22T00:00:00",
         "notification_date": "2026-11-22",
