@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T10:24:48Z",
-  "count": 409,
+  "last_updated": "2026-05-08T09:18:00Z",
+  "count": 406,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,78 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "a1bb9c675204d40b1fcf1eadebb73805366d464f8c0af71e649cc54c5a3bde9a",
-      "title": "St Genevieve, MO, US - May 7th - Bite Club - St Louis Disc Dogs",
-      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-may-7th-bite-club-st-louis-disc-dogs/",
-      "details": {
-        "title": "St Genevieve, MO, US – May 7th – Bite Club – St Louis Disc Dogs",
-        "club_name": "St. Louis Disc Dogs",
-        "contact_name": "Nickie Nowak",
-        "contact_email": "nlnowak@outlook.com",
-        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/21/2026",
-        "end_date_iso": "2026-05-21T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
-      }
-    },
-    {
-      "id": "fddbae188a5f8fd9226502f86771dce3385b3b11f7406319dbe9c04cdf07784a",
-      "title": "Windsor, NS, CA - May 7th - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-may-7th-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – May 7th – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
-        "start_time": "6:00 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
-        ]
-      }
-    },
-    {
-      "id": "cc6a361bb1e9f0421cb6a385e4b16eaadef85665386541f47dd8dc61b475eae1",
-      "title": "Kelowna, BC, CA - May 7th - Bite Club - Kelowna Disc Dogs",
-      "url": "https://updogchallenge.com/events/kelowna-bc-ca-may-7th-bite-club-kelowna-disc-dogs/",
-      "details": {
-        "title": "Kelowna, BC, CA – May 7th – Bite Club – Kelowna Disc Dogs",
-        "club_name": "Kelowna Disc Dogs",
-        "contact_name": "Roni Bedard",
-        "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "1035 Hollywood Rd S, KELOWNA, BC V1X 4N3, Canada",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/22/2026",
-        "end_date_iso": "2026-05-22T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp"
-        ]
       }
     },
     {
@@ -2101,28 +2029,6 @@
       }
     },
     {
-      "id": "c831daaf6eb05bc1db467dd3bbe4119dd8e8a3f330c07316f080cc4b257efb7d",
-      "title": "Windsor, NS, CA - May 22nd thru 24th - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/gypsum-mines-ns-ca-may-22nd-thru-24th-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – May 22nd thru 24th – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
-        "start_date": "5/22/2026",
-        "start_date_iso": "2026-05-22T00:00:00",
-        "notification_date": "2026-05-22",
-        "end_date": "5/24/2026",
-        "end_date_iso": "2026-05-24T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "4:30 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
       "id": "403ee6a8b1204f755dcf9b82f04db1280bd2fab0efda046a37a66208baf4ba92",
       "title": "Trail, BC, CA - May 22nd - Bite Club - West Kootenay Disc Dogs",
       "url": "https://updogchallenge.com/events/trail-bc-ca-may-22nd-bite-club-west-kootenay-disc-dogs/",
@@ -2283,6 +2189,28 @@
         ],
         "additional_event_information_for_participants": "This event is being held in conjunction with Flying Dog Agility’s Memorial Day UKI trial. While you do not need to register for agility to play disc, you are welcome to both! Run orders will be made to accommodate people who want to run both sports. Frizgility will be played at the conclusion of the agility rounds on Saturday, as a “disc at dusk”. Sunday will be Throw and go, Four Way Play, Greedy, and Time Warp. Saturday Frizgility limited to 30 funs, Sunday total limited to 150 runs.",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeMS7j8kGol0jXemwMnCVlAOX1kB8B26EL9VvL6eZmO1fMrUQ/viewform?usp=header"
+      }
+    },
+    {
+      "id": "c831daaf6eb05bc1db467dd3bbe4119dd8e8a3f330c07316f080cc4b257efb7d",
+      "title": "Windsor, NS, CA - May 23rd - Irishmans Rd Trackers",
+      "url": "https://updogchallenge.com/events/gypsum-mines-ns-ca-may-22nd-thru-24th-irishmans-rd-trackers/",
+      "details": {
+        "title": "Windsor, NS, CA – May 23rd – Irishmans Rd Trackers",
+        "club_name": "Irishmans Rd Trackers",
+        "contact_name": "Suzanne Phillips",
+        "contact_email": "suzannegphillips25@gmail.com",
+        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
+        "start_date": "5/23/2026",
+        "start_date_iso": "2026-05-23T00:00:00",
+        "notification_date": "2026-05-23",
+        "end_date": "5/23/2026",
+        "end_date_iso": "2026-05-23T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "4:30 PM",
+        "games": [
+          "To Be Determined"
+        ]
       }
     },
     {
@@ -8349,9 +8277,9 @@
       }
     },
     {
-      "id": "0e45960f58a76665d830f1b371cc52feb842453e697b87c3cdc3fb1209cd090d",
+      "id": "5e9a23681cbebbdb995ab659ac7bb98e78cb780061f2c5c1c58f67bc5e57b5ee",
       "title": "Mechanicsburg, PA, US - Oct 1st thru 4th - Woof Pack Disc Dogs",
-      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-25th-thru-27th-woof-pack-disc-dogs/",
+      "url": "https://updogchallenge.com/events/mechanicsburg-pa-us-oct-1st-thru-4th-woof-pack-disc-dogs/",
       "details": {
         "title": "Mechanicsburg, PA, US – Oct 1st thru 4th – Woof Pack Disc Dogs",
         "club_name": "Woof Pack Disc Dogs",
