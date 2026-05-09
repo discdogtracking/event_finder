@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T09:18:00Z",
-  "count": 406,
+  "last_updated": "2026-05-09T09:20:00Z",
+  "count": 402,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,113 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "4f2a5ab571a851b8aa3e0dc4d429f9c0d57c05f438447188c06f90d64a25ec74",
-      "title": "Ottawa, ON, CA - May 8th - Bite Club - Scout's Pals",
-      "url": "https://updogchallenge.com/events/ottawa-on-ca-may-8th-bite-club-scouts-pals/",
-      "details": {
-        "title": "Ottawa, ON, CA – May 8th – Bite Club – Scout’s Pals",
-        "club_name": "Scout’s Pals",
-        "contact_name": "Nicholas Theriault",
-        "contact_email": "nick.theriault13@gmail.com",
-        "event_address": "3859 Carling Ave, Ottawa, ON K2K2Y7, Canada",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/1/2026",
-        "end_date_iso": "2026-05-01T00:00:00",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/J6bXjUkj4gX5t1Cq8"
-      }
-    },
-    {
-      "id": "0770337300357cf9fcfdd6fc0adac98d31644776e7615a93fc7a57af893d83ad",
-      "title": "Mahopac, NY, US - May 8th - Bite Club - Bring Your Own (BYO) Disc Dogs",
-      "url": "https://updogchallenge.com/events/mahopac-ny-us-may-8th-bite-club-bring-your-own-byo-disc-dogs/",
-      "details": {
-        "title": "Mahopac, NY, US – May 8th – Bite Club – Bring Your Own (BYO) Disc Dogs",
-        "club_name": "Bring Your Own (BYO) Disc Dogs",
-        "contact_name": "Sara Gagnon",
-        "contact_email": "byodiscdogs@gmail.com",
-        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/17/2026",
-        "end_date_iso": "2026-05-17T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "fdf836595923a354cfa54d32f4831aa63646993921069f270c3143dc60f917fc",
-      "title": "Drumheller, AB, CA - May 8th - Bite Club - DinoMite Disc Dog Club",
-      "url": "https://updogchallenge.com/events/drumheller-ab-ca-may-8th-bite-club-dinomite-disc-dog-club/",
-      "details": {
-        "title": "Drumheller, AB, CA – May 8th – Bite Club – DinoMite Disc Dog Club",
-        "club_name": "DinoMite Disc Dog Club",
-        "contact_name": "Marion Paulson",
-        "contact_email": "discdoggurl@gmail.com",
-        "event_address": "122 Hy Grade Crescent, Drumheller, AB T0J 0Y0, Canada",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/19/2026",
-        "end_date_iso": "2026-05-19T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Contact\ndiscdoggurl@gmail.com\nfor registration information"
-      }
-    },
-    {
-      "id": "31a50a3fd3c7fffb170151cd7c89c6c659370a42cf64a188b888e8e721d5cb53",
-      "title": "Hampshire, IL, US - May 8th - Bite Club - McHenry Disc Dogs",
-      "url": "https://updogchallenge.com/events/hampshire-il-us-may-8th-bite-club-mchenry-disc-dogs/",
-      "details": {
-        "title": "Hampshire, IL, US – May 8th – Bite Club – McHenry Disc Dogs",
-        "club_name": "McHenry Disc Dogs",
-        "contact_name": "Zach Perlmutter",
-        "contact_email": "zperlmut@gmail.com",
-        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "5/22/2026",
-        "end_date_iso": "2026-05-22T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:30 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
       }
     },
     {
