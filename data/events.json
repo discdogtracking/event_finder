@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T09:20:00Z",
-  "count": 402,
+  "last_updated": "2026-05-10T09:33:06Z",
+  "count": 397,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -58,28 +58,6 @@
       }
     },
     {
-      "id": "15298ddeb6ddf750da762769e56ae0028f3329d578e49b7253ef054bd4de07d9",
-      "title": "Mitchell, ACT, AU - May 9th - Bite Club - BDOC Disc Dogs",
-      "url": "https://updogchallenge.com/events/mitchell-act-au-may-9th-bite-club-bdoc-disc-dogs/",
-      "details": {
-        "title": "Mitchell, ACT, AU – May 9th – Bite Club – BDOC Disc Dogs",
-        "club_name": "BDOC Disc Dogs (Belconnen Dog Club)",
-        "contact_name": "Justin Allen",
-        "contact_email": "allen.online@bigpond.com",
-        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/1/2026",
-        "end_date_iso": "2026-05-01T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
       "id": "4c5da7b08678a850cf0f18a5d1f09e65417650180fb43a68eca266ffc9dfaa2f",
       "title": "Abbotsford, BC, CA - May 9th & 10th - Abbotsford Disc Dogs",
       "url": "https://updogchallenge.com/events/abbotsford-bc-ca-may-9th-10th-abbotsford-disc-dogs/",
@@ -98,36 +76,6 @@
         "end_time": "5:00 PM",
         "games": [
           "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "bf9f262b8de0a51865d04875213f58f85f3dcb20825c3d4cc6057cf6ad47b1e6",
-      "title": "Anniston, AL, US - May 9th - Black Sheep Disc Dog Club",
-      "url": "https://updogchallenge.com/events/anniston-al-us-may-9th-black-sheep-disc-dog-club/",
-      "details": {
-        "title": "Anniston, AL, US – May 9th – Black Sheep Disc Dog Club",
-        "club_name": "Black Sheep Disc Dog Club",
-        "contact_name": "jonathan roberts",
-        "contact_email": "jrdrums21@gmail.com",
-        "event_address": "454 buckelew bridge rd, anniston, Alabama 36207, United States",
-        "start_date": "5/9/2026",
-        "start_date_iso": "2026-05-09T00:00:00",
-        "notification_date": "2026-05-09",
-        "end_date": "5/9/2026",
-        "end_date_iso": "2026-05-09T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
         ]
       }
     },
@@ -195,112 +143,6 @@
           "Spaced Out",
           "Throw N Go",
           "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "3a2126465ef774ec7dee75800eae3b742b1b09e6e7e879c934f1ba3404225ddb",
-      "title": "Brooskville, FL, US - May 9th - Bite Club - CFDDC",
-      "url": "https://updogchallenge.com/events/brooksville-fl-us-may-9th-cfddc/",
-      "details": {
-        "title": "Brooskville, FL, US – May 9th – Bite Club – CFDDC"
-      }
-    },
-    {
-      "id": "59294b6ee7863a3b194275e0081e8b45ce894eada7b9178f227d8893bbe9d4c3",
-      "title": "Julian, NC, US - May 9th - Quicksilver Canine",
-      "url": "https://updogchallenge.com/events/julian-nc-us-may-9th-quicksilver-canine/",
-      "details": {
-        "title": "Julian, NC, US – May 9th – Quicksilver Canine",
-        "club_name": "Quicksilver Canine",
-        "contact_name": "Leerie Jenkins",
-        "contact_email": "leerie.jenkins@gmail.com",
-        "event_address": "5600 Clarence Rd, Julian, NC 27283, United States",
-        "start_date": "5/9/2026",
-        "start_date_iso": "2026-05-09T00:00:00",
-        "notification_date": "2026-05-09",
-        "end_date": "5/9/2026",
-        "end_date_iso": "2026-05-09T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "af8dbe718bf99c23c88c655d5965b9e73f07a3c7273358db6a1b367a5b51edd5",
-      "title": "Leesburg, VA, US - May 9th - NoVA Dog Sports",
-      "url": "https://updogchallenge.com/events/leesburg-va-us-may-9th-nova-dog-sports/",
-      "details": {
-        "title": "Leesburg, VA, US – May 9th – NoVA Dog Sports",
-        "club_name": "NoVA Dog Sports",
-        "contact_name": "Doug Kurucz",
-        "contact_email": "doug.kurucz@gmail.com",
-        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20191, United States",
-        "start_date": "5/9/2026",
-        "start_date_iso": "2026-05-09T00:00:00",
-        "notification_date": "2026-05-09",
-        "end_date": "5/9/2026",
-        "end_date_iso": "2026-05-09T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Freestyle",
-          "Frizgility",
-          "Greedy",
-          "Throw N Go"
-        ]
-      }
-    },
-    {
-      "id": "c1ae2383e854a4d51f0920c24514f75463aeeec4fc679766806d0adb5fea41d2",
-      "title": "Trail, BC, CA - May 9th - Bite Club - West Kootenay Disc Dogs",
-      "url": "https://updogchallenge.com/events/trail-bc-ca-may-9th-bite-club-west-kootenay-disc-dogs/",
-      "details": {
-        "title": "Trail, BC, CA – May 9th – Bite Club – West Kootenay Disc Dogs",
-        "club_name": "West Kootenay Disc Dogs",
-        "contact_name": "Sarah Dixon",
-        "contact_email": "dixonthedogtrainer@gmail.com",
-        "event_address": "1208 Pine Avenue, Trail, BC V1R 4E4, Canada",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/24/2026",
-        "end_date_iso": "2026-05-24T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "6e14550e4ebb66b296a0eaa022034a734b728e689336678a972ca7c3012ce9a1",
-      "title": "Great Village, NS, CA - May 9th - Bite Club - Colchester Disc Dog Club",
-      "url": "https://updogchallenge.com/events/great-village-ns-ca-may-9th-bite-club-colchester-disc-dog-club/",
-      "details": {
-        "title": "Great Village, NS, CA – May 9th – Bite Club – Colchester Disc Dog Club",
-        "club_name": "Colchester Disc Dog Club",
-        "contact_name": "Melanie Smith",
-        "contact_email": "melanieangus@hotmail.com",
-        "event_address": "10 Cross Rd, Great Village, NS B0M 1L0, Canada",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "12:00 PM",
-        "games": [
-          "To Be Determined"
         ]
       }
     },
@@ -2445,6 +2287,28 @@
         "games": [
           "To Be Determined"
         ]
+      }
+    },
+    {
+      "id": "111cfce1e446cbf65e2064c10e4868cb85bdcb10f01a4efd499e1c5480c32419",
+      "title": "Middle Island, NY, US - May 26th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+      "url": "https://updogchallenge.com/events/middle-island-ny-us-may-26th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
+      "details": {
+        "title": "Middle Island, NY, US – May 26th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
+        "contact_name": "Katrina Winsor",
+        "contact_email": "leadthepackdiscdogs@gmail.com",
+        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, New York 11953, United States",
+        "start_date": "5/26/2026",
+        "start_date_iso": "2026-05-26T00:00:00",
+        "notification_date": "2026-05-26",
+        "end_date": "5/26/2026",
+        "end_date_iso": "2026-05-26T00:00:00",
+        "start_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live."
       }
     },
     {
@@ -8167,6 +8031,36 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Facebook page: Camp Hill and Howl Dog Sports"
+      }
+    },
+    {
+      "id": "7acc2f73467ebb6b4c6af5a404659940f4a29d129ad32fdf0b9c023543ac354a",
+      "title": "Cobleskill, NY, US - Sept 26th & 27th - Splashdown Dog Sports",
+      "url": "https://updogchallenge.com/events/cobleskill-ny-us-sept-26th-27th-splashdown-dog-sports/",
+      "details": {
+        "title": "Cobleskill, NY, US – Sept 26th & 27th – Splashdown Dog Sports",
+        "club_name": "Splashdown Dog Sports, LLC",
+        "contact_name": "Nanci Miller",
+        "contact_email": "splashdowndogsports@gmail.com",
+        "event_address": "Cobleskill Fairgrounds, 113 Sunshine Dr., Cobleskill, NY 12043, United States",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "7Up",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "These games are being held in conjunction with NYS Canine Expo in Cobleskill, NY. Entry fee for the expo may be charged. Information can be found at\nhttps://www.nyscanineexpo.com/\n.",
+        "prereg_url": "https://forms.gle/DHxE4Sq9PbpTmZ3WA"
       }
     },
     {
