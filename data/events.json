@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T10:18:19Z",
-  "count": 417,
+  "last_updated": "2026-05-15T10:23:51Z",
+  "count": 414,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,78 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "3b956ef70d2b48e70cc780d7020fab1f14ee1eff5752cd185a6a550630182e69",
-      "title": "St Genevieve, MO, US - May 14th - Bite Club - St Louis Disc Dogs",
-      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-may-14th-bite-club-st-louis-disc-dogs/",
-      "details": {
-        "title": "St Genevieve, MO, US – May 14th – Bite Club – St Louis Disc Dogs",
-        "club_name": "St. Louis Disc Dogs",
-        "contact_name": "Nickie Nowak",
-        "contact_email": "nlnowak@outlook.com",
-        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/21/2026",
-        "end_date_iso": "2026-05-21T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
-      }
-    },
-    {
-      "id": "1d13c9fb1b8ddab48e932c7ba8c11ab2843daa214102ec03b7b0c10f01d454b2",
-      "title": "Windsor, NS, CA - May 14th - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-may-14th-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – May 14th – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
-        "start_time": "6:00 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
-        ]
-      }
-    },
-    {
-      "id": "8259ecbe3bceed48a23f9d6a7a1fb5e8c8a1214b0ba005fba3ae1fd4720f0c1e",
-      "title": "Kelowna, BC, CA - May 14th - Bite Club - Kelowna Disc Dogs",
-      "url": "https://updogchallenge.com/events/kelowna-bc-ca-may-14th-bite-club-kelowna-disc-dogs/",
-      "details": {
-        "title": "Kelowna, BC, CA – May 14th – Bite Club – Kelowna Disc Dogs",
-        "club_name": "Kelowna Disc Dogs",
-        "contact_name": "Roni Bedard",
-        "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "1035 Hollywood Rd S, KELOWNA, BC V1X 4N3, Canada",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/22/2026",
-        "end_date_iso": "2026-05-22T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp"
-        ]
       }
     },
     {
@@ -5100,10 +5028,10 @@
     },
     {
       "id": "a6a2dbfc31400679a4a282dd3ed99eeb5211fdcee18146a05fc7a697ccaff8e4",
-      "title": "Woodstock, CT, US - July 14th - Face to Face",
+      "title": "Woodstock, CT, US - July 14th - Bite Club - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-14th-face-to-face/",
       "details": {
-        "title": "Woodstock, CT, US – July 14th – Face to Face",
+        "title": "Woodstock, CT, US – July 14th – Bite Club – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
@@ -5723,10 +5651,10 @@
     },
     {
       "id": "ac056a4309efeb18b7174ca0f063cd16eba98e6a8d499adbd2cad24d4e2ab995",
-      "title": "Woodstock, CT, US - July 21st - Face to Face",
+      "title": "Woodstock, CT, US - July 21st - Bite Club - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-21st-face-to-face/",
       "details": {
-        "title": "Woodstock, CT, US – July 21st – Face to Face",
+        "title": "Woodstock, CT, US – July 21st – Bite Club – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
@@ -6092,10 +6020,10 @@
     },
     {
       "id": "8ea0fd5e8d962f219dbf56d2d123c9aadca0108264509896c006fdd2afed0434",
-      "title": "Woodstock, CT, US - July 28th - Face to Face",
+      "title": "Woodstock, CT, US - July 28th - Bite Club - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-28th-face-to-face/",
       "details": {
-        "title": "Woodstock, CT, US – July 28th – Face to Face",
+        "title": "Woodstock, CT, US – July 28th – Bite Club – Face to Face",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
@@ -6591,10 +6519,10 @@
     },
     {
       "id": "39314a879296503a55045c8702a5b0317fde7e387cd985080d211e4f27e1c0f6",
-      "title": "Woodstock, CT, US - Aug 4th - Face to Face Disc",
+      "title": "Woodstock, CT, US - Aug 4th - Bite Club - Face to Face Disc",
       "url": "https://updogchallenge.com/events/woodstock-ct-us-aug-4th-face-to-face-disc/",
       "details": {
-        "title": "Woodstock, CT, US – Aug 4th – Face to Face Disc",
+        "title": "Woodstock, CT, US – Aug 4th – Bite Club – Face to Face Disc",
         "club_name": "Face to Face Disc",
         "contact_name": "Deborah Taylor",
         "contact_email": "facetofacedogsports@gmail.com",
