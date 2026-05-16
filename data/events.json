@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T10:23:51Z",
-  "count": 414,
+  "last_updated": "2026-05-16T09:33:07Z",
+  "count": 410,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,111 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "4f795a1b71b546fd1113fa01ee434954b1a0cc9f7b6c8d2454cab71582763e16",
-      "title": "Ottawa, ON, CA - May 15th - Bite Club - Scout's Pals",
-      "url": "https://updogchallenge.com/events/ottawa-on-ca-may-15th-bite-club-scouts-pals/",
-      "details": {
-        "title": "Ottawa, ON, CA – May 15th – Bite Club – Scout’s Pals",
-        "club_name": "Scout’s Pals",
-        "contact_name": "Nicholas Theriault",
-        "contact_email": "nick.theriault13@gmail.com",
-        "event_address": "3859 Carling Ave, Ottawa, ON K2K2Y7, Canada",
-        "start_date": "5/1/2026",
-        "start_date_iso": "2026-05-01T00:00:00",
-        "notification_date": "2026-05-01",
-        "end_date": "5/1/2026",
-        "end_date_iso": "2026-05-01T00:00:00",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/J6bXjUkj4gX5t1Cq8"
-      }
-    },
-    {
-      "id": "6f385621635f92956b1079b68d5573afc4b80d911bb855387f099e926e4f6138",
-      "title": "Hampshire, IL, US - May 15th - Bite Club - McHenry Disc Dogs",
-      "url": "https://updogchallenge.com/events/hampshire-il-us-may-15th-bite-club-mchenry-disc-dogs/",
-      "details": {
-        "title": "Hampshire, IL, US – May 15th – Bite Club – McHenry Disc Dogs",
-        "club_name": "McHenry Disc Dogs",
-        "contact_name": "Zach Perlmutter",
-        "contact_email": "zperlmut@gmail.com",
-        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "5/22/2026",
-        "end_date_iso": "2026-05-22T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:30 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "716a974620aace1879e0bf202f6c33dd7d16b8bc9f3737521fc1ea5497cc7722",
-      "title": "Leesburg, VA, US - May 15th - Bite Club - NoVA Dog Sports",
-      "url": "https://updogchallenge.com/events/leesburg-va-us-may-15th-bite-club-nova-dog-sports/",
-      "details": {
-        "title": "Leesburg, VA, US – May 15th – Bite Club – NoVA Dog Sports",
-        "club_name": "NoVA Dog Sports",
-        "contact_name": "Doug Kurucz",
-        "contact_email": "doug.kurucz@gmail.com",
-        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
-        "start_date": "5/15/2026",
-        "start_date_iso": "2026-05-15T00:00:00",
-        "notification_date": "2026-05-15",
-        "end_date": "5/22/2026",
-        "end_date_iso": "2026-05-22T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Four Way Play",
-          "Greedy",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "91cfd8bbead01c9412c2206c71e8f5ab3e36a05d30c86559863e03db55f8698e",
-      "title": "Garland, TX, US - May 15th - UpDog Dallas",
-      "url": "https://updogchallenge.com/events/garland-tx-us-may-15th-updog-dallas/",
-      "details": {
-        "title": "Garland, TX, US – May 15th – UpDog Dallas",
-        "club_name": "UpDog Dallas",
-        "contact_name": "Amy Braid",
-        "contact_email": "updogdallasdisc@gmail.com",
-        "event_address": "300 S Kirby St, Garland, TX 75042, United States",
-        "start_date": "5/15/2026",
-        "start_date_iso": "2026-05-15T00:00:00",
-        "notification_date": "2026-05-15",
-        "end_date": "5/15/2026",
-        "end_date_iso": "2026-05-15T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "11:45 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "7Up"
-        ]
       }
     },
     {
