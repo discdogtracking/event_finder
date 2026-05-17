@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-16T09:33:07Z",
-  "count": 410,
+  "last_updated": "2026-05-17T09:37:41Z",
+  "count": 401,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -124,32 +124,6 @@
       }
     },
     {
-      "id": "2d23f8b998dbf985870e9dbe6deaf009509f461aaa9c906e2510aac0ade2a66f",
-      "title": "Perry, GA, US - May 16th - Bite Club - DISCtinctive Dogs of MKC",
-      "url": "https://updogchallenge.com/events/perry-ga-us-may-16th-bite-club-disctinctive-dogs-of-mkc/",
-      "details": {
-        "title": "Perry, GA, US – May 16th – Bite Club – DISCtinctive Dogs of MKC",
-        "club_name": "DISCtinctive Dogs of MKC",
-        "contact_name": "Cate Johnson",
-        "contact_email": "catecjohnson@gmail.com",
-        "event_address": "132 Hicks Drive, Perry, Ga 31069, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out"
-        ],
-        "prereg_url": "https://gforms.app/0OM3IVB"
-      }
-    },
-    {
       "id": "e05aab95e94d8f0bd726c264a769658c16fcb1456b8697c7b29543717a773a35",
       "title": "Poznan, Poland - May 16th & 17th - Discbusters",
       "url": "https://updogchallenge.com/events/poznan-poland-may-16th-17th-discbusters/",
@@ -205,29 +179,6 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
-      }
-    },
-    {
-      "id": "70f8493124880fe8dbb22530fb307ca7b279bf9a740e1a36ea9d82df9f9cb7aa",
-      "title": "Granville, OH, US - May 16th - Bite Club - Catch em All Canines",
-      "url": "https://updogchallenge.com/events/granville-oh-us-may-16th-bite-club-catch-em-all-canines/",
-      "details": {
-        "title": "Granville, OH, US – May 16th – Bite Club – Catch em All Canines",
-        "club_name": "Catch em All Canines",
-        "contact_name": "Amanda Burkhart",
-        "contact_email": "help@catchemallcanines.com",
-        "event_address": "4309 Lancaster Ave, Granville, OH 43023, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates."
       }
     },
     {
@@ -317,54 +268,6 @@
       }
     },
     {
-      "id": "b9e0b2a03a70a23aba98facabc1aa828fef84f75c62c096d7827dd7f5760bfb4",
-      "title": "Ste-Genevieve de Batiscan, QC, CA - May 16th - Centre Canin L'Etoile Filante S.E.N.C",
-      "url": "https://updogchallenge.com/events/ste-genevieve-de-batiscan-qc-ca-may-16th-centre-canin-letoile-filante-s-e-n-c/",
-      "details": {
-        "title": "Ste-Genevieve de Batiscan, QC, CA – May 16th – Centre Canin L’Etoile Filante S.E.N.C",
-        "club_name": "CENTRE CANIN L’ÉTOILE FILANTE S.E.N.C.",
-        "contact_name": "ISABELLE PERREAULT or Colette Boudreau",
-        "contact_email": "INFO@CENTRECEF.CA or coletteboudreau@hotmail.com",
-        "event_address": "180 ROUTE DE LA POINTE TRUDEL, STE-GENEVIÈVE DE BATISCAN, QUEBEC, CANADA G0X2R0, Canada",
-        "start_date": "5/16/2026",
-        "start_date_iso": "2026-05-16T00:00:00",
-        "notification_date": "2026-05-16",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "9c3a2636e415e6307dfe6063c775a2dbf1e2d57917f6187802cd6fe05ada81d5",
-      "title": "Wrentham, MA, US - May 16th - Minute Dog Disc",
-      "url": "https://updogchallenge.com/events/wrentham-ma-us-may-16th-minute-dog-disc/",
-      "details": {
-        "title": "Wrentham, MA, US – May 16th – Minute Dog Disc",
-        "club_name": "Minute Dog Disc",
-        "contact_name": "Chris Magruder",
-        "contact_email": "minutedogdisc@gmail.com",
-        "event_address": "Crackerbarrel Fairgrounds, 54 Emerald St, Wrentham, MA 02093, United States",
-        "start_date": "5/16/2026",
-        "start_date_iso": "2026-05-16T00:00:00",
-        "notification_date": "2026-05-16",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Updated info available via fb group –\nhttps://www.facebook.com/share/g/1CnMfUHdMd/"
-      }
-    },
-    {
       "id": "78196fb7bee657acef3f82a19d8f0b841aad1f08576b8596511f427a07d89d20",
       "title": "Danville, IN, US - May 16th & 17th - Clever Girl Disc Dogs",
       "url": "https://updogchallenge.com/events/danville-in-us-may-16th-17th-clever-girl-disc-dogs/",
@@ -381,135 +284,6 @@
         "end_date_iso": "2026-05-17T00:00:00",
         "start_time": "10:00 AM",
         "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "2e961575c36939a6e7e371e337c568f26b1b9eca205218c8007d63e2f3878e51",
-      "title": "Kitimat, BC, CA - May 16th - Bite Club - Kitimat Working Dog Society",
-      "url": "https://updogchallenge.com/events/kitimat-bc-ca-may-16th-bite-club-kitimat-working-dog-society/",
-      "details": {
-        "title": "Kitimat, BC, CA – May 16th – Bite Club – Kitimat Working Dog Society",
-        "club_name": "Kitimat Working Dog Society",
-        "contact_name": "Kim Vroon",
-        "contact_email": "kitimatdogclub@gmail.com",
-        "event_address": "BC-37, Kitimat, BC V8C 2K6, Canada",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "974baae7bb0c24518b5234dae1386e29840f274547141d8cc7c730bd01d7b3ab",
-      "title": "Smyrna, TN, US - May 16th - Bite Club - NashVertical Disc Dogs",
-      "url": "https://updogchallenge.com/events/smyrna-tn-us-may-16th-bite-club-nashvertical-disc-dogs/",
-      "details": {
-        "title": "Smyrna, TN, US – May 16th – Bite Club – NashVertical Disc Dogs",
-        "club_name": "NashVertical Disc Dogs",
-        "contact_name": "Ashton Bemis",
-        "contact_email": "nashvertical@gmail.com",
-        "event_address": "635 Olive Branch Rd, Smyrna, TN 37167, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/2/2026",
-        "end_date_iso": "2026-05-02T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We will be playing one round of Greedy, Four Way Play, Spaced Out, and Fireball for Bite Club Weeks 1+2 on 5/2.\nOn 5/16, we will be playing one round of Time Warp and Greedy, followed by a round of Freestyle Performance. Then, we will complete the Bite Club games for Weeks 3+4 with a round of Four Way Play and Throw N Go Level 2 before opening up the field for walk-up style games.\nThe field is a 3×3 format and is fully fenced. A roll call will be posted on the NashVertical facebook page the week prior to each event. facebook.com/nashverticaldiscdogs"
-      }
-    },
-    {
-      "id": "5ed16c99f8cca05a4a2073ac6d947c291adbd9e8580ef91d30d0207e676f1a71",
-      "title": "Dundurn, SK, CA - May 16th - Bite Club - Saskatoon Disc Dogs",
-      "url": "https://updogchallenge.com/events/dundurn-sk-ca-may-16th-bite-club-saskatoon-disc-dogs/",
-      "details": {
-        "title": "Dundurn, SK, CA – May 16th – Bite Club – Saskatoon Disc Dogs",
-        "club_name": "Saskatoon Disc Dogs",
-        "contact_name": "Steve Ustupski",
-        "contact_email": "stusti@hotmail.com",
-        "event_address": "304030 TWP Rd 343A, Dundurn, SK S7C 0C6, Canada",
-        "start_date": "5/16/2026",
-        "start_date_iso": "2026-05-16T00:00:00",
-        "notification_date": "2026-05-16",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Four Way Play",
-          "Greedy",
-          "Throw N Go",
-          "Time Warp"
-        ]
-      }
-    },
-    {
-      "id": "8447add7f9c16f181b344b26c28eadef11953aa5ff5a60a02a9cdebb75bef9b8",
-      "title": "Lexington, KY, US - May 16th - Bite Club - Horse Capital Disc Dogs",
-      "url": "https://updogchallenge.com/events/lexington-ky-us-may-16th-bite-club-horse-capital-disc-dogs/",
-      "details": {
-        "title": "Lexington, KY, US – May 16th – Bite Club – Horse Capital Disc Dogs",
-        "club_name": "Horse Capital Disc Dogs",
-        "contact_name": "DJ Cyganiewicz",
-        "contact_email": "djnkkay@gmail.com",
-        "event_address": "179 Bradley Ln, Lexington, KY 40511, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out"
-        ],
-        "additional_event_information_for_participants": "Check Facebook for additional details"
-      }
-    },
-    {
-      "id": "15658e72757e2488cae762bf718a4e52f3ceb361aa69669b0030d6202433acc4",
-      "title": "Middle Island, NY, US - May 16th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-      "url": "https://updogchallenge.com/events/middle-island-ny-us-may-16th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
-      "details": {
-        "title": "Middle Island, NY, US – May 16th – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "contact_name": "Katrina Winsor",
-        "contact_email": "leadthepackdiscdogs@gmail.com",
-        "event_address": "Cathedral Pines County Park\n116 Yaphank-Middle Island Road\nMiddle Island, NY 11953",
-        "start_date": "5/16/2026",
-        "start_date_iso": "2026-05-16T00:00:00",
-        "notification_date": "2026-05-16",
-        "end_date": "5/16/2026",
-        "end_date_iso": "2026-05-16T00:00:00",
         "games": [
           "To Be Determined"
         ]
@@ -1835,6 +1609,26 @@
       }
     },
     {
+      "id": "f883b18d5f62a43b53fb12eb7b34214bcf80a690f39f1e039fedb24c5928b08e",
+      "title": "Calgary, AB, CA - May 29th thru 31st - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-may-31st-calgary-disc-dog-club/",
+      "details": {
+        "title": "Calgary, AB, CA – May 29th thru 31st – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, AB T3L1S4, Canada",
+        "start_date": "5/29/2026",
+        "start_date_iso": "2026-05-29T00:00:00",
+        "notification_date": "2026-05-29",
+        "end_date": "5/31/2026",
+        "end_date_iso": "2026-05-31T00:00:00",
+        "games": [
+          "To Be Determined"
+        ]
+      }
+    },
+    {
       "id": "a7cdf06e4f6cbd201cd69738a67b55dfc905cee18938530490ea7dc5bcd9c582",
       "title": "Oklahoma City, OK, US - May 29th & 30th - Tornado Alley Disc Dogs",
       "url": "https://updogchallenge.com/events/oklahoma-city-ok-us-may-29th-30th-tornado-alley-disc-dogs/",
@@ -1884,6 +1678,29 @@
       }
     },
     {
+      "id": "a66b43dd682732b889c00fc83f85781eed9755fb57f35d658cf83494151d6145",
+      "title": "Carlisle, PA, US - May 30th & 31st - Woof Pack Disc Dogs",
+      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-may-30th-31st-woof-pack-disc-dogs/",
+      "details": {
+        "title": "Carlisle, PA, US – May 30th & 31st – Woof Pack Disc Dogs",
+        "club_name": "Woof Pack Disc Dogs",
+        "contact_name": "Emily Leiby",
+        "contact_email": "woofpackdiscdogs@gmail.com",
+        "event_address": "379 Longs Gap Rd. Carlisle, PA 17013",
+        "start_date": "5/30/2026",
+        "start_date_iso": "2026-05-30T00:00:00",
+        "notification_date": "2026-05-30",
+        "end_date": "5/31/2026",
+        "end_date_iso": "2026-05-31T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "For the most up-to-date information, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/woofpackdiscdogs"
+      }
+    },
+    {
       "id": "c5552f5d98175b85bc1f37fed27a494198364c81f3e80e7b5c45117a002930b2",
       "title": "Rio Dell, CA, US - May 30th & 31st - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-may-30th-31st-humboldt-disc-dog-club/",
@@ -1905,29 +1722,6 @@
         ],
         "additional_event_information_for_participants": "The site is completely fenced. It is flat. Temperatures are moderate.",
         "prereg_url": "pending"
-      }
-    },
-    {
-      "id": "a66b43dd682732b889c00fc83f85781eed9755fb57f35d658cf83494151d6145",
-      "title": "Shermans Dale, PA, US - May 30th & 31st - Woof Pack Disc Dogs",
-      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-may-30th-31st-woof-pack-disc-dogs/",
-      "details": {
-        "title": "Shermans Dale, PA, US – May 30th & 31st – Woof Pack Disc Dogs",
-        "club_name": "Woof Pack Disc Dogs",
-        "contact_name": "Emily Leiby",
-        "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
-        "start_date": "5/30/2026",
-        "start_date_iso": "2026-05-30T00:00:00",
-        "notification_date": "2026-05-30",
-        "end_date": "5/31/2026",
-        "end_date_iso": "2026-05-31T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "For the most up-to-date information, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/woofpackdiscdogs"
       }
     },
     {
@@ -2034,26 +1828,6 @@
           "Spaced Out"
         ],
         "prereg_url": "https://forms.gle/XwxmhJi6BMMMjPnW8"
-      }
-    },
-    {
-      "id": "f883b18d5f62a43b53fb12eb7b34214bcf80a690f39f1e039fedb24c5928b08e",
-      "title": "Calgary, AB, CA - May 31st - Calgary Disc Dog Club",
-      "url": "https://updogchallenge.com/events/calgary-ab-ca-may-31st-calgary-disc-dog-club/",
-      "details": {
-        "title": "Calgary, AB, CA – May 31st – Calgary Disc Dog Club",
-        "club_name": "Calgary Disc Dog Club",
-        "contact_name": "Kara Bellingham",
-        "contact_email": "kara.marciniak@gmail.com",
-        "event_address": "5151 101 Street NW, Calgary, AB T3L1S4, Canada",
-        "start_date": "5/31/2026",
-        "start_date_iso": "2026-05-31T00:00:00",
-        "notification_date": "2026-05-31",
-        "end_date": "5/31/2026",
-        "end_date_iso": "2026-05-31T00:00:00",
-        "games": [
-          "To Be Determined"
-        ]
       }
     },
     {
@@ -3450,14 +3224,14 @@
     },
     {
       "id": "8231753c41a7c3c686480744c416777668f1e94c68ecdd476c864f6adfeec4bf",
-      "title": "Edgewater, FL, US - June 20th - Daytona Disc Dogs",
+      "title": "Bunnell, FL, US - June 20th - Daytona Disc Dogs",
       "url": "https://updogchallenge.com/events/edgewater-fl-us-june-20th-daytona-disc-dogs/",
       "details": {
-        "title": "Edgewater, FL, US – June 20th – Daytona Disc Dogs",
+        "title": "Bunnell, FL, US – June 20th – Daytona Disc Dogs",
         "club_name": "Daytona Disc Dogs",
         "contact_name": "Brian Fidler",
         "contact_email": "bfidler1996@gmail.com",
-        "event_address": "3311 Kumquat Dr, Edgewater, FL 32141, United States",
+        "event_address": "345 County rd 335, Bunnell, Fl 32110",
         "start_date": "6/20/2026",
         "start_date_iso": "2026-06-20T00:00:00",
         "notification_date": "2026-06-20",
@@ -3497,6 +3271,38 @@
           "https://scugogdiscdog.com/seriously-quack-ers-registration-form",
           "www.scugogdiscdog.com"
         ]
+      }
+    },
+    {
+      "id": "c1c8c531ba7b89dad4c46f128b0e8ea354cecc88260424b16162a3038b081e2c",
+      "title": "Davison, MI, US - June 20th & 21st - DDOM",
+      "url": "https://updogchallenge.com/events/davison-mi-us-june-27th-28th-ddom-2/",
+      "details": {
+        "title": "Davison, MI, US – June 20th & 21st – DDOM",
+        "club_name": "DDOM",
+        "contact_name": "Scott Jones",
+        "contact_email": "frisbeejones@gmail.com",
+        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
+        "start_date": "6/20/2026",
+        "start_date_iso": "2026-06-20T00:00:00",
+        "notification_date": "2026-06-20",
+        "end_date": "6/21/2026",
+        "end_date_iso": "2026-06-21T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
       }
     },
     {
@@ -4016,38 +3822,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Crossover crown"
-      }
-    },
-    {
-      "id": "c1c8c531ba7b89dad4c46f128b0e8ea354cecc88260424b16162a3038b081e2c",
-      "title": "Davison, MI, US - June 27th & 28th - DDOM",
-      "url": "https://updogchallenge.com/events/davison-mi-us-june-27th-28th-ddom-2/",
-      "details": {
-        "title": "Davison, MI, US – June 27th & 28th – DDOM",
-        "club_name": "DDOM",
-        "contact_name": "Scott Jones",
-        "contact_email": "frisbeejones@gmail.com",
-        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
-        "start_date": "6/27/2026",
-        "start_date_iso": "2026-06-27T00:00:00",
-        "notification_date": "2026-06-27",
-        "end_date": "6/28/2026",
-        "end_date_iso": "2026-06-28T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
       }
     },
     {
@@ -4755,6 +4529,38 @@
           "Time Warp"
         ],
         "prereg_url": "https://forms.gle/dRZvQ8Jis9BhRL2XA"
+      }
+    },
+    {
+      "id": "1c0c9e57c41f87bbd1ed8ea2e8a60a14dc4b09a9c58850793e601a274c818349",
+      "title": "Davison, MI, US - July 11th & 12th - DDOM",
+      "url": "https://updogchallenge.com/events/davison-mi-us-july-25th-26th-ddom/",
+      "details": {
+        "title": "Davison, MI, US – July 11th & 12th – DDOM",
+        "club_name": "DDOM",
+        "contact_name": "Scott Jones",
+        "contact_email": "frisbeejones@gmail.com",
+        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
       }
     },
     {
@@ -5837,38 +5643,6 @@
       }
     },
     {
-      "id": "1c0c9e57c41f87bbd1ed8ea2e8a60a14dc4b09a9c58850793e601a274c818349",
-      "title": "Davison, MI, US - July 25th & 26th - DDOM",
-      "url": "https://updogchallenge.com/events/davison-mi-us-july-25th-26th-ddom/",
-      "details": {
-        "title": "Davison, MI, US – July 25th & 26th – DDOM",
-        "club_name": "DDOM",
-        "contact_name": "Scott Jones",
-        "contact_email": "frisbeejones@gmail.com",
-        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
-        "start_date": "7/25/2026",
-        "start_date_iso": "2026-07-25T00:00:00",
-        "notification_date": "2026-07-25",
-        "end_date": "7/26/2026",
-        "end_date_iso": "2026-07-26T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
-      }
-    },
-    {
       "id": "8c80387f57d099632c971f259dedc36fff6d6a8b6e91af493bea3cb18885c037",
       "title": "Great Village, NS, CA - July 25th - Bite Club - Colchester DDC",
       "url": "https://updogchallenge.com/events/great-village-ns-ca-july-25th-bite-club-colchester-ddc/",
@@ -6318,6 +6092,38 @@
       }
     },
     {
+      "id": "1f43ccf636ccad899312005f370c61358e8cb6e2c37ae0d9758a7563bb1ac8fa",
+      "title": "Davison, MI, US - Aug 2nd - DDOM",
+      "url": "https://updogchallenge.com/events/davison-mi-us-aug-16th-ddom/",
+      "details": {
+        "title": "Davison, MI, US – Aug 2nd – DDOM",
+        "club_name": "DDOM",
+        "contact_name": "Scott Jones",
+        "contact_email": "frisbeejones@gmail.com",
+        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
+        "start_date": "8/2/2026",
+        "start_date_iso": "2026-08-02T00:00:00",
+        "notification_date": "2026-08-02",
+        "end_date": "8/2/2026",
+        "end_date_iso": "2026-08-02T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
+      }
+    },
+    {
       "id": "8f9b54f1f846c1a7e0f639b66609331f32b5fca2558556a29772fd4061140ddb",
       "title": "Ball Ground, GA, US - Aug 2nd - Bite Club - Happy Disc Doggers",
       "url": "https://updogchallenge.com/events/ball-ground-ga-us-aug-2nd-bite-club-happy-disc-doggers/",
@@ -6561,14 +6367,14 @@
     },
     {
       "id": "781510faea434cfea4949b03ef3540655a68ad9bf2f2642ec975fa7c5b3fd633",
-      "title": "Edgewater, FL, US - Aug 8th - Daytona Disc Dogs",
+      "title": "Bunnell, FL, US - Aug 8th - Daytona Disc Dogs",
       "url": "https://updogchallenge.com/events/edgewater-fl-us-aug-8th-daytona-disc-dogs/",
       "details": {
-        "title": "Edgewater, FL, US – Aug 8th – Daytona Disc Dogs",
+        "title": "Bunnell, FL, US – Aug 8th – Daytona Disc Dogs",
         "club_name": "Daytona Disc Dogs",
         "contact_name": "Brian Fidler",
         "contact_email": "bfidler1996@gmail.com",
-        "event_address": "3311 Kumquat Dr, Edgewater, FL 32141, United States",
+        "event_address": "345 County rd 335, Bunnell, Fl 32110",
         "start_date": "8/8/2026",
         "start_date_iso": "2026-08-08T00:00:00",
         "notification_date": "2026-08-08",
@@ -6869,38 +6675,6 @@
         "games": [
           "To Be Determined"
         ]
-      }
-    },
-    {
-      "id": "1f43ccf636ccad899312005f370c61358e8cb6e2c37ae0d9758a7563bb1ac8fa",
-      "title": "Davison, MI, US - Aug 16th - DDOM",
-      "url": "https://updogchallenge.com/events/davison-mi-us-aug-16th-ddom/",
-      "details": {
-        "title": "Davison, MI, US – Aug 16th – DDOM",
-        "club_name": "DDOM",
-        "contact_name": "Scott Jones",
-        "contact_email": "frisbeejones@gmail.com",
-        "event_address": "DDOM Field 6259 E Potter Rd, Davison, MI 48423, United States",
-        "start_date": "8/16/2026",
-        "start_date_iso": "2026-08-16T00:00:00",
-        "notification_date": "2026-08-16",
-        "end_date": "8/16/2026",
-        "end_date_iso": "2026-08-16T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "There will also be NADD Dock Diving held on the same weekends."
       }
     },
     {
