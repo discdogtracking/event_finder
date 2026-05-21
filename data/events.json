@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T10:51:49Z",
-  "count": 371,
+  "last_updated": "2026-05-21T11:09:59Z",
+  "count": 370,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,56 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "dbebc96d22fdef6deafb5957ff0895cf55a7c1ffd08b91cf636ea27e00c7e828",
-      "title": "Princeton, IL, US - May 20th - Bite Club - Harmony Training Club",
-      "url": "https://updogchallenge.com/events/princeton-il-us-may-20th-bite-club-harmony-training-club/",
-      "details": {
-        "title": "Princeton, IL, US – May 20th – Bite Club – Harmony Training Club",
-        "club_name": "Harmony Training Club",
-        "contact_name": "Lynette VandeVenter",
-        "contact_email": "firstharmonyfarms@yahoo.com",
-        "event_address": "1616 North Main Street, Princeton, Illinois 61356, United States",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "4/29/2026",
-        "end_date_iso": "2026-04-29T00:00:00",
-        "start_time": "3:30 PM",
-        "end_time": "6:30 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "d0e38085e14f95e0883a15355f5ad344ecd51f024585f4bd8fd3936537aab14f",
-      "title": "Saint John, NB, CA - May 20th - Bite Club - Fundy Flyers",
-      "url": "https://updogchallenge.com/events/saint-john-nb-ca-may-20th-bite-club-fundy-flyers/",
-      "details": {
-        "title": "Saint John, NB, CA – May 20th – Bite Club – Fundy Flyers",
-        "club_name": "Fundy Flyers",
-        "contact_name": "Andrea Caines",
-        "contact_email": "andrea_caines54@yahoo.ca",
-        "event_address": "1216 Sand Cove Road, Saint John, NB E2M5V8, Canada",
-        "start_date": "4/29/2026",
-        "start_date_iso": "2026-04-29T00:00:00",
-        "notification_date": "2026-04-29",
-        "end_date": "5/20/2026",
-        "end_date_iso": "2026-05-20T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Bite Club April 29, May 6, May 13 and May 20\nWill be played right after we finish playing Toss and FetchApril 29 – Greedy and Four Way Play\nMay 6 – Spaced Out and Fireball\nMay 13 – Time Warp and Greedy\nMay 20 – Four Way Play and Throw n Go Level 2"
       }
     },
     {
@@ -6198,6 +6148,36 @@
           "Freestyle",
           "Frizgility",
           "Greedy",
+          "Throw N Go",
+          "Time Warp"
+        ]
+      }
+    },
+    {
+      "id": "188ca7b0a5b8b03821922cc1fadf45a4793c9761c7772bcc514e38cd48a1c096",
+      "title": "Phoenix, AZ, US - Aug 29th & 30th - East Valley Sport Dog Club",
+      "url": "https://updogchallenge.com/events/phoenix-az-us-aug-29th-30th-east-valley-sport-dog-club/",
+      "details": {
+        "title": "Phoenix, AZ, US – Aug 29th & 30th – East Valley Sport Dog Club",
+        "club_name": "East Valley Sport Dog Club",
+        "contact_name": "Alyssa Slaysman",
+        "contact_email": "slaysmana@gmail.com",
+        "event_address": "3736 W Sandra Terrace, Phoenix, AZ 85303, United States",
+        "start_date": "8/29/2026",
+        "start_date_iso": "2026-08-29T00:00:00",
+        "notification_date": "2026-08-29",
+        "end_date": "8/30/2026",
+        "end_date_iso": "2026-08-30T00:00:00",
+        "start_time": "7:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
           "Throw N Go",
           "Time Warp"
         ]
