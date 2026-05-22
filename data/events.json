@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T11:09:59Z",
-  "count": 370,
+  "last_updated": "2026-05-22T10:52:37Z",
+  "count": 368,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -55,51 +55,6 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Additional games will be played each week in addition to Bite Club games.\nRegistration will be posted to the Outside The Box Bite Club facebook page. Request to join our pack."
-      }
-    },
-    {
-      "id": "9e51b231e9dee03a55112e0c265feb902f0c99cbcf22010fc209792769f56d72",
-      "title": "St Genevieve, MO, US - May 21st - Bite Club - St Louis Disc Dogs",
-      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-may-21st-bite-club-st-louis-disc-dogs/",
-      "details": {
-        "title": "St Genevieve, MO, US – May 21st – Bite Club – St Louis Disc Dogs",
-        "club_name": "St. Louis Disc Dogs",
-        "contact_name": "Nickie Nowak",
-        "contact_email": "nlnowak@outlook.com",
-        "event_address": "14490 Hennick Rd., Ste Genevieve, MO 63670, United States",
-        "start_date": "4/30/2026",
-        "start_date_iso": "2026-04-30T00:00:00",
-        "notification_date": "2026-04-30",
-        "end_date": "5/21/2026",
-        "end_date_iso": "2026-05-21T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Check St. Louis Disc Dogs Facebook page for additional details. Games will be $10/round, so $20/week if only one round of each of the scheduled games is played. Additional runs will be available."
-      }
-    },
-    {
-      "id": "774a71befa7c8f68d1fceaa4325a145cb0cd73cab4dc7edf3105f4190b21aded",
-      "title": "Windsor, NS, CA - May 21st - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-may-21st-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – May 21st – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor Nova Scotia, Windsor, NS B0N2T0, Canada",
-        "start_time": "6:00 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
-        ]
       }
     },
     {
