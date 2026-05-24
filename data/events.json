@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-23T09:52:47Z",
-  "count": 361,
+  "last_updated": "2026-05-24T09:57:17Z",
+  "count": 356,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -35,35 +35,6 @@
       }
     },
     {
-      "id": "c70ba08e1370fe94898a3937bb9abfd3540f9839f6afb847d1234bedd7f34396",
-      "title": "East Selkirk, MB, CA - May 23rd & 24th - Whipp'In Disc Dogs",
-      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-may-23rd-24th-whippin-disc-dogs/",
-      "details": {
-        "title": "East Selkirk, MB, CA – May 23rd & 24th – Whipp’In Disc Dogs",
-        "club_name": "Whipp’In Disc Dogs",
-        "contact_name": "Jill Voth",
-        "contact_email": "whippindiscdogs@outlook.com",
-        "event_address": "353 Stone Church Rd, East Selkirk, Manitoba R0E 0M0, Canada",
-        "start_date": "5/23/2026",
-        "start_date_iso": "2026-05-23T00:00:00",
-        "notification_date": "2026-05-23",
-        "end_date": "5/24/2026",
-        "end_date_iso": "2026-05-24T00:00:00",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Freestyle Criteria"
-      }
-    },
-    {
       "id": "136180647f212b8d9d903f5bc310dd6bc513c2784b8636430f150f3fbc51118e",
       "title": "Leesburg, VA, US - May 23rd & 24th - Potomac River Rapid Catchers",
       "url": "https://updogchallenge.com/events/leesburg-va-us-may-23rd-24th-potomac-river-rapid-catchers/",
@@ -89,62 +60,6 @@
         ],
         "additional_event_information_for_participants": "This event is being held in conjunction with Flying Dog Agility’s Memorial Day UKI trial. While you do not need to register for agility to play disc, you are welcome to both! Run orders will be made to accommodate people who want to run both sports. Frizgility will be played at the conclusion of the agility rounds on Saturday, as a “disc at dusk”. Sunday will be Throw and go, Four Way Play, Greedy, and Time Warp. Saturday Frizgility limited to 30 funs, Sunday total limited to 150 runs.",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeMS7j8kGol0jXemwMnCVlAOX1kB8B26EL9VvL6eZmO1fMrUQ/viewform?usp=header"
-      }
-    },
-    {
-      "id": "c831daaf6eb05bc1db467dd3bbe4119dd8e8a3f330c07316f080cc4b257efb7d",
-      "title": "Windsor, NS, CA - May 23rd - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/gypsum-mines-ns-ca-may-22nd-thru-24th-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – May 23rd – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
-        "start_date": "5/23/2026",
-        "start_date_iso": "2026-05-23T00:00:00",
-        "notification_date": "2026-05-23",
-        "end_date": "5/23/2026",
-        "end_date_iso": "2026-05-23T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "4:30 PM",
-        "games": [
-          "To Be Determined"
-        ]
-      }
-    },
-    {
-      "id": "6175ecbc908260036a1307752d61e2928c111c591ef0d1833c5879b4bff13270",
-      "title": "Alliston, ON, CA - May 23rd - GTA High Flyers",
-      "url": "https://updogchallenge.com/events/alliston-on-ca-july-11th-12th-gta-high-flyers/",
-      "details": {
-        "title": "Alliston, ON, CA – May 23rd – GTA High Flyers",
-        "club_name": "GTA High Flyers",
-        "contact_name": "Ty Fox",
-        "contact_email": "gtahighflyers@gmail.com",
-        "event_address": "6311 12th line, Alliston, On L9R1V4, Canada",
-        "start_date": "5/23/2026",
-        "start_date_iso": "2026-05-23T00:00:00",
-        "notification_date": "2026-05-23",
-        "end_date": "5/23/2026",
-        "end_date_iso": "2026-05-23T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Schedule Of Events",
-          "8:30am – Players Meeting",
-          "9am – First Dog Begins",
-          "4Way Play lvl 1",
-          "4Way Play lvl 2",
-          "4Way Play Pairs",
-          "Spaced Out lvl 1",
-          "Spaced Out lvl 2",
-          "LUNCH",
-          "Frizgility lvl 1",
-          "7Up",
-          "Fireball"
-        ],
-        "additional_event_information_for_participants": "DRY Camping on site ($25) Canadian\nDock Diving Pool rental available\nPlayer Packs\nFull Frills\nhttps://forms.gle/gVvV8pESRs54KGdE8"
       }
     },
     {
@@ -234,58 +149,6 @@
         "games": [
           "To Be Determined"
         ]
-      }
-    },
-    {
-      "id": "a68b4cafa373ecb4fcf36379a06bb77036cb7fed6010dbd411eccee8ab0fdc66",
-      "title": "Waukesha, WI, US - May 23rd - Bite Club - K9 Ventures",
-      "url": "https://updogchallenge.com/events/waukesha-wi-us-may-23rd-bite-club-k9-ventures/",
-      "details": {
-        "title": "Waukesha, WI, US – May 23rd – Bite Club – K9 Ventures",
-        "club_name": "K9 Ventures",
-        "contact_name": "Katie Oilschlager",
-        "contact_email": "info.k9ventures@gmail.com",
-        "event_address": "19485 W Lisbon Rd, Brookfield, WI 53045\n3250 Summit Avenue, Waukesha, WI 53188, United States",
-        "start_date": "5/2/2026",
-        "start_date_iso": "2026-05-02T00:00:00",
-        "notification_date": "2026-05-02",
-        "end_date": "5/23/2026",
-        "end_date_iso": "2026-05-23T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "12:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We’re excited to bring Bite Club to K9 Ventures and are grateful to Faith Baptist Church and the Brookfield Soccer Complex for allowing us to host our UpDog Events at their facilities. With indoor turf at Brookfield and a well-maintained outdoor soccer complex at Faith Baptist Church, these locations provide great settings for a fun day with dogs and handlers.\nWeek #1 and Week #2 will be held on\nSaturday, May 2\nat the Brookfield Soccer Complex from 4:00pm–7:00pm. These sessions will be held indoors on artificial turf, and indoor crating will be available.\nWeek #3 and Week #4 will be held on\nSaturday, May 23\nat Faith Baptist Church from 8:30am–12:30pm. These sessions will be held outdoors on the well-maintained soccer complex. You are welcome to set up an easy-up tent for crating and shade.\nPlease bring plenty of water for both yourself and your dog.",
-        "prereg_url": "www.k9ventureswi.com"
-      }
-    },
-    {
-      "id": "0c5071b1ae6c4df6b7606c374d18105c7bcfac667a86b1d4c5f8fbe589391d9a",
-      "title": "Hillsboro, AL, US - May 23rd - Unhinged Canines",
-      "url": "https://updogchallenge.com/events/hillsboro-al-us-may-23rd-unhinged-canines/",
-      "details": {
-        "title": "Hillsboro, AL, US – May 23rd – Unhinged Canines",
-        "club_name": "Unhinged Canines",
-        "contact_name": "Aslyn Estill",
-        "contact_email": "unhingedcanines@gmail.com",
-        "event_address": "439 Co Rd 413, Hillsboro, AL 35643-3726, United States",
-        "start_date": "5/23/2026",
-        "start_date_iso": "2026-05-23T00:00:00",
-        "notification_date": "2026-05-23",
-        "end_date": "5/23/2026",
-        "end_date_iso": "2026-05-23T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Fully fenced field! Link for registration and games will be announced soon!"
       }
     },
     {
