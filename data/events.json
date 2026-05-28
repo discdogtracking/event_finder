@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T15:16:31Z",
-  "count": 348,
+  "last_updated": "2026-05-28T11:39:35Z",
+  "count": 352,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -401,32 +401,6 @@
           "3/12/2027",
           "3/13/2027",
           "3/14/2027"
-        ]
-      }
-    },
-    {
-      "id": "f7056d940221f937ef1ed99032aaf6bdba69c8e345e63a6b981a7247d8d77091",
-      "title": "Mohnton, PA, US - May 27th - Reading Disc Dogs",
-      "url": "https://updogchallenge.com/events/mohnton-pa-us-may-27th-reading-disc-dogs/",
-      "details": {
-        "title": "Mohnton, PA, US – May 27th – Reading Disc Dogs",
-        "club_name": "Reading Disc Dogs",
-        "contact_name": "ANN M FLEMMING",
-        "contact_email": "Pandaflemming@yahoo.com",
-        "event_address": "30 Stauffer park lane, Maple Grove Raceway Ballfield, Mohnton, PA 19540, United States",
-        "start_date": "5/27/2026",
-        "start_date_iso": "2026-05-27T00:00:00",
-        "notification_date": "2026-05-27",
-        "end_date": "5/27/2026",
-        "end_date_iso": "2026-05-27T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "05/27/2026",
-        "event_dates": [
-          "5/27/2026"
         ]
       }
     },
@@ -1182,6 +1156,36 @@
         "event_dates": [
           "6/6/2026",
           "6/7/2026"
+        ]
+      }
+    },
+    {
+      "id": "e5d05826ccf1ae841c45262dcf2dc801437b5874fbdf45bc171a69ddbf889c68",
+      "title": "Port Saint Lucie, FL, US - June 6th - Disc Dogs of Treasure Coast - Crossover Crown",
+      "url": "https://updogchallenge.com/events/port-saint-lucie-fl-us-june-6th-disc-dogs-of-treasure-coast-crossover-crown/",
+      "details": {
+        "title": "Port Saint Lucie, FL, US – June 6th – Disc Dogs of Treasure Coast – Crossover Crown",
+        "club_name": "Disc Dogs of Treasure Coast",
+        "contact_name": "Julie Spring",
+        "contact_email": "discdogsoftreasurecoast@gmail.com",
+        "event_address": "1450 SW Heatherwood Blvd, Port Saint Lucie, FL 34986, United States",
+        "start_date": "6/6/2026",
+        "start_date_iso": "2026-06-06T00:00:00",
+        "notification_date": "2026-06-06",
+        "end_date": "6/6/2026",
+        "end_date_iso": "2026-06-06T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "In order: Frizgility, Funkey, 7-Up\nEstimated Times –\nFrizgility: 9:00AM-10:00AM\nFunkey: 10:30AM-11:30AM\n7-Up: 12:00PM-01:00PMWe will have special Crossover Crown awards awarded at the end of the three games for players who participated in all 3 games. We will be having two divisions (Novice & Intermediate)",
+        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfTreasureCoast/CrossoverCrown2026",
+        "when_text": "06/06/2026",
+        "event_dates": [
+          "6/6/2026"
         ]
       }
     },
@@ -2852,6 +2856,44 @@
       }
     },
     {
+      "id": "2059016ec027dc55d75afbdd4fefee595bebed7f39689b0ad0a63e75cf0e70ea",
+      "title": "Spruce Grove, AB, CA - June 26th thru 28th - Edmonton Disc Dog Club - Crossover Crown",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-june-27th-28th-edmonton-disc-dog-club-crossover-crown/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – June 26th thru 28th – Edmonton Disc Dog Club – Crossover Crown",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "6/26/2026",
+        "start_date_iso": "2026-06-26T00:00:00",
+        "notification_date": "2026-06-26",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "when_text": "06/26/2026 - 06/28/2026",
+        "event_dates": [
+          "6/26/2026",
+          "6/27/2026",
+          "6/28/2026"
+        ]
+      }
+    },
+    {
       "id": "23f2da54c1621d34e6210c3f88299bce0d35ce56d6b3fd3881cd09df2b833a41",
       "title": "Walkersville, MD, US - June 26th - Camp Hill and Howl Dog Sports",
       "url": "https://updogchallenge.com/events/walkersville-md-us-june-26th-camp-hill-and-howl-dog-sports/",
@@ -3002,43 +3044,6 @@
       }
     },
     {
-      "id": "2059016ec027dc55d75afbdd4fefee595bebed7f39689b0ad0a63e75cf0e70ea",
-      "title": "Spruce Grove, AB, CA - June 27th & 28th - Edmonton Disc Dog Club - Crossover Crown",
-      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-june-27th-28th-edmonton-disc-dog-club-crossover-crown/",
-      "details": {
-        "title": "Spruce Grove, AB, CA – June 27th & 28th – Edmonton Disc Dog Club – Crossover Crown",
-        "club_name": "Edmonton Disc Dog Club",
-        "contact_name": "Courtney Forester",
-        "contact_email": "info@edmontondiscdogclub.ca",
-        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
-        "start_date": "6/27/2026",
-        "start_date_iso": "2026-06-27T00:00:00",
-        "notification_date": "2026-06-27",
-        "end_date": "6/28/2026",
-        "end_date_iso": "2026-06-28T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:30 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "when_text": "06/27/2026 - 06/28/2026",
-        "event_dates": [
-          "6/27/2026",
-          "6/28/2026"
-        ]
-      }
-    },
-    {
       "id": "40421dd1f96babb8ebff608f49991cb31082924c1a83e1cb264d9a37fd4e7988",
       "title": "Vanessa, ON, CA - June 27th - Pandemonium in Motion - Crossover Crown",
       "url": "https://updogchallenge.com/events/vanessa-on-ca-june-27th-pandemonium-in-motion-crossover-crown/",
@@ -3064,6 +3069,40 @@
         "when_text": "06/27/2026",
         "event_dates": [
           "6/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "92ac364886933ecb22634a1dd2ad34402243ef5cc068e1d5423cb8c07d594c7c",
+      "title": "Bartlett, IL, US - June 27th & 28th - McHenry Disc Dogs - Crossover Crown",
+      "url": "https://updogchallenge.com/events/bartlett-il-us-june-27th-28th-mchenry-disc-dogs-crossover-crown/",
+      "details": {
+        "title": "Bartlett, IL, US – June 27th & 28th – McHenry Disc Dogs – Crossover Crown",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "2255 Southwind Blvd, Bartlett, IL 60103, United States",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "7Up",
+          "Time Warp"
+        ],
+        "when_text": "06/27/2026 - 06/28/2026",
+        "event_dates": [
+          "6/27/2026",
+          "6/28/2026"
         ]
       }
     },
@@ -3142,6 +3181,38 @@
       }
     },
     {
+      "id": "85d738508e61aa7508fb6d60b7c3ceb41ff6d924029bc014ad1887dab148c43c",
+      "title": "Columbus, IN, US - June 27th & 28th - Indy Dog and Disc Club",
+      "url": "https://updogchallenge.com/events/columbus-in-us-june-27th-28th-indy-dog-and-disc-club/",
+      "details": {
+        "title": "Columbus, IN, US – June 27th & 28th – Indy Dog and Disc Club",
+        "club_name": "Indy Dog and Disc Club",
+        "contact_name": "Sheridan Gilchrist",
+        "contact_email": "sheridangi@aol.com",
+        "event_address": "6095 West Lowell Rd, Columbus, Indiana 47201, United States",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "06/27/2026 - 06/28/2026",
+        "event_dates": [
+          "6/27/2026",
+          "6/28/2026"
+        ]
+      }
+    },
+    {
       "id": "b1e120d29c8e55d129fb10af6d1de3d1b643d2ac016e8764d15b90ea5ae47d64",
       "title": "Erie, PA, US - June 27th - Flagship Dog Sports",
       "url": "https://updogchallenge.com/events/north-east-pa-us-june-27th-flagship-dog-sports/",
@@ -3172,6 +3243,38 @@
         "when_text": "06/27/2026",
         "event_dates": [
           "6/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "fecb0c8bd5d5bab0bcd81b9716427f741e3c2c215cff8f979bf6f0b2064f6c2a",
+      "title": "Ste-Anne des plaines, QC, CA - June 28th",
+      "url": "https://updogchallenge.com/events/ste-anne-des-plaines-qc-ca-june-28th/",
+      "details": {
+        "title": "Ste-Anne des plaines, QC, CA – June 28th",
+        "club_name": "Suzanne Lapointe – Ste-Anne Des Plaines",
+        "contact_name": "Suzanne Lapointe",
+        "contact_email": "suzanne.frisbee4k9@gmail.com",
+        "event_address": "19441 Côté St-Pierre, Ste-Anne des plaines, Québec J0N1H0, Canada",
+        "start_date": "6/28/2026",
+        "start_date_iso": "2026-06-28T00:00:00",
+        "notification_date": "2026-06-28",
+        "end_date": "6/28/2026",
+        "end_date_iso": "2026-06-28T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "when_text": "06/28/2026",
+        "event_dates": [
+          "6/28/2026"
         ]
       }
     },
@@ -5228,6 +5331,38 @@
         "when_text": "07/25/2026",
         "event_dates": [
           "7/25/2026"
+        ]
+      }
+    },
+    {
+      "id": "861bd10ce4eea2ab81b4a00d397725989723156134987fc7c8b1098b880c1064",
+      "title": "Ste-Anne des plaines, QC, CA - July 26th",
+      "url": "https://updogchallenge.com/events/ste-anne-des-plaines-qc-ca-july-26th/",
+      "details": {
+        "title": "Ste-Anne des plaines, QC, CA – July 26th",
+        "club_name": "Suzanne Lapointe à K9",
+        "contact_name": "Suzanne Lapointe",
+        "contact_email": "suzanne.frisbee4k9@gmail.com",
+        "event_address": "19441 Côte St-Pierre, Ste-Anne des Plaines, Québec J0N 1H0, Canada",
+        "start_date": "7/26/2026",
+        "start_date_iso": "2026-07-26T00:00:00",
+        "notification_date": "2026-07-26",
+        "end_date": "7/26/2026",
+        "end_date_iso": "2026-07-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "when_text": "07/26/2026",
+        "event_dates": [
+          "7/26/2026"
         ]
       }
     },
