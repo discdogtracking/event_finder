@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-30T10:01:19Z",
-  "count": 361,
+  "last_updated": "2026-05-31T10:17:37Z",
+  "count": 358,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -431,40 +431,6 @@
       }
     },
     {
-      "id": "a7cdf06e4f6cbd201cd69738a67b55dfc905cee18938530490ea7dc5bcd9c582",
-      "title": "Oklahoma City, OK, US - May 29th & 30th - Tornado Alley Disc Dogs",
-      "url": "https://updogchallenge.com/events/oklahoma-city-ok-us-may-29th-30th-tornado-alley-disc-dogs/",
-      "details": {
-        "title": "Oklahoma City, OK, US – May 29th & 30th – Tornado Alley Disc Dogs",
-        "club_name": "Tornado Alley Disc Dogs",
-        "contact_name": "JAMEE SALLEY",
-        "contact_email": "Tornadoalleydiscdog@pldi.net",
-        "event_address": "3001 General Pershing Blvd., Oklahoma City, Oklahoma 73107, United States",
-        "start_date": "5/29/2026",
-        "start_date_iso": "2026-05-29T00:00:00",
-        "notification_date": "2026-05-29",
-        "end_date": "5/30/2026",
-        "end_date_iso": "2026-05-30T00:00:00",
-        "start_time": "7:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Friday May 29th Schedule: All Level 1 – Awards after each game. Fee $20.00 per game\n7:00 AM ThrowNGo Level 1\n9:00AM 4WayPlay Level 1\n11:00AM Spaced Out Level 1\n1:00PM Lunch Break\n1:30PM Frizgility Level 1\n3:00PM Greedy Level 1Saturday May 30th Schedule: All Level 1 – Awards after each game. Fee $20.00 per game\n7:00 AM ThrowNGo Level 1\n9:00AM 4WayPlay Level 1\n11:00AM Greedy Level 1\n1:00PM Lunch Break\n1:30PM Frizgility Level 1\n3:00PM TimeWarp Level 1",
-        "prereg_url": "https://form.jotform.com/223277697842167",
-        "when_text": "05/29/2026 - 05/30/2026",
-        "event_dates": [
-          "5/29/2026",
-          "5/30/2026"
-        ]
-      }
-    },
-    {
       "id": "45c74e2ae8d93814d627b6b6885a82d3d4133ed9ccc083ada74a90300bbbd9b4",
       "title": "Pilot Butte, SK, CA - May 30th & 31st - Encore Disc Dog Club - Crossover Crown",
       "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-may-30th-31st-encore-disc-dog-club/",
@@ -611,62 +577,6 @@
         "event_dates": [
           "5/30/2026",
           "5/31/2026"
-        ]
-      }
-    },
-    {
-      "id": "a5bb414f19916364f89ffbc6561d8635bc573212c06adae7372bfcbbd3528726",
-      "title": "Great Village, NS, CA - May 30th - Colchester DDC",
-      "url": "https://updogchallenge.com/events/great-village-ns-ca-may-30th-colchester-ddc/",
-      "details": {
-        "title": "Great Village, NS, CA – May 30th – Colchester DDC",
-        "club_name": "Colchester DDC",
-        "contact_name": "Melanie Smith",
-        "contact_email": "melanieangus@hotmail.com",
-        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
-        "start_date": "5/30/2026",
-        "start_date_iso": "2026-05-30T00:00:00",
-        "notification_date": "2026-05-30",
-        "end_date": "5/30/2026",
-        "end_date_iso": "2026-05-30T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "05/30/2026",
-        "event_dates": [
-          "5/30/2026"
-        ]
-      }
-    },
-    {
-      "id": "e62524efc465988fe65a948b1afa2aace87d7d6daaaa3522f2a8b7436799f5c7",
-      "title": "Saint-Valère, QC, CA - May 30th - Diablo Tricks",
-      "url": "https://updogchallenge.com/events/saint-valere-qc-ca-may-30th-diablo-tricks/",
-      "details": {
-        "title": "Saint-Valère, QC, CA – May 30th – Diablo Tricks",
-        "club_name": "Diablo Tricks",
-        "contact_name": "Krysthel Moore",
-        "contact_email": "diablotricksdogsports@gmail.com",
-        "event_address": "2802 rang 8, Saint-Valère, Québec G0P1M0, Canada",
-        "start_date": "5/30/2026",
-        "start_date_iso": "2026-05-30T00:00:00",
-        "notification_date": "2026-05-30",
-        "end_date": "5/30/2026",
-        "end_date_iso": "2026-05-30T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out"
-        ],
-        "prereg_url": "https://forms.gle/XwxmhJi6BMMMjPnW8",
-        "when_text": "05/30/2026",
-        "event_dates": [
-          "5/30/2026"
         ]
       }
     },
