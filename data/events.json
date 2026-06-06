@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T11:28:03Z",
-  "count": 361,
+  "last_updated": "2026-06-06T10:04:10Z",
+  "count": 360,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -429,34 +429,6 @@
         "event_dates": [
           "6/4/2026",
           "6/5/2026",
-          "6/6/2026"
-        ]
-      }
-    },
-    {
-      "id": "5a6b603417352be36ccd653c04b398ae7b7fbcb3948861a55edfbe1f338f5372",
-      "title": "Winnipeg, MB, CA - June 6th - River City Disc Dogs - Crossover Crown",
-      "url": "https://updogchallenge.com/events/winnipeg-mb-ca-june-6th-river-city-disc-dogs-crossover-crown/",
-      "details": {
-        "title": "Winnipeg, MB, CA – June 6th – River City Disc Dogs – Crossover Crown",
-        "club_name": "River City Disc Dogs",
-        "contact_name": "Shawna Kondratuk",
-        "contact_email": "rivercitydiscdogs@gmail.com",
-        "event_address": "Bord-Aire Community Club 471 Hampton St, Winnipeg, MB R3J 1R1, Canada",
-        "start_date": "6/6/2026",
-        "start_date_iso": "2026-06-06T00:00:00",
-        "notification_date": "2026-06-06",
-        "end_date": "6/6/2026",
-        "end_date_iso": "2026-06-06T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "7Up"
-        ],
-        "when_text": "06/06/2026",
-        "event_dates": [
           "6/6/2026"
         ]
       }
