@@ -2,7 +2,7 @@ name: Daily Python Script
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Runs daily at 3 AM EST
+    - cron: '0 6 * * *'  # Runs daily at 2 AM EST
   workflow_dispatch:
 
 jobs:
