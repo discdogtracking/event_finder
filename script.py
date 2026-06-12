@@ -35,16 +35,27 @@ HEADERS = {
 }
 
 DELAY = 1.0  # seconds between requests (polite)
+REQUEST_TIMEOUT = 60
+MAX_RETRIES = 4
+MIN_EXPECTED_EVENTS = int(os.getenv("MIN_EXPECTED_EVENTS", "80"))
 
 
-def safe_get(session, url):
-    try:
-        resp = session.get(url, headers=HEADERS, timeout=30)
-        resp.raise_for_status()
-        return BeautifulSoup(resp.text, "html.parser")
-    except Exception as e:
-        print(f"[ERROR] GET {url} -> {e}")
-        return None
+def safe_get(session, url, *, required=False):
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            resp = session.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            return BeautifulSoup(resp.text, "html.parser")
+        except Exception as e:
+            last_error = e
+            print(f"[ERROR] GET {url} attempt {attempt}/{MAX_RETRIES} -> {e}")
+            if attempt < MAX_RETRIES:
+                time.sleep(min(30, attempt * 5))
+
+    if required:
+        raise RuntimeError(f"Required page failed after retries: {url}") from last_error
+    return None
 
 
 def normalize_key(text: str) -> str:
@@ -282,9 +293,7 @@ def parse_event_detail(session, url):
 
 
 def scrape_listing_page(session, url):
-    soup = safe_get(session, url)
-    if not soup:
-        return [], None
+    soup = safe_get(session, url, required=True)
 
     events = []
     cards = soup.select(".em-item-info") or soup.select("article, .event-card")
@@ -308,12 +317,15 @@ def crawl_all():
     url = START
     all_events = []
     seen = set()
+    page_count = 0
 
     print("Starting crawl...")
 
     while url:
+        page_count += 1
         print(f"\nListing page: {url}")
         listing_events, next_url = scrape_listing_page(session, url)
+        print(f"Found {len(listing_events)} event cards on listing page {page_count}")
 
         for ev in listing_events:
             ev_url = ev.get("url")
@@ -334,6 +346,12 @@ def crawl_all():
             all_events.append(record)
 
         url = next_url
+
+    if len(all_events) < MIN_EXPECTED_EVENTS:
+        raise RuntimeError(
+            f"Only scraped {len(all_events)} events across {page_count} listing pages. "
+            f"Expected at least {MIN_EXPECTED_EVENTS}; refusing to overwrite {OUTPUT}."
+        )
 
     payload = {
         "last_updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
