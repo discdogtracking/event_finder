@@ -8,6 +8,7 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     steps:
     - name: Checkout Repo
@@ -29,6 +30,8 @@ jobs:
 
     - name: Run script
       run: python script.py
+      env:
+        MIN_EXPECTED_EVENTS: 80
 
     - name: Commit and Push changes
       run: |
