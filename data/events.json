@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T12:04:34Z",
-  "count": 337,
+  "last_updated": "2026-06-16T11:12:25Z",
+  "count": 336,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,33 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "d894a2f36abdce9e6933d9f5e2fbe139b07dbb27ad037efa992c7f62cb965966",
-      "title": "West St Paul, MN, US - June 15th - The Canine Coach",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-june-15th-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – June 15th – The Canine Coach",
-        "club_name": "The Canine Coach",
-        "contact_name": "Roxanne Freeman",
-        "contact_email": "k9coachroxanne@gmail.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, Mn 55118, United States",
-        "start_date": "6/15/2026",
-        "start_date_iso": "2026-06-15T00:00:00",
-        "notification_date": "2026-06-15",
-        "end_date": "6/15/2026",
-        "end_date_iso": "2026-06-15T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This will be weekly points only games on Mondays. Each week participants will vote on which games they want to play.",
-        "when_text": "06/15/2026",
-        "event_dates": [
-          "6/15/2026"
         ]
       }
     },
