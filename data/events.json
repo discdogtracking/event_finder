@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T11:12:25Z",
-  "count": 336,
+  "last_updated": "2026-06-17T10:56:13Z",
+  "count": 334,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,60 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "08c3b410e28f380da3a1c0a3032a3599f38b96b4d08213116d3f62a809b9c428",
-      "title": "Foothills, AB, CA - June 16th - Foothills Flyers Disc Dog Club",
-      "url": "https://updogchallenge.com/events/foothills-ab-ca-june-16th-foothills-flyers-disc-dog-club/",
-      "details": {
-        "title": "Foothills, AB, CA – June 16th – Foothills Flyers Disc Dog Club",
-        "club_name": "Foothills Flyers Disc Dog Club",
-        "contact_name": "Trevor Liskowich",
-        "contact_email": "FoothillsFlyersDDC@gmail.com",
-        "event_address": "1262 Drive West, Foothills, Alberta T0L1W2, Canada",
-        "start_date": "6/16/2026",
-        "start_date_iso": "2026-06-16T00:00:00",
-        "notification_date": "2026-06-16",
-        "end_date": "6/16/2026",
-        "end_date_iso": "2026-06-16T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "06/16/2026",
-        "event_dates": [
-          "6/16/2026"
-        ]
-      }
-    },
-    {
-      "id": "bd9d12c23af824f29fc03cd5edb24ea6c9bead875c1fa21638675dc1ab250219",
-      "title": "Hutto, TX, US - June 16th - Lone Star Disc Dogs",
-      "url": "https://updogchallenge.com/events/hutto-tx-us-june-16th-lone-star-disc-dogs/",
-      "details": {
-        "title": "Hutto, TX, US – June 16th – Lone Star Disc Dogs",
-        "club_name": "Lone Star Disc Dogs",
-        "contact_name": "Tammy Montgomery",
-        "contact_email": "lonestardiscdogs@gmail.com",
-        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
-        "start_date": "6/16/2026",
-        "start_date_iso": "2026-06-16T00:00:00",
-        "notification_date": "2026-06-16",
-        "end_date": "6/16/2026",
-        "end_date_iso": "2026-06-16T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Four Way Play",
-          "Greedy"
-        ],
-        "additional_event_information_for_participants": "Starmark Animal Behavior Center",
-        "when_text": "06/16/2026",
-        "event_dates": [
-          "6/16/2026"
         ]
       }
     },
