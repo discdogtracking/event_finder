@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T10:23:03Z",
-  "count": 328,
+  "last_updated": "2026-06-19T10:28:27Z",
+  "count": 326,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,35 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "446552c8b83992a088b6e58a90e374920bf200cd10d3f545957327c0ce5b0aaa",
-      "title": "Hutto, TX, US - June 18th - Lone Star Disc Dogs",
-      "url": "https://updogchallenge.com/events/hutto-tx-us-june-18th-lone-star-disc-dogs/",
-      "details": {
-        "title": "Hutto, TX, US – June 18th – Lone Star Disc Dogs",
-        "club_name": "Lone Star Disc Dogs",
-        "contact_name": "Tammy Montgomery",
-        "contact_email": "lonestardiscdogs@gmail.com",
-        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
-        "start_date": "6/18/2026",
-        "start_date_iso": "2026-06-18T00:00:00",
-        "notification_date": "2026-06-18",
-        "end_date": "6/18/2026",
-        "end_date_iso": "2026-06-18T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Spaced Out",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We might be playing multiple games of each round.",
-        "when_text": "06/18/2026",
-        "event_dates": [
-          "6/18/2026"
         ]
       }
     },
@@ -8432,42 +8403,6 @@
         "when_text": "10/17/2026",
         "event_dates": [
           "10/17/2026"
-        ]
-      }
-    },
-    {
-      "id": "ad61bcc0e6cc8fa80d21dd970f4ab1598bb91898a9e0c47ac63bb11936ca3415",
-      "title": "Leesburg, VA, US - Oct 17th & 18th - Potomac River Rapid Catchers",
-      "url": "https://updogchallenge.com/events/leesburg-va-us-oct-17th-18th-potomac-river-rapid-catchers/",
-      "details": {
-        "title": "Leesburg, VA, US – Oct 17th & 18th – Potomac River Rapid Catchers",
-        "club_name": "Potomac River Rapid Catchers",
-        "contact_name": "Karen Schutz",
-        "contact_email": "karen.a.schutz@gmail.com",
-        "event_address": "20850 Oatlands Plantation Ln, Leesburg, VA 20175, United States",
-        "start_date": "10/17/2026",
-        "start_date_iso": "2026-10-17T00:00:00",
-        "notification_date": "2026-10-17",
-        "end_date": "10/18/2026",
-        "end_date_iso": "2026-10-18T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Event site:\nhttps://oatlands.org/\nDry camping is available Saturday nightSaturday game order: Throw and Go (level 1), Greedy, Spaced Out (Level 1 and 2), Frizgility (level 1)\nSunday game order: Four way play (level 1 and 2), Fireball, Time Warp (level 1), Funkey\nAll runs capped at 150 per day.",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdP6H_aa8nk62HTZQQPWkoHrCycAV6ZuhzGf3t_-VjxX5RhoA/viewform?usp=preview",
-        "when_text": "10/17/2026 - 10/18/2026",
-        "event_dates": [
-          "10/17/2026",
-          "10/18/2026"
         ]
       }
     },
