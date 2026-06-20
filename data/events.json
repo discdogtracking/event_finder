@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T10:28:27Z",
-  "count": 326,
+  "last_updated": "2026-06-20T08:57:32Z",
+  "count": 337,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -1864,6 +1864,39 @@
       }
     },
     {
+      "id": "20e96a4ad29533d0987a24f24d4145453bd907b516484d01163ba70dc7aaa4a3",
+      "title": "Cambridge, MN, US - June 27th - Catches and Coffee",
+      "url": "https://updogchallenge.com/events/cambridge-mn-us-june-27th-catches-and-coffee/",
+      "details": {
+        "title": "Cambridge, MN, US – June 27th – Catches and Coffee",
+        "club_name": "Catches and Coffee",
+        "contact_name": "Sara Brueske",
+        "contact_email": "sarab@happydoglodge.com",
+        "event_address": "31158 Palisade St NE, Cambridge, MN 55008, United States",
+        "start_date": "6/27/2026",
+        "start_date_iso": "2026-06-27T00:00:00",
+        "notification_date": "2026-06-27",
+        "end_date": "6/27/2026",
+        "end_date_iso": "2026-06-27T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Play for Points style! Walk up field, you choose your games. Each team is guarenteed two rounds. All games except crossover, FarOut and Freestyle available.\nFully fenced field.",
+        "when_text": "06/27/2026",
+        "event_dates": [
+          "6/27/2026"
+        ]
+      }
+    },
+    {
       "id": "ade771028fe43ba5b7d14651986231c1a63752d92f40267c8ea80e591ce9ab53",
       "title": "Lebanon, TN, US - June 27th - NashVertical - Crossover Crown",
       "url": "https://updogchallenge.com/events/lebanon-tn-us-june-27th-nashvertical-crossover-crown/",
@@ -2114,31 +2147,6 @@
         "when_text": "06/30/2026",
         "event_dates": [
           "6/30/2026"
-        ]
-      }
-    },
-    {
-      "id": "7863cb7f9bea6f32ece26e00bfdfc92394eb0b3ecec4cef96b2b9dffe140545a",
-      "title": "Frankford, ON, CA - July 1st - MC Dog Sports",
-      "url": "https://updogchallenge.com/events/frankford-on-ca-june-17th-mc-dog-sports-3/",
-      "details": {
-        "title": "Frankford, ON, CA – July 1st – MC Dog Sports",
-        "club_name": "MC DOG SPORTS",
-        "contact_name": "BRIAN AYLING",
-        "contact_email": "MCDOGSPORTS@GMAIL.COM",
-        "event_address": "323 HARRINGTON RD, FRANKFORD, ON K0K2C0, Canada",
-        "start_date": "7/1/2026",
-        "start_date_iso": "2026-07-01T00:00:00",
-        "notification_date": "2026-07-01",
-        "end_date": "7/1/2026",
-        "end_date_iso": "2026-07-01T00:00:00",
-        "start_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/01/2026",
-        "event_dates": [
-          "7/1/2026"
         ]
       }
     },
@@ -2416,6 +2424,33 @@
           "7/3/2026",
           "7/4/2026",
           "7/5/2026"
+        ]
+      }
+    },
+    {
+      "id": "2e4373952afc10ede63d51ce3a90ebc78dab119e7bbf4d7c7df521e2669a7594",
+      "title": "Oromocto, NB, CA - July 3rd - Oromocto Disc Club",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-3rd-oromocto-disc-club/",
+      "details": {
+        "title": "Oromocto, NB, CA – July 3rd – Oromocto Disc Club",
+        "club_name": "Oromocto Disc Club",
+        "contact_name": "Sandra Foster",
+        "contact_email": "Flyballswf@gmail.com",
+        "event_address": "Blackwatch Softball Field, Broad Rd., Oromocto, NB E2V 2E8, Canada",
+        "start_date": "7/3/2026",
+        "start_date_iso": "2026-07-03T00:00:00",
+        "notification_date": "2026-07-03",
+        "end_date": "7/3/2026",
+        "end_date_iso": "2026-07-03T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball"
+        ],
+        "when_text": "07/03/2026",
+        "event_dates": [
+          "7/3/2026"
         ]
       }
     },
@@ -3125,6 +3160,35 @@
       }
     },
     {
+      "id": "2806551ee7e04e91a2f09e202006e03faa08fd7843a7afefa6c6ff569260069a",
+      "title": "Oromocto, NB, CA - July 11th - Oromocto Disc Club",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-11th-oromocto-disc-club/",
+      "details": {
+        "title": "Oromocto, NB, CA – July 11th – Oromocto Disc Club",
+        "club_name": "Oromocto Disc Dog Club",
+        "contact_name": "Sandra Foster",
+        "contact_email": "flyballswf@gmail.com",
+        "event_address": "Blackwatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/11/2026",
+        "end_date_iso": "2026-07-11T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "7Up"
+        ],
+        "when_text": "07/11/2026",
+        "event_dates": [
+          "7/11/2026"
+        ]
+      }
+    },
+    {
       "id": "fe91e9c403f4c4f3d2f8f5c4d8f2558baaab0241f87e3ced8d9a097510ab432d",
       "title": "Wrentham, MA, US - July 11th & 12th - Minute Dog Disc",
       "url": "https://updogchallenge.com/events/wrentham-ma-us-july-11th-12th-minute-dog-disc/",
@@ -3177,6 +3241,33 @@
         "event_dates": [
           "7/11/2026",
           "7/12/2026"
+        ]
+      }
+    },
+    {
+      "id": "dd599d0282191e483ce872366337dd4b93afd6ffa70903500f0a8c3479da6979",
+      "title": "Drumheller, AB, CA - July 11th - DinoMite Disc Dog Club",
+      "url": "https://updogchallenge.com/events/drumheller-ab-ca-july-11th-dinomite-disc-dog-club/",
+      "details": {
+        "title": "Drumheller, AB, CA – July 11th – DinoMite Disc Dog Club",
+        "club_name": "DinoMite Disc Dog Club",
+        "contact_name": "Marion Paulson",
+        "contact_email": "discdoggurl@gmail.com",
+        "event_address": "122 Hy Grade Crescent, Drumheller, Alberta T0J 0Y0, Canada",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/11/2026",
+        "end_date_iso": "2026-07-11T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Limited Entry Event",
+        "when_text": "07/11/2026",
+        "event_dates": [
+          "7/11/2026"
         ]
       }
     },
@@ -3236,6 +3327,32 @@
         "when_text": "07/12/2026",
         "event_dates": [
           "7/12/2026"
+        ]
+      }
+    },
+    {
+      "id": "1170bf2b023945a754ed3a3f7b748c9bef58d2b997dd22b7c15f52e053c7a774",
+      "title": "Rochester, MN, US - July 13th - Bite Club - Rochester Frisbee Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-july-13th-bite-club-rochester-frisbee-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – July 13th – Bite Club – Rochester Frisbee Dogs",
+        "club_name": "Rochester Frisbee Dogs",
+        "contact_name": "Abigail Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 W River Pkwy NW, Rochester, MN 55901, United States",
+        "start_date": "7/13/2026",
+        "start_date_iso": "2026-07-13T00:00:00",
+        "notification_date": "2026-07-13",
+        "end_date": "7/13/2026",
+        "end_date_iso": "2026-07-13T00:00:00",
+        "start_time": "3:45 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "07/13/2026",
+        "event_dates": [
+          "7/13/2026"
         ]
       }
     },
@@ -3818,6 +3935,68 @@
       }
     },
     {
+      "id": "f4d88044853ebb343d9e74f02be0142e0013cd847b8f0012be1fd924c152e813",
+      "title": "Colchester, CT, US - July 18th & 19th - Central K9",
+      "url": "https://updogchallenge.com/events/colchester-ct-us-july-18th-19th-central-k9/",
+      "details": {
+        "title": "Colchester, CT, US – July 18th & 19th – Central K9",
+        "club_name": "Central K9",
+        "contact_name": "Jessica Edgerly",
+        "contact_email": "centralk9dogs@gmail.com",
+        "event_address": "493 Norwich ave, Colchester, Ct 06415, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/19/2026",
+        "end_date_iso": "2026-07-19T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "5:05 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Dock diving at the same show",
+        "when_text": "07/18/2026 - 07/19/2026",
+        "event_dates": [
+          "7/18/2026",
+          "7/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "17ba2ab82679949ed8998bb2b120aee6ea1c3537c5352acfacccec80e1eea7b2",
+      "title": "East Selkirk, MB, CA - July 18th - Whipp'in Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-july-18th-whippin-disc-dogs/",
+      "details": {
+        "title": "East Selkirk, MB, CA – July 18th – Whipp’in Disc Dogs",
+        "club_name": "Whipp’in Disc Dogs",
+        "contact_name": "Jill Voth",
+        "contact_email": "whippindiscdogs@outlook.com",
+        "event_address": "353 Stone Church Rd, East Selkirk, MB R0E 0M0, Canada",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Choose your own adventure. 4 Games, as well as Far Out. 5 games offered per team.",
+        "when_text": "07/18/2026",
+        "event_dates": [
+          "7/18/2026"
+        ]
+      }
+    },
+    {
       "id": "9e160cab447410dcc59343dd7d4ebb486fa2ce49241dd95463d9b9109d0354dc",
       "title": "Rochester, MN, US - July 18th & 19th - QuickWits Disc Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-july-18th-19th-quickwits-disc-dogs/",
@@ -3841,6 +4020,35 @@
         "event_dates": [
           "7/18/2026",
           "7/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "fc3385f3101ec67c62d2b483e681d1297ad992c00e3283d8f6579a58483224b9",
+      "title": "Cambridge, MN, US - July 18th - Catches and Coffee",
+      "url": "https://updogchallenge.com/events/cambridge-mn-us-july-18th-catches-and-coffee/",
+      "details": {
+        "title": "Cambridge, MN, US – July 18th – Catches and Coffee",
+        "club_name": "Happy Dog Lodge",
+        "contact_name": "Sara Brueske",
+        "contact_email": "sarab@happydoglodge.com",
+        "event_address": "31158 Palisade St NE, Cambridge, MN 55008, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Play for Points style! Pick your games, two rounds per team. Crossover only day (frizgility, Funkey and 7up).",
+        "when_text": "07/18/2026",
+        "event_dates": [
+          "7/18/2026"
         ]
       }
     },
@@ -4087,6 +4295,32 @@
         "when_text": "07/19/2026",
         "event_dates": [
           "7/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "dd8a40b60584c440e65722cfc6958dfbcc2124ff095522080c39a7541a61f14b",
+      "title": "Rochester, MN, US - July 20th - Bite Club - Rochester Frisbee Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-july-20th-bite-club-rochester-frisbee-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – July 20th – Bite Club – Rochester Frisbee Dogs",
+        "club_name": "Rochester Frisbee Dogs",
+        "contact_name": "Abigail Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 W River Pkwy NW, Rochester, MN 55901, United States",
+        "start_date": "7/20/2026",
+        "start_date_iso": "2026-07-20T00:00:00",
+        "notification_date": "2026-07-20",
+        "end_date": "7/20/2026",
+        "end_date_iso": "2026-07-20T00:00:00",
+        "start_time": "3:45 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "07/20/2026",
+        "event_dates": [
+          "7/20/2026"
         ]
       }
     },
@@ -4627,6 +4861,32 @@
         "when_text": "07/26/2026",
         "event_dates": [
           "7/26/2026"
+        ]
+      }
+    },
+    {
+      "id": "a8a8ab0c90bc644b40c9dd94209a0179f56593d60b40d0d29a8145273261a03c",
+      "title": "Rochester, MN, US - July 27th - Bite Club - Rochester Frisbee Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-july-27th-bite-club-rochester-frisbee-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – July 27th – Bite Club – Rochester Frisbee Dogs",
+        "club_name": "Rochester Frisbee Dogs",
+        "contact_name": "Abigail Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 W River Pkwy NW, Rochester, MN 55901, United States",
+        "start_date": "7/27/2026",
+        "start_date_iso": "2026-07-27T00:00:00",
+        "notification_date": "2026-07-27",
+        "end_date": "7/27/2026",
+        "end_date_iso": "2026-07-27T00:00:00",
+        "start_time": "3:45 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "07/27/2026",
+        "event_dates": [
+          "7/27/2026"
         ]
       }
     },
@@ -5310,6 +5570,32 @@
       }
     },
     {
+      "id": "84f3c8a625b6966045e882cfebabadfc89fafff6df7310e43e9ba4e77f993b1d",
+      "title": "Rochester, MN, US - Aug 3rd - Bite Club - Rochester Frisbee Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-aug-3rd-bite-club-rochester-frisbee-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – Aug 3rd – Bite Club – Rochester Frisbee Dogs",
+        "club_name": "Rochester Frisbee Dogs",
+        "contact_name": "Abigail Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 W River Pkwy NW, Rochester, MN 55901, United States",
+        "start_date": "8/3/2026",
+        "start_date_iso": "2026-08-03T00:00:00",
+        "notification_date": "2026-08-03",
+        "end_date": "8/3/2026",
+        "end_date_iso": "2026-08-03T00:00:00",
+        "start_time": "3:45 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "08/03/2026",
+        "event_dates": [
+          "8/3/2026"
+        ]
+      }
+    },
+    {
       "id": "cafe9d00f35b9888570b1c9dea19484b8412f6ea4a9d28d300f1e240bbe49e7d",
       "title": "West St Paul, MN, US - Aug 3rd - Bite Club - The Canine Coach!",
       "url": "https://updogchallenge.com/events/west-st-paul-mn-us-aug-3rd-bite-club-the-canine-coach/",
@@ -5935,6 +6221,40 @@
       }
     },
     {
+      "id": "9d9d8b0b7b4d138470a3250dca2c3aac1aae5cf3fa58602ff8963e465f11519b",
+      "title": "East Selkirk, MB, CA - Aug 15th - Whipp'in Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-aug-15th-whippin-disc-dogs/",
+      "details": {
+        "title": "East Selkirk, MB, CA – Aug 15th – Whipp’in Disc Dogs",
+        "club_name": "Whipp’in Disc Dogs",
+        "contact_name": "Jill Voth",
+        "contact_email": "whippindiscdogs@outlook.com",
+        "event_address": "353 Stone Church Rd, East Selkirk, MB R0E 0M0, Canada",
+        "start_date": "8/15/2026",
+        "start_date_iso": "2026-08-15T00:00:00",
+        "notification_date": "2026-08-15",
+        "end_date": "8/15/2026",
+        "end_date_iso": "2026-08-15T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Choose your own adventure. 4 Games, as well as Far Out. 5 games offered per team.",
+        "when_text": "08/15/2026",
+        "event_dates": [
+          "8/15/2026"
+        ]
+      }
+    },
+    {
       "id": "1f17ea9344a5d8971073b4e98d1dc5c6560fabd600879041c7507679c79b521e",
       "title": "St Johns, MI, US - Aug 15th & 16th - Leashed Favorite Dog Club",
       "url": "https://updogchallenge.com/events/st-johns-mi-us-aug-15th-16th-leashed-favorite-dog-club/",
@@ -6426,6 +6746,42 @@
       }
     },
     {
+      "id": "188ca7b0a5b8b03821922cc1fadf45a4793c9761c7772bcc514e38cd48a1c096",
+      "title": "Phoenix, AZ, US - Aug 28th thru 30th - East Valley Sport Dog Club",
+      "url": "https://updogchallenge.com/events/phoenix-az-us-aug-29th-30th-east-valley-sport-dog-club/",
+      "details": {
+        "title": "Phoenix, AZ, US – Aug 28th thru 30th – East Valley Sport Dog Club",
+        "club_name": "East Valley Sport Dog Club",
+        "contact_name": "Alyssa Slaysman",
+        "contact_email": "slaysmana@gmail.com",
+        "event_address": "17642 N 40th Street, Phoenix, AZ 85032, United States",
+        "start_date": "8/28/2026",
+        "start_date_iso": "2026-08-28T00:00:00",
+        "notification_date": "2026-08-28",
+        "end_date": "8/30/2026",
+        "end_date_iso": "2026-08-30T00:00:00",
+        "start_time": "7:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "08/28/2026 - 08/30/2026",
+        "event_dates": [
+          "8/28/2026",
+          "8/29/2026",
+          "8/30/2026"
+        ]
+      }
+    },
+    {
       "id": "0e5af5acfb06696fe544c8760a0b60ed593d1e84c2c26170036a630e19403a2e",
       "title": "Warsaw, Poland - Aug 28th thru 30th - Discbusters",
       "url": "https://updogchallenge.com/events/warsaw-poland-aug-28th-thru-30th-discbusters/",
@@ -6452,41 +6808,6 @@
         "when_text": "08/28/2026 - 08/30/2026",
         "event_dates": [
           "8/28/2026",
-          "8/29/2026",
-          "8/30/2026"
-        ]
-      }
-    },
-    {
-      "id": "188ca7b0a5b8b03821922cc1fadf45a4793c9761c7772bcc514e38cd48a1c096",
-      "title": "Phoenix, AZ, US - Aug 29th & 30th - East Valley Sport Dog Club",
-      "url": "https://updogchallenge.com/events/phoenix-az-us-aug-29th-30th-east-valley-sport-dog-club/",
-      "details": {
-        "title": "Phoenix, AZ, US – Aug 29th & 30th – East Valley Sport Dog Club",
-        "club_name": "East Valley Sport Dog Club",
-        "contact_name": "Alyssa Slaysman",
-        "contact_email": "slaysmana@gmail.com",
-        "event_address": "17642 N 40th Street, Phoenix, AZ 85032, United States",
-        "start_date": "8/29/2026",
-        "start_date_iso": "2026-08-29T00:00:00",
-        "notification_date": "2026-08-29",
-        "end_date": "8/30/2026",
-        "end_date_iso": "2026-08-30T00:00:00",
-        "start_time": "7:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "08/29/2026 - 08/30/2026",
-        "event_dates": [
           "8/29/2026",
           "8/30/2026"
         ]
