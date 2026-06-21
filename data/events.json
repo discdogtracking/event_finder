@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T08:57:32Z",
-  "count": 337,
+  "last_updated": "2026-06-21T09:52:18Z",
+  "count": 334,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -932,34 +932,6 @@
       }
     },
     {
-      "id": "8231753c41a7c3c686480744c416777668f1e94c68ecdd476c864f6adfeec4bf",
-      "title": "Bunnell, FL, US - June 20th - Daytona Disc Dogs",
-      "url": "https://updogchallenge.com/events/edgewater-fl-us-june-20th-daytona-disc-dogs/",
-      "details": {
-        "title": "Bunnell, FL, US – June 20th – Daytona Disc Dogs",
-        "club_name": "Daytona Disc Dogs",
-        "contact_name": "Brian Fidler",
-        "contact_email": "bfidler1996@gmail.com",
-        "event_address": "345 County rd 335, Bunnell, Fl 32110",
-        "start_date": "6/20/2026",
-        "start_date_iso": "2026-06-20T00:00:00",
-        "notification_date": "2026-06-20",
-        "end_date": "6/20/2026",
-        "end_date_iso": "2026-06-20T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "7Up"
-        ],
-        "when_text": "06/20/2026",
-        "event_dates": [
-          "6/20/2026"
-        ]
-      }
-    },
-    {
       "id": "4228eacac020d80be2b1ee715a4045184c77695835b5c7b0bc6fcb9714f69cd6",
       "title": "Lutz, FL, US - June 20th & 21st - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-june-20th-21st-cfddc/",
@@ -975,37 +947,6 @@
         "start_date_iso": "2026-06-20T00:00:00",
         "end_date_iso": "2026-06-21T00:00:00",
         "notification_date": "2026-06-20"
-      }
-    },
-    {
-      "id": "a4f953e06a7401ffed88e63ac49107b6578f4c67e96e9687b080b059ab77d242",
-      "title": "Bowmanville, ON, CA - June 20th - Scugog Disc Dog",
-      "url": "https://updogchallenge.com/events/bowmanville-on-ca-june-20th-21st-scugog-disc-dog/",
-      "details": {
-        "title": "Bowmanville, ON, CA – June 20th – Scugog Disc Dog",
-        "club_name": "Scugog Disc Dog",
-        "contact_name": "Kate Gartley",
-        "contact_email": "scugogdiscdog@mail.com",
-        "event_address": "Devlin Farms…6311 12th Line, Alliston, ON L9R 1V4",
-        "start_date": "6/20/2026",
-        "start_date_iso": "2026-06-20T00:00:00",
-        "notification_date": "2026-06-20",
-        "end_date": "6/20/2026",
-        "end_date_iso": "2026-06-20T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Throw N Go, Fun Key, Fireball, Time Warp",
-          "Google maps link…",
-          "https://maps.app.goo.gl/dfzJnrXPPtwS1chA7",
-          "Link to registration form…",
-          "https://scugogdiscdog.com/seriously-quack-ers-registration-form",
-          "www.scugogdiscdog.com"
-        ],
-        "when_text": "06/20/2026",
-        "event_dates": [
-          "6/20/2026"
-        ]
       }
     },
     {
@@ -1152,37 +1093,6 @@
         "event_dates": [
           "6/20/2026",
           "6/21/2026"
-        ]
-      }
-    },
-    {
-      "id": "6c1450b454cd52c57b7cd01d0d43138442a76aa0538e08635a3743e24e7407ce",
-      "title": "Springhill, NS, CA - June 20th - Simcoe Disc Dogs",
-      "url": "https://updogchallenge.com/events/springhill-ns-ca-june-20th-simcoe-disc-dogs/",
-      "details": {
-        "title": "Springhill, NS, CA – June 20th – Simcoe Disc Dogs",
-        "club_name": "Simcoe Disc Dogs",
-        "contact_name": "Rich Williamson",
-        "contact_email": "simcoediscdogs@gmail.com",
-        "event_address": "6 Main Street, Springhill, Nova Scotia B0M 1X0, Canada",
-        "start_date": "6/20/2026",
-        "start_date_iso": "2026-06-20T00:00:00",
-        "notification_date": "2026-06-20",
-        "end_date": "6/20/2026",
-        "end_date_iso": "2026-06-20T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Our Annual “Who’s Your Daddy?” Father’s Day Saturday event.",
-        "when_text": "06/20/2026",
-        "event_dates": [
-          "6/20/2026"
         ]
       }
     },
