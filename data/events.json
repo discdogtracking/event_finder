@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T09:07:45Z",
-  "count": 317,
+  "last_updated": "2026-06-25T09:03:01Z",
+  "count": 342,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,174 +799,6 @@
       }
     },
     {
-      "id": "ae96248a527890afd3dc96c8d8e2fd7fea97a9b1ba673fa3b2b3500034f05b4e",
-      "title": "Frankford, ON, CA - June 24th - MC Dog Sports",
-      "url": "https://updogchallenge.com/events/frankford-on-ca-june-17th-mc-dog-sports-2/",
-      "details": {
-        "title": "Frankford, ON, CA – June 24th – MC Dog Sports",
-        "club_name": "MC DOG SPORTS",
-        "contact_name": "BRIAN AYLING",
-        "contact_email": "MCDOGSPORTS@GMAIL.COM",
-        "event_address": "323 HARRINGTON RD, FRANKFORD, ON K0K2C0, Canada",
-        "start_date": "6/24/2026",
-        "start_date_iso": "2026-06-24T00:00:00",
-        "notification_date": "2026-06-24",
-        "end_date": "6/24/2026",
-        "end_date_iso": "2026-06-24T00:00:00",
-        "start_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "06/24/2026",
-        "event_dates": [
-          "6/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "fbd5b935821e9869e46fb65884e9e7e2c4320fe6898c92cb7381db0cacf05a53",
-      "title": "Mohnton, PA, US - June 24th - Reading Disc Dogs",
-      "url": "https://updogchallenge.com/events/mohnton-pa-us-june-24th-reading-disc-dogs/",
-      "details": {
-        "title": "Mohnton, PA, US – June 24th – Reading Disc Dogs",
-        "club_name": "Reading Disc Dogs",
-        "contact_name": "ANN M FLEMMING",
-        "contact_email": "Pandaflemming@yahoo.com",
-        "event_address": "14 Moore Road, Mohnton, PA 19540, United States",
-        "start_date": "6/24/2026",
-        "start_date_iso": "2026-06-24T00:00:00",
-        "notification_date": "2026-06-24",
-        "end_date": "6/24/2026",
-        "end_date_iso": "2026-06-24T00:00:00",
-        "start_time": "3:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Limited runs for limited time.",
-        "when_text": "06/24/2026",
-        "event_dates": [
-          "6/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "9cfe226917d83b545547bbaf7734003568aa50d110960c7bc2d81bf09a022c79",
-      "title": "Hopkinton, MA, US - June 24th - The Fetch Collective",
-      "url": "https://updogchallenge.com/events/hopkinton-ma-us-june-24th-the-fetch-collective/",
-      "details": {
-        "title": "Hopkinton, MA, US – June 24th – The Fetch Collective",
-        "club_name": "The Fetch Collective",
-        "contact_name": "Leah Lodato",
-        "contact_email": "fetchcollectiveclub@gmail.com",
-        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
-        "start_date": "6/24/2026",
-        "start_date_iso": "2026-06-24T00:00:00",
-        "notification_date": "2026-06-24",
-        "end_date": "6/24/2026",
-        "end_date_iso": "2026-06-24T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "7Up"
-        ],
-        "when_text": "06/24/2026",
-        "event_dates": [
-          "6/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "adcca46efb919188ce7ecc2515db736d672bbbc5b07af1d07fddf716f24ccac9",
-      "title": "Dartmouth, NS, CA - June 24th - Gale Force Disc Dogs",
-      "url": "https://updogchallenge.com/events/dartmouth-ns-ca-june-24th-gale-force-disc-dogs/",
-      "details": {
-        "title": "Dartmouth, NS, CA – June 24th – Gale Force Disc Dogs",
-        "club_name": "Gale Force Disc Dogs",
-        "contact_name": "Ashley McGuiness",
-        "contact_email": "galeforcediscdogs@gmail.com",
-        "event_address": "80 Joseph Zatzman Drive, Dartmouth, Nova Scotia B3B 1N8, Canada",
-        "start_date": "6/24/2026",
-        "start_date_iso": "2026-06-24T00:00:00",
-        "notification_date": "2026-06-24",
-        "end_date": "6/24/2026",
-        "end_date_iso": "2026-06-24T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided.",
-        "when_text": "06/24/2026",
-        "event_dates": [
-          "6/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "1126eb2c87da5d5dfb2766e25fb791117ee21da7cf64a93fb817c9075036205e",
-      "title": "St Johns, MI, US - June 24th - Leashed Favorite Dog Club - Crossover Crown",
-      "url": "https://updogchallenge.com/events/st-johns-mi-us-june-24th-leashed-favorite-dog-club-crossover-crown/",
-      "details": {
-        "title": "St Johns, MI, US – June 24th – Leashed Favorite Dog Club – Crossover Crown",
-        "club_name": "Leashed Favorite Dog Club",
-        "contact_name": "Ashley Kutzli",
-        "contact_email": "leashedfavorite@gmail.com",
-        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
-        "start_date": "6/24/2026",
-        "start_date_iso": "2026-06-24T00:00:00",
-        "notification_date": "2026-06-24",
-        "end_date": "6/24/2026",
-        "end_date_iso": "2026-06-24T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "7Up"
-        ],
-        "additional_event_information_for_participants": "Crossover Crown – one round of each crossover game",
-        "when_text": "06/24/2026",
-        "event_dates": [
-          "6/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "2c2bdf6441c48e68db52dccb003fe17f41e5dc48a712306d4b288c9364e2b7ab",
-      "title": "Fredericton, NB, CA - June 24th - Oromocto Disc Dog Club",
-      "url": "https://updogchallenge.com/events/fredericton-nb-ca-june-24th-oromocto-disc-dog-club/",
-      "details": {
-        "title": "Fredericton, NB, CA – June 24th – Oromocto Disc Dog Club",
-        "club_name": "Oromocto Disc Dog Club",
-        "contact_name": "Sandra Foster",
-        "contact_email": "Flyballswf@gmail.com",
-        "event_address": "Black watch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
-        "start_date": "6/24/2026",
-        "start_date_iso": "2026-06-24T00:00:00",
-        "notification_date": "2026-06-24",
-        "end_date": "6/24/2026",
-        "end_date_iso": "2026-06-24T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Greedy",
-          "Time Warp"
-        ],
-        "when_text": "06/24/2026",
-        "event_dates": [
-          "6/24/2026"
-        ]
-      }
-    },
-    {
       "id": "2059016ec027dc55d75afbdd4fefee595bebed7f39689b0ad0a63e75cf0e70ea",
       "title": "Spruce Grove, AB, CA - June 26th thru 28th - Edmonton Disc Dog Club - Crossover Crown",
       "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-june-27th-28th-edmonton-disc-dog-club-crossover-crown/",
@@ -1539,6 +1371,33 @@
       }
     },
     {
+      "id": "848fe87910aadc7fe33a6783970e30dc839cf252173a2d2d269f1a075a3b5e53",
+      "title": "Somers, WI, US - June 30th - Dairyland Disc Dogs",
+      "url": "https://updogchallenge.com/events/somers-wi-us-june-30th-dairyland-disc-dogs/",
+      "details": {
+        "title": "Somers, WI, US – June 30th – Dairyland Disc Dogs",
+        "club_name": "Dairyland Disc Dogs",
+        "contact_name": "Dean Shavit",
+        "contact_email": "dean.shavit@gmail.com",
+        "event_address": "Private Residence, SOMERS, WI 53144, United States",
+        "start_date": "6/30/2026",
+        "start_date_iso": "2026-06-30T00:00:00",
+        "notification_date": "2026-06-30",
+        "end_date": "6/30/2026",
+        "end_date_iso": "2026-06-30T00:00:00",
+        "start_time": "3:30 PM",
+        "end_time": "5:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Player’s choice games in the late afternoon – $8 per round",
+        "when_text": "06/30/2026",
+        "event_dates": [
+          "6/30/2026"
+        ]
+      }
+    },
+    {
       "id": "2c222c2c87f1263d83090184e5989b7180231c84b65d9b1ed8690f14cde63bc0",
       "title": "Kitimat, BC, CA - July 1st - Kitimat Working Dog Society - Crossover Crown",
       "url": "https://updogchallenge.com/events/kitimat-bc-ca-july-1st-kitimat-working-dog-society-crossover-crown-2/",
@@ -2064,6 +1923,33 @@
       }
     },
     {
+      "id": "55a976b38182b93861e4617814caa982f3f467e99193aca291a48a14f9bb9e3b",
+      "title": "Somers, WI, US - July 7th - Dairyland Disc Dogs",
+      "url": "https://updogchallenge.com/events/somers-wi-us-july-7th-dairyland-disc-dogs/",
+      "details": {
+        "title": "Somers, WI, US – July 7th – Dairyland Disc Dogs",
+        "club_name": "Dairyland Disc Dogs",
+        "contact_name": "Dean Shavit",
+        "contact_email": "dean.shavit@gmail.com",
+        "event_address": "Private Residence, SOMERS, WI 53144, United States",
+        "start_date": "7/7/2026",
+        "start_date_iso": "2026-07-07T00:00:00",
+        "notification_date": "2026-07-07",
+        "end_date": "7/7/2026",
+        "end_date_iso": "2026-07-07T00:00:00",
+        "start_time": "3:30 PM",
+        "end_time": "5:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Player’s choice games in the late afternoon – $8 per round",
+        "when_text": "07/07/2026",
+        "event_dates": [
+          "7/7/2026"
+        ]
+      }
+    },
+    {
       "id": "3f56fdffa21d7542a9805996940061ad4269f296ea6f6093a1bccc153660c82e",
       "title": "Frankford, ON, CA - July 8th - MC Dog Sports",
       "url": "https://updogchallenge.com/events/frankford-on-ca-july-8th-mc-dog-sports/",
@@ -2577,6 +2463,36 @@
       }
     },
     {
+      "id": "a0989c09c9010a72632c3ed34afb4187da967f653280ed39d3312b9b3c7ab47e",
+      "title": "Śląsk, Poland - July 11th & 12th - Dyski w pyski - zawody dogfrisbee o puchar wójta gminy Bestwina i gminy Wilamowice",
+      "url": "https://updogchallenge.com/events/slask-poland-july-11th-12th-dyski-w-pyski-zawody-dogfrisbee-o-puchar-wojta-gminy-bestwina-i-gminy-wilamowice/",
+      "details": {
+        "title": "Śląsk, Poland – July 11th & 12th – Dyski w pyski – zawody dogfrisbee o puchar wójta gminy Bestwina i gminy Wilamowice",
+        "club_name": "Dyski w pyski – zawody dogfrisbee o puchar wójta gminy Bestwina i gminy Wilamowice",
+        "contact_name": "Natalia Witek",
+        "contact_email": "seminariadogfrisbee@gmail.com",
+        "event_address": "Sportowa 1, Dankowice, Śląsk 43-331, Poland",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Frizgility",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSeuvVuoqkaUg47RCfvxC-JbyPypNYXFWZ4dXKMMvLZCfxFUFw/viewform",
+        "when_text": "07/11/2026 - 07/12/2026",
+        "event_dates": [
+          "7/11/2026",
+          "7/12/2026"
+        ]
+      }
+    },
+    {
       "id": "fe91e9c403f4c4f3d2f8f5c4d8f2558baaab0241f87e3ced8d9a097510ab432d",
       "title": "Wrentham, MA, US - July 11th & 12th - Minute Dog Disc",
       "url": "https://updogchallenge.com/events/wrentham-ma-us-july-11th-12th-minute-dog-disc/",
@@ -2929,6 +2845,38 @@
       }
     },
     {
+      "id": "e45b6460404e5c74c26889a9dada51442dcf1cfab00d6166e5eff7d61c3cc385",
+      "title": "Grand Rapids, MI, US - July 14th - Bite Club - Bring it Back Disc-o",
+      "url": "https://updogchallenge.com/events/grand-rapids-mi-us-july-14th-bite-club-bring-it-back-disc-o/",
+      "details": {
+        "title": "Grand Rapids, MI, US – July 14th – Bite Club – Bring it Back Disc-o",
+        "club_name": "Bring it Back Disc-o",
+        "contact_name": "Danielle Hyde",
+        "contact_email": "daniellemhyde@gmail.com",
+        "event_address": "13648 Ironwood Dr NW, Grand Rapids, MI 49534-1043, United States",
+        "start_date": "7/14/2026",
+        "start_date_iso": "2026-07-14T00:00:00",
+        "notification_date": "2026-07-14",
+        "end_date": "7/14/2026",
+        "end_date_iso": "2026-07-14T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "$6.00 per dog/per game.\nThis event is held at a private residence. To be mindful of neighbors, dogs should be relatively quiet and any excessive barking may lead to being asked to leave the property.\n*note there are chickens on the property and a creek near the playing field.",
+        "when_text": "07/14/2026",
+        "event_dates": [
+          "7/14/2026"
+        ]
+      }
+    },
+    {
       "id": "883a367a3b498cec3d0071e34c700aed6b43d61fb6473fa537694ef31c6fe227",
       "title": "Hampton, ON, CA - July 15th - Bite Club - Scugog Disc Dog",
       "url": "https://updogchallenge.com/events/hampton-on-ca-july-15th-bite-club-scugog-disc-dog/",
@@ -3076,6 +3024,37 @@
       }
     },
     {
+      "id": "5262f1658eb49e5ae9dc20924f6b19647e8df7ac45f04af06705a6b8bd4340f0",
+      "title": "Oromocto, NB, CA - July 15th - Bite Club - Oromocto Disc Dog Club",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-15th-bite-club-oromocto-disc-dog-club/",
+      "details": {
+        "title": "Oromocto, NB, CA – July 15th – Bite Club – Oromocto Disc Dog Club",
+        "club_name": "Oromocto Disc Dog Club",
+        "contact_name": "Sandra Foster",
+        "contact_email": "flyballswf@gmail.com",
+        "event_address": "BlackWatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
+        "start_date": "7/15/2026",
+        "start_date_iso": "2026-07-15T00:00:00",
+        "notification_date": "2026-07-15",
+        "end_date": "7/15/2026",
+        "end_date_iso": "2026-07-15T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "07/15/2026",
+        "event_dates": [
+          "7/15/2026"
+        ]
+      }
+    },
+    {
       "id": "1af678a0684837da0145a4e0726762ae484ca4c4d6a44faf2d138d8e49e190ec",
       "title": "Saskatoon, SK, CA - July 15th - Saskatoon Disc Dogs",
       "url": "https://updogchallenge.com/events/saskatoon-sk-ca-july-15th-saskatoon-disc-dogs/",
@@ -3171,6 +3150,39 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page.",
+        "when_text": "07/17/2026",
+        "event_dates": [
+          "7/17/2026"
+        ]
+      }
+    },
+    {
+      "id": "10d31a02b5d84beb55b9a33797959b1dca8e9302a49c0aa12bd2fa507df30cbf",
+      "title": "Trail, BC, CA - July 17th - Bite Club - West Kootenay Disc Dogs",
+      "url": "https://updogchallenge.com/events/trail-bc-ca-july-17th-bite-club-west-kootenay-disc-dogs/",
+      "details": {
+        "title": "Trail, BC, CA – July 17th – Bite Club – West Kootenay Disc Dogs",
+        "club_name": "West Kootenay Disc Dogs",
+        "contact_name": "Sarah Dixon",
+        "contact_email": "dixonthedogtrainer@gmail.com",
+        "event_address": "1379 Green Ave, (Field at rear of building), Trail, BC V1R 4E4, Canada",
+        "start_date": "7/17/2026",
+        "start_date_iso": "2026-07-17T00:00:00",
+        "notification_date": "2026-07-17",
+        "end_date": "7/17/2026",
+        "end_date_iso": "2026-07-17T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Held at a fully fenced and shaded field. No washrooms on sure.",
+        "prereg_url": "www.bnrbc.ca",
         "when_text": "07/17/2026",
         "event_dates": [
           "7/17/2026"
@@ -3319,6 +3331,40 @@
         "event_dates": [
           "7/18/2026",
           "7/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "6aff9e19a8d4f011ed18430798a4c00d68eaf9ca7b968341105fd8ad12bd2d7c",
+      "title": "Avon, IN, US - July 18th - Bite Club - Clever Girl Disc Dogs",
+      "url": "https://updogchallenge.com/events/avon-in-us-july-18th-bite-club-clever-girl-disc-dogs/",
+      "details": {
+        "title": "Avon, IN, US – July 18th – Bite Club – Clever Girl Disc Dogs",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "For more information please visit\nhttps://www.facebook.com/CleverGirlDiscDogs",
+        "prereg_url": "https://form.jotform.com/clevergirldisc/SummerBiteClub",
+        "when_text": "07/18/2026",
+        "event_dates": [
+          "7/18/2026"
         ]
       }
     },
@@ -3740,6 +3786,39 @@
       }
     },
     {
+      "id": "b572c2372dd0bba53b51011cd080742a022519ec23d5d5cad4fdd110e5c1fb78",
+      "title": "County of Grande Prairie, AB, CA - July 20th - Bite Club - GP Sparkly Purple Unicorns Disc Dog Squad",
+      "url": "https://updogchallenge.com/events/county-of-grande-prairie-ab-ca-july-20th-bite-club-gp-sparkly-purple-unicorns-disc-dog-squad/",
+      "details": {
+        "title": "County of Grande Prairie, AB, CA – July 20th – Bite Club – GP Sparkly Purple Unicorns Disc Dog Squad",
+        "club_name": "GP Sparkly Purple Unicorns Disc Dog Squad",
+        "contact_name": "Tammy/Virginia Brooks/Studer",
+        "contact_email": "virginia.studer91@gmail.com",
+        "event_address": "713002B RR80, County of Grande Prarie, Alberta T0H3S0, Canada",
+        "start_date": "7/20/2026",
+        "start_date_iso": "2026-07-20T00:00:00",
+        "notification_date": "2026-07-20",
+        "end_date": "7/20/2026",
+        "end_date_iso": "2026-07-20T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "10:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "prereg_url": "https://forms.gle/JYhoAX46CHmTCXTSA",
+        "when_text": "07/20/2026",
+        "event_dates": [
+          "7/20/2026"
+        ]
+      }
+    },
+    {
       "id": "dacd3c557e8e42f6ff0db7cdb478edcfed9b4df6de5ec02aa7c8fc45da8055b2",
       "title": "Jacksonville, FL, US - July 20th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-july-20th-jacksonville-disc-dogs/",
@@ -3871,6 +3950,38 @@
       }
     },
     {
+      "id": "d910623eaf995faf049d5683d46a08d82a79de616609f64f2e6f73bf6971eabc",
+      "title": "Grand Rapids, MI, US - July 21st - Bite Club - Bring it Back Disc-o",
+      "url": "https://updogchallenge.com/events/grand-rapids-mi-us-july-21st-bite-club-bring-it-back-disc-o/",
+      "details": {
+        "title": "Grand Rapids, MI, US – July 21st – Bite Club – Bring it Back Disc-o",
+        "club_name": "Bring it Back Disc-o",
+        "contact_name": "Danielle Hyde",
+        "contact_email": "daniellemhyde@gmail.com",
+        "event_address": "13648 Ironwood Dr NW, Grand Rapids, MI 49534-1043, United States",
+        "start_date": "7/21/2026",
+        "start_date_iso": "2026-07-21T00:00:00",
+        "notification_date": "2026-07-21",
+        "end_date": "7/21/2026",
+        "end_date_iso": "2026-07-21T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "$6.00 per dog/per game.\nThis event is held at a private residence. To be mindful of neighbors, dogs should be relatively quiet and any excessive barking may lead to being asked to leave the property.\n*note there are chickens on the property and a creek near the playing field.",
+        "when_text": "07/21/2026",
+        "event_dates": [
+          "7/21/2026"
+        ]
+      }
+    },
+    {
       "id": "903f958cd81b4e33c7186bb290c663067305b302966547b138bb52831e596084",
       "title": "Hampton, ON, CA - July 22nd - Bite Club - Scugog Disc Dog",
       "url": "https://updogchallenge.com/events/hampton-on-ca-july-22nd-bite-club-scugog-disc-dog/",
@@ -3990,6 +4101,37 @@
       }
     },
     {
+      "id": "babc9711bfc7ab6549cffe8b4a2090c81ecbb4ab5ee734069cce69e223aef712",
+      "title": "Oromocto, NB, CA - July 22nd - Bite Club - Oromocto Disc Dog Club",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-22nd-bite-club-oromocto-disc-dog-club/",
+      "details": {
+        "title": "Oromocto, NB, CA – July 22nd – Bite Club – Oromocto Disc Dog Club",
+        "club_name": "Oromocto Disc Dog Club",
+        "contact_name": "Sandra Foster",
+        "contact_email": "flyballswf@gmail.com",
+        "event_address": "BlackWatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
+        "start_date": "7/22/2026",
+        "start_date_iso": "2026-07-22T00:00:00",
+        "notification_date": "2026-07-22",
+        "end_date": "7/22/2026",
+        "end_date_iso": "2026-07-22T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "07/22/2026",
+        "event_dates": [
+          "7/22/2026"
+        ]
+      }
+    },
+    {
       "id": "8eb0b27e53af4c8da77f1998fc590c330e6099d5076cbeef50cc75cebb9fa13f",
       "title": "Mahopac, NY, US - July 24th - Bite Club - Bring Your Own (BYO) Disc Dogs",
       "url": "https://updogchallenge.com/events/mahopac-ny-us-july-24th-bite-club-bring-your-own-byo-disc-dogs/",
@@ -4044,6 +4186,39 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page.",
+        "when_text": "07/24/2026",
+        "event_dates": [
+          "7/24/2026"
+        ]
+      }
+    },
+    {
+      "id": "8d46ee95cd9d56ae7855c7d21c8799fc55c844df6515d208b15f915360925224",
+      "title": "Trail, BC, CA - July 24th - Bite Club - West Kootenay Disc Dogs",
+      "url": "https://updogchallenge.com/events/trail-bc-ca-july-24th-bite-club-west-kootenay-disc-dogs/",
+      "details": {
+        "title": "Trail, BC, CA – July 24th – Bite Club – West Kootenay Disc Dogs",
+        "club_name": "West Kootenay Disc Dogs",
+        "contact_name": "Sarah Dixon",
+        "contact_email": "dixonthedogtrainer@gmail.com",
+        "event_address": "1379 Green Ave, (Field at rear of building), Trail, BC V1R 4E4, Canada",
+        "start_date": "7/24/2026",
+        "start_date_iso": "2026-07-24T00:00:00",
+        "notification_date": "2026-07-24",
+        "end_date": "7/24/2026",
+        "end_date_iso": "2026-07-24T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Held at a fully fenced and shaded field. No washrooms on sure.",
+        "prereg_url": "www.bnrbc.ca",
         "when_text": "07/24/2026",
         "event_dates": [
           "7/24/2026"
@@ -4221,6 +4396,37 @@
       }
     },
     {
+      "id": "df4194a720ca8e2e592be0b86c9982a47477ee1377f557c47d5b074c7d65eb8f",
+      "title": "Port Saint Lucie, FL, US - July 26th - Disc Dogs of Treasure Coast",
+      "url": "https://updogchallenge.com/events/port-saint-lucie-fl-us-july-26th-disc-dogs-of-treasure-coast/",
+      "details": {
+        "title": "Port Saint Lucie, FL, US – July 26th – Disc Dogs of Treasure Coast",
+        "club_name": "Disc Dogs of Treasure Coast",
+        "contact_name": "Julie Spring",
+        "contact_email": "discdogsoftreasurecoast@gmail.com",
+        "event_address": "1450 SW Heatherwood Blvd, Port Saint Lucie, FL 34982, United States",
+        "start_date": "7/26/2026",
+        "start_date_iso": "2026-07-26T00:00:00",
+        "notification_date": "2026-07-26",
+        "end_date": "7/26/2026",
+        "end_date_iso": "2026-07-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Four Way Play",
+          "Greedy",
+          "Throw N Go",
+          "Pairs Four Way Play"
+        ],
+        "additional_event_information_for_participants": "In order: Throw N Go LEVEL 2, Four Way Play ** PAIRS** & Four Way Play, Greedy",
+        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfTreasureCoast/ChristmasInJuly2026",
+        "when_text": "07/26/2026",
+        "event_dates": [
+          "7/26/2026"
+        ]
+      }
+    },
+    {
       "id": "861bd10ce4eea2ab81b4a00d397725989723156134987fc7c8b1098b880c1064",
       "title": "Ste-Anne des plaines, QC, CA - July 26th",
       "url": "https://updogchallenge.com/events/ste-anne-des-plaines-qc-ca-july-26th/",
@@ -4299,6 +4505,39 @@
           "To Be Determined"
         ],
         "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club",
+        "when_text": "07/27/2026",
+        "event_dates": [
+          "7/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "e946c705fbd8f2167dcf80ca157f04ad0fdecc32909ce87fa7d501dc2d7f1801",
+      "title": "County of Grande Prairie, AB, CA - July 27th - Bite Club - GP Sparkly Purple Unicorns Disc Dog Squad",
+      "url": "https://updogchallenge.com/events/county-of-grande-prairie-ab-ca-july-27th-bite-club-gp-sparkly-purple-unicorns-disc-dog-squad/",
+      "details": {
+        "title": "County of Grande Prairie, AB, CA – July 27th – Bite Club – GP Sparkly Purple Unicorns Disc Dog Squad",
+        "club_name": "GP Sparkly Purple Unicorns Disc Dog Squad",
+        "contact_name": "Tammy/Virginia Brooks/Studer",
+        "contact_email": "virginia.studer91@gmail.com",
+        "event_address": "713002B RR80, County of Grande Prarie, Alberta T0H3S0, Canada",
+        "start_date": "7/27/2026",
+        "start_date_iso": "2026-07-27T00:00:00",
+        "notification_date": "2026-07-27",
+        "end_date": "7/27/2026",
+        "end_date_iso": "2026-07-27T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "10:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "prereg_url": "https://forms.gle/JYhoAX46CHmTCXTSA",
         "when_text": "07/27/2026",
         "event_dates": [
           "7/27/2026"
@@ -4401,6 +4640,38 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "07/28/2026",
+        "event_dates": [
+          "7/28/2026"
+        ]
+      }
+    },
+    {
+      "id": "6d36070c7d69fc7a27d4bb7dd6c0d536e000ec3e1703999ed4d4c34353587023",
+      "title": "Grand Rapids, MI, US - July 28th - Bite Club - Bring it Back Disc-o",
+      "url": "https://updogchallenge.com/events/grand-rapids-mi-us-july-28th-bite-club-bring-it-back-disc-o/",
+      "details": {
+        "title": "Grand Rapids, MI, US – July 28th – Bite Club – Bring it Back Disc-o",
+        "club_name": "Bring it Back Disc-o",
+        "contact_name": "Danielle Hyde",
+        "contact_email": "daniellemhyde@gmail.com",
+        "event_address": "13648 Ironwood Dr NW, Grand Rapids, MI 49534-1043, United States",
+        "start_date": "7/28/2026",
+        "start_date_iso": "2026-07-28T00:00:00",
+        "notification_date": "2026-07-28",
+        "end_date": "7/28/2026",
+        "end_date_iso": "2026-07-28T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "$6.00 per dog/per game.\nThis event is held at a private residence. To be mindful of neighbors, dogs should be relatively quiet and any excessive barking may lead to being asked to leave the property.\n*note there are chickens on the property and a creek near the playing field.",
         "when_text": "07/28/2026",
         "event_dates": [
           "7/28/2026"
@@ -4518,6 +4789,37 @@
         "end_time": "9:00 PM",
         "games": [
           "To Be Determined"
+        ],
+        "when_text": "07/29/2026",
+        "event_dates": [
+          "7/29/2026"
+        ]
+      }
+    },
+    {
+      "id": "d17caad07db8f626bd7b293d268d7ac3c62d2a57328dd1b822c521cca16a36f1",
+      "title": "Oromocto, NB, CA - July 29th - Bite Club - Oromocto Disc Dog Club",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-29th-bite-club-oromocto-disc-dog-club/",
+      "details": {
+        "title": "Oromocto, NB, CA – July 29th – Bite Club – Oromocto Disc Dog Club",
+        "club_name": "Oromocto Disc Dog Club",
+        "contact_name": "Sandra Foster",
+        "contact_email": "flyballswf@gmail.com",
+        "event_address": "BlackWatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
+        "start_date": "7/29/2026",
+        "start_date_iso": "2026-07-29T00:00:00",
+        "notification_date": "2026-07-29",
+        "end_date": "7/29/2026",
+        "end_date_iso": "2026-07-29T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ],
         "when_text": "07/29/2026",
         "event_dates": [
@@ -4804,6 +5106,40 @@
       }
     },
     {
+      "id": "1369ef44197b99c6459e50752ef47e89a7abb38c05b2947db89d074c5a3ec360",
+      "title": "Avon, IN, US - Aug 1st - Bite Club - Clever Girl Disc Dogs",
+      "url": "https://updogchallenge.com/events/avon-in-us-aug-1st-bite-club-clever-girl-disc-dogs/",
+      "details": {
+        "title": "Avon, IN, US – Aug 1st – Bite Club – Clever Girl Disc Dogs",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
+        "start_date": "8/1/2026",
+        "start_date_iso": "2026-08-01T00:00:00",
+        "notification_date": "2026-08-01",
+        "end_date": "8/1/2026",
+        "end_date_iso": "2026-08-01T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "For more information please visit\nhttps://www.facebook.com/CleverGirlDiscDogs",
+        "prereg_url": "https://form.jotform.com/clevergirldisc/SummerBiteClub",
+        "when_text": "08/01/2026",
+        "event_dates": [
+          "8/1/2026"
+        ]
+      }
+    },
+    {
       "id": "83ec8873fb641e4ca0362f55f5c627189c2bbaf696e1693041248c2f669e12a7",
       "title": "Granville, OH, US - Aug 1st - Bite Club - Catch em All Canines",
       "url": "https://updogchallenge.com/events/granville-oh-us-aug-1st-bite-club-catch-em-all-canines/",
@@ -5011,6 +5347,39 @@
       }
     },
     {
+      "id": "5a0fb117e081a4bba3b8cde15434d4e6a5d987a9b76d06d486617b67255a9853",
+      "title": "County of Grande Prairie, AB, CA - Aug 3rd - Bite Club - GP Sparkly Purple Unicorns Disc Dog Squad",
+      "url": "https://updogchallenge.com/events/county-of-grande-prairie-ab-ca-aug-3rd-bite-club-gp-sparkly-purple-unicorns-disc-dog-squad/",
+      "details": {
+        "title": "County of Grande Prairie, AB, CA – Aug 3rd – Bite Club – GP Sparkly Purple Unicorns Disc Dog Squad",
+        "club_name": "GP Sparkly Purple Unicorns Disc Dog Squad",
+        "contact_name": "Tammy/Virginia Brooks/Studer",
+        "contact_email": "virginia.studer91@gmail.com",
+        "event_address": "713002B RR80, County of Grande Prarie, Alberta T0H3S0, Canada",
+        "start_date": "8/3/2026",
+        "start_date_iso": "2026-08-03T00:00:00",
+        "notification_date": "2026-08-03",
+        "end_date": "8/3/2026",
+        "end_date_iso": "2026-08-03T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "10:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "prereg_url": "https://forms.gle/JYhoAX46CHmTCXTSA",
+        "when_text": "08/03/2026",
+        "event_dates": [
+          "8/3/2026"
+        ]
+      }
+    },
+    {
       "id": "aef64512a9dee985e560661a2a2c03299b99fde086a262a14b5631f656322de1",
       "title": "Seville, OH, US - Aug 4th - Bite Club - Dawg Gone It",
       "url": "https://updogchallenge.com/events/seville-oh-us-aug-4th-bite-club-dawg-gone-it/",
@@ -5115,6 +5484,38 @@
       }
     },
     {
+      "id": "32bf78bc45edd4d6c8ee0336f51ff77e9adc54b1909f3fcada0b83341f642dab",
+      "title": "Grand Rapids, MI, US - Aug 4th - Bite Club - Bring it Back Disc-o",
+      "url": "https://updogchallenge.com/events/grand-rapids-mi-us-aug-4th-bite-club-bring-it-back-disc-o/",
+      "details": {
+        "title": "Grand Rapids, MI, US – Aug 4th – Bite Club – Bring it Back Disc-o",
+        "club_name": "Bring it Back Disc-o",
+        "contact_name": "Danielle Hyde",
+        "contact_email": "daniellemhyde@gmail.com",
+        "event_address": "13648 Ironwood Dr NW, Grand Rapids, MI 49534-1043, United States",
+        "start_date": "8/4/2026",
+        "start_date_iso": "2026-08-04T00:00:00",
+        "notification_date": "2026-08-04",
+        "end_date": "8/4/2026",
+        "end_date_iso": "2026-08-04T00:00:00",
+        "start_time": "6:30 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "$6.00 per dog/per game.\nThis event is held at a private residence. To be mindful of neighbors, dogs should be relatively quiet and any excessive barking may lead to being asked to leave the property.\n*note there are chickens on the property and a creek near the playing field.",
+        "when_text": "08/04/2026",
+        "event_dates": [
+          "8/4/2026"
+        ]
+      }
+    },
+    {
       "id": "c562eaa731209ba631e5f311e5d0bfb113979613acc7c72be32c0995d1ae1a35",
       "title": "Hampton, ON, CA - Aug 5th - Bite Club - Scugog Disc Dog",
       "url": "https://updogchallenge.com/events/hampton-on-ca-aug-5th-bite-club-scugog-disc-dog/",
@@ -5140,6 +5541,37 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "Website –\nhttps://scugogdiscdog.com/home",
+        "when_text": "08/05/2026",
+        "event_dates": [
+          "8/5/2026"
+        ]
+      }
+    },
+    {
+      "id": "b024b15ae6cefcbeeb737e2ea5ec60286d3e55050f9c2f6a2723c58649685379",
+      "title": "Oromocto, NB, CA - Aug 5th - Bite Club - Oromocto Disc Dog Club",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-aug-5th-bite-club-oromocto-disc-dog-club/",
+      "details": {
+        "title": "Oromocto, NB, CA – Aug 5th – Bite Club – Oromocto Disc Dog Club",
+        "club_name": "Oromocto Disc Dog Club",
+        "contact_name": "Sandra Foster",
+        "contact_email": "flyballswf@gmail.com",
+        "event_address": "BlackWatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
+        "start_date": "8/5/2026",
+        "start_date_iso": "2026-08-05T00:00:00",
+        "notification_date": "2026-08-05",
+        "end_date": "8/5/2026",
+        "end_date_iso": "2026-08-05T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
         "when_text": "08/05/2026",
         "event_dates": [
           "8/5/2026"
@@ -5268,6 +5700,39 @@
       }
     },
     {
+      "id": "12b7c1afaf5c28f1e3234fbc4187b0ea2bcfa74c127e782f28bd5302ec0c9fb8",
+      "title": "Trail, BC, CA - Aug 7th - Bite Club - West Kootenay Disc Dogs",
+      "url": "https://updogchallenge.com/events/trail-bc-ca-aug-7th-bite-club-west-kootenay-disc-dogs/",
+      "details": {
+        "title": "Trail, BC, CA – Aug 7th – Bite Club – West Kootenay Disc Dogs",
+        "club_name": "West Kootenay Disc Dogs",
+        "contact_name": "Sarah Dixon",
+        "contact_email": "dixonthedogtrainer@gmail.com",
+        "event_address": "1379 Green Ave, (Field at rear of building), Trail, BC V1R 4E4, Canada",
+        "start_date": "8/7/2026",
+        "start_date_iso": "2026-08-07T00:00:00",
+        "notification_date": "2026-08-07",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Held at a fully fenced and shaded field. No washrooms on sure.",
+        "prereg_url": "www.bnrbc.ca",
+        "when_text": "08/07/2026",
+        "event_dates": [
+          "8/7/2026"
+        ]
+      }
+    },
+    {
       "id": "24d8b05e6c06c51277745a5c9cf52d0eb467227610bd9fb17b5015a5d08a4711",
       "title": "Garland, TX, US - Aug 7th - Bite Club - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-aug-7th-bite-club-updog-dallas/",
@@ -5290,6 +5755,31 @@
         "when_text": "08/07/2026",
         "event_dates": [
           "8/7/2026"
+        ]
+      }
+    },
+    {
+      "id": "8e78a1117983f3e5678920e8437757dc28253dcc07327f1e8a3e1bda7877b94f",
+      "title": "Lyalta, AB, CA - Aug 8th - Calgary Disc Dogs",
+      "url": "https://updogchallenge.com/events/lyalta-ab-ca-aug-8th-calgary-disc-dogs/",
+      "details": {
+        "title": "Lyalta, AB, CA – Aug 8th – Calgary Disc Dogs",
+        "club_name": "Calgary Disc Dogs",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "251030, Lyalta, AB T1 0V1, Canada",
+        "start_date": "8/8/2026",
+        "start_date_iso": "2026-08-08T00:00:00",
+        "notification_date": "2026-08-08",
+        "end_date": "8/8/2026",
+        "end_date_iso": "2026-08-08T00:00:00",
+        "start_time": "8:00 AM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "08/08/2026",
+        "event_dates": [
+          "8/8/2026"
         ]
       }
     },
@@ -5347,6 +5837,36 @@
         "end_time": "10:48 AM",
         "games": [
           "To Be Determined"
+        ],
+        "when_text": "08/08/2026",
+        "event_dates": [
+          "8/8/2026"
+        ]
+      }
+    },
+    {
+      "id": "4b804b5bf58af2bea99df05c27409bf4b667ff81186a51493f3cc9e32f0f92eb",
+      "title": "Gander, NL, CA - Aug 8th - YQX Dog Sports",
+      "url": "https://updogchallenge.com/events/gander-nl-ca-aug-8th-yqx-dog-sports/",
+      "details": {
+        "title": "Gander, NL, CA – Aug 8th – YQX Dog Sports",
+        "club_name": "YQX Dog Sports",
+        "contact_name": "Tracey Vatcher",
+        "contact_email": "yqxdogsports@gmail.com",
+        "event_address": "Gander Athletic Field, 5 Penney Ave, Gander, NL A1V 1W5, Canada",
+        "start_date": "8/8/2026",
+        "start_date_iso": "2026-08-08T00:00:00",
+        "notification_date": "2026-08-08",
+        "end_date": "8/8/2026",
+        "end_date_iso": "2026-08-08T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Throw N Go"
         ],
         "when_text": "08/08/2026",
         "event_dates": [
@@ -5470,6 +5990,32 @@
         "event_dates": [
           "8/8/2026",
           "8/9/2026"
+        ]
+      }
+    },
+    {
+      "id": "c05e244557b05f399f92d33e1d1bb8bbb6631fe5d24548990103cd071cb93dc6",
+      "title": "Danville, IN, US - Aug 8th - Clever Girl Disc Dogs",
+      "url": "https://updogchallenge.com/events/danville-in-us-aug-8th-clever-girl-disc-dogs/",
+      "details": {
+        "title": "Danville, IN, US – Aug 8th – Clever Girl Disc Dogs",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "1900 E Main St, Danville, IN 46122, United States",
+        "start_date": "8/8/2026",
+        "start_date_iso": "2026-08-08T00:00:00",
+        "notification_date": "2026-08-08",
+        "end_date": "8/8/2026",
+        "end_date_iso": "2026-08-08T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "10:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "08/08/2026",
+        "event_dates": [
+          "8/8/2026"
         ]
       }
     },
@@ -6621,6 +7167,34 @@
       }
     },
     {
+      "id": "dcbc6f2c9dd17fbdfba4dd9b5348ff0eeb39dac0afbd4104d6798c156469f3f3",
+      "title": "Fernandina Beach, FL, US - Sept 6th - Jacksonville Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-sept-6th-jacksonville-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Fernandina Beach, FL, US – Sept 6th – Jacksonville Disc Dogs – Triple Crown",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Maggie Nipper",
+        "contact_email": "JaxDicsDogs@gmail.com",
+        "event_address": "95512 Arbor Ln, Fernandina Beach, Florida 32034, United States",
+        "start_date": "9/6/2026",
+        "start_date_iso": "2026-09-06T00:00:00",
+        "notification_date": "2026-09-06",
+        "end_date": "9/6/2026",
+        "end_date_iso": "2026-09-06T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/events.html",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSfoLNnUKWwsiNv4mBnkXWUqlgUDQ5UMi5AOzdsgCwZQOhfImA/viewform?usp=publish-editor",
+        "when_text": "09/06/2026",
+        "event_dates": [
+          "9/6/2026"
+        ]
+      }
+    },
+    {
       "id": "a20a2df52fff7ddd6539463b7d80b8da289b97c6b520385fe2f8784dd98237e2",
       "title": "Seville, OH, US - Sept 7th - Dawg Gone It - Triple Crown",
       "url": "https://updogchallenge.com/events/seville-oh-us-sept-7th-dawg-gone-it-triple-crown/",
@@ -6685,6 +7259,31 @@
         "when_text": "09/07/2026",
         "event_dates": [
           "9/7/2026"
+        ]
+      }
+    },
+    {
+      "id": "4079a9cb091c162525eb91623e59ea6f823f540535ec163504c4335bb508efab",
+      "title": "Lyalta, AB, CA - Sept 12th - Calgary Disc Dogs",
+      "url": "https://updogchallenge.com/events/lyalta-ab-ca-sept-12th-calgary-disc-dogs/",
+      "details": {
+        "title": "Lyalta, AB, CA – Sept 12th – Calgary Disc Dogs",
+        "club_name": "Calgary Disc Dogs",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "251030, Lyalta, AB T1 0V1, Canada",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/12/2026",
+        "end_date_iso": "2026-09-12T00:00:00",
+        "start_time": "8:00 AM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "09/12/2026",
+        "event_dates": [
+          "9/12/2026"
         ]
       }
     },
@@ -6826,6 +7425,33 @@
         "end_date_iso": "2026-09-13T00:00:00",
         "start_time": "9:00 AM",
         "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "09/12/2026 - 09/13/2026",
+        "event_dates": [
+          "9/12/2026",
+          "9/13/2026"
+        ]
+      }
+    },
+    {
+      "id": "06456a0baf8ac804669cc903bc92dea0c70720fd4796709c49b1934d6a7b6277",
+      "title": "Avon, IN, US - Sept 12th & 13th - Clever Girl Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/avon-in-us-sept-12th-13th-clever-girl-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Avon, IN, US – Sept 12th & 13th – Clever Girl Disc Dogs – Triple Crown",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "5:00 PM",
         "games": [
           "To Be Determined"
         ],
@@ -7124,6 +7750,39 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Triple Crown!!",
+        "when_text": "09/20/2026",
+        "event_dates": [
+          "9/20/2026"
+        ]
+      }
+    },
+    {
+      "id": "3f1b5875b584ea0db2915dc28301db64d818bcd65a47e32ba83f1c00d4f87c47",
+      "title": "Long Beach, WA, US - Sept 20th - DOG-O-RAMA",
+      "url": "https://updogchallenge.com/events/long-beach-wa-us-sept-20th-dog-o-rama/",
+      "details": {
+        "title": "Long Beach, WA, US – Sept 20th – DOG-O-RAMA",
+        "club_name": "DOG-O-RAMA",
+        "contact_name": "Cathie Skreen",
+        "contact_email": "cskreen@comcast.net",
+        "event_address": "Bolstad W., Long Beach, WA 98631, United States",
+        "start_date": "9/20/2026",
+        "start_date_iso": "2026-09-20T00:00:00",
+        "notification_date": "2026-09-20",
+        "end_date": "9/20/2026",
+        "end_date_iso": "2026-09-20T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "www.coastalclasscrepes.com/dog-o-rama",
+        "prereg_url": "www.coastalclasscrepes.com/dog-o-rama",
         "when_text": "09/20/2026",
         "event_dates": [
           "9/20/2026"
@@ -8271,6 +8930,30 @@
       }
     },
     {
+      "id": "2744cedaf45931f6174399fd8fa541bcb2b74818be6e2a693e009370b915a504",
+      "title": "Calgary, AB, CA - Oct 18th - Calgary Disc Dogs",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-oct-18th-calgary-disc-dogs/",
+      "details": {
+        "title": "Calgary, AB, CA – Oct 18th – Calgary Disc Dogs",
+        "club_name": "Calgary Disc Dogs",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, Alberta T3B5L4, Canada",
+        "start_date": "10/18/2026",
+        "start_date_iso": "2026-10-18T00:00:00",
+        "notification_date": "2026-10-18",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "10/18/2026",
+        "event_dates": [
+          "10/18/2026"
+        ]
+      }
+    },
+    {
       "id": "540efbcedcad11aefdc3e20cd4df9d0a1515d655f7b84a782f0ffb130f9db719",
       "title": "Jacksonville, FL, US - Oct 18th - Bite Club - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-oct-18th-bite-club-jacksonville-disc-dogs/",
@@ -8589,6 +9272,33 @@
         "when_text": "10/24/2026",
         "event_dates": [
           "10/24/2026"
+        ]
+      }
+    },
+    {
+      "id": "4c5ab0daad79fd8d0c3df011be4c4e2222c25b7351e0a77003723966f19036a4",
+      "title": "Avon, IN, US - Oct 24th & 25th- Clever Girl Disc Dogs",
+      "url": "https://updogchallenge.com/events/avon-in-us-oct-24th-25th-clever-girl-disc-dogs/",
+      "details": {
+        "title": "Avon, IN, US – Oct 24th & 25th- Clever Girl Disc Dogs",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
+        "start_date": "10/24/2026",
+        "start_date_iso": "2026-10-24T00:00:00",
+        "notification_date": "2026-10-24",
+        "end_date": "10/25/2026",
+        "end_date_iso": "2026-10-25T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "10/24/2026 - 10/25/2026",
+        "event_dates": [
+          "10/24/2026",
+          "10/25/2026"
         ]
       }
     },
@@ -9333,6 +10043,31 @@
       }
     },
     {
+      "id": "81e2ed5e8db0e783114cbc6d0ceb3d72e255a4e5ef717d0194aa966216e7ce96",
+      "title": "Calgary, AB, CA - Nov 14th & 15th - Calgary Disc Dogs",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-nov-14th-15th-calgary-disc-dogs/",
+      "details": {
+        "title": "Calgary, AB, CA – Nov 14th & 15th – Calgary Disc Dogs",
+        "club_name": "Calgary Disc Dogs",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, Alberta T3B5L4, Canada",
+        "start_date": "11/14/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "notification_date": "2026-11-14",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/14/2026 - 11/15/2026",
+        "event_dates": [
+          "11/14/2026",
+          "11/15/2026"
+        ]
+      }
+    },
+    {
       "id": "fae605c415ba1051a7bfd28be55b5c19e63d4bac2afee6f1d02331294eb2c986",
       "title": "Manhattan, KS, US - Nov 14th - Prairie Disc Dogs",
       "url": "https://updogchallenge.com/events/manhattan-ks-us-nov-14th-prairie-disc-dogs/",
@@ -9861,6 +10596,31 @@
         "when_text": "12/06/2026",
         "event_dates": [
           "12/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "696ca338a1020ce176bbc89066ea921f766e30e0a4adb22e59fb451c0c29613b",
+      "title": "Calgary, AB, CA - Dec 12th & 13th - Calgary Disc Dogs",
+      "url": "https://updogchallenge.com/events/calgary-ab-ca-dec-12th-13th-calgary-disc-dogs/",
+      "details": {
+        "title": "Calgary, AB, CA – Dec 12th & 13th – Calgary Disc Dogs",
+        "club_name": "Calgary Disc Dogs",
+        "contact_name": "Kara Bellingham",
+        "contact_email": "kara.marciniak@gmail.com",
+        "event_address": "5151 101 Street NW, Calgary, Alberta T3B5L4, Canada",
+        "start_date": "12/12/2026",
+        "start_date_iso": "2026-12-12T00:00:00",
+        "notification_date": "2026-12-12",
+        "end_date": "12/13/2026",
+        "end_date_iso": "2026-12-13T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "12/12/2026 - 12/13/2026",
+        "event_dates": [
+          "12/12/2026",
+          "12/13/2026"
         ]
       }
     },
