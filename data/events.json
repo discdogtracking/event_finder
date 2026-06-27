@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T09:06:33Z",
-  "count": 342,
+  "last_updated": "2026-06-27T08:40:17Z",
+  "count": 341,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -833,35 +833,6 @@
           "6/26/2026",
           "6/27/2026",
           "6/28/2026"
-        ]
-      }
-    },
-    {
-      "id": "23f2da54c1621d34e6210c3f88299bce0d35ce56d6b3fd3881cd09df2b833a41",
-      "title": "Walkersville, MD, US - June 26th - Camp Hill and Howl Dog Sports",
-      "url": "https://updogchallenge.com/events/walkersville-md-us-june-26th-camp-hill-and-howl-dog-sports/",
-      "details": {
-        "title": "Walkersville, MD, US – June 26th – Camp Hill and Howl Dog Sports",
-        "club_name": "Camp Hill and Howl Dog Sports",
-        "contact_name": "Di Matteson",
-        "contact_email": "camphillandhowldogsports@gmail.com",
-        "event_address": "10317 Harp Road, Walkersville, Maryland 21793, United States",
-        "start_date": "6/26/2026",
-        "start_date_iso": "2026-06-26T00:00:00",
-        "notification_date": "2026-06-26",
-        "end_date": "6/26/2026",
-        "end_date_iso": "2026-06-26T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Far Out",
-          "Freestyle",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "when_text": "06/26/2026",
-        "event_dates": [
-          "6/26/2026"
         ]
       }
     },
