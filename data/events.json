@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T09:34:34Z",
-  "count": 326,
+  "last_updated": "2026-07-01T09:46:51Z",
+  "count": 324,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,57 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "2d7ac2aa293f7c8cefd45985d26bb5465f282bc6257b331c88e6a0c611715e9c",
-      "title": "Woodstock, CT, US - June 30th - Face to Face",
-      "url": "https://updogchallenge.com/events/southbridge-ma-us-june-30th-face-to-face/",
-      "details": {
-        "title": "Woodstock, CT, US – June 30th – Face to Face",
-        "club_name": "Face to Face Disc",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
-        "start_date": "6/30/2026",
-        "start_date_iso": "2026-06-30T00:00:00",
-        "notification_date": "2026-06-30",
-        "end_date": "6/30/2026",
-        "end_date_iso": "2026-06-30T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "06/30/2026",
-        "event_dates": [
-          "6/30/2026"
-        ]
-      }
-    },
-    {
-      "id": "848fe87910aadc7fe33a6783970e30dc839cf252173a2d2d269f1a075a3b5e53",
-      "title": "Somers, WI, US - June 30th - Dairyland Disc Dogs",
-      "url": "https://updogchallenge.com/events/somers-wi-us-june-30th-dairyland-disc-dogs/",
-      "details": {
-        "title": "Somers, WI, US – June 30th – Dairyland Disc Dogs",
-        "club_name": "Dairyland Disc Dogs",
-        "contact_name": "Dean Shavit",
-        "contact_email": "dean.shavit@gmail.com",
-        "event_address": "Private Residence, SOMERS, WI 53144, United States",
-        "start_date": "6/30/2026",
-        "start_date_iso": "2026-06-30T00:00:00",
-        "notification_date": "2026-06-30",
-        "end_date": "6/30/2026",
-        "end_date_iso": "2026-06-30T00:00:00",
-        "start_time": "3:30 PM",
-        "end_time": "5:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Player’s choice games in the late afternoon – $8 per round",
-        "when_text": "06/30/2026",
-        "event_dates": [
-          "6/30/2026"
         ]
       }
     },
