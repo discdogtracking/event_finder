@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T09:04:48Z",
-  "count": 339,
+  "last_updated": "2026-07-04T08:41:39Z",
+  "count": 335,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -831,77 +831,6 @@
       }
     },
     {
-      "id": "683290b068ceccbda689e4ba6c68c7fefc34da8cb8225a81a5ef60ed8ba1ad04",
-      "title": "Pilot Mountain, NC, US - July 3rd - Jam-Min' Disc Dogs",
-      "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-july-13th-jam-min-disc-dogs/",
-      "details": {
-        "title": "Pilot Mountain, NC, US – July 3rd – Jam-Min’ Disc Dogs",
-        "club_name": "Jam-Min’ Disc Dogs",
-        "contact_name": "CJ Fithian",
-        "contact_email": "jammindogsports@icloud.com",
-        "event_address": "1140 Matthews Rd, Pilot Mountain, NC 27041, United States",
-        "start_date": "7/3/2026",
-        "start_date_iso": "2026-07-03T00:00:00",
-        "notification_date": "2026-07-03",
-        "end_date": "7/3/2026",
-        "end_date_iso": "2026-07-03T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "Pairs Four Way Play",
-          "Pairs Throw N Go"
-        ],
-        "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
-        "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration",
-        "when_text": "07/03/2026",
-        "event_dates": [
-          "7/3/2026"
-        ]
-      }
-    },
-    {
-      "id": "74c1f780302b1318b99532f83d7362e22e56100bcdbc3c1964361b0d53410cb8",
-      "title": "Rosemount, MN, US - July 3rd - Outside The Box Dog Training - Crossover Crown",
-      "url": "https://updogchallenge.com/events/rosemount-mn-us-july-3rd-outside-the-box-dog-training/",
-      "details": {
-        "title": "Rosemount, MN, US – July 3rd – Outside The Box Dog Training – Crossover Crown",
-        "club_name": "Outside The Box Dog Training",
-        "contact_name": "Autumn and Melissa Fenmar",
-        "contact_email": "outsidetheboxdogtraining@gmail.com",
-        "event_address": "13051 Charlston Way, Rosemount, MN 55068, United States",
-        "start_date": "7/3/2026",
-        "start_date_iso": "2026-07-03T00:00:00",
-        "notification_date": "2026-07-03",
-        "end_date": "7/3/2026",
-        "end_date_iso": "2026-07-03T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "7Up",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Registration will occur through the Outside The Box Bite Club facebook group.",
-        "when_text": "07/03/2026",
-        "event_dates": [
-          "7/3/2026"
-        ]
-      }
-    },
-    {
       "id": "320cbf062f28d866d1777b44362bad9c5d32adeaca31f6c2ec003c2a36477f69",
       "title": "Princeton, IL, US - July 3rd thru 5th - Harmony Training Club",
       "url": "https://updogchallenge.com/events/princeton-il-us-july-3rd-thru-5th-harmony-training-club/",
@@ -927,62 +856,6 @@
           "7/3/2026",
           "7/4/2026",
           "7/5/2026"
-        ]
-      }
-    },
-    {
-      "id": "ec1322cb56d16af0b9bccebc6d10ac160a7c8a531dfe8f4a0844d37fb283b4a6",
-      "title": "Millington, TN, US - July 3rd - Good News Dogs",
-      "url": "https://updogchallenge.com/events/millington-tn-us-july-3rd-good-news-dogs/",
-      "details": {
-        "title": "Millington, TN, US – July 3rd – Good News Dogs",
-        "club_name": "Good News Dogs",
-        "contact_name": "Desiree Gombos",
-        "contact_email": "desireegombos@gmail.com",
-        "event_address": "8020 Epperson Mill Rd, MILLINGTON, TN 38053, United States",
-        "start_date": "7/3/2026",
-        "start_date_iso": "2026-07-03T00:00:00",
-        "notification_date": "2026-07-03",
-        "end_date": "7/3/2026",
-        "end_date_iso": "2026-07-03T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Four Way Play",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "This is for points only",
-        "when_text": "07/03/2026",
-        "event_dates": [
-          "7/3/2026"
-        ]
-      }
-    },
-    {
-      "id": "2e4373952afc10ede63d51ce3a90ebc78dab119e7bbf4d7c7df521e2669a7594",
-      "title": "Oromocto, NB, CA - July 3rd - Oromocto Disc Club",
-      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-3rd-oromocto-disc-club/",
-      "details": {
-        "title": "Oromocto, NB, CA – July 3rd – Oromocto Disc Club",
-        "club_name": "Oromocto Disc Club",
-        "contact_name": "Sandra Foster",
-        "contact_email": "Flyballswf@gmail.com",
-        "event_address": "Blackwatch Softball Field, Broad Rd., Oromocto, NB E2V 2E8, Canada",
-        "start_date": "7/3/2026",
-        "start_date_iso": "2026-07-03T00:00:00",
-        "notification_date": "2026-07-03",
-        "end_date": "7/3/2026",
-        "end_date_iso": "2026-07-03T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Boom!",
-          "Fireball"
-        ],
-        "when_text": "07/03/2026",
-        "event_dates": [
-          "7/3/2026"
         ]
       }
     },
