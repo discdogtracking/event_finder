@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T08:41:39Z",
-  "count": 335,
+  "last_updated": "2026-07-05T08:55:50Z",
+  "count": 334,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -972,33 +972,6 @@
         "event_dates": [
           "7/4/2026",
           "7/5/2026"
-        ]
-      }
-    },
-    {
-      "id": "788f8436dd0f12d64b27f773096ed00518fc698799fcc60d944203e3314e87dd",
-      "title": "Kelso, QLD, AU - July 4th - Canine Sports Coach",
-      "url": "https://updogchallenge.com/events/kelso-qld-au-july-4th-canine-sports-coach/",
-      "details": {
-        "title": "Kelso, QLD, AU – July 4th – Canine Sports Coach",
-        "club_name": "Canine Sports Coach",
-        "contact_name": "Erin Elliott",
-        "contact_email": "caninesportscoach@gmail.com",
-        "event_address": "Bartlett Park, 90 Kelso Drive, Kelso, Qld 4815, Australia",
-        "start_date": "7/4/2026",
-        "start_date_iso": "2026-07-04T00:00:00",
-        "notification_date": "2026-07-04",
-        "end_date": "7/4/2026",
-        "end_date_iso": "2026-07-04T00:00:00",
-        "start_time": "12:00 PM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Four Way Play"
-        ],
-        "additional_event_information_for_participants": "Part of the 2026 Versatility Challenge",
-        "when_text": "07/04/2026",
-        "event_dates": [
-          "7/4/2026"
         ]
       }
     },
