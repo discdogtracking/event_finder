@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T10:18:01Z",
-  "count": 346,
+  "last_updated": "2026-07-07T09:43:28Z",
+  "count": 380,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,33 +799,6 @@
       }
     },
     {
-      "id": "aa3b6af7cfc28996b1879a8cfa4e157c7a4f12711ed54369ae1b0fc0827fa315",
-      "title": "West St Paul, MN, US - July 6th - The Canine Coach",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-july-6th-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – July 6th – The Canine Coach",
-        "club_name": "The Canine Coach",
-        "contact_name": "Roxanne Freeman",
-        "contact_email": "k9coachroxanne@gmail.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, Mn 55118, United States",
-        "start_date": "7/6/2026",
-        "start_date_iso": "2026-07-06T00:00:00",
-        "notification_date": "2026-07-06",
-        "end_date": "7/6/2026",
-        "end_date_iso": "2026-07-06T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This will be weekly points only games on Mondays. Each week participants will vote on which games they want to play.",
-        "when_text": "07/06/2026",
-        "event_dates": [
-          "7/6/2026"
-        ]
-      }
-    },
-    {
       "id": "5fdf22b6ff146316d796064de77f4b549adc0dd62ad74bbab9bdad0b2c653d6c",
       "title": "Woodstock, CT, US - July 7th - Face to Face",
       "url": "https://updogchallenge.com/events/southbridge-ma-us-july-7th-face-to-face/",
@@ -1062,6 +1035,33 @@
       }
     },
     {
+      "id": "21ebfedaababc164c4d474baf44cde324182311adff5b2440f18f2477d07f85a",
+      "title": "Penobscot, ME, US - July 11th - Downeast Dog Sports",
+      "url": "https://updogchallenge.com/events/penobscot-me-us-july-11th-downeast-dog-sports/",
+      "details": {
+        "title": "Penobscot, ME, US – July 11th – Downeast Dog Sports",
+        "club_name": "Downeast Dog Sports",
+        "contact_name": "Donna Boidi",
+        "contact_email": "donna@downeastdogsports.com",
+        "event_address": "Penobscot Community Field, 66 N Penobscot Rd, Penobscot, ME 04421, United States",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/11/2026",
+        "end_date_iso": "2026-07-11T00:00:00",
+        "start_time": "1:30 PM",
+        "games": [
+          "Four Way Play",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "This event is a part of a dog demo for Penobscot Day. The general public is encouraged to watch!",
+        "when_text": "07/11/2026",
+        "event_dates": [
+          "7/11/2026"
+        ]
+      }
+    },
+    {
       "id": "a3ffe423b9eadbde98fd8f5606cd9d87e898a8e3d1e3b0a357559db1652886d8",
       "title": "Burnsville, MN, US - July 11th & 12th - Minnesota Disc Dog Club",
       "url": "https://updogchallenge.com/events/burnsville-mn-us-july-11th-12th-minnesota-disc-dog-club/",
@@ -1119,6 +1119,33 @@
         "event_dates": [
           "7/11/2026",
           "7/12/2026"
+        ]
+      }
+    },
+    {
+      "id": "bd28d9c1c5f33885237b4eada64a943cd1a05b2141ba78d111c5b8e0bff0fa10",
+      "title": "Mitchell, ACT, AU - July 11th - Bite Club - Belconnen Dog Club",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-july-11th-bite-club-belconnen-dog-club/",
+      "details": {
+        "title": "Mitchell, ACT, AU – July 11th – Bite Club – Belconnen Dog Club",
+        "club_name": "Belconnen Dog Club – Disc Dogs",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "7/11/2026",
+        "start_date_iso": "2026-07-11T00:00:00",
+        "notification_date": "2026-07-11",
+        "end_date": "7/11/2026",
+        "end_date_iso": "2026-07-11T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up"
+        ],
+        "when_text": "07/11/2026",
+        "event_dates": [
+          "7/11/2026"
         ]
       }
     },
@@ -1502,7 +1529,15 @@
         "start_time": "10:00 AM",
         "end_time": "6:00 PM",
         "games": [
-          "To Be Determined"
+          "Boom",
+          "Fireball",
+          "Four way play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw n Go",
+          "Time Warp",
+          "Thanks Marion"
         ],
         "additional_event_information_for_participants": "Limited Entry Event",
         "when_text": "07/11/2026",
@@ -1564,6 +1599,38 @@
           "Throw N Go"
         ],
         "additional_event_information_for_participants": "Shortened Field",
+        "when_text": "07/12/2026",
+        "event_dates": [
+          "7/12/2026"
+        ]
+      }
+    },
+    {
+      "id": "df234696708a2992d8ed75a04dd26676647ec893253113a54044c261e5617a7d",
+      "title": "Simpsonville, KY, US - July 12th - LouDD",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-july-12th-bite-club-loudd/",
+      "details": {
+        "title": "Simpsonville, KY, US – July 12th – LouDD",
+        "club_name": "LouDD",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40067, United States",
+        "start_date": "7/12/2026",
+        "start_date_iso": "2026-07-12T00:00:00",
+        "notification_date": "2026-07-12",
+        "end_date": "7/12/2026",
+        "end_date_iso": "2026-07-12T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check out the Louisville Disc Dogs on Facebook for updated information.",
         "when_text": "07/12/2026",
         "event_dates": [
           "7/12/2026"
@@ -1838,32 +1905,6 @@
       }
     },
     {
-      "id": "96018e6dbc234ec0247c710773391b07aaf803d97dc21822736b766274f6ab95",
-      "title": "Windsor, NS, CA - July 14th - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-july-14th-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – July 14th – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
-        "start_date": "7/14/2026",
-        "start_date_iso": "2026-07-14T00:00:00",
-        "notification_date": "2026-07-14",
-        "end_date": "7/14/2026",
-        "end_date_iso": "2026-07-14T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/14/2026",
-        "event_dates": [
-          "7/14/2026"
-        ]
-      }
-    },
-    {
       "id": "e45b6460404e5c74c26889a9dada51442dcf1cfab00d6166e5eff7d61c3cc385",
       "title": "Grand Rapids, MI, US - July 14th - Bite Club - Bring it Back Disc-o",
       "url": "https://updogchallenge.com/events/grand-rapids-mi-us-july-14th-bite-club-bring-it-back-disc-o/",
@@ -2128,6 +2169,38 @@
       }
     },
     {
+      "id": "56d0cb6e0703789deb41b7c77c77f663ffbd35bd06fced51ce17e6cf12642867",
+      "title": "Kinburn, ON, CA - July 16th - Bite Club - Scout's Pals",
+      "url": "https://updogchallenge.com/events/kinburn-on-ca-july-16th-bite-club-scouts-pals/",
+      "details": {
+        "title": "Kinburn, ON, CA – July 16th – Bite Club – Scout’s Pals",
+        "club_name": "Scout’s Pals",
+        "contact_name": "Nicholas Theriault",
+        "contact_email": "nick@scoutspals.ca",
+        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
+        "start_date": "7/16/2026",
+        "start_date_iso": "2026-07-16T00:00:00",
+        "notification_date": "2026-07-16",
+        "end_date": "7/16/2026",
+        "end_date_iso": "2026-07-16T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
+        "when_text": "07/16/2026",
+        "event_dates": [
+          "7/16/2026"
+        ]
+      }
+    },
+    {
       "id": "0df65ff947ca48d4094f22c6d3d8869170047a6b68bc1ed1338aec9064437226",
       "title": "Windsor, NS, CA - July 16th - Bite Club - Irishmans Rd Trackers",
       "url": "https://updogchallenge.com/events/windsor-ns-ca-july-16th-bite-club-irishmans-rd-trackers/",
@@ -2153,6 +2226,38 @@
           "Time Warp",
           "To Be Determined"
         ],
+        "when_text": "07/16/2026",
+        "event_dates": [
+          "7/16/2026"
+        ]
+      }
+    },
+    {
+      "id": "ff4f117f32a5d08f9e68ca8127129811a629fcb3eadbcc924ebb3f2baf91f061",
+      "title": "Bunnell, FL, US - July 16th - Bite Club - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-july-16th-bite-club-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – July 16th – Bite Club – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "daytonadiscdogs@gmail.com",
+        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
+        "start_date": "7/16/2026",
+        "start_date_iso": "2026-07-16T00:00:00",
+        "notification_date": "2026-07-16",
+        "end_date": "7/16/2026",
+        "end_date_iso": "2026-07-16T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/261746502814154",
         "when_text": "07/16/2026",
         "event_dates": [
           "7/16/2026"
@@ -2474,6 +2579,38 @@
         "event_dates": [
           "7/18/2026",
           "7/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "f24bfd245a1a200331188156b797d8f4cb17d871f74b9c32517d02359839d0e1",
+      "title": "Waukesha, WI, US - July 18th - Bite Club - K9 Ventures",
+      "url": "https://updogchallenge.com/events/waukesha-wi-us-july-18th-bite-club-k9-ventures/",
+      "details": {
+        "title": "Waukesha, WI, US – July 18th – Bite Club – K9 Ventures",
+        "club_name": "K9 Ventures",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.k9ventureswi.net/",
+        "when_text": "07/18/2026",
+        "event_dates": [
+          "7/18/2026"
         ]
       }
     },
@@ -2867,6 +3004,38 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "07/19/2026",
+        "event_dates": [
+          "7/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "1d2bda0408e6984a2f60f9e35443d4b28078912ceea7581f2f85ce52878a63c8",
+      "title": "Simpsonville, KY, US - July 19th - LouDD",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-july-19th-loudd/",
+      "details": {
+        "title": "Simpsonville, KY, US – July 19th – LouDD",
+        "club_name": "LouDD",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40067, United States",
+        "start_date": "7/19/2026",
+        "start_date_iso": "2026-07-19T00:00:00",
+        "notification_date": "2026-07-19",
+        "end_date": "7/19/2026",
+        "end_date_iso": "2026-07-19T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check out the Louisville Disc Dogs on Facebook for updated information.",
         "when_text": "07/19/2026",
         "event_dates": [
           "7/19/2026"
@@ -3357,6 +3526,38 @@
       }
     },
     {
+      "id": "2e8c4c385d505cfb1fc24f099ef91c66fc135b2ac12e7fdb9c6e0a932fbf6c78",
+      "title": "Kinburn, ON, CA - July 23rd - Bite Club - Scout's Pals",
+      "url": "https://updogchallenge.com/events/kinburn-on-ca-july-23rd-bite-club-scouts-pals/",
+      "details": {
+        "title": "Kinburn, ON, CA – July 23rd – Bite Club – Scout’s Pals",
+        "club_name": "Scout’s Pals",
+        "contact_name": "Nicholas Theriault",
+        "contact_email": "nick@scoutspals.ca",
+        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
+        "start_date": "7/23/2026",
+        "start_date_iso": "2026-07-23T00:00:00",
+        "notification_date": "2026-07-23",
+        "end_date": "7/23/2026",
+        "end_date_iso": "2026-07-23T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
+        "when_text": "07/23/2026",
+        "event_dates": [
+          "7/23/2026"
+        ]
+      }
+    },
+    {
       "id": "8b0f9f9194cc9fad0173bbde0fefb7f44ce41fb3a34835697b0200e43eaa76ef",
       "title": "Windsor, NS, CA - July 23rd - Bite Club - Irishmans Rd Trackers",
       "url": "https://updogchallenge.com/events/windsor-ns-ca-july-23rd-bite-club-irishmans-rd-trackers/",
@@ -3382,6 +3583,38 @@
           "Time Warp",
           "To Be Determined"
         ],
+        "when_text": "07/23/2026",
+        "event_dates": [
+          "7/23/2026"
+        ]
+      }
+    },
+    {
+      "id": "1cd453ae5a5c4af7dc1d06c9e76ed9f5a01e671bbcda5cd90be2b83f2ded321b",
+      "title": "Bunnell, FL, US - July 23rd - Bite Club - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-july-23rd-bite-club-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – July 23rd – Bite Club – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "daytonadiscdogs@gmail.com",
+        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
+        "start_date": "7/23/2026",
+        "start_date_iso": "2026-07-23T00:00:00",
+        "notification_date": "2026-07-23",
+        "end_date": "7/23/2026",
+        "end_date_iso": "2026-07-23T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/261746502814154",
         "when_text": "07/23/2026",
         "event_dates": [
           "7/23/2026"
@@ -3475,6 +3708,33 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page.",
+        "when_text": "07/24/2026",
+        "event_dates": [
+          "7/24/2026"
+        ]
+      }
+    },
+    {
+      "id": "83894b1a992d9f173ed11dd8f6e8bc02f847c7b84c00f80d89dfd347a799fb80",
+      "title": "Mitchell, ACT, AU - July 24th - Bite Club - Belconnen Dog Club",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-july-24th-bite-club-belconnen-dog-club/",
+      "details": {
+        "title": "Mitchell, ACT, AU – July 24th – Bite Club – Belconnen Dog Club",
+        "club_name": "Belconnen Dog Club – Disc Dogs",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "7/24/2026",
+        "start_date_iso": "2026-07-24T00:00:00",
+        "notification_date": "2026-07-24",
+        "end_date": "7/24/2026",
+        "end_date_iso": "2026-07-24T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up"
+        ],
         "when_text": "07/24/2026",
         "event_dates": [
           "7/24/2026"
@@ -3810,6 +4070,38 @@
       }
     },
     {
+      "id": "c4cc8f424bdac18c6451a1da310467f24d60fc70a0b35a4a196d2017b367f02f",
+      "title": "Simpsonville, KY, US - July 26th - LouDD",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-july-26th-loudd/",
+      "details": {
+        "title": "Simpsonville, KY, US – July 26th – LouDD",
+        "club_name": "LouDD",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40067, United States",
+        "start_date": "7/26/2026",
+        "start_date_iso": "2026-07-26T00:00:00",
+        "notification_date": "2026-07-26",
+        "end_date": "7/26/2026",
+        "end_date_iso": "2026-07-26T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check out the Louisville Disc Dogs on Facebook for updated information.",
+        "when_text": "07/26/2026",
+        "event_dates": [
+          "7/26/2026"
+        ]
+      }
+    },
+    {
       "id": "a8a8ab0c90bc644b40c9dd94209a0179f56593d60b40d0d29a8145273261a03c",
       "title": "Rochester, MN, US - July 27th - Bite Club - Rochester Frisbee Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-july-27th-bite-club-rochester-frisbee-dogs/",
@@ -4015,6 +4307,33 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "07/28/2026",
+        "event_dates": [
+          "7/28/2026"
+        ]
+      }
+    },
+    {
+      "id": "b589826edfb20cdbedcc83d7e5b344408b88c7cdcc42b2e9ff5e965ce2436dc9",
+      "title": "Huntertown, IN, US - July 28th - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-july-28th-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – July 28th – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
+        "start_date": "7/28/2026",
+        "start_date_iso": "2026-07-28T00:00:00",
+        "notification_date": "2026-07-28",
+        "end_date": "7/28/2026",
+        "end_date_iso": "2026-07-28T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event is for points only",
         "when_text": "07/28/2026",
         "event_dates": [
           "7/28/2026"
@@ -4263,6 +4582,38 @@
       }
     },
     {
+      "id": "f8ccec4b3894eebb494e7ec7e64516507807dc6997674ec42011c250387c3111",
+      "title": "Kinburn, ON, CA - July 30th - Bite Club - Scout's Pals",
+      "url": "https://updogchallenge.com/events/kinburn-on-ca-july-30th-bite-club-scouts-pals/",
+      "details": {
+        "title": "Kinburn, ON, CA – July 30th – Bite Club – Scout’s Pals",
+        "club_name": "Scout’s Pals",
+        "contact_name": "Nicholas Theriault",
+        "contact_email": "nick@scoutspals.ca",
+        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
+        "start_date": "7/30/2026",
+        "start_date_iso": "2026-07-30T00:00:00",
+        "notification_date": "2026-07-30",
+        "end_date": "7/30/2026",
+        "end_date_iso": "2026-07-30T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
+        "when_text": "07/30/2026",
+        "event_dates": [
+          "7/30/2026"
+        ]
+      }
+    },
+    {
       "id": "3148f5abd0390bea5b382f991e8b694be670470b0bc04f7ec21c94b3f586d7b4",
       "title": "Windsor, NS, CA - July 30th - Bite Club - Irishmans Rd Trackers",
       "url": "https://updogchallenge.com/events/windsor-ns-ca-july-30th-bite-club-irishmans-rd-trackers/",
@@ -4288,6 +4639,38 @@
           "Time Warp",
           "To Be Determined"
         ],
+        "when_text": "07/30/2026",
+        "event_dates": [
+          "7/30/2026"
+        ]
+      }
+    },
+    {
+      "id": "f072411cb6eb9a2c0ca37904a65c653d987ae2f1a4fea52d797aec343ee57765",
+      "title": "Bunnell, FL, US - July 30th - Bite Club - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-july-30th-bite-club-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – July 30th – Bite Club – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "daytonadiscdogs@gmail.com",
+        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
+        "start_date": "7/30/2026",
+        "start_date_iso": "2026-07-30T00:00:00",
+        "notification_date": "2026-07-30",
+        "end_date": "7/30/2026",
+        "end_date_iso": "2026-07-30T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/261746502814154",
         "when_text": "07/30/2026",
         "event_dates": [
           "7/30/2026"
@@ -4321,6 +4704,38 @@
           "7/31/2026",
           "8/1/2026",
           "8/2/2026"
+        ]
+      }
+    },
+    {
+      "id": "8ff12a973148fe0d4ecf02704595f8182a1f34445e97776887accfbb1fe4bf68",
+      "title": "Waukesha, WI, US - July 31st - Bite Club - K9 Ventures",
+      "url": "https://updogchallenge.com/events/waukesha-wi-us-july-31st-bite-club-k9-ventures/",
+      "details": {
+        "title": "Waukesha, WI, US – July 31st – Bite Club – K9 Ventures",
+        "club_name": "K9 Ventures",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
+        "start_date": "7/31/2026",
+        "start_date_iso": "2026-07-31T00:00:00",
+        "notification_date": "2026-07-31",
+        "end_date": "7/31/2026",
+        "end_date_iso": "2026-07-31T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "12:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.k9ventureswi.net/",
+        "when_text": "07/31/2026",
+        "event_dates": [
+          "7/31/2026"
         ]
       }
     },
@@ -4449,6 +4864,33 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page.",
+        "when_text": "07/31/2026",
+        "event_dates": [
+          "7/31/2026"
+        ]
+      }
+    },
+    {
+      "id": "d7038628a39a93b6124e462e632b3ad104943fed7cf834c29008f5a4f95dd75f",
+      "title": "Mitchell, ACT, AU - July 31st - Bite Club - Belconnen Dog Club",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-july-31st-bite-club-belconnen-dog-club/",
+      "details": {
+        "title": "Mitchell, ACT, AU – July 31st – Bite Club – Belconnen Dog Club",
+        "club_name": "Belconnen Dog Club – Disc Dogs",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "7/31/2026",
+        "start_date_iso": "2026-07-31T00:00:00",
+        "notification_date": "2026-07-31",
+        "end_date": "7/31/2026",
+        "end_date_iso": "2026-07-31T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up"
+        ],
         "when_text": "07/31/2026",
         "event_dates": [
           "7/31/2026"
@@ -4666,6 +5108,44 @@
       }
     },
     {
+      "id": "a3390c8e97558a4f18e66fee9938aeabd6d08ed2e0c8d0a2eb2fb69b74eaf129",
+      "title": "Huntertown, IN, US - Aug 1st & 2nd - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-aug-1st-2nd-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – Aug 1st & 2nd – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "Huntertown Family Park,  2303 Woods Rd, Huntertown IN 46748",
+        "start_date": "8/1/2026",
+        "start_date_iso": "2026-08-01T00:00:00",
+        "notification_date": "2026-08-01",
+        "end_date": "8/2/2026",
+        "end_date_iso": "2026-08-02T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This is a points only event",
+        "when_text": "08/01/2026 - 08/02/2026",
+        "event_dates": [
+          "8/1/2026",
+          "8/2/2026"
+        ]
+      }
+    },
+    {
       "id": "cad2445110aa0a3e9453678dfeba30a670e14fb12bdd89d80b53d78e31056a44",
       "title": "Fernandina Beach, FL, US - Aug 2nd - Bite Club - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-aug-2nd-bite-club-jacksonville-disc-dogs/",
@@ -4798,6 +5278,38 @@
           "Time Warp"
         ],
         "prereg_url": "https://forms.gle/HxdgvsQGr2bfg1eT6",
+        "when_text": "08/02/2026",
+        "event_dates": [
+          "8/2/2026"
+        ]
+      }
+    },
+    {
+      "id": "2507b0cfc8939d1aec81b85b37ec6fc4716037f98bcd0f147fa206b449e4dd7d",
+      "title": "Simpsonville, KY, US - Aug 2nd - LouDD",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-aug-2nd-loudd/",
+      "details": {
+        "title": "Simpsonville, KY, US – Aug 2nd – LouDD",
+        "club_name": "LouDD",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40067, United States",
+        "start_date": "8/2/2026",
+        "start_date_iso": "2026-08-02T00:00:00",
+        "notification_date": "2026-08-02",
+        "end_date": "8/2/2026",
+        "end_date_iso": "2026-08-02T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check out the Louisville Disc Dogs on Facebook for updated information.",
         "when_text": "08/02/2026",
         "event_dates": [
           "8/2/2026"
@@ -5045,6 +5557,33 @@
       }
     },
     {
+      "id": "802e6fbbdcd04ad4c3601ca35da5b0f4868bebc345ca1e996ed5ababb5b55c7a",
+      "title": "Huntertown, IN, US - Aug 4th - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-aug-4th-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – Aug 4th – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
+        "start_date": "8/4/2026",
+        "start_date_iso": "2026-08-04T00:00:00",
+        "notification_date": "2026-08-04",
+        "end_date": "8/4/2026",
+        "end_date_iso": "2026-08-04T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event is for points only",
+        "when_text": "08/04/2026",
+        "event_dates": [
+          "8/4/2026"
+        ]
+      }
+    },
+    {
       "id": "32bf78bc45edd4d6c8ee0336f51ff77e9adc54b1909f3fcada0b83341f642dab",
       "title": "Grand Rapids, MI, US - Aug 4th - Bite Club - Bring it Back Disc-o",
       "url": "https://updogchallenge.com/events/grand-rapids-mi-us-aug-4th-bite-club-bring-it-back-disc-o/",
@@ -5200,6 +5739,38 @@
       }
     },
     {
+      "id": "492ee103145d29fdac613ec50681432baaa1cd9d82de352a01bcff4b56d49311",
+      "title": "Kinburn, ON, CA - Aug 6th - Bite Club - Scout's Pals",
+      "url": "https://updogchallenge.com/events/kinburn-on-ca-aug-6th-bite-club-scouts-pals/",
+      "details": {
+        "title": "Kinburn, ON, CA – Aug 6th – Bite Club – Scout’s Pals",
+        "club_name": "Scout’s Pals",
+        "contact_name": "Nicholas Theriault",
+        "contact_email": "nick@scoutspals.ca",
+        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
+        "start_date": "8/6/2026",
+        "start_date_iso": "2026-08-06T00:00:00",
+        "notification_date": "2026-08-06",
+        "end_date": "8/6/2026",
+        "end_date_iso": "2026-08-06T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
+        "when_text": "08/06/2026",
+        "event_dates": [
+          "8/6/2026"
+        ]
+      }
+    },
+    {
       "id": "e52969373ddf83ca145603f9ddeb6980dec2c010d2902292fbb3cba1b691f8a9",
       "title": "Windsor, NS, CA - Aug 6th - Bite Club - Irishmans Rd Trackers",
       "url": "https://updogchallenge.com/events/windsor-ns-ca-aug-6th-bite-club-irishmans-rd-trackers/",
@@ -5225,6 +5796,38 @@
           "Time Warp",
           "To Be Determined"
         ],
+        "when_text": "08/06/2026",
+        "event_dates": [
+          "8/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "0b9301f17087ff5173879a3ab09d02c9895ed808f45513fc36dc70e5807bfe67",
+      "title": "Bunnell, FL, US - Aug 6th - Bite Club - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-aug-6th-bite-club-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – Aug 6th – Bite Club – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "daytonadiscdogs@gmail.com",
+        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
+        "start_date": "8/6/2026",
+        "start_date_iso": "2026-08-06T00:00:00",
+        "notification_date": "2026-08-06",
+        "end_date": "8/6/2026",
+        "end_date_iso": "2026-08-06T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/261746502814154",
         "when_text": "08/06/2026",
         "event_dates": [
           "8/6/2026"
@@ -5346,6 +5949,33 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "Aditional games will be played. Registration will take placed through the Outside The Box Bite Club facebook page.",
+        "when_text": "08/07/2026",
+        "event_dates": [
+          "8/7/2026"
+        ]
+      }
+    },
+    {
+      "id": "de1f1c4e104ec77ecdbf520cd7ecd4e9f8c76a0d1f2a1dc9e452264a27f2d984",
+      "title": "Mitchell, ACT, AU - Aug 7th - Bite Club - Belconnen Dog Club",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-aug-7th-bite-club-belconnen-dog-club/",
+      "details": {
+        "title": "Mitchell, ACT, AU – Aug 7th – Bite Club – Belconnen Dog Club",
+        "club_name": "Belconnen Dog Club – Disc Dogs",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "8/7/2026",
+        "start_date_iso": "2026-08-07T00:00:00",
+        "notification_date": "2026-08-07",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up"
+        ],
         "when_text": "08/07/2026",
         "event_dates": [
           "8/7/2026"
@@ -5792,6 +6422,91 @@
       }
     },
     {
+      "id": "d1a9aeacc9706e4a91ad6a5df90d93da6dcb7c45399d94bec550613db83a2f57",
+      "title": "Simpsonville, KY, US - Aug 9th - LouDD",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-aug-9th-loudd/",
+      "details": {
+        "title": "Simpsonville, KY, US – Aug 9th – LouDD",
+        "club_name": "LouDD",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40067, United States",
+        "start_date": "8/9/2026",
+        "start_date_iso": "2026-08-09T00:00:00",
+        "notification_date": "2026-08-09",
+        "end_date": "8/9/2026",
+        "end_date_iso": "2026-08-09T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check out the Louisville Disc Dogs on Facebook for updated information.",
+        "when_text": "08/09/2026",
+        "event_dates": [
+          "8/9/2026"
+        ]
+      }
+    },
+    {
+      "id": "06d9a047810c1837b7ef2feee59055c5c4dd9b2d0681906db3b3a243debffec6",
+      "title": "Foothills, AB, CA - Aug 11th - Bite Club - Foothills Flyers Disc Dog Club",
+      "url": "https://updogchallenge.com/events/foothills-ab-ca-aug-11th-bite-club-foothills-flyers-disc-dog-club/",
+      "details": {
+        "title": "Foothills, AB, CA – Aug 11th – Bite Club – Foothills Flyers Disc Dog Club",
+        "club_name": "Foothills Flyers",
+        "contact_name": "Sharon Spooner",
+        "contact_email": "Foothillsflyersddc@gmail.com",
+        "event_address": "1262 Drive W, Foothills, AB T0L 1W0, Canada",
+        "start_date": "8/11/2026",
+        "start_date_iso": "2026-08-11T00:00:00",
+        "notification_date": "2026-08-11",
+        "end_date": "8/11/2026",
+        "end_date_iso": "2026-08-11T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "08/11/2026",
+        "event_dates": [
+          "8/11/2026"
+        ]
+      }
+    },
+    {
+      "id": "e12fd46345d973a968c9d0c9fee2dda176a1f7f9c931e774254167e570834ed2",
+      "title": "Huntertown, IN, US - Aug 11th - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-aug-11th-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – Aug 11th – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
+        "start_date": "8/11/2026",
+        "start_date_iso": "2026-08-11T00:00:00",
+        "notification_date": "2026-08-11",
+        "end_date": "8/11/2026",
+        "end_date_iso": "2026-08-11T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event is for points only",
+        "when_text": "08/11/2026",
+        "event_dates": [
+          "8/11/2026"
+        ]
+      }
+    },
+    {
       "id": "ea185b1d9f1c5b501521ad1c78c404d56bf9cf22101d24365a7ce7d6e5ca2226",
       "title": "Houston, TX, US - Aug 12th - Houston Canine Frisbee Disc Club",
       "url": "https://updogchallenge.com/events/houston-tx-us-aug-12th-houston-canine-frisbee-disc-club/",
@@ -6175,6 +6890,91 @@
       }
     },
     {
+      "id": "8db0aed6d65c519001cd566120d157d185c49a978588ae239346ab48a7ce97d4",
+      "title": "Simpsonville, KY, US - Aug 16th - LouDD",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-aug-16th-loudd/",
+      "details": {
+        "title": "Simpsonville, KY, US – Aug 16th – LouDD",
+        "club_name": "LouDD",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40067, United States",
+        "start_date": "8/16/2026",
+        "start_date_iso": "2026-08-16T00:00:00",
+        "notification_date": "2026-08-16",
+        "end_date": "8/16/2026",
+        "end_date_iso": "2026-08-16T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check out the Louisville Disc Dogs on Facebook for updated information.",
+        "when_text": "08/16/2026",
+        "event_dates": [
+          "8/16/2026"
+        ]
+      }
+    },
+    {
+      "id": "7acb2d591772b38326917e2764dd386f0b6706ff7face139431a945ca8c9a3f3",
+      "title": "Foothills, AB, CA - Aug 18th - Bite Club - Foothills Flyers Disc Dog Club",
+      "url": "https://updogchallenge.com/events/foothills-ab-ca-aug-18th-bite-club-foothills-flyers-disc-dog-club/",
+      "details": {
+        "title": "Foothills, AB, CA – Aug 18th – Bite Club – Foothills Flyers Disc Dog Club",
+        "club_name": "Foothills Flyers",
+        "contact_name": "Sharon Spooner",
+        "contact_email": "Foothillsflyersddc@gmail.com",
+        "event_address": "1262 Drive W, Foothills, AB T0L 1W0, Canada",
+        "start_date": "8/18/2026",
+        "start_date_iso": "2026-08-18T00:00:00",
+        "notification_date": "2026-08-18",
+        "end_date": "8/18/2026",
+        "end_date_iso": "2026-08-18T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "08/18/2026",
+        "event_dates": [
+          "8/18/2026"
+        ]
+      }
+    },
+    {
+      "id": "3e65bdfa5a3cdac057638ae5100046e2d3c544765979636e500beb8349bc6912",
+      "title": "Huntertown, IN, US - Aug 18th - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-aug-18th-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – Aug 18th – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
+        "start_date": "8/18/2026",
+        "start_date_iso": "2026-08-18T00:00:00",
+        "notification_date": "2026-08-18",
+        "end_date": "8/18/2026",
+        "end_date_iso": "2026-08-18T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event is for points only",
+        "when_text": "08/18/2026",
+        "event_dates": [
+          "8/18/2026"
+        ]
+      }
+    },
+    {
       "id": "34de5a1f96402855f34da0d2af4ba2102666ce83a173452dbb73cf13050c02f2",
       "title": "Houston, TX, US - Aug 19th - Houston Canine Frisbee Disc Club",
       "url": "https://updogchallenge.com/events/houston-tx-us-aug-19th-houston-canine-frisbee-disc-club/",
@@ -6485,6 +7285,65 @@
       }
     },
     {
+      "id": "1f815a308204924a50ab8736507d515ecbfcaad32400bd726dd16b98ecef43ce",
+      "title": "Simpsonville, KY, US - Aug 23rd - LouDD",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-aug-23rd-loudd/",
+      "details": {
+        "title": "Simpsonville, KY, US – Aug 23rd – LouDD",
+        "club_name": "LouDD",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40067, United States",
+        "start_date": "8/23/2026",
+        "start_date_iso": "2026-08-23T00:00:00",
+        "notification_date": "2026-08-23",
+        "end_date": "8/23/2026",
+        "end_date_iso": "2026-08-23T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Check out the Louisville Disc Dogs on Facebook for updated information.",
+        "when_text": "08/23/2026",
+        "event_dates": [
+          "8/23/2026"
+        ]
+      }
+    },
+    {
+      "id": "185b48cb382902bb2647640e40fa2394871475a32613aa8aa4e083817a94198b",
+      "title": "Huntertown, IN, US - Aug 25th - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-aug-25th-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – Aug 25th – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
+        "start_date": "8/25/2026",
+        "start_date_iso": "2026-08-25T00:00:00",
+        "notification_date": "2026-08-25",
+        "end_date": "8/25/2026",
+        "end_date_iso": "2026-08-25T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event is for points only",
+        "when_text": "08/25/2026",
+        "event_dates": [
+          "8/25/2026"
+        ]
+      }
+    },
+    {
       "id": "a5ad155298ce360a8f38ce176e9f25e0543a24edca3a58f200022e7645e4c12e",
       "title": "Houston, TX, US - Aug 26th - Houston Canine Frisbee Disc Club",
       "url": "https://updogchallenge.com/events/houston-tx-us-aug-26th-houston-canine-frisbee-disc-club/",
@@ -6697,6 +7556,33 @@
         "when_text": "08/31/2026",
         "event_dates": [
           "8/31/2026"
+        ]
+      }
+    },
+    {
+      "id": "1dd6080ed9428e029a970abf4382ebd9c1f8d477639b9145bb02fe48b12e2ede",
+      "title": "Huntertown, IN, US - Sept 1st - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-sept-1st-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – Sept 1st – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
+        "start_date": "9/1/2026",
+        "start_date_iso": "2026-09-01T00:00:00",
+        "notification_date": "2026-09-01",
+        "end_date": "9/1/2026",
+        "end_date_iso": "2026-09-01T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event is for points only",
+        "when_text": "09/01/2026",
+        "event_dates": [
+          "9/1/2026"
         ]
       }
     },
@@ -7000,6 +7886,35 @@
       }
     },
     {
+      "id": "14fe4a8377b544fe934132c9a2565498612df3ec4a599d0c6fb8909e10c3cded",
+      "title": "Bunnell, FL, US - Sept 6th - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-sept-6th-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – Sept 6th – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "daytonadiscdogs@gmail.com",
+        "event_address": "345 county rd 335, Bunnell, FL 32110, United States",
+        "start_date": "9/6/2026",
+        "start_date_iso": "2026-09-06T00:00:00",
+        "notification_date": "2026-09-06",
+        "end_date": "9/6/2026",
+        "end_date_iso": "2026-09-06T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Boom!",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out"
+        ],
+        "when_text": "09/06/2026",
+        "event_dates": [
+          "9/6/2026"
+        ]
+      }
+    },
+    {
       "id": "dcbc6f2c9dd17fbdfba4dd9b5348ff0eeb39dac0afbd4104d6798c156469f3f3",
       "title": "Fernandina Beach, FL, US - Sept 6th - Jacksonville Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-sept-6th-jacksonville-disc-dogs-triple-crown/",
@@ -7092,6 +8007,33 @@
         "when_text": "09/07/2026",
         "event_dates": [
           "9/7/2026"
+        ]
+      }
+    },
+    {
+      "id": "f1c447e07ae3c152d9cf88514c67c0f9ca46cf5641cfd332b3fc74b16cff6d36",
+      "title": "Huntertown, IN, US - Sept 8th - Summit City Disc Dogs",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-sept-8th-summit-city-disc-dogs/",
+      "details": {
+        "title": "Huntertown, IN, US – Sept 8th – Summit City Disc Dogs",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
+        "start_date": "9/8/2026",
+        "start_date_iso": "2026-09-08T00:00:00",
+        "notification_date": "2026-09-08",
+        "end_date": "9/8/2026",
+        "end_date_iso": "2026-09-08T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event is for points only",
+        "when_text": "09/08/2026",
+        "event_dates": [
+          "9/8/2026"
         ]
       }
     },
@@ -7238,6 +8180,33 @@
         "event_dates": [
           "9/12/2026",
           "9/13/2026"
+        ]
+      }
+    },
+    {
+      "id": "b3867c8612dbc3732eb85cf420206b8026cad67dd456bef7d5f33464e3799839",
+      "title": "Elkton, MD, US - Sept 12th - Dog On It! Dog Sports & Elkton TNF - Triple Crown",
+      "url": "https://updogchallenge.com/events/elkton-md-us-sept-12th-dog-on-it-dog-sports-elkton-tnf-triple-crown/",
+      "details": {
+        "title": "Elkton, MD, US – Sept 12th – Dog On It! Dog Sports & Elkton TNF – Triple Crown",
+        "club_name": "Dog On It! Dog Sports & Elkton Toss & Fetch",
+        "contact_name": "Laura O’Neill",
+        "contact_email": "dogonitdogsports@gmail.com",
+        "event_address": "Get Rev’d Agility, 312 Middle Road, Elkton, MD 21921, United States",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/12/2026",
+        "end_date_iso": "2026-09-12T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event will be part of the Triple Crown. Waiting on UpDog to announce games. We will also be hosting the World Wide Toss & Fetch World Championships on Sunday 9/13.",
+        "when_text": "09/12/2026",
+        "event_dates": [
+          "9/12/2026"
         ]
       }
     },
@@ -8630,6 +9599,42 @@
         "when_text": "10/17/2026",
         "event_dates": [
           "10/17/2026"
+        ]
+      }
+    },
+    {
+      "id": "91efce7ba2e639c2f965a3947f74d922e7473c30d2925732b1c6b3399df58dfb",
+      "title": "North Saanich, BC, CA - Oct 17th & 18th - Van Isle Disc Dogs",
+      "url": "https://updogchallenge.com/events/north-saanich-bc-ca-oct-17th-18th-van-isle-disc-dogs/",
+      "details": {
+        "title": "North Saanich, BC, CA – Oct 17th & 18th – Van Isle Disc Dogs",
+        "club_name": "Van Isle Disc Dogs",
+        "contact_name": "Erin Lucier",
+        "contact_email": "info@vanislediscdogs.ca",
+        "event_address": "Wain Park, Wain Road, North Saanich, BC V8L 5N8, Canada",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "10/17/2026 - 10/18/2026",
+        "event_dates": [
+          "10/17/2026",
+          "10/18/2026"
         ]
       }
     },
@@ -10583,6 +11588,46 @@
           "To Be Determined"
         ],
         "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live.",
+        "when_text": "12/06/2026",
+        "event_dates": [
+          "12/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "840a6c59ea5bf40052790a5c7eff77d2f76431fc35b3a68f895bc4796f0f9d10",
+      "title": "Bunnell, FL, US - Dec 6th - Daytona Disc Dogs",
+      "url": "https://updogchallenge.com/events/bunnell-fl-us-dec-6th-daytona-disc-dogs/",
+      "details": {
+        "title": "Bunnell, FL, US – Dec 6th – Daytona Disc Dogs",
+        "club_name": "Daytona Disc Dogs",
+        "contact_name": "Brian Fidler",
+        "contact_email": "daytonadiscsdogs@gmail.com",
+        "event_address": "345 county rd 335, Bunnell, Fl 32110, United States",
+        "start_date": "12/6/2026",
+        "start_date_iso": "2026-12-06T00:00:00",
+        "notification_date": "2026-12-06",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "U-pick event",
         "when_text": "12/06/2026",
         "event_dates": [
           "12/6/2026"
