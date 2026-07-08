@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T09:43:28Z",
-  "count": 380,
+  "last_updated": "2026-07-08T08:30:00Z",
+  "count": 379,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,57 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "5fdf22b6ff146316d796064de77f4b549adc0dd62ad74bbab9bdad0b2c653d6c",
-      "title": "Woodstock, CT, US - July 7th - Face to Face",
-      "url": "https://updogchallenge.com/events/southbridge-ma-us-july-7th-face-to-face/",
-      "details": {
-        "title": "Woodstock, CT, US – July 7th – Face to Face",
-        "club_name": "Face to Face Disc",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
-        "start_date": "7/7/2026",
-        "start_date_iso": "2026-07-07T00:00:00",
-        "notification_date": "2026-07-07",
-        "end_date": "7/7/2026",
-        "end_date_iso": "2026-07-07T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/07/2026",
-        "event_dates": [
-          "7/7/2026"
-        ]
-      }
-    },
-    {
-      "id": "55a976b38182b93861e4617814caa982f3f467e99193aca291a48a14f9bb9e3b",
-      "title": "Somers, WI, US - July 7th - Dairyland Disc Dogs",
-      "url": "https://updogchallenge.com/events/somers-wi-us-july-7th-dairyland-disc-dogs/",
-      "details": {
-        "title": "Somers, WI, US – July 7th – Dairyland Disc Dogs",
-        "club_name": "Dairyland Disc Dogs",
-        "contact_name": "Dean Shavit",
-        "contact_email": "dean.shavit@gmail.com",
-        "event_address": "Private Residence, SOMERS, WI 53144, United States",
-        "start_date": "7/7/2026",
-        "start_date_iso": "2026-07-07T00:00:00",
-        "notification_date": "2026-07-07",
-        "end_date": "7/7/2026",
-        "end_date_iso": "2026-07-07T00:00:00",
-        "start_time": "3:30 PM",
-        "end_time": "5:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Player’s choice games in the late afternoon – $8 per round",
-        "when_text": "07/07/2026",
-        "event_dates": [
-          "7/7/2026"
         ]
       }
     },
@@ -6455,10 +6404,10 @@
     },
     {
       "id": "06d9a047810c1837b7ef2feee59055c5c4dd9b2d0681906db3b3a243debffec6",
-      "title": "Foothills, AB, CA - Aug 11th - Bite Club - Foothills Flyers Disc Dog Club",
+      "title": "Foothills, AB, CA - Aug 11th - Foothills Flyers Disc Dog Club",
       "url": "https://updogchallenge.com/events/foothills-ab-ca-aug-11th-bite-club-foothills-flyers-disc-dog-club/",
       "details": {
-        "title": "Foothills, AB, CA – Aug 11th – Bite Club – Foothills Flyers Disc Dog Club",
+        "title": "Foothills, AB, CA – Aug 11th – Foothills Flyers Disc Dog Club",
         "club_name": "Foothills Flyers",
         "contact_name": "Sharon Spooner",
         "contact_email": "Foothillsflyersddc@gmail.com",
@@ -6923,10 +6872,10 @@
     },
     {
       "id": "7acb2d591772b38326917e2764dd386f0b6706ff7face139431a945ca8c9a3f3",
-      "title": "Foothills, AB, CA - Aug 18th - Bite Club - Foothills Flyers Disc Dog Club",
+      "title": "Foothills, AB, CA - Aug 18th - Foothills Flyers Disc Dog Club",
       "url": "https://updogchallenge.com/events/foothills-ab-ca-aug-18th-bite-club-foothills-flyers-disc-dog-club/",
       "details": {
-        "title": "Foothills, AB, CA – Aug 18th – Bite Club – Foothills Flyers Disc Dog Club",
+        "title": "Foothills, AB, CA – Aug 18th – Foothills Flyers Disc Dog Club",
         "club_name": "Foothills Flyers",
         "contact_name": "Sharon Spooner",
         "contact_email": "Foothillsflyersddc@gmail.com",
@@ -7313,6 +7262,32 @@
         "when_text": "08/23/2026",
         "event_dates": [
           "8/23/2026"
+        ]
+      }
+    },
+    {
+      "id": "4f3033f501ace0bfb7c831f24cec99da145cd674b2d3d8d49347178772ccf937",
+      "title": "Foothills, AB, CA - Aug 25th - Foothills Flyers Disc Dog Club",
+      "url": "https://updogchallenge.com/events/foothills-ab-ca-aug-25th-bite-club-foothills-flyers-disc-dog-club/",
+      "details": {
+        "title": "Foothills, AB, CA – Aug 25th – Foothills Flyers Disc Dog Club",
+        "club_name": "Foothills Flyers",
+        "contact_name": "Sharon Spooner",
+        "contact_email": "Foothillsflyersddc@gmail.com",
+        "event_address": "1262 Drive W, Foothills, AB T0L 1W0, Canada",
+        "start_date": "8/25/2026",
+        "start_date_iso": "2026-08-25T00:00:00",
+        "notification_date": "2026-08-25",
+        "end_date": "8/25/2026",
+        "end_date_iso": "2026-08-25T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "08/25/2026",
+        "event_dates": [
+          "8/25/2026"
         ]
       }
     },
