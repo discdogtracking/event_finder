@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T09:36:28Z",
+  "last_updated": "2026-07-11T07:57:26Z",
   "count": 375,
   "events": [
     {
@@ -2546,6 +2546,39 @@
       }
     },
     {
+      "id": "1bd238e1c4e7622ba2b70d1a1901444d7966c03e8def54d806c84adf4c4557b5",
+      "title": "Jacksonville, FL, US - July 18th - Bite Club - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-july-19th-bite-club-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville, FL, US – July 18th – Bite Club – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "Oceanway Park 12215 Sago Ave Jacksonville, FL",
+        "start_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18",
+        "end_date": "7/18/2026",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "jaxdiscdogs.weebly.com",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdXud86dcKQnNHBVRO6YEq4NiMtD-W33aLQBqsijtVnY3Q3YQ/viewform?usp=publish-editor",
+        "when_text": "07/18/2026",
+        "event_dates": [
+          "7/18/2026"
+        ]
+      }
+    },
+    {
       "id": "9e160cab447410dcc59343dd7d4ebb486fa2ce49241dd95463d9b9109d0354dc",
       "title": "Rochester, MN, US - July 18th & 19th - QuickWits Disc Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-july-18th-19th-quickwits-disc-dogs/",
@@ -2721,39 +2754,6 @@
         "when_text": "07/18/2026",
         "event_dates": [
           "7/18/2026"
-        ]
-      }
-    },
-    {
-      "id": "1bd238e1c4e7622ba2b70d1a1901444d7966c03e8def54d806c84adf4c4557b5",
-      "title": "Fernandina Beach, FL, US - July 19th - Bite Club - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/fernandina-beach-fl-us-july-19th-bite-club-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Fernandina Beach, FL, US – July 19th – Bite Club – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "95512 Arbor Ln, Fernandina Beach, Florida 32034, United States",
-        "start_date": "7/19/2026",
-        "start_date_iso": "2026-07-19T00:00:00",
-        "notification_date": "2026-07-19",
-        "end_date": "7/19/2026",
-        "end_date_iso": "2026-07-19T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "jaxdiscdogs.weebly.com",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdXud86dcKQnNHBVRO6YEq4NiMtD-W33aLQBqsijtVnY3Q3YQ/viewform?usp=publish-editor",
-        "when_text": "07/19/2026",
-        "event_dates": [
-          "7/19/2026"
         ]
       }
     },
