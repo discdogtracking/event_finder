@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T07:57:26Z",
-  "count": 375,
+  "last_updated": "2026-07-12T08:18:44Z",
+  "count": 369,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -842,61 +842,6 @@
       }
     },
     {
-      "id": "22aedfcc1deacf82017ba16a53a1eaf931605b36d1c34251184bdb4c9d7bc9cc",
-      "title": "Muskegon, MI, US - July 11th - West Michigan Disc Dogs",
-      "url": "https://updogchallenge.com/events/muskegon-mi-us-july-11th-west-michigan-disc-dogs/",
-      "details": {
-        "title": "Muskegon, MI, US – July 11th – West Michigan Disc Dogs",
-        "club_name": "West Michigan Disc Dogs",
-        "contact_name": "Lisa Califf",
-        "contact_email": "westmichigandiscdogs@gmail.com",
-        "event_address": "43.265188,-85.996517, Muskegon, MI 49442, United States",
-        "start_date": "7/11/2026",
-        "start_date_iso": "2026-07-11T00:00:00",
-        "notification_date": "2026-07-11",
-        "end_date": "7/11/2026",
-        "end_date_iso": "2026-07-11T00:00:00",
-        "start_time": "11:00 AM",
-        "games": [
-          "Far Out",
-          "Four Way Play",
-          "Frizgility",
-          "Throw N Go"
-        ],
-        "when_text": "07/11/2026",
-        "event_dates": [
-          "7/11/2026"
-        ]
-      }
-    },
-    {
-      "id": "21ebfedaababc164c4d474baf44cde324182311adff5b2440f18f2477d07f85a",
-      "title": "Penobscot, ME, US - July 11th - Downeast Dog Sports",
-      "url": "https://updogchallenge.com/events/penobscot-me-us-july-11th-downeast-dog-sports/",
-      "details": {
-        "title": "Penobscot, ME, US – July 11th – Downeast Dog Sports",
-        "club_name": "Downeast Dog Sports",
-        "contact_name": "Donna Boidi",
-        "contact_email": "donna@downeastdogsports.com",
-        "event_address": "Penobscot Community Field, 66 N Penobscot Rd, Penobscot, ME 04421, United States",
-        "start_date": "7/11/2026",
-        "start_date_iso": "2026-07-11T00:00:00",
-        "notification_date": "2026-07-11",
-        "end_date": "7/11/2026",
-        "end_date_iso": "2026-07-11T00:00:00",
-        "start_time": "1:30 PM",
-        "games": [
-          "Four Way Play",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "This event is a part of a dog demo for Penobscot Day. The general public is encouraged to watch!",
-        "when_text": "07/11/2026",
-        "event_dates": [
-          "7/11/2026"
-        ]
-      }
-    },
-    {
       "id": "a3ffe423b9eadbde98fd8f5606cd9d87e898a8e3d1e3b0a357559db1652886d8",
       "title": "Burnsville, MN, US - July 11th & 12th - Minnesota Disc Dog Club",
       "url": "https://updogchallenge.com/events/burnsville-mn-us-july-11th-12th-minnesota-disc-dog-club/",
@@ -958,33 +903,6 @@
       }
     },
     {
-      "id": "bd28d9c1c5f33885237b4eada64a943cd1a05b2141ba78d111c5b8e0bff0fa10",
-      "title": "Mitchell, ACT, AU - July 11th - Bite Club - Belconnen Dog Club",
-      "url": "https://updogchallenge.com/events/mitchell-act-au-july-11th-bite-club-belconnen-dog-club/",
-      "details": {
-        "title": "Mitchell, ACT, AU – July 11th – Bite Club – Belconnen Dog Club",
-        "club_name": "Belconnen Dog Club – Disc Dogs",
-        "contact_name": "Justin Allen",
-        "contact_email": "allen.online@bigpond.com",
-        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
-        "start_date": "7/11/2026",
-        "start_date_iso": "2026-07-11T00:00:00",
-        "notification_date": "2026-07-11",
-        "end_date": "7/11/2026",
-        "end_date_iso": "2026-07-11T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Frizgility",
-          "7Up"
-        ],
-        "when_text": "07/11/2026",
-        "event_dates": [
-          "7/11/2026"
-        ]
-      }
-    },
-    {
       "id": "c05dfe17f7849436b381f40064761a5b09505779c5e3c544fe2f7ce8614059d5",
       "title": "Rozental, Poland - July 11th & 12th - Katarzyna Kaminska",
       "url": "https://updogchallenge.com/events/rozental-poland-july-11th-12th-katarzyna-kaminska/",
@@ -1039,32 +957,6 @@
         "event_dates": [
           "7/11/2026",
           "7/12/2026"
-        ]
-      }
-    },
-    {
-      "id": "e311f26b6f883be0bf5c9a2bd626bc5c44f82b13bce3c7a9d606d562a613ecc8",
-      "title": "Levis, QC, CA - July 11th - Plein-Air Canin",
-      "url": "https://updogchallenge.com/events/levis-qc-ca-july-11th-plein-air-canin/",
-      "details": {
-        "title": "Levis, QC, CA – July 11th – Plein-Air Canin",
-        "club_name": "Plein-Air Canin",
-        "contact_name": "Michel Cote",
-        "contact_email": "michel@pleinaircanin.ca",
-        "event_address": "1800 Ch, Demers, Levis, QC G7A 2N3, Canada",
-        "start_date": "7/11/2026",
-        "start_date_iso": "2026-07-11T00:00:00",
-        "notification_date": "2026-07-11",
-        "end_date": "7/11/2026",
-        "end_date_iso": "2026-07-11T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/11/2026",
-        "event_dates": [
-          "7/11/2026"
         ]
       }
     },
@@ -1232,35 +1124,6 @@
       }
     },
     {
-      "id": "2806551ee7e04e91a2f09e202006e03faa08fd7843a7afefa6c6ff569260069a",
-      "title": "Oromocto, NB, CA - July 11th - Oromocto Disc Club",
-      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-11th-oromocto-disc-club/",
-      "details": {
-        "title": "Oromocto, NB, CA – July 11th – Oromocto Disc Club",
-        "club_name": "Oromocto Disc Dog Club",
-        "contact_name": "Sandra Foster",
-        "contact_email": "flyballswf@gmail.com",
-        "event_address": "Blackwatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
-        "start_date": "7/11/2026",
-        "start_date_iso": "2026-07-11T00:00:00",
-        "notification_date": "2026-07-11",
-        "end_date": "7/11/2026",
-        "end_date_iso": "2026-07-11T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "7Up"
-        ],
-        "when_text": "07/11/2026",
-        "event_dates": [
-          "7/11/2026"
-        ]
-      }
-    },
-    {
       "id": "a0989c09c9010a72632c3ed34afb4187da967f653280ed39d3312b9b3c7ab47e",
       "title": "Śląsk, Poland - July 11th & 12th - Dyski w pyski - zawody dogfrisbee o puchar wójta gminy Bestwina i gminy Wilamowice",
       "url": "https://updogchallenge.com/events/slask-poland-july-11th-12th-dyski-w-pyski-zawody-dogfrisbee-o-puchar-wojta-gminy-bestwina-i-gminy-wilamowice/",
@@ -1343,41 +1206,6 @@
         "event_dates": [
           "7/11/2026",
           "7/12/2026"
-        ]
-      }
-    },
-    {
-      "id": "dd599d0282191e483ce872366337dd4b93afd6ffa70903500f0a8c3479da6979",
-      "title": "Drumheller, AB, CA - July 11th - DinoMite Disc Dog Club",
-      "url": "https://updogchallenge.com/events/drumheller-ab-ca-july-11th-dinomite-disc-dog-club/",
-      "details": {
-        "title": "Drumheller, AB, CA – July 11th – DinoMite Disc Dog Club",
-        "club_name": "DinoMite Disc Dog Club",
-        "contact_name": "Marion Paulson",
-        "contact_email": "discdoggurl@gmail.com",
-        "event_address": "122 Hy Grade Crescent, Drumheller, Alberta T0J 0Y0, Canada",
-        "start_date": "7/11/2026",
-        "start_date_iso": "2026-07-11T00:00:00",
-        "notification_date": "2026-07-11",
-        "end_date": "7/11/2026",
-        "end_date_iso": "2026-07-11T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Boom",
-          "Fireball",
-          "Four way play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw n Go",
-          "Time Warp",
-          "Thanks Marion"
-        ],
-        "additional_event_information_for_participants": "Limited Entry Event",
-        "when_text": "07/11/2026",
-        "event_dates": [
-          "7/11/2026"
         ]
       }
     },
