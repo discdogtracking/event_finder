@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T09:26:15Z",
-  "count": 353,
+  "last_updated": "2026-07-14T08:04:17Z",
+  "count": 348,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,121 +799,6 @@
       }
     },
     {
-      "id": "1170bf2b023945a754ed3a3f7b748c9bef58d2b997dd22b7c15f52e053c7a774",
-      "title": "Rochester, MN, US - July 13th - Bite Club - Rochester Frisbee Dogs",
-      "url": "https://updogchallenge.com/events/rochester-mn-us-july-13th-bite-club-rochester-frisbee-dogs/",
-      "details": {
-        "title": "Rochester, MN, US – July 13th – Bite Club – Rochester Frisbee Dogs",
-        "club_name": "Rochester Frisbee Dogs",
-        "contact_name": "Abigail Reynolds",
-        "contact_email": "quickwitsbc@gmail.com",
-        "event_address": "2800 W River Pkwy NW, Rochester, MN 55901, United States",
-        "start_date": "7/13/2026",
-        "start_date_iso": "2026-07-13T00:00:00",
-        "notification_date": "2026-07-13",
-        "end_date": "7/13/2026",
-        "end_date_iso": "2026-07-13T00:00:00",
-        "start_time": "3:45 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/13/2026",
-        "event_dates": [
-          "7/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "43e9870eee71452770bd624ee128ab2e0e7fc7769e6a91e9beff576894dc0546",
-      "title": "West St Paul, MN, US - July 13th - Bite Club - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-july-13th-bite-club-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – July 13th – Bite Club – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "jess@thek9coach.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
-        "start_date": "7/13/2026",
-        "start_date_iso": "2026-07-13T00:00:00",
-        "notification_date": "2026-07-13",
-        "end_date": "7/13/2026",
-        "end_date_iso": "2026-07-13T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club",
-        "when_text": "07/13/2026",
-        "event_dates": [
-          "7/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "84a3f1a800606543bcb9665d14a07ee6f9748e832c23c74324001550a981053c",
-      "title": "County of Grande Prairie, AB, CA - July 13th - Bite Club - GP Sparkly Purple Unicorns Disc Dog Squad",
-      "url": "https://updogchallenge.com/events/county-of-grande-prairie-ab-ca-july-13th-bite-club-gp-sparkly-purple-unicorns-disc-dog-squad/",
-      "details": {
-        "title": "County of Grande Prairie, AB, CA – July 13th – Bite Club – GP Sparkly Purple Unicorns Disc Dog Squad",
-        "club_name": "GP Sparkly Purple Unicorns Disc Dog Squad",
-        "contact_name": "Tammy/Virginia Brooks/Studer",
-        "contact_email": "virginia.studer91@gmail.com",
-        "event_address": "713002B RR80, County of Grande Prarie, Alberta T0H3S0, Canada",
-        "start_date": "7/13/2026",
-        "start_date_iso": "2026-07-13T00:00:00",
-        "notification_date": "2026-07-13",
-        "end_date": "7/13/2026",
-        "end_date_iso": "2026-07-13T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "10:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "prereg_url": "https://forms.gle/JYhoAX46CHmTCXTSA",
-        "when_text": "07/13/2026",
-        "event_dates": [
-          "7/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "9819cc94ca77ad44dc22d37d040b456c4ffa1c908bc6d48a6364bf9165ee99ac",
-      "title": "Jacksonville, FL, US - July 13th - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/jacksonville-fl-us-july-13th-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Jacksonville, FL, US – July 13th – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, FL 32218, United States",
-        "start_date": "7/13/2026",
-        "start_date_iso": "2026-07-13T00:00:00",
-        "notification_date": "2026-07-13",
-        "end_date": "7/13/2026",
-        "end_date_iso": "2026-07-13T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball"
-        ],
-        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSd7x07xSrs1AmxRhe6vbl6ebCPrEjNf6gUuB3eRqJHhm_QJOg/viewform?usp=dialog",
-        "when_text": "07/13/2026",
-        "event_dates": [
-          "7/13/2026"
-        ]
-      }
-    },
-    {
       "id": "206e15db92a4e3b8391533a68e556557a3712f28973b224bc29de89b1d552de5",
       "title": "Pilot Butte, SK, CA - July 14th - Bite Club - Encore Disc Dog Club",
       "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-july-14th-bite-club-encore-disc-dog-club/",
@@ -1658,23 +1543,6 @@
       }
     },
     {
-      "id": "45c334ebea4a8adb10a0888e1e6e10313562a03d4997d1c5360f8694938aab3b",
-      "title": "Lutz, FL, US - July 18th - CFDDC",
-      "url": "https://updogchallenge.com/events/lutz-fl-us-july-18th-19th-cfddc/",
-      "details": {
-        "title": "Lutz, FL, US – July 18th – CFDDC",
-        "when_text": "07/18/2026",
-        "event_dates": [
-          "7/18/2026"
-        ],
-        "start_date": "7/18/2026",
-        "end_date": "7/18/2026",
-        "start_date_iso": "2026-07-18T00:00:00",
-        "end_date_iso": "2026-07-18T00:00:00",
-        "notification_date": "2026-07-18"
-      }
-    },
-    {
       "id": "33a90265ce87f033c6e47e06c04f8c9b2208514a390be2d8fb913b4b300ca221",
       "title": "Hopkinton, MA, US - July 18th - Bite Club - The Fetch Collective",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-july-18th-bite-club-the-fetch-collective/",
@@ -1773,6 +1641,23 @@
         "event_dates": [
           "7/18/2026"
         ]
+      }
+    },
+    {
+      "id": "a8ac8d018951d48308803bcf0fa361b5885e690eebd7ab510c9b00d0fc62a9b4",
+      "title": "Lutz, FL, US - July 18th - CFDDC",
+      "url": "https://updogchallenge.com/events/lutz-fl-us-july-18th-cfddc/",
+      "details": {
+        "title": "Lutz, FL, US – July 18th – CFDDC",
+        "when_text": "07/18/2026",
+        "event_dates": [
+          "7/18/2026"
+        ],
+        "start_date": "7/18/2026",
+        "end_date": "7/18/2026",
+        "start_date_iso": "2026-07-18T00:00:00",
+        "end_date_iso": "2026-07-18T00:00:00",
+        "notification_date": "2026-07-18"
       }
     },
     {
@@ -8666,33 +8551,6 @@
         "event_dates": [
           "10/17/2026",
           "10/18/2026"
-        ]
-      }
-    },
-    {
-      "id": "8d936948b8098e1617f974bf044df0715cbc6bcb007d3307543e98f3d46c3236",
-      "title": "Vanessa, ON, CA - Oct 17th - Pandemonium in Motion",
-      "url": "https://updogchallenge.com/events/vanessa-on-ca-oct-17th-pandemonium-in-motion/",
-      "details": {
-        "title": "Vanessa, ON, CA – Oct 17th – Pandemonium in Motion",
-        "club_name": "Pandemonium in Motion",
-        "contact_name": "Helen Parkinson",
-        "contact_email": "pandemoniumpets@gmail.com",
-        "event_address": "2097 Windham East Quarter LIne Road, Vanessa, Ontario N0E 1V0, Canada",
-        "start_date": "10/17/2026",
-        "start_date_iso": "2026-10-17T00:00:00",
-        "notification_date": "2026-10-17",
-        "end_date": "10/17/2026",
-        "end_date_iso": "2026-10-17T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Fully Fenced field with In and Out gate",
-        "when_text": "10/17/2026",
-        "event_dates": [
-          "10/17/2026"
         ]
       }
     },
