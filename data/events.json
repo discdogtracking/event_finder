@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T08:08:31Z",
-  "count": 341,
+  "last_updated": "2026-07-16T08:14:01Z",
+  "count": 337,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,238 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "883a367a3b498cec3d0071e34c700aed6b43d61fb6473fa537694ef31c6fe227",
-      "title": "Hampton, ON, CA - July 15th - Bite Club - Scugog Disc Dog",
-      "url": "https://updogchallenge.com/events/hampton-on-ca-july-15th-bite-club-scugog-disc-dog/",
-      "details": {
-        "title": "Hampton, ON, CA – July 15th – Bite Club – Scugog Disc Dog",
-        "club_name": "Scugog Disc Dog",
-        "contact_name": "Kate Gartley",
-        "contact_email": "scugogdiscdog@mail.com",
-        "event_address": "Furry Friends Pet Resort, 5455 Langmaid Road, Hampton, Ontario L0B 1J0, Canada",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Website –\nhttps://scugogdiscdog.com/home",
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "4d95c5c079fc5a753bfe27039b1c53e605ca8cac38db5881a9c15cd740e3acf4",
-      "title": "Hopkinton, MA, US - July 15th - The Fetch Collective",
-      "url": "https://updogchallenge.com/events/hopkinton-ma-us-july-15th-the-fetch-collective/",
-      "details": {
-        "title": "Hopkinton, MA, US – July 15th – The Fetch Collective",
-        "club_name": "The Fetch Collective",
-        "contact_name": "Leah Lodato",
-        "contact_email": "fetchcollectiveclub@gmail.com",
-        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "7Up"
-        ],
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "00892f88f179463fcb457e07a84cba4c69035ee4284613ad60ab4a652a787588",
-      "title": "Dartmouth, NS, CA - July 15th - Gale Force Disc Dogs",
-      "url": "https://updogchallenge.com/events/dartmouth-ns-ca-july-15th-gale-force-disc-dogs/",
-      "details": {
-        "title": "Dartmouth, NS, CA – July 15th – Gale Force Disc Dogs",
-        "club_name": "Gale Force Disc Dogs",
-        "contact_name": "Ashley McGuiness",
-        "contact_email": "galeforcediscdogs@gmail.com",
-        "event_address": "80 Joseph Zatzman Drive, Dartmouth, Nova Scotia B3B 1N8, Canada",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Triple Round Game nights held each wednesday! Game order to be decided.",
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "3b240f9cc3cc8c5e9cb5628a1cbbf2f05f7515830faa869ee3cf4a739842320a",
-      "title": "St Johns, MI, US - July 15th - Leashed Favorite Dog Club",
-      "url": "https://updogchallenge.com/events/st-johns-mi-us-july-15th-leashed-favorite-dog-club/",
-      "details": {
-        "title": "St Johns, MI, US – July 15th – Leashed Favorite Dog Club",
-        "club_name": "Leashed Favorite Dog Club",
-        "contact_name": "Ashley Kutzli",
-        "contact_email": "leashedfavorite@gmail.com",
-        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Wednesday evenings in July: July 1, 15, 22– disc games",
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "71cf871875631011e053d7fb27d08fcf2702bf00e0f3a7f4e2a470f08ad45c58",
-      "title": "Brandon, MB, CA - July 15th - Bite Club - Crocus Obedience & Kennel Club",
-      "url": "https://updogchallenge.com/events/brandon-mb-ca-july-15th-bite-club-crocus-obedience-kennel-club/",
-      "details": {
-        "title": "Brandon, MB, CA – July 15th – Bite Club – Crocus Obedience & Kennel Club",
-        "club_name": "Crocus Obedience and Kennel Club",
-        "contact_name": "Sarah Mills",
-        "contact_email": "sarahvr@live.com",
-        "event_address": "Box 32, Brandon, MB R7A 5Y2, Canada",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "5262f1658eb49e5ae9dc20924f6b19647e8df7ac45f04af06705a6b8bd4340f0",
-      "title": "Oromocto, NB, CA - July 15th - Bite Club - Oromocto Disc Dog Club",
-      "url": "https://updogchallenge.com/events/oromocto-nb-ca-july-15th-bite-club-oromocto-disc-dog-club/",
-      "details": {
-        "title": "Oromocto, NB, CA – July 15th – Bite Club – Oromocto Disc Dog Club",
-        "club_name": "Oromocto Disc Dog Club",
-        "contact_name": "Sandra Foster",
-        "contact_email": "flyballswf@gmail.com",
-        "event_address": "BlackWatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "1af678a0684837da0145a4e0726762ae484ca4c4d6a44faf2d138d8e49e190ec",
-      "title": "Saskatoon, SK, CA - July 15th - Saskatoon Disc Dogs",
-      "url": "https://updogchallenge.com/events/saskatoon-sk-ca-july-15th-saskatoon-disc-dogs/",
-      "details": {
-        "title": "Saskatoon, SK, CA – July 15th – Saskatoon Disc Dogs",
-        "club_name": "Saskatoon Disc Dogs",
-        "contact_name": "Steven Ustupski",
-        "contact_email": "stusti@hotmail.com",
-        "event_address": "304030 TWP Rd 343A, Saskatoon, SK S7C0C6, Canada",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball"
-        ],
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "4bb1df7f270136afd42f6674356ec281ece123f50d7c80083f3a31bb5b643407",
-      "title": "Houston, TX, US - July 15th - Houston Canine Frisbee Disc Club",
-      "url": "https://updogchallenge.com/events/houston-tx-us-july-15th-houston-canine-frisbee-disc-club/",
-      "details": {
-        "title": "Houston, TX, US – July 15th – Houston Canine Frisbee Disc Club",
-        "club_name": "Houston Canine Frisbee Disc Club",
-        "contact_name": "Jill Best",
-        "contact_email": "jllbest@hotmail.com",
-        "event_address": "Swanny’s Grill, 6224 Theall Rd, Houston, TX 77066, United States",
-        "start_date": "7/15/2026",
-        "start_date_iso": "2026-07-15T00:00:00",
-        "notification_date": "2026-07-15",
-        "end_date": "7/15/2026",
-        "end_date_iso": "2026-07-15T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "9:30 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility"
-        ],
-        "additional_event_information_for_participants": "This is Day 1 of the Summer Space City Challenge. Teams will be separated into three divisions – Space Camp for juniors, Inner Space for Novice/Intermediate teams, and Outer Space for Expert teams. Teams’ best scores from each game will be included in the ranking system. Overall awards will be announced at the end of Space City Challenge.",
-        "when_text": "07/15/2026",
-        "event_dates": [
-          "7/15/2026"
         ]
       }
     },
@@ -2170,6 +1938,35 @@
         "end_time": "8:00 PM",
         "games": [
           "To Be Determined"
+        ],
+        "when_text": "07/21/2026",
+        "event_dates": [
+          "7/21/2026"
+        ]
+      }
+    },
+    {
+      "id": "14b8aef71a0cfbc632f0f13666b3812c85e0af08573a5074d98aa59f17000ed2",
+      "title": "Spruce Grove, AB, CA - July 21st - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-july-21st-edmonton-disc-dog-club-2/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – July 21st – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, Alberta T7Y 1H7, Canada",
+        "start_date": "7/21/2026",
+        "start_date_iso": "2026-07-21T00:00:00",
+        "notification_date": "2026-07-21",
+        "end_date": "7/21/2026",
+        "end_date_iso": "2026-07-21T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Frizgility",
+          "Greedy",
+          "Throw N Go"
         ],
         "when_text": "07/21/2026",
         "event_dates": [
@@ -4205,6 +4002,33 @@
       }
     },
     {
+      "id": "1b3c02b2090913dbc05e61c7b1d3fb0357dc7311fd31ee6ab785dc56a00932a8",
+      "title": "Lumsden, SK, CA - Aug 3rd - Regina Disc Dog Club",
+      "url": "https://updogchallenge.com/events/lumsden-sk-ca-aug-3rd-regina-disc-dog-club/",
+      "details": {
+        "title": "Lumsden, SK, CA – Aug 3rd – Regina Disc Dog Club",
+        "club_name": "Regina Disc Dog Club",
+        "contact_name": "Margaret Lewis",
+        "contact_email": "lewism40@gmail.com",
+        "event_address": "Re+ Riding arena, Lumsden, Sask S4T 6J7, Canada",
+        "start_date": "8/3/2026",
+        "start_date_iso": "2026-08-03T00:00:00",
+        "notification_date": "2026-08-03",
+        "end_date": "8/3/2026",
+        "end_date_iso": "2026-08-03T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points only trial, no placement awards",
+        "when_text": "08/03/2026",
+        "event_dates": [
+          "8/3/2026"
+        ]
+      }
+    },
+    {
       "id": "84f3c8a625b6966045e882cfebabadfc89fafff6df7310e43e9ba4e77f993b1d",
       "title": "Rochester, MN, US - Aug 3rd - Bite Club - Rochester Frisbee Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-aug-3rd-bite-club-rochester-frisbee-dogs/",
@@ -5201,6 +5025,38 @@
       }
     },
     {
+      "id": "f48f0a35994140b1aa90e9de2f62bdc79da344bd00751aa0aa6339c8ec175c3d",
+      "title": "Punta Gorda, FL, US - Aug 8th - K9 Sports Events",
+      "url": "https://updogchallenge.com/events/punta-gorda-fl-us-aug-8th-k9-sports-events/",
+      "details": {
+        "title": "Punta Gorda, FL, US – Aug 8th – K9 Sports Events",
+        "club_name": "k9sportsevents",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "2551 Taylor Rd, Punta Gorda, FL 33950, United States",
+        "start_date": "8/8/2026",
+        "start_date_iso": "2026-08-08T00:00:00",
+        "notification_date": "2026-08-08",
+        "end_date": "8/8/2026",
+        "end_date_iso": "2026-08-08T00:00:00",
+        "start_time": "3:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "FunKey",
+          "7Up",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Rounds are $20 per team. Please only select 4 rounds. If time permits there will be 1 free round of Wildcard (choose a game)",
+        "prereg_url": "https://forms.gle/7a1Xq8QqHsUqUvUw9",
+        "when_text": "08/08/2026",
+        "event_dates": [
+          "8/8/2026"
+        ]
+      }
+    },
+    {
       "id": "c05e244557b05f399f92d33e1d1bb8bbb6631fe5d24548990103cd071cb93dc6",
       "title": "Danville, IN, US - Aug 8th - Clever Girl Disc Dogs",
       "url": "https://updogchallenge.com/events/danville-in-us-aug-8th-clever-girl-disc-dogs/",
@@ -5917,6 +5773,34 @@
           "8/21/2026",
           "8/22/2026",
           "8/23/2026"
+        ]
+      }
+    },
+    {
+      "id": "077bb46a89908f95f48158d466cb12f3c2a2e86a850cbc1796a5803f4a572cb6",
+      "title": "Spruce Grove, AB, CA - Aug 21st - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-aug-21st-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Aug 21st – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, Alberta T7Y 1H7, Canada",
+        "start_date": "8/21/2026",
+        "start_date_iso": "2026-08-21T00:00:00",
+        "notification_date": "2026-08-21",
+        "end_date": "8/21/2026",
+        "end_date_iso": "2026-08-21T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "FunKey",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "when_text": "08/21/2026",
+        "event_dates": [
+          "8/21/2026"
         ]
       }
     },
@@ -7880,6 +7764,44 @@
       }
     },
     {
+      "id": "69ecb87b8bc8055558926495f9c98020afeca8b3cb5befafcb101b28ca20bf7e",
+      "title": "Gray Summit, MO, US - Oct 2nd thru 4th - STLDD",
+      "url": "https://updogchallenge.com/events/gray-summit-mo-us-oct-2nd-thru-4th-stldd/",
+      "details": {
+        "title": "Gray Summit, MO, US – Oct 2nd thru 4th – STLDD",
+        "club_name": "STLDD",
+        "contact_name": "Troy Mool",
+        "contact_email": "stlouisdiscdogs@gmail.com",
+        "event_address": "500 William Danforth Way, Gray Summit, MO 63039, United States",
+        "start_date": "10/2/2026",
+        "start_date_iso": "2026-10-02T00:00:00",
+        "notification_date": "2026-10-02",
+        "end_date": "10/4/2026",
+        "end_date_iso": "2026-10-04T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This event is held at Purina Farms main event field. The field is only 40 yards long so we will play 1.2 field format of SevenUp, and play the games of Boom! and Throw N Go without the last scoring zone .",
+        "prereg_url": "https://form.jotform.com/252237858894171",
+        "when_text": "10/02/2026 - 10/04/2026",
+        "event_dates": [
+          "10/2/2026",
+          "10/3/2026",
+          "10/4/2026"
+        ]
+      }
+    },
+    {
       "id": "dcedf94a01149abe71e980b355b164520946a1caaf87ecc29b524980fee5bf69",
       "title": "Brandon, MB, CA - Oct 3rd & 4th - Crocus Obedience & Kennel Club",
       "url": "https://updogchallenge.com/events/brandon-mb-ca-oct-3rd-4th-crocus-obedience-kennel-club/",
@@ -7935,32 +7857,6 @@
         "event_dates": [
           "10/3/2026",
           "10/4/2026"
-        ]
-      }
-    },
-    {
-      "id": "d814f18d36e78c51f5fcc02c244e62e14969f87291095f3ff86bf31b1f009b72",
-      "title": "Kitimat, BC, CA - Oct 3rd - Kitimat Working Dog Society - Triple Crown",
-      "url": "https://updogchallenge.com/events/kitimat-bc-ca-oct-3rd-kitimat-working-dog-society-triple-crown/",
-      "details": {
-        "title": "Kitimat, BC, CA – Oct 3rd – Kitimat Working Dog Society – Triple Crown",
-        "club_name": "Kitimat Working Dog Society",
-        "contact_name": "Kim Vroon",
-        "contact_email": "kitimatdogclub@gmail.com",
-        "event_address": "BC-37, Kitimat, BC V8C 2K6, Canada",
-        "start_date": "10/3/2026",
-        "start_date_iso": "2026-10-03T00:00:00",
-        "notification_date": "2026-10-03",
-        "end_date": "10/3/2026",
-        "end_date_iso": "2026-10-03T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "5:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/03/2026",
-        "event_dates": [
-          "10/3/2026"
         ]
       }
     },
