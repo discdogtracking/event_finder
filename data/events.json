@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T08:14:01Z",
-  "count": 337,
+  "last_updated": "2026-07-17T08:10:15Z",
+  "count": 334,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,102 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "56d0cb6e0703789deb41b7c77c77f663ffbd35bd06fced51ce17e6cf12642867",
-      "title": "Kinburn, ON, CA - July 16th - Bite Club - Scout's Pals",
-      "url": "https://updogchallenge.com/events/kinburn-on-ca-july-16th-bite-club-scouts-pals/",
-      "details": {
-        "title": "Kinburn, ON, CA – July 16th – Bite Club – Scout’s Pals",
-        "club_name": "Scout’s Pals",
-        "contact_name": "Nicholas Theriault",
-        "contact_email": "nick@scoutspals.ca",
-        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
-        "start_date": "7/16/2026",
-        "start_date_iso": "2026-07-16T00:00:00",
-        "notification_date": "2026-07-16",
-        "end_date": "7/16/2026",
-        "end_date_iso": "2026-07-16T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
-        "when_text": "07/16/2026",
-        "event_dates": [
-          "7/16/2026"
-        ]
-      }
-    },
-    {
-      "id": "0df65ff947ca48d4094f22c6d3d8869170047a6b68bc1ed1338aec9064437226",
-      "title": "Windsor, NS, CA - July 16th - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-july-16th-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – July 16th – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
-        "start_date": "7/16/2026",
-        "start_date_iso": "2026-07-16T00:00:00",
-        "notification_date": "2026-07-16",
-        "end_date": "7/16/2026",
-        "end_date_iso": "2026-07-16T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "when_text": "07/16/2026",
-        "event_dates": [
-          "7/16/2026"
-        ]
-      }
-    },
-    {
-      "id": "ff4f117f32a5d08f9e68ca8127129811a629fcb3eadbcc924ebb3f2baf91f061",
-      "title": "Bunnell, FL, US - July 16th - Bite Club - Daytona Disc Dogs",
-      "url": "https://updogchallenge.com/events/bunnell-fl-us-july-16th-bite-club-daytona-disc-dogs/",
-      "details": {
-        "title": "Bunnell, FL, US – July 16th – Bite Club – Daytona Disc Dogs",
-        "club_name": "Daytona Disc Dogs",
-        "contact_name": "Brian Fidler",
-        "contact_email": "daytonadiscdogs@gmail.com",
-        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
-        "start_date": "7/16/2026",
-        "start_date_iso": "2026-07-16T00:00:00",
-        "notification_date": "2026-07-16",
-        "end_date": "7/16/2026",
-        "end_date_iso": "2026-07-16T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/261746502814154",
-        "when_text": "07/16/2026",
-        "event_dates": [
-          "7/16/2026"
         ]
       }
     },
