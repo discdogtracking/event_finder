@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T08:57:57Z",
-  "count": 309,
+  "last_updated": "2026-07-21T08:28:00Z",
+  "count": 320,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,121 +799,6 @@
       }
     },
     {
-      "id": "dd8a40b60584c440e65722cfc6958dfbcc2124ff095522080c39a7541a61f14b",
-      "title": "Rochester, MN, US - July 20th - Bite Club - Rochester Frisbee Dogs",
-      "url": "https://updogchallenge.com/events/rochester-mn-us-july-20th-bite-club-rochester-frisbee-dogs/",
-      "details": {
-        "title": "Rochester, MN, US – July 20th – Bite Club – Rochester Frisbee Dogs",
-        "club_name": "Rochester Frisbee Dogs",
-        "contact_name": "Abigail Reynolds",
-        "contact_email": "quickwitsbc@gmail.com",
-        "event_address": "2800 W River Pkwy NW, Rochester, MN 55901, United States",
-        "start_date": "7/20/2026",
-        "start_date_iso": "2026-07-20T00:00:00",
-        "notification_date": "2026-07-20",
-        "end_date": "7/20/2026",
-        "end_date_iso": "2026-07-20T00:00:00",
-        "start_time": "3:45 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/20/2026",
-        "event_dates": [
-          "7/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "36ed168f33d476ac7a6cb3172bea633d19c1cec4c96a6cadc86b4317bef82edc",
-      "title": "West St Paul, MN, US - July 20th - Bite Club - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-july-20th-bite-club-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – July 20th – Bite Club – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "jess@thek9coach.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
-        "start_date": "7/20/2026",
-        "start_date_iso": "2026-07-20T00:00:00",
-        "notification_date": "2026-07-20",
-        "end_date": "7/20/2026",
-        "end_date_iso": "2026-07-20T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club",
-        "when_text": "07/20/2026",
-        "event_dates": [
-          "7/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "b572c2372dd0bba53b51011cd080742a022519ec23d5d5cad4fdd110e5c1fb78",
-      "title": "County of Grande Prairie, AB, CA - July 20th - Bite Club - GP Sparkly Purple Unicorns Disc Dog Squad",
-      "url": "https://updogchallenge.com/events/county-of-grande-prairie-ab-ca-july-20th-bite-club-gp-sparkly-purple-unicorns-disc-dog-squad/",
-      "details": {
-        "title": "County of Grande Prairie, AB, CA – July 20th – Bite Club – GP Sparkly Purple Unicorns Disc Dog Squad",
-        "club_name": "GP Sparkly Purple Unicorns Disc Dog Squad",
-        "contact_name": "Tammy/Virginia Brooks/Studer",
-        "contact_email": "virginia.studer91@gmail.com",
-        "event_address": "713002B RR80, County of Grande Prarie, Alberta T0H3S0, Canada",
-        "start_date": "7/20/2026",
-        "start_date_iso": "2026-07-20T00:00:00",
-        "notification_date": "2026-07-20",
-        "end_date": "7/20/2026",
-        "end_date_iso": "2026-07-20T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "10:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "prereg_url": "https://forms.gle/JYhoAX46CHmTCXTSA",
-        "when_text": "07/20/2026",
-        "event_dates": [
-          "7/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "dacd3c557e8e42f6ff0db7cdb478edcfed9b4df6de5ec02aa7c8fc45da8055b2",
-      "title": "Jacksonville, FL, US - July 20th - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/jacksonville-fl-us-july-20th-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Jacksonville, FL, US – July 20th – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, FL 32218, United States",
-        "start_date": "7/20/2026",
-        "start_date_iso": "2026-07-20T00:00:00",
-        "notification_date": "2026-07-20",
-        "end_date": "7/20/2026",
-        "end_date_iso": "2026-07-20T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Spaced Out",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSe6T9dZlwCMMQiwsdCmRY3w7JNgyybVckuyahQMiapAVBBXkg/viewform?usp=dialog",
-        "when_text": "07/20/2026",
-        "event_dates": [
-          "7/20/2026"
-        ]
-      }
-    },
-    {
       "id": "47aa281f041f6c85254aacb6662fae256804f591bd5df8bcc49a26c273daa8ef",
       "title": "Pilot Butte, SK, CA - July 21st - Bite Club - Encore Disc Dog Club",
       "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-july-21st-bite-club-encore-disc-dog-club/",
@@ -1101,31 +986,31 @@
       }
     },
     {
-      "id": "903f958cd81b4e33c7186bb290c663067305b302966547b138bb52831e596084",
-      "title": "Hampton, ON, CA - July 22nd - Bite Club - Scugog Disc Dog",
-      "url": "https://updogchallenge.com/events/hampton-on-ca-july-22nd-bite-club-scugog-disc-dog/",
+      "id": "749554478ea1a521578e9deb24b11be8df07fff8355ffac9d0d4ab932e29db4b",
+      "title": "Colchester, CT, US - July 22nd - Bite Club - Central K9",
+      "url": "https://updogchallenge.com/events/colchester-ct-us-july-22nd-bite-club-central-k9/",
       "details": {
-        "title": "Hampton, ON, CA – July 22nd – Bite Club – Scugog Disc Dog",
-        "club_name": "Scugog Disc Dog",
-        "contact_name": "Kate Gartley",
-        "contact_email": "scugogdiscdog@mail.com",
-        "event_address": "Furry Friends Pet Resort, 5455 Langmaid Road, Hampton, Ontario L0B 1J0, Canada",
+        "title": "Colchester, CT, US – July 22nd – Bite Club – Central K9",
+        "club_name": "Central K9",
+        "contact_name": "Shelby Dumond",
+        "contact_email": "shelby.dumond@gmail.com",
+        "event_address": "493 Norwich Ave, Colchester, CT 06415, United States",
         "start_date": "7/22/2026",
         "start_date_iso": "2026-07-22T00:00:00",
         "notification_date": "2026-07-22",
         "end_date": "7/22/2026",
         "end_date_iso": "2026-07-22T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
+        "start_time": "6:15 PM",
+        "end_time": "8:15 PM",
         "games": [
           "Fireball",
           "Four Way Play",
           "Greedy",
           "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
+          "Throw N Go",
+          "Time Warp"
         ],
-        "additional_event_information_for_participants": "Website –\nhttps://scugogdiscdog.com/home",
+        "prereg_url": "https://forms.gle/9SBeXUReoa3mnbPT9",
         "when_text": "07/22/2026",
         "event_dates": [
           "7/22/2026"
@@ -1279,6 +1164,32 @@
       }
     },
     {
+      "id": "94216c93bfd004a07a7c216d9edd77ed75d972236514e736948a4c73ded93e41",
+      "title": "Kelowna, BC, CA - July 22nd - Bite Club - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-july-22nd-bite-club-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – July 22nd – Bite Club – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Tia Itterman",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "1035 Hollywood Rd, Kelowna, BC V1X 1A2, Canada",
+        "start_date": "7/22/2026",
+        "start_date_iso": "2026-07-22T00:00:00",
+        "notification_date": "2026-07-22",
+        "end_date": "7/22/2026",
+        "end_date_iso": "2026-07-22T00:00:00",
+        "start_time": "6:45 PM",
+        "end_time": "8:45 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "07/22/2026",
+        "event_dates": [
+          "7/22/2026"
+        ]
+      }
+    },
+    {
       "id": "2e8c4c385d505cfb1fc24f099ef91c66fc135b2ac12e7fdb9c6e0a932fbf6c78",
       "title": "Kinburn, ON, CA - July 23rd - Bite Club - Scout's Pals",
       "url": "https://updogchallenge.com/events/kinburn-on-ca-july-23rd-bite-club-scouts-pals/",
@@ -1371,6 +1282,33 @@
         "when_text": "07/23/2026",
         "event_dates": [
           "7/23/2026"
+        ]
+      }
+    },
+    {
+      "id": "cb5b566ad154ebb8ede806c2191223ffa8627fc1f00468e6faa88cfa6780366c",
+      "title": "Mohnton, PA, US - July 24th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-july-24th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – July 24th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
+        "start_date": "7/24/2026",
+        "start_date_iso": "2026-07-24T00:00:00",
+        "notification_date": "2026-07-24",
+        "end_date": "7/24/2026",
+        "end_date_iso": "2026-07-24T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Start time will be determined by weather.",
+        "when_text": "07/24/2026",
+        "event_dates": [
+          "7/24/2026"
         ]
       }
     },
@@ -1855,6 +1793,38 @@
       }
     },
     {
+      "id": "3112ef9648d5e7c2663dd6f49a95d8d8cbe4b6995be60d395e8189c0208fc945",
+      "title": "Colchester, CT, US - July 27th - Bite Club - Central K9",
+      "url": "https://updogchallenge.com/events/colchester-ct-us-july-27th-bite-club-central-k9/",
+      "details": {
+        "title": "Colchester, CT, US – July 27th – Bite Club – Central K9",
+        "club_name": "Central K9",
+        "contact_name": "Shelby Dumond",
+        "contact_email": "shelby.dumond@gmail.com",
+        "event_address": "493 Norwich Ave, Colchester, CT 06415, United States",
+        "start_date": "7/27/2026",
+        "start_date_iso": "2026-07-27T00:00:00",
+        "notification_date": "2026-07-27",
+        "end_date": "7/27/2026",
+        "end_date_iso": "2026-07-27T00:00:00",
+        "start_time": "6:15 PM",
+        "end_time": "8:15 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/9SBeXUReoa3mnbPT9",
+        "when_text": "07/27/2026",
+        "event_dates": [
+          "7/27/2026"
+        ]
+      }
+    },
+    {
       "id": "a8a8ab0c90bc644b40c9dd94209a0179f56593d60b40d0d29a8145273261a03c",
       "title": "Rochester, MN, US - July 27th - Bite Club - Rochester Frisbee Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-july-27th-bite-club-rochester-frisbee-dogs/",
@@ -2126,31 +2096,26 @@
       }
     },
     {
-      "id": "3fe3c5940b1cada6dace12651b9e02690c16d433cf8eea4d5c76befb11fa4955",
-      "title": "Hampton, ON, CA - July 29th - Bite Club - Scugog Disc Dog",
-      "url": "https://updogchallenge.com/events/hampton-on-ca-july-29th-bite-club-scugog-disc-dog/",
+      "id": "5a86e4bacfa3124fca8545850221839500d940107b29caf0277f5d078b1f8abb",
+      "title": "Mohnton, PA, US - July 29th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-july-29th-reading-disc-dogs/",
       "details": {
-        "title": "Hampton, ON, CA – July 29th – Bite Club – Scugog Disc Dog",
-        "club_name": "Scugog Disc Dog",
-        "contact_name": "Kate Gartley",
-        "contact_email": "scugogdiscdog@mail.com",
-        "event_address": "Furry Friends Pet Resort, 5455 Langmaid Road, Hampton, Ontario L0B 1J0, Canada",
+        "title": "Mohnton, PA, US – July 29th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
         "start_date": "7/29/2026",
         "start_date_iso": "2026-07-29T00:00:00",
         "notification_date": "2026-07-29",
         "end_date": "7/29/2026",
         "end_date_iso": "2026-07-29T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
+        "start_time": "8:00 AM",
+        "end_time": "9:00 PM",
         "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
+          "To Be Determined"
         ],
-        "additional_event_information_for_participants": "Website –\nhttps://scugogdiscdog.com/home",
+        "additional_event_information_for_participants": "Start time will be determined by weather.",
         "when_text": "07/29/2026",
         "event_dates": [
           "7/29/2026"
@@ -2331,6 +2296,59 @@
         "when_text": "07/29/2026",
         "event_dates": [
           "7/29/2026"
+        ]
+      }
+    },
+    {
+      "id": "096537bd99fa4b8e6aa827812f200c3e4d0e0a3a8af04de3542efd449c9415e0",
+      "title": "Kelowna, BC, CA - July 29th - Bite Club - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-july-29th-bite-club-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – July 29th – Bite Club – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Tia Itterman",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "1035 Hollywood Rd, Kelowna, BC V1X 1A2, Canada",
+        "start_date": "7/29/2026",
+        "start_date_iso": "2026-07-29T00:00:00",
+        "notification_date": "2026-07-29",
+        "end_date": "7/29/2026",
+        "end_date_iso": "2026-07-29T00:00:00",
+        "start_time": "6:45 PM",
+        "end_time": "8:45 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "07/29/2026",
+        "event_dates": [
+          "7/29/2026"
+        ]
+      }
+    },
+    {
+      "id": "e757a3c869cee31139706e138cc3cb9dafee3d0c5c5a80801229a4a662767a66",
+      "title": "Mohnton, PA, US - July 30th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-july-30th-reading-disc-dogs-2/",
+      "details": {
+        "title": "Mohnton, PA, US – July 30th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
+        "start_date": "7/30/2026",
+        "start_date_iso": "2026-07-30T00:00:00",
+        "notification_date": "2026-07-30",
+        "end_date": "7/30/2026",
+        "end_date_iso": "2026-07-30T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Start time will be determined by weather.",
+        "when_text": "07/30/2026",
+        "event_dates": [
+          "7/30/2026"
         ]
       }
     },
@@ -3070,6 +3088,38 @@
       }
     },
     {
+      "id": "bc1e67fad231ae0fac0f0a744edd95e4568b8631a2b5f731e019e4930308b02b",
+      "title": "Colchester, CT, US - Aug 3rd - Bite Club - Central K9",
+      "url": "https://updogchallenge.com/events/colchester-ct-us-aug-3rd-bite-club-central-k9/",
+      "details": {
+        "title": "Colchester, CT, US – Aug 3rd – Bite Club – Central K9",
+        "club_name": "Central K9",
+        "contact_name": "Shelby Dumond",
+        "contact_email": "shelby.dumond@gmail.com",
+        "event_address": "493 Norwich Ave, Colchester, CT 06415, United States",
+        "start_date": "8/3/2026",
+        "start_date_iso": "2026-08-03T00:00:00",
+        "notification_date": "2026-08-03",
+        "end_date": "8/3/2026",
+        "end_date_iso": "2026-08-03T00:00:00",
+        "start_time": "6:15 PM",
+        "end_time": "8:15 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://forms.gle/9SBeXUReoa3mnbPT9",
+        "when_text": "08/03/2026",
+        "event_dates": [
+          "8/3/2026"
+        ]
+      }
+    },
+    {
       "id": "2f522be2757962cd3be8093c59725415c87464f9c3826b74a4e7d451e5752c7d",
       "title": "Petersfield, MB, CA - Aug 3rd - River City Disc Dogs",
       "url": "https://updogchallenge.com/events/petersfield-mb-ca-aug-3rd-river-city-disc-dogs/",
@@ -3396,38 +3446,6 @@
       }
     },
     {
-      "id": "c562eaa731209ba631e5f311e5d0bfb113979613acc7c72be32c0995d1ae1a35",
-      "title": "Hampton, ON, CA - Aug 5th - Bite Club - Scugog Disc Dog",
-      "url": "https://updogchallenge.com/events/hampton-on-ca-aug-5th-bite-club-scugog-disc-dog/",
-      "details": {
-        "title": "Hampton, ON, CA – Aug 5th – Bite Club – Scugog Disc Dog",
-        "club_name": "Scugog Disc Dog",
-        "contact_name": "Kate Gartley",
-        "contact_email": "scugogdiscdog@mail.com",
-        "event_address": "Furry Friends Pet Resort, 5455 Langmaid Road, Hampton, Ontario L0B 1J0, Canada",
-        "start_date": "8/5/2026",
-        "start_date_iso": "2026-08-05T00:00:00",
-        "notification_date": "2026-08-05",
-        "end_date": "8/5/2026",
-        "end_date_iso": "2026-08-05T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Time Warp",
-          "Pairs Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Website –\nhttps://scugogdiscdog.com/home",
-        "when_text": "08/05/2026",
-        "event_dates": [
-          "8/5/2026"
-        ]
-      }
-    },
-    {
       "id": "b024b15ae6cefcbeeb737e2ea5ec60286d3e55050f9c2f6a2723c58649685379",
       "title": "Oromocto, NB, CA - Aug 5th - Bite Club - Oromocto Disc Dog Club",
       "url": "https://updogchallenge.com/events/oromocto-nb-ca-aug-5th-bite-club-oromocto-disc-dog-club/",
@@ -3515,6 +3533,59 @@
         "when_text": "08/05/2026",
         "event_dates": [
           "8/5/2026"
+        ]
+      }
+    },
+    {
+      "id": "975025378232d331efbebc3463b58d2b2be30b3f26c3d97117e945c177e04d4b",
+      "title": "Kelowna, BC, CA - Aug 5th - Bite Club - Kelowna Disc Dogs",
+      "url": "https://updogchallenge.com/events/kelowna-bc-ca-aug-5th-bite-club-kelowna-disc-dogs/",
+      "details": {
+        "title": "Kelowna, BC, CA – Aug 5th – Bite Club – Kelowna Disc Dogs",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Tia Itterman",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "1035 Hollywood Rd, Kelowna, BC V1X 1A2, Canada",
+        "start_date": "8/5/2026",
+        "start_date_iso": "2026-08-05T00:00:00",
+        "notification_date": "2026-08-05",
+        "end_date": "8/5/2026",
+        "end_date_iso": "2026-08-05T00:00:00",
+        "start_time": "6:45 PM",
+        "end_time": "8:45 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "08/05/2026",
+        "event_dates": [
+          "8/5/2026"
+        ]
+      }
+    },
+    {
+      "id": "31a0e9e5212112771f75a51d0118b8d3fbdbc2230c57e55fa0c1143172fd0b7f",
+      "title": "Mohnton, PA, US - Aug 6th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-aug-6th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Aug 6th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
+        "start_date": "8/6/2026",
+        "start_date_iso": "2026-08-06T00:00:00",
+        "notification_date": "2026-08-06",
+        "end_date": "8/6/2026",
+        "end_date_iso": "2026-08-06T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Start time will be determined by weather.",
+        "when_text": "08/06/2026",
+        "event_dates": [
+          "8/6/2026"
         ]
       }
     },
@@ -3611,6 +3682,33 @@
         "when_text": "08/06/2026",
         "event_dates": [
           "8/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "65dcf9499578a552154f2e7b6b522a895efe3e64fa84f41bf6b17e1f3e871612",
+      "title": "Mohnton, PA, US - Aug 7th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-aug-7th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Aug 7th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
+        "start_date": "8/7/2026",
+        "start_date_iso": "2026-08-07T00:00:00",
+        "notification_date": "2026-08-07",
+        "end_date": "8/7/2026",
+        "end_date_iso": "2026-08-07T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Start time will be determined by weather.",
+        "when_text": "08/07/2026",
+        "event_dates": [
+          "8/7/2026"
         ]
       }
     },
@@ -4177,6 +4275,35 @@
       }
     },
     {
+      "id": "538db39322ca8f5500ae4c1892e0eca0cc289e3a0597f5ac1c4d6dc920217ef0",
+      "title": "Hillsboro, AL, US - Aug 9th - Unhinged Canines",
+      "url": "https://updogchallenge.com/events/hillsboro-al-us-aug-9th-unhinged-canines/",
+      "details": {
+        "title": "Hillsboro, AL, US – Aug 9th – Unhinged Canines",
+        "club_name": "Unhinged Canines",
+        "contact_name": "Aslyn Estill",
+        "contact_email": "unhingedcanines@gmail.com",
+        "event_address": "439 Co Rd 413, Hillsboro, AL 35643-3726, United States",
+        "start_date": "8/9/2026",
+        "start_date_iso": "2026-08-09T00:00:00",
+        "notification_date": "2026-08-09",
+        "end_date": "8/9/2026",
+        "end_date_iso": "2026-08-09T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "Four Way Play",
+          "Greedy",
+          "Time Warp"
+        ],
+        "prereg_url": "https://form.jotform.com/261898327921166",
+        "when_text": "08/09/2026",
+        "event_dates": [
+          "8/9/2026"
+        ]
+      }
+    },
+    {
       "id": "b03711ca8fdff1799ff18444bea21d568640c1451637167e47650f3a146559d3",
       "title": "Great Village, NS, CA - Aug 9th - Bite Club - Colchester DDC",
       "url": "https://updogchallenge.com/events/great-village-ns-ca-aug-9th-bite-club-colchester-ddc/",
@@ -4315,6 +4442,34 @@
         "when_text": "08/11/2026",
         "event_dates": [
           "8/11/2026"
+        ]
+      }
+    },
+    {
+      "id": "5dd169df56a9bba40dd9293a115ea3254904375425392095a28e3f0bad66bb73",
+      "title": "Indianapolis, IN, US - Aug 12th - Indy Dog and Disc Club",
+      "url": "https://updogchallenge.com/events/indianapolis-in-us-aug-12th-indy-dog-and-disc-club/",
+      "details": {
+        "title": "Indianapolis, IN, US – Aug 12th – Indy Dog and Disc Club",
+        "club_name": "Indy Dog and Disc Club",
+        "contact_name": "Sheridan Gilchrist",
+        "contact_email": "Sheridangi@aol.com",
+        "event_address": "1790 E 54Tth St., Indianapolis, Indiana 46220, United States",
+        "start_date": "8/12/2026",
+        "start_date_iso": "2026-08-12T00:00:00",
+        "notification_date": "2026-08-12",
+        "end_date": "8/12/2026",
+        "end_date_iso": "2026-08-12T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Fireball",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "This will be the culminating event for our UpDog practice league starting July 15",
+        "when_text": "08/12/2026",
+        "event_dates": [
+          "8/12/2026"
         ]
       }
     },
@@ -5210,6 +5365,33 @@
       }
     },
     {
+      "id": "66e15e52bb26a48d860dcd0453a42549e7b523b631c9dd5a455d99751dc45367",
+      "title": "Mohnton, PA, US - Aug 26th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-aug-26th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Aug 26th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
+        "start_date": "8/26/2026",
+        "start_date_iso": "2026-08-26T00:00:00",
+        "notification_date": "2026-08-26",
+        "end_date": "8/26/2026",
+        "end_date_iso": "2026-08-26T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Start time will be determined by weather.",
+        "when_text": "08/26/2026",
+        "event_dates": [
+          "8/26/2026"
+        ]
+      }
+    },
+    {
       "id": "a5ad155298ce360a8f38ce176e9f25e0543a24edca3a58f200022e7645e4c12e",
       "title": "Houston, TX, US - Aug 26th - Houston Canine Frisbee Disc Club",
       "url": "https://updogchallenge.com/events/houston-tx-us-aug-26th-houston-canine-frisbee-disc-club/",
@@ -5234,6 +5416,33 @@
         "when_text": "08/26/2026",
         "event_dates": [
           "8/26/2026"
+        ]
+      }
+    },
+    {
+      "id": "2d82f139bfa51f1580694f0ec567285a6180b0e787b1a06005836899f1133a36",
+      "title": "Mohnton, PA, US - Aug 28th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-aug-28th-reading-disc-dogs-2/",
+      "details": {
+        "title": "Mohnton, PA, US – Aug 28th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
+        "start_date": "8/28/2026",
+        "start_date_iso": "2026-08-28T00:00:00",
+        "notification_date": "2026-08-28",
+        "end_date": "8/28/2026",
+        "end_date_iso": "2026-08-28T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Start time will be determined by weather.",
+        "when_text": "08/28/2026",
+        "event_dates": [
+          "8/28/2026"
         ]
       }
     },
@@ -7101,6 +7310,32 @@
       }
     },
     {
+      "id": "e1906bc8d45fc2fb296c4c9f4f005f130714064978f9790fd9b445d8e58490b1",
+      "title": "Great Village, NS, CA - Oct 4th - Colchester DDC",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-oct-4th-colchester-ddc/",
+      "details": {
+        "title": "Great Village, NS, CA – Oct 4th – Colchester DDC",
+        "club_name": "Colchester DDC",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
+        "start_date": "10/4/2026",
+        "start_date_iso": "2026-10-04T00:00:00",
+        "notification_date": "2026-10-04",
+        "end_date": "10/4/2026",
+        "end_date_iso": "2026-10-04T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "10/04/2026",
+        "event_dates": [
+          "10/4/2026"
+        ]
+      }
+    },
+    {
       "id": "15c0496af8351d664e718ca85fb3d7c7c657980dc32dc0629a45d2eaffb2930a",
       "title": "Greenfield, MA, US - Oct 9th thru 11th - Face to Face Disc",
       "url": "https://updogchallenge.com/events/greenfield-ma-us-oct-9th-thru-11th-face-to-face-disc/",
@@ -7870,6 +8105,32 @@
       }
     },
     {
+      "id": "1aebb00b99424c6f99dd8b02ffd5f1b32954bebbabd4fc98a9384f2ed677a8d6",
+      "title": "Columbus, OH, US - Oct 24th - Catch em All Canines",
+      "url": "https://updogchallenge.com/events/columbus-oh-us-oct-24th-catch-em-all-canines/",
+      "details": {
+        "title": "Columbus, OH, US – Oct 24th – Catch em All Canines",
+        "club_name": "Catch em All Canines",
+        "contact_name": "Amanda Burkhart",
+        "contact_email": "help@catchemallcanines.com",
+        "event_address": "John F. Wolfe Columbus Commons, 160 S High St, Columbus, OH 43215, United States",
+        "start_date": "10/24/2026",
+        "start_date_iso": "2026-10-24T00:00:00",
+        "notification_date": "2026-10-24",
+        "end_date": "10/24/2026",
+        "end_date_iso": "2026-10-24T00:00:00",
+        "start_time": "9:00 AM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Event hosted with Gigi’s Walkin the Dog 2026 Event. Check catch em all canines Facebook group for the most up to date information.",
+        "when_text": "10/24/2026",
+        "event_dates": [
+          "10/24/2026"
+        ]
+      }
+    },
+    {
       "id": "4b590a2f89e5df5af193569caeaa1cbd70fb9ced6219277cba4dfbf6598bc388",
       "title": "Lutz, FL, US - Oct 24th & 25th - CFDDC",
       "url": "https://updogchallenge.com/events/lutz-fl-us-oct-24th-25th-cfddc/",
@@ -8406,6 +8667,32 @@
           "Time Warp"
         ],
         "additional_event_information_for_participants": "On 10/17, we will be playing one round of Four Way Play, Throw N Go Level 2, Time Warp, and Spaced Out to complete Bite Club Weeks 1+2 before opening up the field for walk-up style games.\nOn 10/31, will be playing one round of Four Way Play, Greedy, Throw N Go Level 1, and Fireball for Bite Club Weeks 3+4.\nThe field is a 3×3 format and is fully fenced. A roll call will be posted on the NashVertical facebook page the week prior to each event. facebook.com/nashverticaldiscdogs",
+        "when_text": "10/31/2026",
+        "event_dates": [
+          "10/31/2026"
+        ]
+      }
+    },
+    {
+      "id": "bbe882d4de26126063830de59b5c7fdcdd3b31c3a1f58dcf82a7379d9f30be55",
+      "title": "Great Village, NS, CA - Oct 31st - Colchester DDC",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-oct-31st-colchester-ddc/",
+      "details": {
+        "title": "Great Village, NS, CA – Oct 31st – Colchester DDC",
+        "club_name": "Colchester DDC",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
+        "start_date": "10/31/2026",
+        "start_date_iso": "2026-10-31T00:00:00",
+        "notification_date": "2026-10-31",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
         "when_text": "10/31/2026",
         "event_dates": [
           "10/31/2026"
