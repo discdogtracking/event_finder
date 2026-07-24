@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T08:30:45Z",
-  "count": 310,
+  "last_updated": "2026-07-24T08:26:38Z",
+  "count": 313,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,102 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "2e8c4c385d505cfb1fc24f099ef91c66fc135b2ac12e7fdb9c6e0a932fbf6c78",
-      "title": "Kinburn, ON, CA - July 23rd - Bite Club - Scout's Pals",
-      "url": "https://updogchallenge.com/events/kinburn-on-ca-july-23rd-bite-club-scouts-pals/",
-      "details": {
-        "title": "Kinburn, ON, CA – July 23rd – Bite Club – Scout’s Pals",
-        "club_name": "Scout’s Pals",
-        "contact_name": "Nicholas Theriault",
-        "contact_email": "nick@scoutspals.ca",
-        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
-        "start_date": "7/23/2026",
-        "start_date_iso": "2026-07-23T00:00:00",
-        "notification_date": "2026-07-23",
-        "end_date": "7/23/2026",
-        "end_date_iso": "2026-07-23T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
-        "when_text": "07/23/2026",
-        "event_dates": [
-          "7/23/2026"
-        ]
-      }
-    },
-    {
-      "id": "8b0f9f9194cc9fad0173bbde0fefb7f44ce41fb3a34835697b0200e43eaa76ef",
-      "title": "Windsor, NS, CA - July 23rd - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-july-23rd-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – July 23rd – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
-        "start_date": "7/23/2026",
-        "start_date_iso": "2026-07-23T00:00:00",
-        "notification_date": "2026-07-23",
-        "end_date": "7/23/2026",
-        "end_date_iso": "2026-07-23T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "when_text": "07/23/2026",
-        "event_dates": [
-          "7/23/2026"
-        ]
-      }
-    },
-    {
-      "id": "1cd453ae5a5c4af7dc1d06c9e76ed9f5a01e671bbcda5cd90be2b83f2ded321b",
-      "title": "Bunnell, FL, US - July 23rd - Bite Club - Daytona Disc Dogs",
-      "url": "https://updogchallenge.com/events/bunnell-fl-us-july-23rd-bite-club-daytona-disc-dogs/",
-      "details": {
-        "title": "Bunnell, FL, US – July 23rd – Bite Club – Daytona Disc Dogs",
-        "club_name": "Daytona Disc Dogs",
-        "contact_name": "Brian Fidler",
-        "contact_email": "daytonadiscdogs@gmail.com",
-        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
-        "start_date": "7/23/2026",
-        "start_date_iso": "2026-07-23T00:00:00",
-        "notification_date": "2026-07-23",
-        "end_date": "7/23/2026",
-        "end_date_iso": "2026-07-23T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/261746502814154",
-        "when_text": "07/23/2026",
-        "event_dates": [
-          "7/23/2026"
         ]
       }
     },
@@ -5310,6 +5214,35 @@
       }
     },
     {
+      "id": "57ee8b326802de543be667b29c60f1cdf7f76b0302f9f61c450e397343d21250",
+      "title": "Pine Grove, PA, US - Sept 4th thru 6th - Reading Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/pine-grove-pa-us-sept-4th-thru-6th-reading-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Pine Grove, PA, US – Sept 4th thru 6th – Reading Disc Dogs – Triple Crown",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "918 Long Run Rd, Pine Grove, Pa 17963, United States",
+        "start_date": "9/4/2026",
+        "start_date_iso": "2026-09-04T00:00:00",
+        "notification_date": "2026-09-04",
+        "end_date": "9/6/2026",
+        "end_date_iso": "2026-09-06T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Friday PM Beginner Disc and beginner games Monday morning limited runs",
+        "when_text": "09/04/2026 - 09/06/2026",
+        "event_dates": [
+          "9/4/2026",
+          "9/5/2026",
+          "9/6/2026"
+        ]
+      }
+    },
+    {
       "id": "4eb7e6a467ce26a10065a608ca0f9852b97b8c904f2d6dc221c38b7c93862212",
       "title": "Garland, TX, US - Sept 4th & 5th - UpDog Dallas - Triple Crown",
       "url": "https://updogchallenge.com/events/garland-tx-us-sept-4th-5th-updog-dallas-triple-crown/",
@@ -5333,6 +5266,64 @@
         "when_text": "09/04/2026 - 09/05/2026",
         "event_dates": [
           "9/4/2026",
+          "9/5/2026"
+        ]
+      }
+    },
+    {
+      "id": "6927bd97515ade980b060e170993135b633aebfd188363484f84ac9f8ec92309",
+      "title": "Abbotsford, BC, CA - Sept 5th & 6th - Abbotsford Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/abbotsford-bc-ca-sept-5th-6th-abbotsford-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Abbotsford, BC, CA – Sept 5th & 6th – Abbotsford Disc Dogs – Triple Crown",
+        "club_name": "Abbotsford Disc Dogs",
+        "contact_name": "Naomi Simpson",
+        "contact_email": "abbotsforddiscdogs@gmail.com",
+        "event_address": "18 Ross Rd, Abbotsford, BC V4X2M5, Canada",
+        "start_date": "9/5/2026",
+        "start_date_iso": "2026-09-05T00:00:00",
+        "notification_date": "2026-09-05",
+        "end_date": "9/6/2026",
+        "end_date_iso": "2026-09-06T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "09/05/2026 - 09/06/2026",
+        "event_dates": [
+          "9/5/2026",
+          "9/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "73e598e8aa3ce136d24e9b642e3de7842e011ed4fc9dfde35187e61b03d08e41",
+      "title": "Cedar, BC, CA - Sept 5th - Van Isle Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/cedar-bc-ca-sept-5th-van-isle-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Cedar, BC, CA – Sept 5th – Van Isle Disc Dogs – Triple Crown",
+        "club_name": "Van Isle Disc Dogs",
+        "contact_name": "Erin Lucier",
+        "contact_email": "erin@wagtails.training",
+        "event_address": "1640 Macmillan Road, Cedar, BC V9X 1L9, Canada",
+        "start_date": "9/5/2026",
+        "start_date_iso": "2026-09-05T00:00:00",
+        "notification_date": "2026-09-05",
+        "end_date": "9/5/2026",
+        "end_date_iso": "2026-09-05T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "09/05/2026",
+        "event_dates": [
           "9/5/2026"
         ]
       }
@@ -5592,6 +5583,35 @@
           "Greedy",
           "Spaced Out"
         ],
+        "when_text": "09/06/2026",
+        "event_dates": [
+          "9/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "6b6a8c8974c1624530c62e03b53bf8d2346685e680362efd05eb2e501dd9475e",
+      "title": "Port Saint Lucie, FL, US - Sept 6th - Disc Dogs of Treasure Coast - Triple Crown",
+      "url": "https://updogchallenge.com/events/port-saint-lucie-fl-us-sept-6th-disc-dogs-of-treasure-coast-triple-crown/",
+      "details": {
+        "title": "Port Saint Lucie, FL, US – Sept 6th – Disc Dogs of Treasure Coast – Triple Crown",
+        "club_name": "Disc Dogs of Treasure Coast",
+        "contact_name": "Julie Spring",
+        "contact_email": "discdogsoftreasurecoast@gmail.com",
+        "event_address": "1450 SW Heatherwood Blvd, Port Saint Lucie, FL 34986, United States",
+        "start_date": "9/6/2026",
+        "start_date_iso": "2026-09-06T00:00:00",
+        "notification_date": "2026-09-06",
+        "end_date": "9/6/2026",
+        "end_date_iso": "2026-09-06T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfTreasureCoast/TRIPLECROWN2026",
         "when_text": "09/06/2026",
         "event_dates": [
           "9/6/2026"
@@ -5885,9 +5905,9 @@
         "start_time": "8:30 AM",
         "end_time": "5:00 PM",
         "games": [
-          "To Be Determined"
+          "Spaced Out, Throw N Go, Time Warp, Frizgility, 7Up"
         ],
-        "additional_event_information_for_participants": "This event will be part of the Triple Crown. Waiting on UpDog to announce games. We will also be hosting the World Wide Toss & Fetch World Championships on Sunday 9/13.",
+        "additional_event_information_for_participants": "This event will be part of the Triple Crown. We will also be hosting the World Wide Toss & Fetch World Championships on Sunday 9/13.\nregistration form:\nhttps://bit.ly/3RFy48v\nLive Fact Sheet:\nhttps://bit.ly/3TgZF05",
         "when_text": "09/12/2026",
         "event_dates": [
           "9/12/2026"
@@ -6010,10 +6030,10 @@
     },
     {
       "id": "445fcc0d65c6d96875e61854504fb2da28270477b184042f4a829e746549ec47",
-      "title": "Hopkinton, MA, US - Sept 13th - The Fetch Collective",
+      "title": "Hopkinton, MA, US - Sept 13th - The Fetch Collective - Triple Crown",
       "url": "https://updogchallenge.com/events/hopkinton-ma-us-sept-13th-the-fetch-collective/",
       "details": {
-        "title": "Hopkinton, MA, US – Sept 13th – The Fetch Collective",
+        "title": "Hopkinton, MA, US – Sept 13th – The Fetch Collective – Triple Crown",
         "club_name": "The Fetch Collective",
         "contact_name": "Leah Lodato",
         "contact_email": "fetchcollectiveclub@gmail.com",
@@ -6511,6 +6531,44 @@
       }
     },
     {
+      "id": "1da132e72d2d7f598f9595679e9b6ed089407a818ec3f0f6dc8cf4e3f477571c",
+      "title": "Kitimat, BC, CA - Sept 26th & 27th - Kitimat Working Dog Society - Triple Crown",
+      "url": "https://updogchallenge.com/events/kitimat-bc-ca-sept-26th-27th-kitimat-working-dog-society-triple-crown/",
+      "details": {
+        "title": "Kitimat, BC, CA – Sept 26th & 27th – Kitimat Working Dog Society – Triple Crown",
+        "club_name": "Kitimat Working Dog Society",
+        "contact_name": "Kim Vroon",
+        "contact_email": "kitimatdogclub@gmail.com",
+        "event_address": "654 W Columbia Ave, Kitimat, BC V8C1V5, Canada",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "when_text": "09/26/2026 - 09/27/2026",
+        "event_dates": [
+          "9/26/2026",
+          "9/27/2026"
+        ]
+      }
+    },
+    {
       "id": "61a2238c870484f0a5f62a590bb9465f33c2caedf95b60b23c64a125671f8c05",
       "title": "Northfield, VT, US - Sept 26th & 27th - Green Mountain Dog Camp",
       "url": "https://updogchallenge.com/events/northfield-vt-us-sept-26th-27th-green-mountain-dog-camp/",
@@ -6672,6 +6730,43 @@
           "10/2/2026",
           "10/3/2026",
           "10/4/2026"
+        ]
+      }
+    },
+    {
+      "id": "07b0b43b1043e45f6ad1928059fcfbc5b58ef96b76ffa2abae574ad7900f3347",
+      "title": "Gallatin, TN, US - Oct 2nd & 3rd - Cal K9s",
+      "url": "https://updogchallenge.com/events/gallatin-tn-us-oct-2nd-3rd-cal-k9s/",
+      "details": {
+        "title": "Gallatin, TN, US – Oct 2nd & 3rd – Cal K9s",
+        "club_name": "CAL K9s",
+        "contact_name": "Jodi Mo",
+        "contact_email": "jodiweatherford@gmail.com",
+        "event_address": "941 Wallace rd, Gallatin, TN 37066, United States",
+        "start_date": "10/2/2026",
+        "start_date_iso": "2026-10-02T00:00:00",
+        "notification_date": "2026-10-02",
+        "end_date": "10/3/2026",
+        "end_date_iso": "2026-10-03T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "10:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Friday is disc only games, walk up style. Start 1:00pm.\nSaturday is Triple Crown games followed by agility games. Start 10am\nAwards for Triple Crown games.",
+        "when_text": "10/02/2026 - 10/03/2026",
+        "event_dates": [
+          "10/2/2026",
+          "10/3/2026"
         ]
       }
     },
