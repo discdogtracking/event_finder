@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T09:49:10Z",
-  "count": 309,
+  "last_updated": "2026-07-28T08:33:33Z",
+  "count": 305,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,124 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "3112ef9648d5e7c2663dd6f49a95d8d8cbe4b6995be60d395e8189c0208fc945",
-      "title": "Colchester, CT, US - July 27th - Bite Club - Central K9",
-      "url": "https://updogchallenge.com/events/colchester-ct-us-july-27th-bite-club-central-k9/",
-      "details": {
-        "title": "Colchester, CT, US – July 27th – Bite Club – Central K9",
-        "club_name": "Central K9",
-        "contact_name": "Shelby Dumond",
-        "contact_email": "shelby.dumond@gmail.com",
-        "event_address": "493 Norwich Ave, Colchester, CT 06415, United States",
-        "start_date": "7/27/2026",
-        "start_date_iso": "2026-07-27T00:00:00",
-        "notification_date": "2026-07-27",
-        "end_date": "7/27/2026",
-        "end_date_iso": "2026-07-27T00:00:00",
-        "start_time": "6:15 PM",
-        "end_time": "8:15 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/9SBeXUReoa3mnbPT9",
-        "when_text": "07/27/2026",
-        "event_dates": [
-          "7/27/2026"
-        ]
-      }
-    },
-    {
-      "id": "a8a8ab0c90bc644b40c9dd94209a0179f56593d60b40d0d29a8145273261a03c",
-      "title": "Rochester, MN, US - July 27th - Bite Club - Rochester Frisbee Dogs",
-      "url": "https://updogchallenge.com/events/rochester-mn-us-july-27th-bite-club-rochester-frisbee-dogs/",
-      "details": {
-        "title": "Rochester, MN, US – July 27th – Bite Club – Rochester Frisbee Dogs",
-        "club_name": "Rochester Frisbee Dogs",
-        "contact_name": "Abigail Reynolds",
-        "contact_email": "quickwitsbc@gmail.com",
-        "event_address": "2800 W River Pkwy NW, Rochester, MN 55901, United States",
-        "start_date": "7/27/2026",
-        "start_date_iso": "2026-07-27T00:00:00",
-        "notification_date": "2026-07-27",
-        "end_date": "7/27/2026",
-        "end_date_iso": "2026-07-27T00:00:00",
-        "start_time": "3:45 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "07/27/2026",
-        "event_dates": [
-          "7/27/2026"
-        ]
-      }
-    },
-    {
-      "id": "6892843f03f632c92cf78a066e5d570ccc1a85bea1cbe702177da13f721503fe",
-      "title": "West St Paul, MN, US - July 27th - Bite Club - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-july-27th-bite-club-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – July 27th – Bite Club – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "jess@thek9coach.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
-        "start_date": "7/27/2026",
-        "start_date_iso": "2026-07-27T00:00:00",
-        "notification_date": "2026-07-27",
-        "end_date": "7/27/2026",
-        "end_date_iso": "2026-07-27T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club",
-        "when_text": "07/27/2026",
-        "event_dates": [
-          "7/27/2026"
-        ]
-      }
-    },
-    {
-      "id": "e946c705fbd8f2167dcf80ca157f04ad0fdecc32909ce87fa7d501dc2d7f1801",
-      "title": "County of Grande Prairie, AB, CA - July 27th - Bite Club - GP Sparkly Purple Unicorns Disc Dog Squad",
-      "url": "https://updogchallenge.com/events/county-of-grande-prairie-ab-ca-july-27th-bite-club-gp-sparkly-purple-unicorns-disc-dog-squad/",
-      "details": {
-        "title": "County of Grande Prairie, AB, CA – July 27th – Bite Club – GP Sparkly Purple Unicorns Disc Dog Squad",
-        "club_name": "GP Sparkly Purple Unicorns Disc Dog Squad",
-        "contact_name": "Tammy/Virginia Brooks/Studer",
-        "contact_email": "virginia.studer91@gmail.com",
-        "event_address": "713002B RR80, County of Grande Prarie, Alberta T0H3S0, Canada",
-        "start_date": "7/27/2026",
-        "start_date_iso": "2026-07-27T00:00:00",
-        "notification_date": "2026-07-27",
-        "end_date": "7/27/2026",
-        "end_date_iso": "2026-07-27T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "10:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "prereg_url": "https://forms.gle/JYhoAX46CHmTCXTSA",
-        "when_text": "07/27/2026",
-        "event_dates": [
-          "7/27/2026"
         ]
       }
     },
