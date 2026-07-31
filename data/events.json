@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T08:25:09Z",
-  "count": 291,
+  "last_updated": "2026-07-31T08:49:42Z",
+  "count": 287,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,129 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "e757a3c869cee31139706e138cc3cb9dafee3d0c5c5a80801229a4a662767a66",
-      "title": "Mohnton, PA, US - July 30th - Reading Disc Dogs",
-      "url": "https://updogchallenge.com/events/mohnton-pa-us-july-30th-reading-disc-dogs-2/",
-      "details": {
-        "title": "Mohnton, PA, US – July 30th – Reading Disc Dogs",
-        "club_name": "Reading Disc Dogs",
-        "contact_name": "Ann Flemming",
-        "contact_email": "pandaflemming@yahoo.com",
-        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
-        "start_date": "7/30/2026",
-        "start_date_iso": "2026-07-30T00:00:00",
-        "notification_date": "2026-07-30",
-        "end_date": "7/30/2026",
-        "end_date_iso": "2026-07-30T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Start time will be determined by weather.",
-        "when_text": "07/30/2026",
-        "event_dates": [
-          "7/30/2026"
-        ]
-      }
-    },
-    {
-      "id": "f8ccec4b3894eebb494e7ec7e64516507807dc6997674ec42011c250387c3111",
-      "title": "Kinburn, ON, CA - July 30th - Bite Club - Scout's Pals",
-      "url": "https://updogchallenge.com/events/kinburn-on-ca-july-30th-bite-club-scouts-pals/",
-      "details": {
-        "title": "Kinburn, ON, CA – July 30th – Bite Club – Scout’s Pals",
-        "club_name": "Scout’s Pals",
-        "contact_name": "Nicholas Theriault",
-        "contact_email": "nick@scoutspals.ca",
-        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
-        "start_date": "7/30/2026",
-        "start_date_iso": "2026-07-30T00:00:00",
-        "notification_date": "2026-07-30",
-        "end_date": "7/30/2026",
-        "end_date_iso": "2026-07-30T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
-        "when_text": "07/30/2026",
-        "event_dates": [
-          "7/30/2026"
-        ]
-      }
-    },
-    {
-      "id": "3148f5abd0390bea5b382f991e8b694be670470b0bc04f7ec21c94b3f586d7b4",
-      "title": "Windsor, NS, CA - July 30th - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-july-30th-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – July 30th – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
-        "start_date": "7/30/2026",
-        "start_date_iso": "2026-07-30T00:00:00",
-        "notification_date": "2026-07-30",
-        "end_date": "7/30/2026",
-        "end_date_iso": "2026-07-30T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "when_text": "07/30/2026",
-        "event_dates": [
-          "7/30/2026"
-        ]
-      }
-    },
-    {
-      "id": "f072411cb6eb9a2c0ca37904a65c653d987ae2f1a4fea52d797aec343ee57765",
-      "title": "Bunnell, FL, US - July 30th - Bite Club - Daytona Disc Dogs",
-      "url": "https://updogchallenge.com/events/bunnell-fl-us-july-30th-bite-club-daytona-disc-dogs/",
-      "details": {
-        "title": "Bunnell, FL, US – July 30th – Bite Club – Daytona Disc Dogs",
-        "club_name": "Daytona Disc Dogs",
-        "contact_name": "Brian Fidler",
-        "contact_email": "daytonadiscdogs@gmail.com",
-        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
-        "start_date": "7/30/2026",
-        "start_date_iso": "2026-07-30T00:00:00",
-        "notification_date": "2026-07-30",
-        "end_date": "7/30/2026",
-        "end_date_iso": "2026-07-30T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/261746502814154",
-        "when_text": "07/30/2026",
-        "event_dates": [
-          "7/30/2026"
         ]
       }
     },
