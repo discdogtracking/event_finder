@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T08:19:32Z",
-  "count": 294,
+  "last_updated": "2026-08-02T08:21:43Z",
+  "count": 291,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -898,37 +898,6 @@
       }
     },
     {
-      "id": "428b34bdb6eba5e06c12ee897192e49cb85d41e46fda3b2322e250f3914c6a38",
-      "title": "Hopkinton, MA, US - Aug 1st - Bite Club - The Fetch Collective",
-      "url": "https://updogchallenge.com/events/hopkinton-ma-us-aug-1st-bite-club-the-fetch-collective/",
-      "details": {
-        "title": "Hopkinton, MA, US – Aug 1st – Bite Club – The Fetch Collective",
-        "club_name": "The Fetch Collective",
-        "contact_name": "Leah Lodato",
-        "contact_email": "fetchcollectiveclub@gmail.com",
-        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
-        "start_date": "8/1/2026",
-        "start_date_iso": "2026-08-01T00:00:00",
-        "notification_date": "2026-08-01",
-        "end_date": "8/1/2026",
-        "end_date_iso": "2026-08-01T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "12:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "08/01/2026",
-        "event_dates": [
-          "8/1/2026"
-        ]
-      }
-    },
-    {
       "id": "9cb398ae10593d20c6d2220723de5e5eeba38e2cfe73af033db4b13642e9628d",
       "title": "Shermans Dale, PA, US - Aug 1st & 2nd - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-aug-2nd-woof-pack-disc-dogs/",
@@ -954,67 +923,6 @@
         "event_dates": [
           "8/1/2026",
           "8/2/2026"
-        ]
-      }
-    },
-    {
-      "id": "1369ef44197b99c6459e50752ef47e89a7abb38c05b2947db89d074c5a3ec360",
-      "title": "Avon, IN, US - Aug 1st - Bite Club - Clever Girl Disc Dogs",
-      "url": "https://updogchallenge.com/events/avon-in-us-aug-1st-bite-club-clever-girl-disc-dogs/",
-      "details": {
-        "title": "Avon, IN, US – Aug 1st – Bite Club – Clever Girl Disc Dogs",
-        "club_name": "Clever Girl Disc Dogs",
-        "contact_name": "Samantha Stinson",
-        "contact_email": "clevergirldisc@gmail.com",
-        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
-        "start_date": "8/1/2026",
-        "start_date_iso": "2026-08-01T00:00:00",
-        "notification_date": "2026-08-01",
-        "end_date": "8/1/2026",
-        "end_date_iso": "2026-08-01T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "For more information please visit\nhttps://www.facebook.com/CleverGirlDiscDogs",
-        "prereg_url": "https://form.jotform.com/clevergirldisc/SummerBiteClub",
-        "when_text": "08/01/2026",
-        "event_dates": [
-          "8/1/2026"
-        ]
-      }
-    },
-    {
-      "id": "83ec8873fb641e4ca0362f55f5c627189c2bbaf696e1693041248c2f669e12a7",
-      "title": "Granville, OH, US - Aug 1st - Bite Club - Catch em All Canines",
-      "url": "https://updogchallenge.com/events/granville-oh-us-aug-1st-bite-club-catch-em-all-canines/",
-      "details": {
-        "title": "Granville, OH, US – Aug 1st – Bite Club – Catch em All Canines",
-        "club_name": "Catch em All Canines",
-        "contact_name": "Amanda Burkhart",
-        "contact_email": "help@catchemallcanines.com",
-        "event_address": "4309 Lancaster Ave, Granville, Oh 43023, United States",
-        "start_date": "8/1/2026",
-        "start_date_iso": "2026-08-01T00:00:00",
-        "notification_date": "2026-08-01",
-        "end_date": "8/1/2026",
-        "end_date_iso": "2026-08-01T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Please see Catch em All Canines Facebook group to get all updates related to weather, start time change, additional games to be played, location changes and other important changes/updates.",
-        "when_text": "08/01/2026",
-        "event_dates": [
-          "8/1/2026"
         ]
       }
     },
