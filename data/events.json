@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T08:34:49Z",
-  "count": 267,
+  "last_updated": "2026-08-06T08:32:55Z",
+  "count": 263,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,123 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "b024b15ae6cefcbeeb737e2ea5ec60286d3e55050f9c2f6a2723c58649685379",
-      "title": "Oromocto, NB, CA - Aug 5th - Bite Club - Oromocto Disc Dog Club",
-      "url": "https://updogchallenge.com/events/oromocto-nb-ca-aug-5th-bite-club-oromocto-disc-dog-club/",
-      "details": {
-        "title": "Oromocto, NB, CA – Aug 5th – Bite Club – Oromocto Disc Dog Club",
-        "club_name": "Oromocto Disc Dog Club",
-        "contact_name": "Sandra Foster",
-        "contact_email": "flyballswf@gmail.com",
-        "event_address": "BlackWatch Softball Field, Broad Rd, Oromocto, NB E2V 2E8, Canada",
-        "start_date": "8/5/2026",
-        "start_date_iso": "2026-08-05T00:00:00",
-        "notification_date": "2026-08-05",
-        "end_date": "8/5/2026",
-        "end_date_iso": "2026-08-05T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "08/05/2026",
-        "event_dates": [
-          "8/5/2026"
-        ]
-      }
-    },
-    {
-      "id": "792470c55f408e5423fe83a1732537b971c62b01eeb646caa409af2fe470e1ea",
-      "title": "Saint John, NB, CA - Aug 5th - Bite Club - Fundy Flyers",
-      "url": "https://updogchallenge.com/events/saint-john-nb-ca-aug-5th-bite-club-fundy-flyers/",
-      "details": {
-        "title": "Saint John, NB, CA – Aug 5th – Bite Club – Fundy Flyers",
-        "club_name": "Fundy Flyers",
-        "contact_name": "Andrea Caines",
-        "contact_email": "andrea_caines54@yahoo.ca",
-        "event_address": "1216 Sand Cove Road, Saint John, NB E2M 5V8, Canada",
-        "start_date": "8/5/2026",
-        "start_date_iso": "2026-08-05T00:00:00",
-        "notification_date": "2026-08-05",
-        "end_date": "8/5/2026",
-        "end_date_iso": "2026-08-05T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:15 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Week 1 and 2 Will be played together\nWeek 3 after toss and fetch (~7pm)\nWeek 4 after toss and fetch (~7pm)",
-        "when_text": "08/05/2026",
-        "event_dates": [
-          "8/5/2026"
-        ]
-      }
-    },
-    {
-      "id": "f7e3e6fe5c02c9e6b0282f692f3e916fafc94fc42b855af034633537e1c15e85",
-      "title": "Houston, TX, US - Aug 5th - Houston Canine Frisbee Disc Club",
-      "url": "https://updogchallenge.com/events/houston-tx-us-aug-5th-houston-canine-frisbee-disc-club/",
-      "details": {
-        "title": "Houston, TX, US – Aug 5th – Houston Canine Frisbee Disc Club",
-        "club_name": "Houston Canine Frisbee Disc Club",
-        "contact_name": "Jill Best",
-        "contact_email": "jllbest@hotmail.com",
-        "event_address": "Swanny’s Grill, 6224 Theall Rd, Houston, Texas 77066, United States",
-        "start_date": "8/5/2026",
-        "start_date_iso": "2026-08-05T00:00:00",
-        "notification_date": "2026-08-05",
-        "end_date": "8/5/2026",
-        "end_date_iso": "2026-08-05T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "9:30 PM",
-        "games": [
-          "FunKey",
-          "Greedy"
-        ],
-        "additional_event_information_for_participants": "This is Day 5 of the Summer Space City Challenge. Teams will be separated into three divisions – Space Camp for juniors, Inner Space for Novice/Intermediate teams, and Outer Space for Expert teams. Teams’ best scores from each game will be included in the ranking system. Overall awards will be announced at the end of Space City Challenge.",
-        "when_text": "08/05/2026",
-        "event_dates": [
-          "8/5/2026"
-        ]
-      }
-    },
-    {
-      "id": "975025378232d331efbebc3463b58d2b2be30b3f26c3d97117e945c177e04d4b",
-      "title": "Kelowna, BC, CA - Aug 5th - Bite Club - Kelowna Disc Dogs",
-      "url": "https://updogchallenge.com/events/kelowna-bc-ca-aug-5th-bite-club-kelowna-disc-dogs/",
-      "details": {
-        "title": "Kelowna, BC, CA – Aug 5th – Bite Club – Kelowna Disc Dogs",
-        "club_name": "Kelowna Disc Dogs",
-        "contact_name": "Tia Itterman",
-        "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "1035 Hollywood Rd, Kelowna, BC V1X 1A2, Canada",
-        "start_date": "8/5/2026",
-        "start_date_iso": "2026-08-05T00:00:00",
-        "notification_date": "2026-08-05",
-        "end_date": "8/5/2026",
-        "end_date_iso": "2026-08-05T00:00:00",
-        "start_time": "6:45 PM",
-        "end_time": "8:45 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/05/2026",
-        "event_dates": [
-          "8/5/2026"
         ]
       }
     },
