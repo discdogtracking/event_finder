@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T08:32:55Z",
-  "count": 263,
+  "last_updated": "2026-08-07T07:13:54Z",
+  "count": 257,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,156 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "31a0e9e5212112771f75a51d0118b8d3fbdbc2230c57e55fa0c1143172fd0b7f",
-      "title": "Mohnton, PA, US - Aug 6th - Reading Disc Dogs",
-      "url": "https://updogchallenge.com/events/mohnton-pa-us-aug-6th-reading-disc-dogs/",
-      "details": {
-        "title": "Mohnton, PA, US – Aug 6th – Reading Disc Dogs",
-        "club_name": "Reading Disc Dogs",
-        "contact_name": "Ann Flemming",
-        "contact_email": "pandaflemming@yahoo.com",
-        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
-        "start_date": "8/6/2026",
-        "start_date_iso": "2026-08-06T00:00:00",
-        "notification_date": "2026-08-06",
-        "end_date": "8/6/2026",
-        "end_date_iso": "2026-08-06T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Start time will be determined by weather.",
-        "when_text": "08/06/2026",
-        "event_dates": [
-          "8/6/2026"
-        ]
-      }
-    },
-    {
-      "id": "492ee103145d29fdac613ec50681432baaa1cd9d82de352a01bcff4b56d49311",
-      "title": "Kinburn, ON, CA - Aug 6th - Bite Club - Scout's Pals",
-      "url": "https://updogchallenge.com/events/kinburn-on-ca-aug-6th-bite-club-scouts-pals/",
-      "details": {
-        "title": "Kinburn, ON, CA – Aug 6th – Bite Club – Scout’s Pals",
-        "club_name": "Scout’s Pals",
-        "contact_name": "Nicholas Theriault",
-        "contact_email": "nick@scoutspals.ca",
-        "event_address": "3765 Loggers Way, Kinburn, ON K0A2H0, Canada",
-        "start_date": "8/6/2026",
-        "start_date_iso": "2026-08-06T00:00:00",
-        "notification_date": "2026-08-06",
-        "end_date": "8/6/2026",
-        "end_date_iso": "2026-08-06T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/h83NxQJY67JJKm216",
-        "when_text": "08/06/2026",
-        "event_dates": [
-          "8/6/2026"
-        ]
-      }
-    },
-    {
-      "id": "e52969373ddf83ca145603f9ddeb6980dec2c010d2902292fbb3cba1b691f8a9",
-      "title": "Windsor, NS, CA - Aug 6th - Bite Club - Irishmans Rd Trackers",
-      "url": "https://updogchallenge.com/events/windsor-ns-ca-aug-6th-bite-club-irishmans-rd-trackers/",
-      "details": {
-        "title": "Windsor, NS, CA – Aug 6th – Bite Club – Irishmans Rd Trackers",
-        "club_name": "Irishmans Rd Trackers",
-        "contact_name": "Suzanne Phillips",
-        "contact_email": "suzannegphillips25@gmail.com",
-        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
-        "start_date": "8/6/2026",
-        "start_date_iso": "2026-08-06T00:00:00",
-        "notification_date": "2026-08-06",
-        "end_date": "8/6/2026",
-        "end_date_iso": "2026-08-06T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "when_text": "08/06/2026",
-        "event_dates": [
-          "8/6/2026"
-        ]
-      }
-    },
-    {
-      "id": "932b8eb5d7532d4416d13083b02d8522dd59fa22ffec305d886a88e0209ea401",
-      "title": "Lloydminster, AB, CA - Aug 6th - Border City Dog Sports",
-      "url": "https://updogchallenge.com/events/lloydminster-ab-ca-aug-6th-border-city-dog-sports/",
-      "details": {
-        "title": "Lloydminster, AB, CA – Aug 6th – Border City Dog Sports",
-        "club_name": "Border City Dog Sports",
-        "contact_name": "Stacey Gamble",
-        "contact_email": "bordercitydogsports@gmail.com",
-        "event_address": "3705 57A AVENUE, Lloydminster, Alberta T9V 2N6, Canada",
-        "start_date": "8/6/2026",
-        "start_date_iso": "2026-08-06T00:00:00",
-        "notification_date": "2026-08-06",
-        "end_date": "8/6/2026",
-        "end_date_iso": "2026-08-06T00:00:00",
-        "start_time": "6:15 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Greedy",
-          "Time Warp"
-        ],
-        "when_text": "08/06/2026",
-        "event_dates": [
-          "8/6/2026"
-        ]
-      }
-    },
-    {
-      "id": "0b9301f17087ff5173879a3ab09d02c9895ed808f45513fc36dc70e5807bfe67",
-      "title": "Bunnell, FL, US - Aug 6th - Bite Club - Daytona Disc Dogs",
-      "url": "https://updogchallenge.com/events/bunnell-fl-us-aug-6th-bite-club-daytona-disc-dogs/",
-      "details": {
-        "title": "Bunnell, FL, US – Aug 6th – Bite Club – Daytona Disc Dogs",
-        "club_name": "Daytona Disc Dogs",
-        "contact_name": "Brian Fidler",
-        "contact_email": "daytonadiscdogs@gmail.com",
-        "event_address": "345 County Rd 335, Bunnell, Fl 32110, United States",
-        "start_date": "8/6/2026",
-        "start_date_iso": "2026-08-06T00:00:00",
-        "notification_date": "2026-08-06",
-        "end_date": "8/6/2026",
-        "end_date_iso": "2026-08-06T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/261746502814154",
-        "when_text": "08/06/2026",
-        "event_dates": [
-          "8/6/2026"
         ]
       }
     },
@@ -1962,33 +1812,6 @@
         "when_text": "08/15/2026",
         "event_dates": [
           "8/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "813a1d0a4b73baf00792bf72e0b05352ad2fb9dacc2ee430197b1920dea21503",
-      "title": "Frankford, ON, CA - Aug 15th & 16th - MC Dog Sports",
-      "url": "https://updogchallenge.com/events/frankford-on-ca-aug-15th-16th-mc-dog-sports/",
-      "details": {
-        "title": "Frankford, ON, CA – Aug 15th & 16th – MC Dog Sports",
-        "club_name": "MC DOG SPORTS",
-        "contact_name": "BRIAN AYLING",
-        "contact_email": "MCDOGSPORTS@GMAIL.COM",
-        "event_address": "323 HARRINGTON RD, FRANKFORD, ON K0K2C0, Canada",
-        "start_date": "8/15/2026",
-        "start_date_iso": "2026-08-15T00:00:00",
-        "notification_date": "2026-08-15",
-        "end_date": "8/16/2026",
-        "end_date_iso": "2026-08-16T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/15/2026 - 08/16/2026",
-        "event_dates": [
-          "8/15/2026",
-          "8/16/2026"
         ]
       }
     },
