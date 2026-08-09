@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T06:48:35Z",
-  "count": 249,
+  "last_updated": "2026-08-09T06:53:17Z",
+  "count": 242,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -827,61 +827,6 @@
       }
     },
     {
-      "id": "8e78a1117983f3e5678920e8437757dc28253dcc07327f1e8a3e1bda7877b94f",
-      "title": "Lyalta, AB, CA - Aug 8th - Calgary Disc Dogs",
-      "url": "https://updogchallenge.com/events/lyalta-ab-ca-aug-8th-calgary-disc-dogs/",
-      "details": {
-        "title": "Lyalta, AB, CA – Aug 8th – Calgary Disc Dogs",
-        "club_name": "Calgary Disc Dogs",
-        "contact_name": "Kara Bellingham",
-        "contact_email": "kara.marciniak@gmail.com",
-        "event_address": "251030, Lyalta, AB T1 0V1, Canada",
-        "start_date": "8/8/2026",
-        "start_date_iso": "2026-08-08T00:00:00",
-        "notification_date": "2026-08-08",
-        "end_date": "8/8/2026",
-        "end_date_iso": "2026-08-08T00:00:00",
-        "start_time": "8:00 AM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/08/2026",
-        "event_dates": [
-          "8/8/2026"
-        ]
-      }
-    },
-    {
-      "id": "6229d5fb13f80e3bbec59dc55281812b0ab6e309e40577f424ac9ca5c65c9046",
-      "title": "Houston, TX, US - Aug 8th - Houston Canine Frisbee Disc Club",
-      "url": "https://updogchallenge.com/events/houston-tx-us-aug-8th-houston-canine-frisbee-disc-club/",
-      "details": {
-        "title": "Houston, TX, US – Aug 8th – Houston Canine Frisbee Disc Club",
-        "club_name": "Houston Canine Frisbee Disc Club",
-        "contact_name": "Jill Best",
-        "contact_email": "jllbest@hotmail.com",
-        "event_address": "Swanny’s Grill, 6224 Theall Rd, Houston, Texas 77066, United States",
-        "start_date": "8/8/2026",
-        "start_date_iso": "2026-08-08T00:00:00",
-        "notification_date": "2026-08-08",
-        "end_date": "8/8/2026",
-        "end_date_iso": "2026-08-08T00:00:00",
-        "start_time": "7:00 AM",
-        "end_time": "11:30 AM",
-        "games": [
-          "Fireball",
-          "FunKey",
-          "Greedy",
-          "Spaced Out"
-        ],
-        "additional_event_information_for_participants": "This is Day 6 of the Summer Space City Challenge. Teams will be separated into three divisions – Space Camp for juniors, Inner Space for Novice/Intermediate teams, and Outer Space for Expert teams. Teams’ best scores from each game will be included in the ranking system. Overall awards will be announced at the end of Space City Challenge.",
-        "when_text": "08/08/2026",
-        "event_dates": [
-          "8/8/2026"
-        ]
-      }
-    },
-    {
       "id": "1499d9cda54c7c556afbc7b59696d5903c4321d12e91354f189ede9080f0cfc4",
       "title": "Concord, NH, US - Aug 8th & 9th - 603 Disc Dogs",
       "url": "https://updogchallenge.com/events/concord-nh-us-aug-8th-9th-603-disc-dogs/",
@@ -917,62 +862,6 @@
       }
     },
     {
-      "id": "781510faea434cfea4949b03ef3540655a68ad9bf2f2642ec975fa7c5b3fd633",
-      "title": "Bunnell, FL, US - Aug 8th - Daytona Disc Dogs",
-      "url": "https://updogchallenge.com/events/edgewater-fl-us-aug-8th-daytona-disc-dogs/",
-      "details": {
-        "title": "Bunnell, FL, US – Aug 8th – Daytona Disc Dogs",
-        "club_name": "Daytona Disc Dogs",
-        "contact_name": "Brian Fidler",
-        "contact_email": "bfidler1996@gmail.com",
-        "event_address": "345 County rd 335, Bunnell, Fl 32110",
-        "start_date": "8/8/2026",
-        "start_date_iso": "2026-08-08T00:00:00",
-        "notification_date": "2026-08-08",
-        "end_date": "8/8/2026",
-        "end_date_iso": "2026-08-08T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "10:48 AM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/08/2026",
-        "event_dates": [
-          "8/8/2026"
-        ]
-      }
-    },
-    {
-      "id": "4b804b5bf58af2bea99df05c27409bf4b667ff81186a51493f3cc9e32f0f92eb",
-      "title": "Gander, NL, CA - Aug 8th - YQX Dog Sports",
-      "url": "https://updogchallenge.com/events/gander-nl-ca-aug-8th-yqx-dog-sports/",
-      "details": {
-        "title": "Gander, NL, CA – Aug 8th – YQX Dog Sports",
-        "club_name": "YQX Dog Sports",
-        "contact_name": "Tracey Vatcher",
-        "contact_email": "yqxdogsports@gmail.com",
-        "event_address": "Gander Athletic Field, 5 Penney Ave, Gander, NL A1V 1W5, Canada",
-        "start_date": "8/8/2026",
-        "start_date_iso": "2026-08-08T00:00:00",
-        "notification_date": "2026-08-08",
-        "end_date": "8/8/2026",
-        "end_date_iso": "2026-08-08T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Throw N Go"
-        ],
-        "when_text": "08/08/2026",
-        "event_dates": [
-          "8/8/2026"
-        ]
-      }
-    },
-    {
       "id": "1bcaa18036c6afe52b900d239cbe287e178e7810f6203659bb3c5187865340b7",
       "title": "Brzezówka, Poland - Aug 8th & 9th - CatchParty!",
       "url": "https://updogchallenge.com/events/brzezowka-poland-aug-8th-9th-catchparty/",
@@ -1000,38 +889,6 @@
         "event_dates": [
           "8/8/2026",
           "8/9/2026"
-        ]
-      }
-    },
-    {
-      "id": "b3526bb5721619e6aebf8ca1e65404256dba863cd2861dcfb68995c8446430c6",
-      "title": "Millersville, MD, US - Aug 8th - Mad Dogs Club",
-      "url": "https://updogchallenge.com/events/millersville-md-us-aug-8th-9th-mad-dogs-club/",
-      "details": {
-        "title": "Millersville, MD, US – Aug 8th – Mad Dogs Club",
-        "club_name": "Mad Dogs Club",
-        "contact_name": "Raymond Lowman",
-        "contact_email": "H2okoiboi@aol.com",
-        "event_address": "470 Ski Lane, Millersville, Maryland 21108, United States",
-        "start_date": "8/8/2026",
-        "start_date_iso": "2026-08-08T00:00:00",
-        "notification_date": "2026-08-08",
-        "end_date": "8/8/2026",
-        "end_date_iso": "2026-08-08T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Performance Freestyle (will start at 8:00AM to beat the heat of the day)",
-          "Throw & Go",
-          "Greedy",
-          "4 Way Play",
-          "Frigilty"
-        ],
-        "additional_event_information_for_participants": "Mad-Dogs.Org",
-        "prereg_url": "Mad-Dogs,Org",
-        "when_text": "08/08/2026",
-        "event_dates": [
-          "8/8/2026"
         ]
       }
     },
@@ -1088,64 +945,6 @@
         "event_dates": [
           "8/8/2026",
           "8/9/2026"
-        ]
-      }
-    },
-    {
-      "id": "f48f0a35994140b1aa90e9de2f62bdc79da344bd00751aa0aa6339c8ec175c3d",
-      "title": "Punta Gorda, FL, US - Aug 8th - K9 Sports Events",
-      "url": "https://updogchallenge.com/events/punta-gorda-fl-us-aug-8th-k9-sports-events/",
-      "details": {
-        "title": "Punta Gorda, FL, US – Aug 8th – K9 Sports Events",
-        "club_name": "k9sportsevents",
-        "contact_name": "Jason Rigler",
-        "contact_email": "k9sportsevents@gmail.com",
-        "event_address": "2551 Taylor Rd, Punta Gorda, FL 33950, United States",
-        "start_date": "8/8/2026",
-        "start_date_iso": "2026-08-08T00:00:00",
-        "notification_date": "2026-08-08",
-        "end_date": "8/8/2026",
-        "end_date_iso": "2026-08-08T00:00:00",
-        "start_time": "3:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "FunKey",
-          "7Up",
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Rounds are $20 per team. Please only select 4 rounds. If time permits there will be 1 free round of Wildcard (choose a game)",
-        "prereg_url": "https://forms.gle/7a1Xq8QqHsUqUvUw9",
-        "when_text": "08/08/2026",
-        "event_dates": [
-          "8/8/2026"
-        ]
-      }
-    },
-    {
-      "id": "c05e244557b05f399f92d33e1d1bb8bbb6631fe5d24548990103cd071cb93dc6",
-      "title": "Danville, IN, US - Aug 8th - Clever Girl Disc Dogs",
-      "url": "https://updogchallenge.com/events/danville-in-us-aug-8th-clever-girl-disc-dogs/",
-      "details": {
-        "title": "Danville, IN, US – Aug 8th – Clever Girl Disc Dogs",
-        "club_name": "Clever Girl Disc Dogs",
-        "contact_name": "Samantha Stinson",
-        "contact_email": "clevergirldisc@gmail.com",
-        "event_address": "1900 E Main St, Danville, IN 46122, United States",
-        "start_date": "8/8/2026",
-        "start_date_iso": "2026-08-08T00:00:00",
-        "notification_date": "2026-08-08",
-        "end_date": "8/8/2026",
-        "end_date_iso": "2026-08-08T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "10:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/08/2026",
-        "event_dates": [
-          "8/8/2026"
         ]
       }
     },
