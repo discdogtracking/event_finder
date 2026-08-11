@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T07:28:06Z",
-  "count": 233,
+  "last_updated": "2026-08-11T07:04:18Z",
+  "count": 240,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -1204,6 +1204,35 @@
       }
     },
     {
+      "id": "8515e167e3d7af38f69cd002d954f51ee01aa93025ad7e8b72ecc69f526a5717",
+      "title": "Penobscot, ME, US - Aug 16th - Downeast Dog Sports",
+      "url": "https://updogchallenge.com/events/penobscot-me-us-aug-16th-downeast-dog-sports/",
+      "details": {
+        "title": "Penobscot, ME, US – Aug 16th – Downeast Dog Sports",
+        "club_name": "Downeast Dog Sports",
+        "contact_name": "Donna Boidi",
+        "contact_email": "donna@downeastdogsports.com",
+        "event_address": "Jim Henry Field, Penobscot, ME 04421, United States",
+        "start_date": "8/16/2026",
+        "start_date_iso": "2026-08-16T00:00:00",
+        "notification_date": "2026-08-16",
+        "end_date": "8/16/2026",
+        "end_date_iso": "2026-08-16T00:00:00",
+        "start_time": "10:00 AM",
+        "games": [
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "08/16/2026",
+        "event_dates": [
+          "8/16/2026"
+        ]
+      }
+    },
+    {
       "id": "ab31f25d930861cbff89fa7cd80471d6153771b172b7d7bcaf6e8f4da36c81d0",
       "title": "Brandon, MB, CA - Aug 16th - Crocus Obedience & Kennel Club",
       "url": "https://updogchallenge.com/events/brandon-mb-ca-aug-16th-crocus-obedience-kennel-club/",
@@ -2136,6 +2165,35 @@
       }
     },
     {
+      "id": "cd7e1e069fca9f3becb0b5ab30fdda49e1b9246568c6413051cb5f108bc07a79",
+      "title": "Lodi, CA, US - Aug 30th - Canine Catch Crew",
+      "url": "https://updogchallenge.com/events/lodi-ca-us-aug-30th-canine-catch-crew/",
+      "details": {
+        "title": "Lodi, CA, US – Aug 30th – Canine Catch Crew",
+        "club_name": "Canine Catch Crew",
+        "contact_name": "Dina Hagens",
+        "contact_email": "dmhagens@gmail.com",
+        "event_address": "5111 West Seargent Road, Lodi, California 95242, United States",
+        "start_date": "8/30/2026",
+        "start_date_iso": "2026-08-30T00:00:00",
+        "notification_date": "2026-08-30",
+        "end_date": "8/30/2026",
+        "end_date_iso": "2026-08-30T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Register at: Alldogssportspark.com",
+        "when_text": "08/30/2026",
+        "event_dates": [
+          "8/30/2026"
+        ]
+      }
+    },
+    {
       "id": "92740d2ee418059be218dc2c9dac028091110afb4a20e1fdfc522b007d688a89",
       "title": "Hampshire, IL, US - Aug 30th - McHenry Disc Dogs",
       "url": "https://updogchallenge.com/events/hampshire-il-us-aug-30th-mchenry-disc-dogs/",
@@ -2298,6 +2356,33 @@
         "when_text": "09/01/2026",
         "event_dates": [
           "9/1/2026"
+        ]
+      }
+    },
+    {
+      "id": "e9a52d2b3c5238449d2599ed2a2ad0157ed4b9841ab6cdbef3eeb0a5306f5877",
+      "title": "Hutto, TX, US - Sept 3rd - Lone Star Disc Dogs",
+      "url": "https://updogchallenge.com/events/hutto-tx-us-sept-3rd-lone-star-disc-dogs/",
+      "details": {
+        "title": "Hutto, TX, US – Sept 3rd – Lone Star Disc Dogs",
+        "club_name": "Lone Star Disc Dogs",
+        "contact_name": "Tammy Montgomery",
+        "contact_email": "lonestardiscdogs@gmail.com",
+        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
+        "start_date": "9/3/2026",
+        "start_date_iso": "2026-09-03T00:00:00",
+        "notification_date": "2026-09-03",
+        "end_date": "9/3/2026",
+        "end_date_iso": "2026-09-03T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "10:00 PM",
+        "games": [
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Dependent on number of players we will play multiple rounds",
+        "when_text": "09/03/2026",
+        "event_dates": [
+          "9/3/2026"
         ]
       }
     },
@@ -3301,6 +3386,35 @@
       }
     },
     {
+      "id": "e7beee7d6c46d8cf37da878e755e8df194edb105ac4c499af3570d212896707e",
+      "title": "Ham Lake, MN, US - Sept 18th thru 20th - Minnesota Disc Dog Club",
+      "url": "https://updogchallenge.com/events/ham-lake-mn-us-june-13th-14th-minnesota-disc-dog-club/",
+      "details": {
+        "title": "Ham Lake, MN, US – Sept 18th thru 20th – Minnesota Disc Dog Club",
+        "club_name": "Minnesota Disc Dog Club",
+        "contact_name": "Jess Kittredge",
+        "contact_email": "MNDDC.president@gmail.com",
+        "event_address": "2400 Constance Blvd NE, Ham Lake, MN 55304, United States",
+        "start_date": "9/18/2026",
+        "start_date_iso": "2026-09-18T00:00:00",
+        "notification_date": "2026-09-18",
+        "end_date": "9/20/2026",
+        "end_date_iso": "2026-09-20T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Freestyle",
+          "To Be Determined"
+        ],
+        "when_text": "09/18/2026 - 09/20/2026",
+        "event_dates": [
+          "9/18/2026",
+          "9/19/2026",
+          "9/20/2026"
+        ]
+      }
+    },
+    {
       "id": "2826d42fe5a244001786a19bdd83973c04f27567442991a5db8e4b8a117ab964",
       "title": "Rio Dell, CA, US - Sept 19th & 20th - Humboldt Disc Dog Club - Triple Crown",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-sept-19th-20th-humboldt-disc-dog-club/",
@@ -3565,6 +3679,35 @@
       }
     },
     {
+      "id": "2151d805ea85296b10d9e8b65635155bc7870248ad84e0f8cd4fa0a76040d9b5",
+      "title": "Hutto, TX, US - Sept 20th - Lone Star Disc Dogs",
+      "url": "https://updogchallenge.com/events/hutto-tx-us-sept-20th-lone-star-disc-dogs/",
+      "details": {
+        "title": "Hutto, TX, US – Sept 20th – Lone Star Disc Dogs",
+        "club_name": "Lone Star Disc Dogs",
+        "contact_name": "Tammy Montgomery",
+        "contact_email": "lonestardiscdogs@gmail.com",
+        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
+        "start_date": "9/20/2026",
+        "start_date_iso": "2026-09-20T00:00:00",
+        "notification_date": "2026-09-20",
+        "end_date": "9/20/2026",
+        "end_date_iso": "2026-09-20T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "when_text": "09/20/2026",
+        "event_dates": [
+          "9/20/2026"
+        ]
+      }
+    },
+    {
       "id": "9c66c23fa579bf6b73f2ff3195af235b2a6be27edf9f04abb36347830326d960",
       "title": "St Johns, MI, US - Sept 20th - Leashed Favorite Dog Club - Triple Crown",
       "url": "https://updogchallenge.com/events/st-johns-mi-us-sept-20th-leashed-favorite-dog-club-triple-crown/",
@@ -3621,35 +3764,6 @@
         "when_text": "09/20/2026",
         "event_dates": [
           "9/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "e7beee7d6c46d8cf37da878e755e8df194edb105ac4c499af3570d212896707e",
-      "title": "Ham Lake, MN, US - Sept 25th thru 27th - Minnesota Disc Dog Club",
-      "url": "https://updogchallenge.com/events/ham-lake-mn-us-june-13th-14th-minnesota-disc-dog-club/",
-      "details": {
-        "title": "Ham Lake, MN, US – Sept 25th thru 27th – Minnesota Disc Dog Club",
-        "club_name": "Minnesota Disc Dog Club",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "MNDDC.president@gmail.com",
-        "event_address": "2400 Constance Blvd NE, Ham Lake, MN 55304, United States",
-        "start_date": "9/25/2026",
-        "start_date_iso": "2026-09-25T00:00:00",
-        "notification_date": "2026-09-25",
-        "end_date": "9/27/2026",
-        "end_date_iso": "2026-09-27T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Freestyle",
-          "To Be Determined"
-        ],
-        "when_text": "09/25/2026 - 09/27/2026",
-        "event_dates": [
-          "9/25/2026",
-          "9/26/2026",
-          "9/27/2026"
         ]
       }
     },
@@ -4987,6 +5101,32 @@
         "event_dates": [
           "10/17/2026",
           "10/18/2026"
+        ]
+      }
+    },
+    {
+      "id": "d8dcbe2c904b1f7cde58cc2320d40770e4a7f3c62f90d9f4a0266f67f4e7955b",
+      "title": "Oromocto, NB, CA - Oct 17th - Bite Club - Oromocto Disc Dog Club",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-oct-17th-bite-club-oromocto-disc-dog-club/",
+      "details": {
+        "title": "Oromocto, NB, CA – Oct 17th – Bite Club – Oromocto Disc Dog Club",
+        "club_name": "OROMOCTO DISC DOG CLUB",
+        "contact_name": "Sandra Foster",
+        "contact_email": "flyballswf@gmail.com",
+        "event_address": "BlackWatch Softball field, Broad Rd, Oromocto, New Brunswick E2V 2E8, Canada",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/17/2026",
+        "end_date_iso": "2026-10-17T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "10/17/2026",
+        "event_dates": [
+          "10/17/2026"
         ]
       }
     },
@@ -6636,17 +6776,17 @@
     },
     {
       "id": "c35977847bf9b242c0a29c189e4b462cc6ad5a6e75b68735b076518c99f25f03",
-      "title": "Bois D’arc, MO, US - Nov 21st & 22nd - Chaos in the 417 Disc Dog",
+      "title": "Bois D’arc, MO, US - Nov 20th thru 22nd - Chaos in the 417 Disc Dog",
       "url": "https://updogchallenge.com/events/bois-darc-mo-us-nov-21st-22nd-chaos-in-the-417-disc-dog/",
       "details": {
-        "title": "Bois D’arc, MO, US – Nov 21st & 22nd – Chaos in the 417 Disc Dog",
+        "title": "Bois D’arc, MO, US – Nov 20th thru 22nd – Chaos in the 417 Disc Dog",
         "club_name": "Chaos in the 417 Disc Dog",
         "contact_name": "Heather Ferrier",
         "contact_email": "chaosinthe417@gmail.com",
         "event_address": "3150 N Farm Road 75, Bois D’arc, MO 65612, United States",
-        "start_date": "11/21/2026",
-        "start_date_iso": "2026-11-21T00:00:00",
-        "notification_date": "2026-11-21",
+        "start_date": "11/20/2026",
+        "start_date_iso": "2026-11-20T00:00:00",
+        "notification_date": "2026-11-20",
         "end_date": "11/22/2026",
         "end_date_iso": "2026-11-22T00:00:00",
         "start_time": "9:00 AM",
@@ -6664,8 +6804,9 @@
           "Throw N Go",
           "Time Warp"
         ],
-        "when_text": "11/21/2026 - 11/22/2026",
+        "when_text": "11/20/2026 - 11/22/2026",
         "event_dates": [
+          "11/20/2026",
           "11/21/2026",
           "11/22/2026"
         ]
@@ -7360,6 +7501,40 @@
       }
     },
     {
+      "id": "96d18183d0a71e23e50ab3c2033269690de7cd994c4ad5fe9bd20fa3c7fa11c0",
+      "title": "Jacksonville/Fernandina Beach, FL, US - Jan 2nd & 3rd - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fernandina-beach-fl-us-jan-2nd-3rd-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville/Fernandina Beach, FL, US – Jan 2nd & 3rd – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, Florida 32218, United States",
+        "start_date": "1/2/2027",
+        "start_date_iso": "2027-01-02T00:00:00",
+        "notification_date": "2027-01-02",
+        "end_date": "1/3/2027",
+        "end_date_iso": "2027-01-03T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey"
+        ],
+        "additional_event_information_for_participants": "Saturday at Lily’s: 95512 Arbor Ln Fernandina Beach, FL 32034\nSunday at Oceanway: 12215 Sago Ave Jacksonville, FL 32218",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSc_ga18SvD56zsRHKmxHyvnrye1ZBNXhr13OhOH4p3tVtuGnQ/viewform?usp=publish-editor",
+        "when_text": "01/02/2027 - 01/03/2027",
+        "event_dates": [
+          "1/2/2027",
+          "1/3/2027"
+        ]
+      }
+    },
+    {
       "id": "036a9aaec82483d863bac744ad16b682d22465124d7b489311a404d562212b16",
       "title": "Garland, TX, US - Jan 16th & 17th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-jan-16th-17th-updog-dallas/",
@@ -7428,6 +7603,45 @@
         "when_text": "01/16/2027",
         "event_dates": [
           "1/16/2027"
+        ]
+      }
+    },
+    {
+      "id": "9a426d5c0ae8e189d9e5921d0a4081db841d2e3c0e36c90c7fbc8f42c3858f90",
+      "title": "Jacksonville, FL, US - Jan 30th & 31st - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fl-us-jan-30th-31st-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville, FL, US – Jan 30th & 31st – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "Jacksonville Equestrian Center, 13611 Normandy Blvd, Jacksonville, Florida 32221, United States",
+        "start_date": "1/30/2027",
+        "start_date_iso": "2027-01-30T00:00:00",
+        "notification_date": "2027-01-30",
+        "end_date": "1/31/2027",
+        "end_date_iso": "2027-01-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Pals & Paws Agility Club will be hosting an AKC agility trial & Fast CAT at the same facility.",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLScEbW85HVmKwlvTyR0T_9kD9gGsMd3B6jxyMfsnORPLlqV3lg/viewform?usp=publish-editor",
+        "when_text": "01/30/2027 - 01/31/2027",
+        "event_dates": [
+          "1/30/2027",
+          "1/31/2027"
         ]
       }
     },
