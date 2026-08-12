@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T07:04:18Z",
-  "count": 240,
+  "last_updated": "2026-08-12T07:23:43Z",
+  "count": 241,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,59 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "06d9a047810c1837b7ef2feee59055c5c4dd9b2d0681906db3b3a243debffec6",
-      "title": "Foothills, AB, CA - Aug 11th - Foothills Flyers Disc Dog Club",
-      "url": "https://updogchallenge.com/events/foothills-ab-ca-aug-11th-bite-club-foothills-flyers-disc-dog-club/",
-      "details": {
-        "title": "Foothills, AB, CA – Aug 11th – Foothills Flyers Disc Dog Club",
-        "club_name": "Foothills Flyers",
-        "contact_name": "Sharon Spooner",
-        "contact_email": "Foothillsflyersddc@gmail.com",
-        "event_address": "1262 Drive W, Foothills, AB T0L 1W0, Canada",
-        "start_date": "8/11/2026",
-        "start_date_iso": "2026-08-11T00:00:00",
-        "notification_date": "2026-08-11",
-        "end_date": "8/11/2026",
-        "end_date_iso": "2026-08-11T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/11/2026",
-        "event_dates": [
-          "8/11/2026"
-        ]
-      }
-    },
-    {
-      "id": "e12fd46345d973a968c9d0c9fee2dda176a1f7f9c931e774254167e570834ed2",
-      "title": "Huntertown, IN, US - Aug 11th - Summit City Disc Dogs",
-      "url": "https://updogchallenge.com/events/huntertown-in-us-aug-11th-summit-city-disc-dogs/",
-      "details": {
-        "title": "Huntertown, IN, US – Aug 11th – Summit City Disc Dogs",
-        "club_name": "Summit City Disc Dog Group",
-        "contact_name": "Mark Smith",
-        "contact_email": "summitcityddg@hotmail.com",
-        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
-        "start_date": "8/11/2026",
-        "start_date_iso": "2026-08-11T00:00:00",
-        "notification_date": "2026-08-11",
-        "end_date": "8/11/2026",
-        "end_date_iso": "2026-08-11T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This event is for points only",
-        "when_text": "08/11/2026",
-        "event_dates": [
-          "8/11/2026"
         ]
       }
     },
@@ -7713,6 +7660,64 @@
       }
     },
     {
+      "id": "ecaa54463a894d71d1ad2dbcc9019db2b6500d479dd777f8b90a7b2636a87ea4",
+      "title": "Jacksonville, FL, US - Feb 15th - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fl-us-feb-15th-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville, FL, US – Feb 15th – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, Florida 32218, United States",
+        "start_date": "2/15/2027",
+        "start_date_iso": "2027-02-15T00:00:00",
+        "notification_date": "2027-02-15",
+        "end_date": "2/15/2027",
+        "end_date_iso": "2027-02-15T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdt5sM6HaworbWkjqNn7yfgiMZPHLokpj1DozQ11MBJ6xtSxg/viewform?usp=dialog",
+        "when_text": "02/15/2027",
+        "event_dates": [
+          "2/15/2027"
+        ]
+      }
+    },
+    {
+      "id": "04fc3f03666a6d1d0b8c65a5476b10c8220e8112ca35fb0432582899eaec37dd",
+      "title": "Jacksonville, FL, US - Feb 22nd - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fl-us-feb-22nd-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville, FL, US – Feb 22nd – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, Florida 32218, United States",
+        "start_date": "2/22/2027",
+        "start_date_iso": "2027-02-22T00:00:00",
+        "notification_date": "2027-02-22",
+        "end_date": "2/22/2027",
+        "end_date_iso": "2027-02-22T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Four Way Play",
+          "FunKey"
+        ],
+        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSetGIg6_pMwJ4PTWkU56UiKavy1XLsn8YvE_ywgROFTNgLqbg/viewform?usp=publish-editor",
+        "when_text": "02/22/2027",
+        "event_dates": [
+          "2/22/2027"
+        ]
+      }
+    },
+    {
       "id": "807e887e1556e2c5b5f213b8851e316d576b6da751619740cb84665e19524f79",
       "title": "Garland, TX, US - March 13th & 14th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-march-13th-14th-updog-dallas/",
@@ -7775,6 +7780,44 @@
         "when_text": "03/20/2027 - 03/21/2027",
         "event_dates": [
           "3/20/2027",
+          "3/21/2027"
+        ]
+      }
+    },
+    {
+      "id": "2fb3dac9bd6da399d1bdeb9f52242189e08d3fd0bded7ad04b57a10a8c5aa1ed",
+      "title": "Jacksonville, FL, US - March 21st - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fl-us-march-21st-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Jacksonville, FL, US – March 21st – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "95512 Arbor Ln, Fernandina Beach, Florida 32034, United States",
+        "start_date": "3/21/2027",
+        "start_date_iso": "2027-03-21T00:00:00",
+        "notification_date": "2027-03-21",
+        "end_date": "3/21/2027",
+        "end_date_iso": "2027-03-21T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSfPdrJlUmuVEd_ZhP2sKAVFkvYI43q4-0frFry_2esT5ah_Pw/viewform?usp=publish-editor",
+        "when_text": "03/21/2027",
+        "event_dates": [
           "3/21/2027"
         ]
       }
