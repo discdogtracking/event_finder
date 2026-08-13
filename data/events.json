@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T07:23:43Z",
-  "count": 241,
+  "last_updated": "2026-08-13T07:25:40Z",
+  "count": 239,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,62 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "5dd169df56a9bba40dd9293a115ea3254904375425392095a28e3f0bad66bb73",
-      "title": "Indianapolis, IN, US - Aug 12th - Indy Dog and Disc Club",
-      "url": "https://updogchallenge.com/events/indianapolis-in-us-aug-12th-indy-dog-and-disc-club/",
-      "details": {
-        "title": "Indianapolis, IN, US – Aug 12th – Indy Dog and Disc Club",
-        "club_name": "Indy Dog and Disc Club",
-        "contact_name": "Sheridan Gilchrist",
-        "contact_email": "Sheridangi@aol.com",
-        "event_address": "1790 E 54Tth St., Indianapolis, Indiana 46220, United States",
-        "start_date": "8/12/2026",
-        "start_date_iso": "2026-08-12T00:00:00",
-        "notification_date": "2026-08-12",
-        "end_date": "8/12/2026",
-        "end_date_iso": "2026-08-12T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Fireball",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "This will be the culminating event for our UpDog practice league starting July 15",
-        "when_text": "08/12/2026",
-        "event_dates": [
-          "8/12/2026"
-        ]
-      }
-    },
-    {
-      "id": "ea185b1d9f1c5b501521ad1c78c404d56bf9cf22101d24365a7ce7d6e5ca2226",
-      "title": "Houston, TX, US - Aug 12th - Houston Canine Frisbee Disc Club",
-      "url": "https://updogchallenge.com/events/houston-tx-us-aug-12th-houston-canine-frisbee-disc-club/",
-      "details": {
-        "title": "Houston, TX, US – Aug 12th – Houston Canine Frisbee Disc Club",
-        "club_name": "Houston Canine Frisbee Disc Club",
-        "contact_name": "Jill Best",
-        "contact_email": "jllbest@hotmail.com",
-        "event_address": "Swanny’s Grill, 6224 Theall Rd, Houston, Texas 77066, United States",
-        "start_date": "8/12/2026",
-        "start_date_iso": "2026-08-12T00:00:00",
-        "notification_date": "2026-08-12",
-        "end_date": "8/12/2026",
-        "end_date_iso": "2026-08-12T00:00:00",
-        "start_time": "6:30 PM",
-        "end_time": "9:30 PM",
-        "games": [
-          "Frizgility",
-          "Spaced Out"
-        ],
-        "additional_event_information_for_participants": "This is Day 7 of the Summer Space City Challenge. Teams will be separated into three divisions – Space Camp for juniors, Inner Space for Novice/Intermediate teams, and Outer Space for Expert teams. Teams’ best scores from each game will be included in the ranking system. Overall awards will be announced at the end of Space City Challenge.",
-        "when_text": "08/12/2026",
-        "event_dates": [
-          "8/12/2026"
         ]
       }
     },
