@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T07:25:40Z",
-  "count": 239,
+  "last_updated": "2026-08-14T07:23:21Z",
+  "count": 255,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -2018,6 +2018,37 @@
       }
     },
     {
+      "id": "9ab4e54a5b5b424315b5d29a9e6884d5841a5e902a5df9886e72c90b0ab4224b",
+      "title": "Gander, NL, CA - Aug 29th - YQX Dog Sports",
+      "url": "https://updogchallenge.com/events/gander-nl-ca-aug-29th-yqx-dog-sports/",
+      "details": {
+        "title": "Gander, NL, CA – Aug 29th – YQX Dog Sports",
+        "club_name": "YQX Dog Sports",
+        "contact_name": "Tracey Vatcher",
+        "contact_email": "yqxdogsports@gmail.com",
+        "event_address": "Gander Athletic Field, 5 Penney Ave, Gander, NL A1V 1W5, Canada",
+        "start_date": "8/29/2026",
+        "start_date_iso": "2026-08-29T00:00:00",
+        "notification_date": "2026-08-29",
+        "end_date": "8/29/2026",
+        "end_date_iso": "2026-08-29T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "7Up",
+          "Time Warp"
+        ],
+        "when_text": "08/29/2026",
+        "event_dates": [
+          "8/29/2026"
+        ]
+      }
+    },
+    {
       "id": "bf7af9b70a69b5d1675f0f32b22f3d6a8b242e89d0349c5de8cc8a5c50f517ab",
       "title": "Lancaster, NY, US - Aug 29th & 30th - Disc Dog Freaks",
       "url": "https://updogchallenge.com/events/lancaster-ny-us-aug-29th-30th-disc-dog-freaks/",
@@ -2247,6 +2278,58 @@
         "when_text": "09/01/2026",
         "event_dates": [
           "9/1/2026"
+        ]
+      }
+    },
+    {
+      "id": "b086a9cf12853de32e48c72aa037e39b3b90e6280e41c63652e516e29ff80aed",
+      "title": "Pilot Butte, SK, CA - Sept 2nd - Encore Disc Dog Club",
+      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-sept-2nd-encore-disc-dog-club/",
+      "details": {
+        "title": "Pilot Butte, SK, CA – Sept 2nd – Encore Disc Dog Club",
+        "club_name": "Encore Disc Dog Club",
+        "contact_name": "Cheryl Petryshyn",
+        "contact_email": "encoredogsports@gmail.com",
+        "event_address": "330 Hanley Cres, Pilot Butte, SK S0G 3Z0, Canada",
+        "start_date": "9/2/2026",
+        "start_date_iso": "2026-09-02T00:00:00",
+        "notification_date": "2026-09-02",
+        "end_date": "9/2/2026",
+        "end_date_iso": "2026-09-02T00:00:00",
+        "start_time": "5:00 PM",
+        "games": [
+          "Four Way Play"
+        ],
+        "when_text": "09/02/2026",
+        "event_dates": [
+          "9/2/2026"
+        ]
+      }
+    },
+    {
+      "id": "00d5e3dcf01a4954093af667f14b14b898fe249359e4f21e3370323628a67146",
+      "title": "Penobscot, ME, US - Sept 3rd - Downeast Dog Sports",
+      "url": "https://updogchallenge.com/events/penobscot-me-us-sept-3rd-downeast-dog-sports/",
+      "details": {
+        "title": "Penobscot, ME, US – Sept 3rd – Downeast Dog Sports",
+        "club_name": "Downeast Dog Sports",
+        "contact_name": "Donna Boidi",
+        "contact_email": "donna@downeastdogsports.com",
+        "event_address": "Jim Henry Field, Penobscot, Maine 04476, United States",
+        "start_date": "9/3/2026",
+        "start_date_iso": "2026-09-03T00:00:00",
+        "notification_date": "2026-09-03",
+        "end_date": "9/3/2026",
+        "end_date_iso": "2026-09-03T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Greedy"
+        ],
+        "additional_event_information_for_participants": "2 rounds of Greedy played back to back! Placement ribbons for first, second, and third place will be cumulative.",
+        "when_text": "09/03/2026",
+        "event_dates": [
+          "9/3/2026"
         ]
       }
     },
@@ -3277,6 +3360,86 @@
       }
     },
     {
+      "id": "53339b53c0f52dbc6c8e7d4b9d36a1b5b8c1a6d541e881a0b65165e2f02bb2f6",
+      "title": "Lumsden, SK, CA - Sept 15th - Regina Disc Dog Club",
+      "url": "https://updogchallenge.com/events/lumsden-sk-ca-sept-15th-regina-disc-dog-club/",
+      "details": {
+        "title": "Lumsden, SK, CA – Sept 15th – Regina Disc Dog Club",
+        "club_name": "Regina Disc Dog Club",
+        "contact_name": "Margaret Lewis",
+        "contact_email": "lewism40@gmail.com",
+        "event_address": "Re+ Riding Arena, Lumsden, Sask S4T 6J7, Canada",
+        "start_date": "9/15/2026",
+        "start_date_iso": "2026-09-15T00:00:00",
+        "notification_date": "2026-09-15",
+        "end_date": "9/15/2026",
+        "end_date_iso": "2026-09-15T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This will be a no-frills, points only trial",
+        "when_text": "09/15/2026",
+        "event_dates": [
+          "9/15/2026"
+        ]
+      }
+    },
+    {
+      "id": "32e070a04fe587200bb94af33a3c39c7f14ec9d6657e646f929b70a4c6e2f137",
+      "title": "Pilot Butte, SK, CA - Sept 16th - Encore Disc Dog Club",
+      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-sept-16th-encore-disc-dog-club/",
+      "details": {
+        "title": "Pilot Butte, SK, CA – Sept 16th – Encore Disc Dog Club",
+        "club_name": "Encore Disc Dog Club",
+        "contact_name": "Cheryl Petryshyn",
+        "contact_email": "encoredogsports@gmail.com",
+        "event_address": "330 Hanley Cres, Pilot Butte, SK S0G 3Z0, Canada",
+        "start_date": "9/16/2026",
+        "start_date_iso": "2026-09-16T00:00:00",
+        "notification_date": "2026-09-16",
+        "end_date": "9/16/2026",
+        "end_date_iso": "2026-09-16T00:00:00",
+        "start_time": "5:00 PM",
+        "games": [
+          "Time Warp"
+        ],
+        "when_text": "09/16/2026",
+        "event_dates": [
+          "9/16/2026"
+        ]
+      }
+    },
+    {
+      "id": "f71be21ae58e1886e88d9c0880762f0fa720a09ccee5ed8f62777f8d76a5fc92",
+      "title": "Penobscot, ME, US - Sept 17th - Downeast Dog Sports",
+      "url": "https://updogchallenge.com/events/penobscot-me-us-sept-17th-downeast-dog-sports/",
+      "details": {
+        "title": "Penobscot, ME, US – Sept 17th – Downeast Dog Sports",
+        "club_name": "Downeast Dog Sports",
+        "contact_name": "Donna Boidi",
+        "contact_email": "donna@downeastdogsports.com",
+        "event_address": "Jim Henry Field, Penobscot, Maine 04476, United States",
+        "start_date": "9/17/2026",
+        "start_date_iso": "2026-09-17T00:00:00",
+        "notification_date": "2026-09-17",
+        "end_date": "9/17/2026",
+        "end_date_iso": "2026-09-17T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Four Way Play"
+        ],
+        "additional_event_information_for_participants": "2 Rounds of Four Way Play, played back to back! Placement ribbons for first, second, and third place based on cumulative score",
+        "when_text": "09/17/2026",
+        "event_dates": [
+          "9/17/2026"
+        ]
+      }
+    },
+    {
       "id": "e7beee7d6c46d8cf37da878e755e8df194edb105ac4c499af3570d212896707e",
       "title": "Ham Lake, MN, US - Sept 18th thru 20th - Minnesota Disc Dog Club",
       "url": "https://updogchallenge.com/events/ham-lake-mn-us-june-13th-14th-minnesota-disc-dog-club/",
@@ -3659,6 +3822,37 @@
       }
     },
     {
+      "id": "157f22e3165c3120fa84a0d96464d3116516d46078627adb9135d99c72cdfa89",
+      "title": "Carmel, IN, US - Sept 23rd thru 26th - Indy Dog and Disc Club",
+      "url": "https://updogchallenge.com/events/carmel-in-us-sept-23rd-thru-26th-indy-dog-and-disc-club/",
+      "details": {
+        "title": "Carmel, IN, US – Sept 23rd thru 26th – Indy Dog and Disc Club",
+        "club_name": "Indy Dog and Disc Club",
+        "contact_name": "Sheridan Gilchrist",
+        "contact_email": "sheridangi@aol.com",
+        "event_address": "11836 WESTWOOD DR, Carmel, Indiana 46033, United States",
+        "start_date": "9/23/2026",
+        "start_date_iso": "2026-09-23T00:00:00",
+        "notification_date": "2026-09-23",
+        "end_date": "9/26/2026",
+        "end_date_iso": "2026-09-26T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Spaced Out",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "The official sanctioned event end to our third League practice series",
+        "when_text": "09/23/2026 - 09/26/2026",
+        "event_dates": [
+          "9/23/2026",
+          "9/24/2026",
+          "9/25/2026",
+          "9/26/2026"
+        ]
+      }
+    },
+    {
       "id": "f04cdc506c29be88c14f58f05a8bbd1ee16d5f3ff3cb1a99d3847c8a4954bcc9",
       "title": "Arnprior, ON, CA - Sept 26th - Scout's Pals",
       "url": "https://updogchallenge.com/events/arnprior-on-ca-sept-26th-scouts-pals/",
@@ -3728,6 +3922,34 @@
       }
     },
     {
+      "id": "1bf3699f7aded975fb525885f1b0a7525f834b82c86a382afa53d14b6c0d56f8",
+      "title": "Pilot Butte, SK, CA - Sept 26th - Encore Disc Dog Club",
+      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-sept-26th-encore-disc-dog-club/",
+      "details": {
+        "title": "Pilot Butte, SK, CA – Sept 26th – Encore Disc Dog Club",
+        "club_name": "Encore Disc Dog Club",
+        "contact_name": "Cheryl Petryshyn",
+        "contact_email": "encoredogsports@gmail.com",
+        "event_address": "330 Hanley Cres, Pilot Butte, SK S0G 3Z0, Canada",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/26/2026",
+        "end_date_iso": "2026-09-26T00:00:00",
+        "start_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "7Up",
+          "Time Warp"
+        ],
+        "when_text": "09/26/2026",
+        "event_dates": [
+          "9/26/2026"
+        ]
+      }
+    },
+    {
       "id": "fb17663ca21fd65f24e65f92427483f0fb95fc4d73f594f82213d6df89aa8e70",
       "title": "Phoenix, AZ, US - Sept 26th & 27th - East Valley Sport Dog Club",
       "url": "https://updogchallenge.com/events/phoenix-az-us-sept-26th-27th-east-valley-sport-dog-club/",
@@ -3756,6 +3978,42 @@
         ],
         "additional_event_information_for_participants": "TBD",
         "prereg_url": "TBD",
+        "when_text": "09/26/2026 - 09/27/2026",
+        "event_dates": [
+          "9/26/2026",
+          "9/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "e4ff93fd624eef8a0d852a8ac4f31313aac51dd07d797c7368cbdd8d6d138a7a",
+      "title": "Magnolia, TX, US - Sept 26th - Houston Canine Frisbee Disc Club - Triple Crown",
+      "url": "https://updogchallenge.com/events/magnolia-tx-us-sept-26th-houston-canine-frisbee-disc-club/",
+      "details": {
+        "title": "Magnolia, TX, US – Sept 26th – Houston Canine Frisbee Disc Club – Triple Crown",
+        "club_name": "Houston Canine Frisbee Disc Club",
+        "contact_name": "Jill Best",
+        "contact_email": "jllbest@hotmail.com",
+        "event_address": "11931 Presley Drive, Magnolia, Texas 77354, United States",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "Greedy",
+          "Far Out Field 120 yards"
+        ],
         "when_text": "09/26/2026 - 09/27/2026",
         "event_dates": [
           "9/26/2026",
@@ -3933,6 +4191,44 @@
         "event_dates": [
           "9/26/2026",
           "9/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "5179960eeaaf03d90fa3da9bb7bc627da09bd66d85723bc95f67736182a10018",
+      "title": "Rochester, MN, US - Sept 26th - Rochester Frisbee Dogs",
+      "url": "https://updogchallenge.com/events/rochester-mn-us-sept-26th-rochester-frisbee-dogs/",
+      "details": {
+        "title": "Rochester, MN, US – Sept 26th – Rochester Frisbee Dogs",
+        "club_name": "Rochester Frisbee Dogs",
+        "contact_name": "Abbey Reynolds",
+        "contact_email": "quickwitsbc@gmail.com",
+        "event_address": "2800 W River Pkwy NW, Rochester, Minnesota 55901, United States",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/26/2026",
+        "end_date_iso": "2026-09-26T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:45 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSc7Szg1bu6PHiuTM7ENbPQIPafcP6uDoi2-oZZH3uQwZJiDMg/viewform?usp=publish-editor",
+        "when_text": "09/26/2026",
+        "event_dates": [
+          "9/26/2026"
         ]
       }
     },
@@ -4161,6 +4457,31 @@
         "event_dates": [
           "10/2/2026",
           "10/3/2026"
+        ]
+      }
+    },
+    {
+      "id": "53de17c26108100b51b5e3719d18467598fb56dc6de551a8659e2f9b525e3011",
+      "title": "Greenfield, MA, US - Oct 2nd - Face to Face Disc",
+      "url": "https://updogchallenge.com/events/greenfield-ma-us-oct-2nd-face-to-face-disc/",
+      "details": {
+        "title": "Greenfield, MA, US – Oct 2nd – Face to Face Disc",
+        "club_name": "Face to Face Disc",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "facetofacedogsports@gmail.com",
+        "event_address": "89 Wisdom Way, Greenfield, MA 01301, United States",
+        "start_date": "10/2/2026",
+        "start_date_iso": "2026-10-02T00:00:00",
+        "notification_date": "2026-10-02",
+        "end_date": "10/2/2026",
+        "end_date_iso": "2026-10-02T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.facebook.com/profile.php?id=100093106537119",
+        "when_text": "10/02/2026",
+        "event_dates": [
+          "10/2/2026"
         ]
       }
     },
@@ -5056,6 +5377,38 @@
       }
     },
     {
+      "id": "8e41538d5660f692907bdf1a7c4b0b2396cdc793c098761a1327519a92b3cbfd",
+      "title": "Saint John, NB, CA - Oct 17th - Bite Club - Fundy Flyers",
+      "url": "https://updogchallenge.com/events/saint-john-nb-ca-oct-17th-bite-club-fundy-flyers/",
+      "details": {
+        "title": "Saint John, NB, CA – Oct 17th – Bite Club – Fundy Flyers",
+        "club_name": "Fundy Flyers",
+        "contact_name": "Andrea Caines",
+        "contact_email": "andrea_caines54@yahoo.ca",
+        "event_address": "1216 Sand Cove Rd, Saint John, NB E2M 5V8, Canada",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/17/2026",
+        "end_date_iso": "2026-10-17T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Week 1 & 2 On Oct 17\nWeek 3 & 4 On",
+        "when_text": "10/17/2026",
+        "event_dates": [
+          "10/17/2026"
+        ]
+      }
+    },
+    {
       "id": "574d0fa19e02ef12bbe8a06ded7132b8ddd62756afd513b41a9cead39bae294c",
       "title": "Smyrna, TN, US - Oct 17th - Bite Club - NashVertical Disc Dogs",
       "url": "https://updogchallenge.com/events/smyrna-tn-us-oct-17th-bite-club-nashvertical-disc-dogs/",
@@ -5944,6 +6297,38 @@
       }
     },
     {
+      "id": "c4fdc04044c3d1d38dfc10d46e6ec0d5df9d71d23b2e03a30bd000342f15d6c7",
+      "title": "Saint John, NB, CA - Oct 31st - Bite Club - Fundy Flyers",
+      "url": "https://updogchallenge.com/events/saint-john-nb-ca-oct-31st-bite-club-fundy-flyers/",
+      "details": {
+        "title": "Saint John, NB, CA – Oct 31st – Bite Club – Fundy Flyers",
+        "club_name": "Fundy Flyers",
+        "contact_name": "Andrea Caines",
+        "contact_email": "andrea_caines54@yahoo.ca",
+        "event_address": "1216 Sand Cove Rd, Saint John, NB E2M 5V8, Canada",
+        "start_date": "10/31/2026",
+        "start_date_iso": "2026-10-31T00:00:00",
+        "notification_date": "2026-10-31",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Week 1 & 2 On Oct 17\nWeek 3 & 4 On",
+        "when_text": "10/31/2026",
+        "event_dates": [
+          "10/31/2026"
+        ]
+      }
+    },
+    {
       "id": "a679b33863b3f9975783b4c39e89dcb358615ecf9ef44ec64926dc528244d583",
       "title": "Smyrna, TN, US - Oct 31st - Bite Club - NashVertical Disc Dogs",
       "url": "https://updogchallenge.com/events/smyrna-tn-us-oct-31st-bite-club-nashvertical-disc-dogs/",
@@ -6001,6 +6386,35 @@
         "when_text": "10/31/2026",
         "event_dates": [
           "10/31/2026"
+        ]
+      }
+    },
+    {
+      "id": "da069441f8a4aeea7fc62d4b8d4e4ca8494a73ded1a1d90fb6b8ed7535be9354",
+      "title": "Houston, TX, US - Nov 1st - Houston Canine Frisbee Disc Club",
+      "url": "https://updogchallenge.com/events/houston-tx-us-nov-1st-houston-canine-frisbee-disc-club/",
+      "details": {
+        "title": "Houston, TX, US – Nov 1st – Houston Canine Frisbee Disc Club",
+        "club_name": "Houston Canine Frisbee Disc Club",
+        "contact_name": "Jill Best",
+        "contact_email": "jllbest@hotmail.com",
+        "event_address": "Swanny’s Grill, 6224 Theall Rd, Houston, Texas 77066, United States",
+        "start_date": "11/1/2026",
+        "start_date_iso": "2026-11-01T00:00:00",
+        "notification_date": "2026-11-01",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "games": [
+          "Fireball",
+          "Freestyle",
+          "FunKey",
+          "Greedy",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Freestyle round will be Performance round.",
+        "when_text": "11/01/2026",
+        "event_dates": [
+          "11/1/2026"
         ]
       }
     },
@@ -7133,6 +7547,38 @@
       }
     },
     {
+      "id": "fde700cb870c1d454ed17953d17a35af434876a4a3a1fff2a9c05c3f00e3a571",
+      "title": "Magnolia, TX, US - Dec 12th & 13th - \tHouston Canine Frisbee Disc Club",
+      "url": "https://updogchallenge.com/events/magnolia-tx-us-dec-12th-13th-houston-canine-frisbee-disc-club/",
+      "details": {
+        "title": "Magnolia, TX, US – Dec 12th & 13th – \tHouston Canine Frisbee Disc Club",
+        "club_name": "Houston Canine Frisbee Disc Club",
+        "contact_name": "Jill Best",
+        "contact_email": "jllbest@hotmail.com",
+        "event_address": "11931 Presley Drive, Magno, Texas 77354, United States",
+        "start_date": "12/12/2026",
+        "start_date_iso": "2026-12-12T00:00:00",
+        "notification_date": "2026-12-12",
+        "end_date": "12/13/2026",
+        "end_date_iso": "2026-12-13T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey"
+        ],
+        "when_text": "12/12/2026 - 12/13/2026",
+        "event_dates": [
+          "12/12/2026",
+          "12/13/2026"
+        ]
+      }
+    },
+    {
       "id": "3795964b76ad9d0223d7ef6722160f58b67e8cdf60ada2143ddb2bdbf4cb6ec9",
       "title": "Talala, OK, US - Dec 12th & 13th - UpDog Tulsa",
       "url": "https://updogchallenge.com/events/talala-ok-us-dec-12th-13th-updog-tulsa/",
@@ -7941,6 +8387,37 @@
           "7/16/2027",
           "7/17/2027",
           "7/18/2027"
+        ]
+      }
+    },
+    {
+      "id": "b3f75d21485113f934e6fd61396ca30df682b41dfb433b2002a76c70efed4b41",
+      "title": "Hillgrove, NB, CA - July 30th thru Aug 2nd - PJs Canine Club",
+      "url": "https://updogchallenge.com/events/hillgrove-nb-ca-july-30th-thru-aug-2nd-pjs-canine-club/",
+      "details": {
+        "title": "Hillgrove, NB, CA – July 30th thru Aug 2nd – PJs Canine Club",
+        "club_name": "PJ’s Canine Club",
+        "contact_name": "Janice Aube",
+        "contact_email": "pjs.canineclub@gmail.com",
+        "event_address": "3420 ROUTE 890, Hillgrove, NB E4Z 5W4, Canada",
+        "start_date": "7/30/2027",
+        "start_date_iso": "2027-07-30T00:00:00",
+        "notification_date": "2027-07-30",
+        "end_date": "8/2/2027",
+        "end_date_iso": "2027-08-02T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "10th Anniversary!",
+        "prereg_url": "https://forms.gle/AULSDT8yMyD5fDg98",
+        "when_text": "07/30/2027 - 08/02/2027",
+        "event_dates": [
+          "7/30/2027",
+          "7/31/2027",
+          "8/1/2027",
+          "8/2/2027"
         ]
       }
     }
