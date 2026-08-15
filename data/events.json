@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T07:23:21Z",
-  "count": 255,
+  "last_updated": "2026-08-15T06:35:44Z",
+  "count": 254,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -823,40 +823,6 @@
           "8/14/2026",
           "8/15/2026",
           "8/16/2026"
-        ]
-      }
-    },
-    {
-      "id": "cbd95c9d9d7f567ea65cc2d10d973d71ae2a12d17cf92fe438b5124347bd947b",
-      "title": "Chelsea, AL, US - Aug 14th - Steel City Dog Sports",
-      "url": "https://updogchallenge.com/events/chelsea-al-us-aug-14th-steel-city-dog-sports/",
-      "details": {
-        "title": "Chelsea, AL, US – Aug 14th – Steel City Dog Sports",
-        "club_name": "Steel City Dog Sports",
-        "contact_name": "Tiffany Smith",
-        "contact_email": "steelcitydogsports@gmail.com",
-        "event_address": "565 Griffin Rd, Chelsea, AL 35043, United States",
-        "start_date": "8/14/2026",
-        "start_date_iso": "2026-08-14T00:00:00",
-        "notification_date": "2026-08-14",
-        "end_date": "8/14/2026",
-        "end_date_iso": "2026-08-14T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "12:00 AM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Throw N Go",
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Summer is F’in HOT. Come beat the heat at our beautifully lit half field. We’ll be playing everyone’s favorite F’in games!\nhttps://forms.gle/XhwcoRkQyrhD7i2G7",
-        "prereg_url": "https://forms.gle/XhwcoRkQyrhD7i2G7",
-        "when_text": "08/14/2026",
-        "event_dates": [
-          "8/14/2026"
         ]
       }
     },
