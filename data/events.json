@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T06:35:44Z",
-  "count": 254,
+  "last_updated": "2026-08-16T06:37:51Z",
+  "count": 252,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -827,87 +827,6 @@
       }
     },
     {
-      "id": "bf55632c7e9c87737c31ec2d16bf52132698cdcfb86c09d5f7babf8e68c96629",
-      "title": "Lutz, FL, US - Aug 15th - CFDDC",
-      "url": "https://updogchallenge.com/events/lutz-fl-us-aug-15th-cfddc/",
-      "details": {
-        "title": "Lutz, FL, US – Aug 15th – CFDDC",
-        "when_text": "08/15/2026",
-        "event_dates": [
-          "8/15/2026"
-        ],
-        "start_date": "8/15/2026",
-        "end_date": "8/15/2026",
-        "start_date_iso": "2026-08-15T00:00:00",
-        "end_date_iso": "2026-08-15T00:00:00",
-        "notification_date": "2026-08-15"
-      }
-    },
-    {
-      "id": "5a03678738139d16921dc19afbe911979e9b62f35df104c67d490cffebd744c6",
-      "title": "Coquitlam, BC, CA - Aug 15th - Run As One Dog Training",
-      "url": "https://updogchallenge.com/events/coquitlam-bc-ca-aug-15th-run-as-one-dog-training/",
-      "details": {
-        "title": "Coquitlam, BC, CA – Aug 15th – Run As One Dog Training",
-        "club_name": "Run As One Dog Training",
-        "contact_name": "Julia Schwark",
-        "contact_email": "runasonedogtraining@gmail.com",
-        "event_address": "1799 Eagle Mountain Drive, Coquitlam, BC V3E 3L5, Canada",
-        "start_date": "8/15/2026",
-        "start_date_iso": "2026-08-15T00:00:00",
-        "notification_date": "2026-08-15",
-        "end_date": "8/15/2026",
-        "end_date_iso": "2026-08-15T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "3:30 PM",
-        "games": [
-          "Far Out",
-          "Four Way Play",
-          "Greedy",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "3 Rounds of Far Out!\nLots of fun Special Awards! (no individual placements)\nOn a lovely private, fully-fenced, outdoor field, tenting will be within the fenced area, pottying is outside the fencing.",
-        "when_text": "08/15/2026",
-        "event_dates": [
-          "8/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "9d9d8b0b7b4d138470a3250dca2c3aac1aae5cf3fa58602ff8963e465f11519b",
-      "title": "East Selkirk, MB, CA - Aug 15th - Whipp'in Disc Dogs",
-      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-aug-15th-whippin-disc-dogs/",
-      "details": {
-        "title": "East Selkirk, MB, CA – Aug 15th – Whipp’in Disc Dogs",
-        "club_name": "Whipp’in Disc Dogs",
-        "contact_name": "Jill Voth",
-        "contact_email": "whippindiscdogs@outlook.com",
-        "event_address": "353 Stone Church Rd, East Selkirk, MB R0E 0M0, Canada",
-        "start_date": "8/15/2026",
-        "start_date_iso": "2026-08-15T00:00:00",
-        "notification_date": "2026-08-15",
-        "end_date": "8/15/2026",
-        "end_date_iso": "2026-08-15T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Choose your own adventure. 4 Games, as well as Far Out. 5 games offered per team.",
-        "when_text": "08/15/2026",
-        "event_dates": [
-          "8/15/2026"
-        ]
-      }
-    },
-    {
       "id": "1f17ea9344a5d8971073b4e98d1dc5c6560fabd600879041c7507679c79b521e",
       "title": "St Johns, MI, US - Aug 15th & 16th - Leashed Favorite Dog Club",
       "url": "https://updogchallenge.com/events/st-johns-mi-us-aug-15th-16th-leashed-favorite-dog-club/",
@@ -932,77 +851,6 @@
         "event_dates": [
           "8/15/2026",
           "8/16/2026"
-        ]
-      }
-    },
-    {
-      "id": "004f44c53f89fb887fcdf676bc24f75104be7fb915c03681b136fd837b3fd8ef",
-      "title": "Lumsden, SK, CA - Aug 15th - ABSolute Agility",
-      "url": "https://updogchallenge.com/events/lumsden-sk-ca-aug-15th-absolute-agility/",
-      "details": {
-        "title": "Lumsden, SK, CA – Aug 15th – ABSolute Agility",
-        "club_name": "ABSolute Agility",
-        "contact_name": "Amanda Abs",
-        "contact_email": "aabs@jays.ca",
-        "event_address": "Hwy 734, Lumsden, SK S4P 2Z1, Canada",
-        "start_date": "8/15/2026",
-        "start_date_iso": "2026-08-15T00:00:00",
-        "notification_date": "2026-08-15",
-        "end_date": "8/15/2026",
-        "end_date_iso": "2026-08-15T00:00:00",
-        "start_time": "8:45 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "2 rounds of Time warp and 2 rounds of Throw and Go.",
-        "when_text": "08/15/2026",
-        "event_dates": [
-          "8/15/2026"
-        ]
-      }
-    },
-    {
-      "id": "44a100e92b5fb5b5aba4b54ee047a2fa978d623b3999c13a3861bfd5319ca29b",
-      "title": "Pilot Mountain, NC, US - Aug 15th - Jam-Min' Disc Dogs",
-      "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-aug-22nd-jam-min-disc-dogs/",
-      "details": {
-        "title": "Pilot Mountain, NC, US – Aug 15th – Jam-Min’ Disc Dogs",
-        "club_name": "Jam-Min’ Disc Dogs",
-        "contact_name": "CJ Fithian",
-        "contact_email": "jammindogsports@icloud.com",
-        "event_address": "1140 Matthews Rd, Pilot Mountain, NC 27041, United States",
-        "start_date": "8/15/2026",
-        "start_date_iso": "2026-08-15T00:00:00",
-        "notification_date": "2026-08-15",
-        "end_date": "8/15/2026",
-        "end_date_iso": "2026-08-15T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "Pairs Four Way Play",
-          "Pairs Throw N Go"
-        ],
-        "additional_event_information_for_participants": "All games are offered to play! There is an event limit of 200-250 runs depending on the games entered. Freestyle willl be offered if we have at least 3 judges.\nFar Out, Freestyle, Throw N Go & Pairs, Frizgility, 4WayPlay & Pairs, Fireball, Spaced Out, 7Up, Time Warp, Greedy, Boom!, FunKey\nNOTES:\nAll Level 2 games are available.\nUp to 3 rounds per game may be played\nUpDog has a 10 run limit per dog per day.\nA Hoop will be substituted for the tunnel for Frizgility and FunKey.\nOnly first rounds are eligible for placement awards. If there is a large entry of second rounds we may opt to also award placements for the 2nd round as well. 3rd rounds are points only.\nRV Camping is available @$25/night. Car/tent camping spots are @ $15/night. There are no hook-ups available.",
-        "prereg_url": "https://www.cognitoforms.com/JamMinDiscDogs/JamMinDiscDogsUpDogPreRegistration",
-        "when_text": "08/15/2026",
-        "event_dates": [
-          "8/15/2026"
         ]
       }
     },
@@ -3098,6 +2946,36 @@
       }
     },
     {
+      "id": "f4b8b63ebff78c57fc0c2977b567ccb19d2c53e5e25c8f4e573e86c464c8a007",
+      "title": "Somers, WI, US - Sept 12th - Dairyland Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/somers-wi-us-sept-12th-dairyland-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Somers, WI, US – Sept 12th – Dairyland Disc Dogs – Triple Crown",
+        "club_name": "Dairyland Disc Dogs",
+        "contact_name": "Dean Shavit",
+        "contact_email": "dean@macworkshops.com",
+        "event_address": "Private Residence, =, Somers, WI 53144, United States",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/12/2026",
+        "end_date_iso": "2026-09-12T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "when_text": "09/12/2026",
+        "event_dates": [
+          "9/12/2026"
+        ]
+      }
+    },
+    {
       "id": "558b6dd32126b4f738bdc21516c291e9bcec5ff1c2999f3ea41be781a24cb977",
       "title": "Mahopac, NY, US - Sept 12th & 13th - Bring Your Own (BYO) Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/mahopac-ny-us-sept-12th-13th-bring-your-own-byo-disc-dogs-triple-crown/",
@@ -4827,7 +4705,7 @@
         "games": [
           "To Be Determined"
         ],
-        "additional_event_information_for_participants": "In conjunction with the Beauceron National Specialty and Nickel City Cluster",
+        "additional_event_information_for_participants": "In conjunction with the Beauceron National Specialty and Nickel City Cluster\nhttps://www.dfwdiscdogclub.org/events/abc-national\nAll games will be played in the times alloted below. We will provide a running order for each game, however we will provide flexibility of walk-ups for teams with conflicts due to other sports throughout the weekend.\nFriday, October 9\n12-3 pm Walkup 60 Second Disc Only Games (Throw N Go, 4 Way Play, Time Warp, Spaced Out)\n3-4 pm Far Out\n4-5 pm 7Up\nSaturday, October 10\n8-9:45 am Time Warp\n10-11:45 am Frizgility\n12-12:45 pm Freestyle Performance\n1-2:45 pm 4 Way Play\n3-4:45 pm Greedy\nSunday, October 11\n8-9:45 am Throw N Go\n10-11:45 am FunKey\n12-1:45 pm Fireball\n2-3:45 pm 4 Way Play",
         "when_text": "10/09/2026 - 10/11/2026",
         "event_dates": [
           "10/9/2026",
@@ -6229,6 +6107,33 @@
       }
     },
     {
+      "id": "cace4e4d5f2642ed79517215d376a3cc1cb4211ef526cbc1ab385c93bbbf5c8a",
+      "title": "Ocala, FL, US - Oct 31st - Ocala Dog Ranch",
+      "url": "https://updogchallenge.com/events/ocala-fl-us-oct-31st-ocala-dog-ranch/",
+      "details": {
+        "title": "Ocala, FL, US – Oct 31st – Ocala Dog Ranch",
+        "club_name": "Ocala Dog Ranch",
+        "contact_name": "Carrie Pelzer",
+        "contact_email": "carrieverde@gmail.com",
+        "event_address": "440 SW 110th Ave, Ocala, FL 34481, United States",
+        "start_date": "10/31/2026",
+        "start_date_iso": "2026-10-31T00:00:00",
+        "notification_date": "2026-10-31",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.ocaladogranch.com/home/disc-dog/",
+        "when_text": "10/31/2026",
+        "event_dates": [
+          "10/31/2026"
+        ]
+      }
+    },
+    {
       "id": "fa4d68668d7fb0db93998f1a774fd8ac14c429cdcfc3efb0111a523d532e38ac",
       "title": "Rosemount, MN, US - Oct  31st - Bite Club - Outside The Box Dog Training",
       "url": "https://updogchallenge.com/events/rosemount-mn-us-oct-31st-bite-club-outside-the-box-dog-training/",
@@ -6831,6 +6736,24 @@
         "event_dates": [
           "11/9/2026"
         ]
+      }
+    },
+    {
+      "id": "8b03669a8c1da9e23e45da629c7ccd4d615e01a344ed6e56231f0a5340fe4473",
+      "title": "Brooksville, FL, US - Nov 14th & 15th - UpDog Invitational",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-nov-14th-15th-updog-invitational/",
+      "details": {
+        "title": "Brooksville, FL, US – Nov 14th & 15th – UpDog Invitational",
+        "when_text": "11/14/2026 - 11/15/2026",
+        "event_dates": [
+          "11/14/2026",
+          "11/15/2026"
+        ],
+        "start_date": "11/14/2026",
+        "end_date": "11/15/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "notification_date": "2026-11-14"
       }
     },
     {
@@ -7573,10 +7496,10 @@
     },
     {
       "id": "54bc9eb0c53e59d3b9b831e77f573d41235aa597701326a64e5b8867bfeb3035",
-      "title": "Dade City, FL, US - Nov 7th & 8th - CFDDC",
+      "title": "Dade City, FL, US - Dec 12th & 13th - CFDDC",
       "url": "https://updogchallenge.com/events/dade-city-fl-us-nov-7th-8th-cfddc-2/",
       "details": {
-        "title": "Dade City, FL, US – Nov 7th & 8th – CFDDC",
+        "title": "Dade City, FL, US – Dec 12th & 13th – CFDDC",
         "when_text": "12/12/2026 - 12/13/2026",
         "event_dates": [
           "12/12/2026",
