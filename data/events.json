@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T06:49:11Z",
-  "count": 244,
+  "last_updated": "2026-08-18T06:40:51Z",
+  "count": 255,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -1576,6 +1576,44 @@
       }
     },
     {
+      "id": "85c5da7500d7cb02f62e6d571993446768388c92da2203aca020b26e09d6306c",
+      "title": "Opelika, AL, US - Aug 29th & 30th - Disc Dogs on the Plains",
+      "url": "https://updogchallenge.com/events/opelika-al-us-aug-29th-30th-disc-dogs-on-the-plains/",
+      "details": {
+        "title": "Opelika, AL, US – Aug 29th & 30th – Disc Dogs on the Plains",
+        "club_name": "Disc Dogs on the Plains",
+        "contact_name": "Becky Jones",
+        "contact_email": "rebeccalenoir@live.com",
+        "event_address": "300 Co Rd 29, Opelika, AL 36804, United States",
+        "start_date": "8/29/2026",
+        "start_date_iso": "2026-08-29T00:00:00",
+        "notification_date": "2026-08-29",
+        "end_date": "8/30/2026",
+        "end_date_iso": "2026-08-30T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This event will be for *points only* (no placements given).\nMultiple rounds available. Level 2 available.\nMore information and registration can be found on our Facebook page:\nhttps://www.facebook.com/discdogsontheplains\nGPS is sometimes weird about navigating to the event location – if you haven’t been to this location before and have any questions about whether or not you’re going to the right place, please reach out!\nTo beat the heat: this will be a Saturday evening and Sunday morning event. We will run crossover games on Saturday evening. On Sunday morning, all the disc-only games will be available to play on a walk-up style basis.\nCheck the Facebook page for up-to-date, finalized information about this event!",
+        "when_text": "08/29/2026 - 08/30/2026",
+        "event_dates": [
+          "8/29/2026",
+          "8/30/2026"
+        ]
+      }
+    },
+    {
       "id": "32cb1324699857d43a3720980c8a73f8f5ed843eae736321d1f210a4b9f6a251",
       "title": "Rio Dell, CA, US - Aug 29th & 30th - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-aug-29th-30th-humboldt-disc-dog-club/",
@@ -2449,6 +2487,38 @@
       }
     },
     {
+      "id": "6e6bab5774c1455edc01b73f0222077ad0f14c2dda924399035f46c2d4257e24",
+      "title": "Opelika, AL, US - Sept 7th - Disc Dogs on the Plains",
+      "url": "https://updogchallenge.com/events/opelika-al-us-sept-7th-disc-dogs-on-the-plains/",
+      "details": {
+        "title": "Opelika, AL, US – Sept 7th – Disc Dogs on the Plains",
+        "club_name": "Disc Dogs on the Plains",
+        "contact_name": "Becky Jones",
+        "contact_email": "rebeccalenoir@live.com",
+        "event_address": "300 Co Rd 29, Opelika, AL 36804, United States",
+        "start_date": "9/7/2026",
+        "start_date_iso": "2026-09-07T00:00:00",
+        "notification_date": "2026-09-07",
+        "end_date": "9/7/2026",
+        "end_date_iso": "2026-09-07T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "FunKey",
+          "Greedy",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Join us for a little Labor Day Spectacular with a few of UpDog’s more labor-intensive games! (And Time Warp, because who doesn’t love Time Warp?)\nThis event will be for *points only* (no placements given).\nMultiple rounds available. Level 2 available.\nMore information and registration can be found on our Facebook page:\nhttps://www.facebook.com/discdogsontheplains\nGPS is sometimes weird about navigating to the event location – if you haven’t been to this location before and have any questions about whether or not you’re going to the right place, please reach out!\nThe games played on this date may be modified depending on demand – we may be open to offering additional disc-only games. Reach out with any questions and check the Facebook event page for the most up-to-date information about the event.",
+        "when_text": "09/07/2026",
+        "event_dates": [
+          "9/7/2026"
+        ]
+      }
+    },
+    {
       "id": "a20a2df52fff7ddd6539463b7d80b8da289b97c6b520385fe2f8784dd98237e2",
       "title": "Seville, OH, US - Sept 7th - Dawg Gone It - Triple Crown",
       "url": "https://updogchallenge.com/events/seville-oh-us-sept-7th-dawg-gone-it-triple-crown/",
@@ -2540,6 +2610,48 @@
         "when_text": "09/08/2026",
         "event_dates": [
           "9/8/2026"
+        ]
+      }
+    },
+    {
+      "id": "7508860f02ea7c735c5e2227fe64fd3be0e9876e8b38d3870cf6017c0a1cb0c7",
+      "title": "Surrey, BC, CA - Sept 11th thru 13th - PNW Championships",
+      "url": "https://updogchallenge.com/events/surrey-bc-ca-sept-11th-thru-13th-pnw-championships/",
+      "details": {
+        "title": "Surrey, BC, CA – Sept 11th thru 13th – PNW Championships",
+        "club_name": "Multi – PNW Championship",
+        "contact_name": "COREY POLIS",
+        "contact_email": "pnwdiscchampionship@gmail.com",
+        "event_address": "18843 8 Ave, Surrey, BC V3Z 9R9, Canada",
+        "start_date": "9/11/2026",
+        "start_date_iso": "2026-09-11T00:00:00",
+        "notification_date": "2026-09-11",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ],
+        "additional_event_information_for_participants": "https://www.facebook.com/groups/990756235355199",
+        "prereg_url": "https://www.cognitoforms.com/pnwdiscchampionship/_2026pnwupdogchampionshipregistration/",
+        "when_text": "09/11/2026 - 09/13/2026",
+        "event_dates": [
+          "9/11/2026",
+          "9/12/2026",
+          "9/13/2026"
         ]
       }
     },
@@ -2747,6 +2859,37 @@
       }
     },
     {
+      "id": "40798e3b0a343f06fc78eace12c8ba1d680ef63d307005fb060ddb409295f420",
+      "title": "Green Bay, WI, US - Sept 12th - Northeast Wisconsin Australian Shepherd Club",
+      "url": "https://updogchallenge.com/events/green-bay-wi-us-sept-12th-northeast-wisconsin-australian-shepherd-club/",
+      "details": {
+        "title": "Green Bay, WI, US – Sept 12th – Northeast Wisconsin Australian Shepherd Club",
+        "club_name": "Northeast Wisconsin Australian Shepherd Club",
+        "contact_name": "Sarah Blodgett",
+        "contact_email": "newasclub@gmail.com",
+        "event_address": "Packerland Kennel Club, 2031 Bellevue St., Green Bay, WI 54311, United States",
+        "start_date": "9/12/2026",
+        "start_date_iso": "2026-09-12T00:00:00",
+        "notification_date": "2026-09-12",
+        "end_date": "9/12/2026",
+        "end_date_iso": "2026-09-12T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Indoor crating space available. Field is fenced. No food for sale on site.",
+        "prereg_url": "https://www.newasclub.com/",
+        "when_text": "09/12/2026",
+        "event_dates": [
+          "9/12/2026"
+        ]
+      }
+    },
+    {
       "id": "558b6dd32126b4f738bdc21516c291e9bcec5ff1c2999f3ea41be781a24cb977",
       "title": "Mahopac, NY, US - Sept 12th & 13th - Bring Your Own (BYO) Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/mahopac-ny-us-sept-12th-13th-bring-your-own-byo-disc-dogs-triple-crown/",
@@ -2940,6 +3083,34 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "09/13/2026",
+        "event_dates": [
+          "9/13/2026"
+        ]
+      }
+    },
+    {
+      "id": "816342594be280acd501d3d1b2586f21feb4e93d43395163f4541c5c6d256519",
+      "title": "Monroe, MI, US - Sept 13th - Downriver Disc Dogs",
+      "url": "https://updogchallenge.com/events/monroe-mi-us-sept-13th-downriver-disc-dogs/",
+      "details": {
+        "title": "Monroe, MI, US – Sept 13th – Downriver Disc Dogs",
+        "club_name": "Downriver Disc Dogs",
+        "contact_name": "Ronald Corey",
+        "contact_email": "Downriverdiscdogs@gmail.com",
+        "event_address": "4665 E Dunbar Rd., Monroe, MI 48151, United States",
+        "start_date": "9/13/2026",
+        "start_date_iso": "2026-09-13T00:00:00",
+        "notification_date": "2026-09-13",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "https://www.facebook.com/share/17C6fJv7DY/\nNo Checks, Cash, Paypal, Venmo",
+        "prereg_url": "https://www.facebook.com/share/17C6fJv7DY/",
         "when_text": "09/13/2026",
         "event_dates": [
           "9/13/2026"
@@ -3438,10 +3609,10 @@
     },
     {
       "id": "157f22e3165c3120fa84a0d96464d3116516d46078627adb9135d99c72cdfa89",
-      "title": "Carmel, IN, US - Sept 23rd thru 26th - Indy Dog and Disc Club",
+      "title": "Carmel, IN, US - Sept 23rd - Indy Dog and Disc Club",
       "url": "https://updogchallenge.com/events/carmel-in-us-sept-23rd-thru-26th-indy-dog-and-disc-club/",
       "details": {
-        "title": "Carmel, IN, US – Sept 23rd thru 26th – Indy Dog and Disc Club",
+        "title": "Carmel, IN, US – Sept 23rd – Indy Dog and Disc Club",
         "club_name": "Indy Dog and Disc Club",
         "contact_name": "Sheridan Gilchrist",
         "contact_email": "sheridangi@aol.com",
@@ -3449,8 +3620,8 @@
         "start_date": "9/23/2026",
         "start_date_iso": "2026-09-23T00:00:00",
         "notification_date": "2026-09-23",
-        "end_date": "9/26/2026",
-        "end_date_iso": "2026-09-26T00:00:00",
+        "end_date": "9/23/2026",
+        "end_date_iso": "2026-09-23T00:00:00",
         "start_time": "5:30 PM",
         "end_time": "8:30 PM",
         "games": [
@@ -3458,12 +3629,9 @@
           "Throw N Go"
         ],
         "additional_event_information_for_participants": "The official sanctioned event end to our third League practice series",
-        "when_text": "09/23/2026 - 09/26/2026",
+        "when_text": "09/23/2026",
         "event_dates": [
-          "9/23/2026",
-          "9/24/2026",
-          "9/25/2026",
-          "9/26/2026"
+          "9/23/2026"
         ]
       }
     },
@@ -3810,6 +3978,38 @@
       }
     },
     {
+      "id": "c4908d4f85e73d4d374750d12978672b110d1c4eff77ff3ece6830df2adc7dec",
+      "title": "Oromocto, NB, CA - Sept 26th - Fundy Flyers/Skydiggers - Triple Crown",
+      "url": "https://updogchallenge.com/events/oromocto-nb-ca-sept-26th-fundy-flyers-skydiggers-triple-crown/",
+      "details": {
+        "title": "Oromocto, NB, CA – Sept 26th – Fundy Flyers/Skydiggers – Triple Crown",
+        "club_name": "Fundy Flyers/Skydiggers",
+        "contact_name": "Andrea Caines",
+        "contact_email": "andrea_caines54@yahoo.ca",
+        "event_address": "Blackwatch Softball Field, Broad Road, Oromocto, NB E2V2EX, Canada",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/26/2026",
+        "end_date_iso": "2026-09-26T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Game Order:\nThrow N Go Level 1\nSpaced Out\nTime Warp\nFireball\nFour Way Play",
+        "prereg_url": "https://forms.gle/zZhJdhgRWdePMsZP6",
+        "when_text": "09/26/2026",
+        "event_dates": [
+          "9/26/2026"
+        ]
+      }
+    },
+    {
       "id": "5179960eeaaf03d90fa3da9bb7bc627da09bd66d85723bc95f67736182a10018",
       "title": "Rochester, MN, US - Sept 26th - Rochester Frisbee Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-sept-26th-rochester-frisbee-dogs/",
@@ -3906,6 +4106,42 @@
         "when_text": "09/26/2026 - 09/27/2026",
         "event_dates": [
           "9/26/2026",
+          "9/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "5be26d5ca7cbc930df7dc9071f14e7c10dc726c39f50312f44755c4123cd6907",
+      "title": "Opelika, AL, US - Sept 27th - Disc Dogs on the Plains",
+      "url": "https://updogchallenge.com/events/opelika-al-us-sept-27th-disc-dogs-on-the-plains/",
+      "details": {
+        "title": "Opelika, AL, US – Sept 27th – Disc Dogs on the Plains",
+        "club_name": "Disc Dogs on the Plains",
+        "contact_name": "Becky Jones",
+        "contact_email": "rebeccalenoir@live.com",
+        "event_address": "300 Co Rd 29, Opelika, AL 36804, United States",
+        "start_date": "9/27/2026",
+        "start_date_iso": "2026-09-27T00:00:00",
+        "notification_date": "2026-09-27",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "8:00 AM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This event will be for *points only* (no placements given).\nMultiple rounds available. Level 2 available. All games will be offered except for Freestyle.\nMore information and registration can be found on our Facebook page:\nhttps://www.facebook.com/discdogsontheplains\nGPS is sometimes weird about navigating to the event location – if you haven’t been to this location before and have any questions about whether or not you’re going to the right place, please reach out!",
+        "when_text": "09/27/2026",
+        "event_dates": [
           "9/27/2026"
         ]
       }
@@ -4057,6 +4293,7 @@
         "end_time": "10:00 PM",
         "games": [
           "Boom!",
+          "Far Out (70 yards)",
           "Fireball",
           "Four Way Play",
           "Frizgility",
@@ -4067,7 +4304,7 @@
           "Throw N Go",
           "Time Warp"
         ],
-        "additional_event_information_for_participants": "Friday is disc only games, walk up style. Start 1:00pm.\nSaturday is Triple Crown games followed by agility games. Start 10am\nAwards for Triple Crown games.",
+        "additional_event_information_for_participants": "Friday is disc only games, walk up style. Start 1:00pm.\nSaturday is Triple Crown games followed by agility games. Start 10am\nAwards for Triple Crown games.\nhttps://forms.gle/S8qD6pL9ipaJZtGk8",
         "when_text": "10/02/2026 - 10/03/2026",
         "event_dates": [
           "10/2/2026",
@@ -4344,6 +4581,35 @@
         "event_dates": [
           "10/3/2026",
           "10/4/2026"
+        ]
+      }
+    },
+    {
+      "id": "8ac41eb3ebe6ca6014bf357bd5f3db7de65b05cbb9540439891f36dcbe2f3b17",
+      "title": "Windsor, NS, CA - Oct 3rd - Irishmans Rd Trackers",
+      "url": "https://updogchallenge.com/events/windsor-ns-ca-oct-3rd-irishmans-rd-trackers/",
+      "details": {
+        "title": "Windsor, NS, CA – Oct 3rd – Irishmans Rd Trackers",
+        "club_name": "Irishmans Rd Trackers",
+        "contact_name": "Suzanne Phillips",
+        "contact_email": "suzannegphillips25@gmail.com",
+        "event_address": "151 Irishmans Rd, Windsor, Nova Scotia B0N2T0, Canada",
+        "start_date": "10/3/2026",
+        "start_date_iso": "2026-10-03T00:00:00",
+        "notification_date": "2026-10-03",
+        "end_date": "10/3/2026",
+        "end_date_iso": "2026-10-03T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "when_text": "10/03/2026",
+        "event_dates": [
+          "10/3/2026"
         ]
       }
     },
@@ -5386,44 +5652,6 @@
         ],
         "additional_event_information_for_participants": "Leesville Lake Campground’s Howl-o-ween weekend. Saturday night music, S’mores costumes and lots of Halloween fun! For on-site camping reservations:\nhttps://llcampground.com/reservations.html",
         "prereg_url": "https://llcampground.com/events.html",
-        "when_text": "10/24/2026 - 10/25/2026",
-        "event_dates": [
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "ac72acb4c600286217f52149fbde6b6f2784694ab94a97ae8cf335e69821584e",
-      "title": "McRae, AR, US - Oct 24th & 25th - Central Arkansas Disc Dog Organization",
-      "url": "https://updogchallenge.com/events/mcrae-ar-us-oct-24th-25th-central-arkansas-disc-dog-organization/",
-      "details": {
-        "title": "McRae, AR, US – Oct 24th & 25th – Central Arkansas Disc Dog Organization",
-        "club_name": "Central Arkansas Disc Dog Organization",
-        "contact_name": "Alexis Brewer",
-        "contact_email": "alexisbrewer@gmail.com",
-        "event_address": "112 Webb Hill Road, McRae, AR 72012, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://www.cognitoforms.com/CentralArkansasDiscDogOrganization/CADDOsOctober2026Event",
         "when_text": "10/24/2026 - 10/25/2026",
         "event_dates": [
           "10/24/2026",
@@ -6679,6 +6907,44 @@
       }
     },
     {
+      "id": "ac72acb4c600286217f52149fbde6b6f2784694ab94a97ae8cf335e69821584e",
+      "title": "McRae, AR, US - Nov 14th & 15th - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/mcrae-ar-us-oct-24th-25th-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "McRae, AR, US – Nov 14th & 15th – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "112 Webb Hill Road, McRae, AR 72012, United States",
+        "start_date": "11/14/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "notification_date": "2026-11-14",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/CentralArkansasDiscDogOrganization/CADDOsOctober2026Event",
+        "when_text": "11/14/2026 - 11/15/2026",
+        "event_dates": [
+          "11/14/2026",
+          "11/15/2026"
+        ]
+      }
+    },
+    {
       "id": "8d16557320eec9addf7cd40f0ba62523ea84933c42ba93f6f24a55ab6e2b4a2e",
       "title": "Shermans Dale, PA, US - Nov 14th & 15th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-nov-14th-15th-woof-pack-disc-dogs/",
@@ -7327,6 +7593,70 @@
       }
     },
     {
+      "id": "9aea0b667ce143c59aba372c1600a0a2b7aafcc8a3312ebdd9716c81aeb94df2",
+      "title": "Ocala, FL, US - Dec 12th - Ocala Dog Ranch",
+      "url": "https://updogchallenge.com/events/ocala-fl-us-dec-12th-ocala-dog-ranch/",
+      "details": {
+        "title": "Ocala, FL, US – Dec 12th – Ocala Dog Ranch",
+        "club_name": "Ocala Dog Ranch",
+        "contact_name": "Carrie Pelzer",
+        "contact_email": "carrieverde@gmail.com",
+        "event_address": "440 SW 110th Ave, Ocala, FL 34481, United States",
+        "start_date": "12/12/2026",
+        "start_date_iso": "2026-12-12T00:00:00",
+        "notification_date": "2026-12-12",
+        "end_date": "12/12/2026",
+        "end_date_iso": "2026-12-12T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "prereg_url": "https://www.ocaladogranch.com/home/disc-dog/",
+        "when_text": "12/12/2026",
+        "event_dates": [
+          "12/12/2026"
+        ]
+      }
+    },
+    {
+      "id": "03eac9d92aee270a7efd84074f48a3dd3a4f8e9032a6fb3eca1f205dd497b091",
+      "title": "Eustis, FL, US - Dec 19th - Central Florida K9",
+      "url": "https://updogchallenge.com/events/eustis-fl-us-dec-19th-central-florida-k9/",
+      "details": {
+        "title": "Eustis, FL, US – Dec 19th – Central Florida K9",
+        "club_name": "Central Florida K9",
+        "contact_name": "Justin Smith",
+        "contact_email": "smithhm.info@gmail.com",
+        "event_address": "27101 CR-44A Eustis FL 32736 United States, Eustis, FL 32736, United States",
+        "start_date": "12/19/2026",
+        "start_date_iso": "2026-12-19T00:00:00",
+        "notification_date": "2026-12-19",
+        "end_date": "12/19/2026",
+        "end_date_iso": "2026-12-19T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "https://www.facebook.com/share/1922Xc26nW/?mibextid=wwXIfr\nPre-Registration link will be in the FB page",
+        "when_text": "12/19/2026",
+        "event_dates": [
+          "12/19/2026"
+        ]
+      }
+    },
+    {
       "id": "91c0251b93dc782f6d2f69e9f410750c85c841b1d37e3cdb50c5bf44a5faddd1",
       "title": "Pilot Mountain, NC, US - Dec 19th & 20th - Jam-Min' Disc Dogs",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-dec-13th-jam-min-disc-dogs-2/",
@@ -7365,6 +7695,32 @@
         "event_dates": [
           "12/19/2026",
           "12/20/2026"
+        ]
+      }
+    },
+    {
+      "id": "f461bdfa9896b28adc2437f06c10ad9b361c35011013b14f64e77c1032fa5d78",
+      "title": "Seville, OH, US - Dec 19th - Dawg Gone It!",
+      "url": "https://updogchallenge.com/events/seville-oh-us-dec-19th-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Dec 19th – Dawg Gone It!",
+        "club_name": "Dawg Gone It!",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "start_date": "12/19/2026",
+        "start_date_iso": "2026-12-19T00:00:00",
+        "notification_date": "2026-12-19",
+        "end_date": "12/19/2026",
+        "end_date_iso": "2026-12-19T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Indoors, limited buffer, limited indoor crating area",
+        "when_text": "12/19/2026",
+        "event_dates": [
+          "12/19/2026"
         ]
       }
     },
