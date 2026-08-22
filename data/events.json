@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T06:44:12Z",
-  "count": 262,
+  "last_updated": "2026-08-22T06:37:33Z",
+  "count": 259,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -851,60 +851,6 @@
           "8/21/2026",
           "8/22/2026",
           "8/23/2026"
-        ]
-      }
-    },
-    {
-      "id": "126a8d5219282f2a22fb6a3309ade8270107ca98c763a68b048402018a02cb9e",
-      "title": "Great Village, NS, CA - Aug 21st - Colchester DDC",
-      "url": "https://updogchallenge.com/events/great-village-ns-ca-aug-21st-colchester-ddc/",
-      "details": {
-        "title": "Great Village, NS, CA – Aug 21st – Colchester DDC",
-        "club_name": "Colchester DDC",
-        "contact_name": "Melanie Smith",
-        "contact_email": "melanieangus@hotmail.com",
-        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
-        "start_date": "8/21/2026",
-        "start_date_iso": "2026-08-21T00:00:00",
-        "notification_date": "2026-08-21",
-        "end_date": "8/21/2026",
-        "end_date_iso": "2026-08-21T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/21/2026",
-        "event_dates": [
-          "8/21/2026"
-        ]
-      }
-    },
-    {
-      "id": "077bb46a89908f95f48158d466cb12f3c2a2e86a850cbc1796a5803f4a572cb6",
-      "title": "Spruce Grove, AB, CA - Aug 21st - Edmonton Disc Dog Club",
-      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-aug-21st-edmonton-disc-dog-club/",
-      "details": {
-        "title": "Spruce Grove, AB, CA – Aug 21st – Edmonton Disc Dog Club",
-        "club_name": "Edmonton Disc Dog Club",
-        "contact_name": "Courtney Forester",
-        "contact_email": "info@edmontondiscdogclub.ca",
-        "event_address": "27317 Township Rd 514, Spruce Grove, Alberta T7Y 1H7, Canada",
-        "start_date": "8/21/2026",
-        "start_date_iso": "2026-08-21T00:00:00",
-        "notification_date": "2026-08-21",
-        "end_date": "8/21/2026",
-        "end_date_iso": "2026-08-21T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "FunKey",
-          "Spaced Out",
-          "Time Warp"
-        ],
-        "when_text": "08/21/2026",
-        "event_dates": [
-          "8/21/2026"
         ]
       }
     },
@@ -3337,6 +3283,35 @@
       }
     },
     {
+      "id": "0bacb1230236d60b4c82f37ef879067c1fc97f2f82ed38907d62a9c1a0953b69",
+      "title": "Hutto, TX, US - Sept 19th - Lone Star Disc Dogs",
+      "url": "https://updogchallenge.com/events/liberty-hill-tx-us-sept-19th-lone-star-disc-dogs/",
+      "details": {
+        "title": "Hutto, TX, US – Sept 19th – Lone Star Disc Dogs",
+        "club_name": "Lone Star Disc Dogs",
+        "contact_name": "Tammy Montgomery",
+        "contact_email": "lonestardiscdogs@gmail.com",
+        "event_address": "200 Co Rd 197\nHutto, Tx 78634",
+        "start_date": "9/19/2026",
+        "start_date_iso": "2026-09-19T00:00:00",
+        "notification_date": "2026-09-19",
+        "end_date": "9/19/2026",
+        "end_date_iso": "2026-09-19T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out"
+        ],
+        "when_text": "09/19/2026",
+        "event_dates": [
+          "9/19/2026"
+        ]
+      }
+    },
+    {
       "id": "e6a4ee335f675f627f757219e59174f240bd2c4aa2e03524884358b285232f05",
       "title": "Jacksonville, FL, US - Sept 19th & 20th - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-sept-19th-20th-jacksonville-disc-dogs/",
@@ -3373,35 +3348,6 @@
         "event_dates": [
           "9/19/2026",
           "9/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "0bacb1230236d60b4c82f37ef879067c1fc97f2f82ed38907d62a9c1a0953b69",
-      "title": "Liberty Hill, TX, US - Sept 19th - Lone Star Disc Dogs",
-      "url": "https://updogchallenge.com/events/liberty-hill-tx-us-sept-19th-lone-star-disc-dogs/",
-      "details": {
-        "title": "Liberty Hill, TX, US – Sept 19th – Lone Star Disc Dogs",
-        "club_name": "Lone Star Disc Dogs",
-        "contact_name": "Tammy Montgomery",
-        "contact_email": "lonestardiscdogs@gmail.com",
-        "event_address": "101 South pecan View road, Liberty hill, TEXAS 78642, United States",
-        "start_date": "9/19/2026",
-        "start_date_iso": "2026-09-19T00:00:00",
-        "notification_date": "2026-09-19",
-        "end_date": "9/19/2026",
-        "end_date_iso": "2026-09-19T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out"
-        ],
-        "when_text": "09/19/2026",
-        "event_dates": [
-          "9/19/2026"
         ]
       }
     },
@@ -6053,34 +5999,6 @@
         "event_dates": [
           "10/31/2026",
           "11/1/2026"
-        ]
-      }
-    },
-    {
-      "id": "19fe48dcf47833595529385e300232f810bb8f3b96c0451b04e53f6e445b173a",
-      "title": "Alliston, ON, CA - Oct 31st - Scugog Disc Dog",
-      "url": "https://updogchallenge.com/events/alliston-on-ca-oct-31st-scugog-disc-dog/",
-      "details": {
-        "title": "Alliston, ON, CA – Oct 31st – Scugog Disc Dog",
-        "club_name": "Scugog Disc Dog",
-        "contact_name": "Kate Gartley",
-        "contact_email": "scugogdiscdog@mail.com",
-        "event_address": "Devlin Farm, 6311 12th Line, Alliston, Ontario L9R 1V4, Canada",
-        "start_date": "10/31/2026",
-        "start_date_iso": "2026-10-31T00:00:00",
-        "notification_date": "2026-10-31",
-        "end_date": "10/31/2026",
-        "end_date_iso": "2026-10-31T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Website:\nhttps://scugogdiscdog.com/home\nFacebook:\nhttps://www.facebook.com/share/g/17isKPyvnN/\nTikTok:\nhttps://www.tiktok.com/@scugog.disc.dog?is_from_webapp=1&sender_device=pc",
-        "prereg_url": "https://forms.gle/krG6vrf6rA18n1cJA",
-        "when_text": "10/31/2026",
-        "event_dates": [
-          "10/31/2026"
         ]
       }
     },
