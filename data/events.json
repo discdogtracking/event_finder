@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T06:37:33Z",
-  "count": 259,
+  "last_updated": "2026-08-23T06:39:06Z",
+  "count": 257,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -855,36 +855,6 @@
       }
     },
     {
-      "id": "b571f5f5e26504006ee66a14d1eb218e76894fee7498d96f3fce8092766a9eb4",
-      "title": "Houston, TX, US - Aug 22nd - Houston Canine Frisbee Disc Club",
-      "url": "https://updogchallenge.com/events/houston-tx-us-aug-22nd-houston-canine-frisbee-disc-club/",
-      "details": {
-        "title": "Houston, TX, US – Aug 22nd – Houston Canine Frisbee Disc Club",
-        "club_name": "Houston Canine Frisbee Disc Club",
-        "contact_name": "Jill Best",
-        "contact_email": "jllbest@hotmail.com",
-        "event_address": "Swanny’s Grill, 6224 Theall Rd, Houston, Texas 77066, United States",
-        "start_date": "8/22/2026",
-        "start_date_iso": "2026-08-22T00:00:00",
-        "notification_date": "2026-08-22",
-        "end_date": "8/22/2026",
-        "end_date_iso": "2026-08-22T00:00:00",
-        "start_time": "7:00 AM",
-        "end_time": "11:30 AM",
-        "games": [
-          "Frizgility",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "This is Day 9 of the Summer Space City Challenge. Teams will be separated into three divisions – Space Camp for juniors, Inner Space for Novice/Intermediate teams, and Outer Space for Expert teams. Teams’ best scores from each game will be included in the ranking system. Overall awards will be announced at the end of Space City Challenge.",
-        "when_text": "08/22/2026",
-        "event_dates": [
-          "8/22/2026"
-        ]
-      }
-    },
-    {
       "id": "95715a99120cf612491e165179ed7b98444d88953232fb5be79cac0212ef32ee",
       "title": "Gdańsk, Poland - Aug 22nd & 23rd - Splash The Disc",
       "url": "https://updogchallenge.com/events/gdansk-poland-aug-22nd-23rd-splash-the-disc/",
@@ -990,32 +960,6 @@
         "event_dates": [
           "8/22/2026",
           "8/23/2026"
-        ]
-      }
-    },
-    {
-      "id": "72e996c5951f0d61c1fd9228ab4c48ae344f1b58412ac8fd3c5b848e4a74dadb",
-      "title": "Stayner, ON, CA - Aug 22nd - Sega Family Farms",
-      "url": "https://updogchallenge.com/events/stayner-on-ca-aug-22nd-sega-family-farms/",
-      "details": {
-        "title": "Stayner, ON, CA – Aug 22nd – Sega Family Farms",
-        "club_name": "Sega Family Farms",
-        "contact_name": "Laura Sega",
-        "contact_email": "segafamilyfarms@hotmail.com",
-        "event_address": "1454 County Road 42, Stayner, ON L0M 1S0, Canada",
-        "start_date": "8/22/2026",
-        "start_date_iso": "2026-08-22T00:00:00",
-        "notification_date": "2026-08-22",
-        "end_date": "8/22/2026",
-        "end_date_iso": "2026-08-22T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/22/2026",
-        "event_dates": [
-          "8/22/2026"
         ]
       }
     },
