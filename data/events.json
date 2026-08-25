@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T06:52:36Z",
-  "count": 246,
+  "last_updated": "2026-08-25T06:44:37Z",
+  "count": 255,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,6 +795,42 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
+        ]
+      }
+    },
+    {
+      "id": "5b81e06dbebaed1358d881ed1a7c8d409275f688333da7532402183c086948ef",
+      "title": "Carlisle, PA, US - Aug 25th - Woof Pack Disc Dogs",
+      "url": "https://updogchallenge.com/events/carlisle-pa-us-aug-25th-woof-pack-disc-dogs/",
+      "details": {
+        "title": "Carlisle, PA, US – Aug 25th – Woof Pack Disc Dogs",
+        "club_name": "Woof Pack Disc Dogs",
+        "contact_name": "Emily Leiby",
+        "contact_email": "woofpackdiscdogs@gmail.com",
+        "event_address": "379 Longs Gap Rd, Carlisle, PA 17013, United States",
+        "start_date": "8/25/2026",
+        "start_date_iso": "2026-08-25T00:00:00",
+        "notification_date": "2026-08-25",
+        "end_date": "8/25/2026",
+        "end_date_iso": "2026-08-25T00:00:00",
+        "start_time": "4:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Walk up, points only. Disc only games, no crossovers.",
+        "when_text": "08/25/2026",
+        "event_dates": [
+          "8/25/2026"
         ]
       }
     },
@@ -1658,6 +1694,46 @@
       }
     },
     {
+      "id": "1f032c6ce195218a46199c18a00f11fac2a7552e25cb5baef1c873c1215fbb8b",
+      "title": "East Selkirk, MB, CA - Sept 5th thru 7th - Whipp'in Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-sept-5th-thru-7th-whippin-disc-dogs/",
+      "details": {
+        "title": "East Selkirk, MB, CA – Sept 5th thru 7th – Whipp’in Disc Dogs",
+        "club_name": "Whipp’in Disc Dogs",
+        "contact_name": "Jill Voth",
+        "contact_email": "whippindiscdogs@outlook.com",
+        "event_address": "353 Stone Church Rd, East Selkirk, MB R0E 0M0, Canada",
+        "start_date": "9/5/2026",
+        "start_date_iso": "2026-09-05T00:00:00",
+        "notification_date": "2026-09-05",
+        "end_date": "9/7/2026",
+        "end_date_iso": "2026-09-07T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Freestyle Performance Level 2",
+        "when_text": "09/05/2026 - 09/07/2026",
+        "event_dates": [
+          "9/5/2026",
+          "9/6/2026",
+          "9/7/2026"
+        ]
+      }
+    },
+    {
       "id": "96b959ad6f726a9ae4970d2cde97f9751e88dfb040ce7eeaa1460f1b601b732f",
       "title": "Rochester, MN, US - Sept 5th thru 7th - QuickWits Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/rochester-mn-us-sept-5th-thru-7th-quickwits-disc-dogs-triple-crown/",
@@ -1859,6 +1935,32 @@
         "event_dates": [
           "9/5/2026",
           "9/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "1e7f6d5e1e5ddae610e8e89a0e06770ede4120d479c0ac3a8520e669ea1d6c66",
+      "title": "Mitchell, ACT, AU - Sept 5th - BDOC - Triple Crown",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-sept-5th-bdoc-triple-crown/",
+      "details": {
+        "title": "Mitchell, ACT, AU – Sept 5th – BDOC – Triple Crown",
+        "club_name": "BDOC",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 morissett at, Mitchell, ACT 2615, Australia",
+        "start_date": "9/5/2026",
+        "start_date_iso": "2026-09-05T00:00:00",
+        "notification_date": "2026-09-05",
+        "end_date": "9/5/2026",
+        "end_date_iso": "2026-09-05T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "09/05/2026",
+        "event_dates": [
+          "9/5/2026"
         ]
       }
     },
@@ -2437,33 +2539,6 @@
       }
     },
     {
-      "id": "06456a0baf8ac804669cc903bc92dea0c70720fd4796709c49b1934d6a7b6277",
-      "title": "Avon, IN, US - Sept 12th & 13th - Clever Girl Disc Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/avon-in-us-sept-12th-13th-clever-girl-disc-dogs-triple-crown/",
-      "details": {
-        "title": "Avon, IN, US – Sept 12th & 13th – Clever Girl Disc Dogs – Triple Crown",
-        "club_name": "Clever Girl Disc Dogs",
-        "contact_name": "Samantha Stinson",
-        "contact_email": "clevergirldisc@gmail.com",
-        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "9:30 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "09/12/2026 - 09/13/2026",
-        "event_dates": [
-          "9/12/2026",
-          "9/13/2026"
-        ]
-      }
-    },
-    {
       "id": "fbc8ebd57dfd03e083139b9df9b7eb959ad06766c0b82979cebf98608a3e2d07",
       "title": "Winnipeg, MB, CA - Sept 13th - River City Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/winnipeg-mb-ca-sept-13th-river-city-disc-dogs-triple-crown/",
@@ -2631,6 +2706,32 @@
         ],
         "additional_event_information_for_participants": "https://www.facebook.com/share/17C6fJv7DY/\nNo Checks, Cash, Paypal, Venmo",
         "prereg_url": "https://www.facebook.com/share/17C6fJv7DY/",
+        "when_text": "09/13/2026",
+        "event_dates": [
+          "9/13/2026"
+        ]
+      }
+    },
+    {
+      "id": "2111f9839109393de751be5974c9474ff0af03819c2c0b8bb463d5ef9cb1fb38",
+      "title": "Avon, IN, US - Sept 13th - Clever Girl Disc Dogs",
+      "url": "https://updogchallenge.com/events/avon-in-us-sept-13th-clever-girl-disc-dogs/",
+      "details": {
+        "title": "Avon, IN, US – Sept 13th – Clever Girl Disc Dogs",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
+        "start_date": "9/13/2026",
+        "start_date_iso": "2026-09-13T00:00:00",
+        "notification_date": "2026-09-13",
+        "end_date": "9/13/2026",
+        "end_date_iso": "2026-09-13T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
         "when_text": "09/13/2026",
         "event_dates": [
           "9/13/2026"
@@ -3156,6 +3257,34 @@
       }
     },
     {
+      "id": "a398c9c70855b71516c3f645e79d732d7bc6ad07e45ac8bd9e00b1bb2fdff75b",
+      "title": "Spruce Grove, AB, CA - Sept 23rd - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-sept-23rd-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Sept 23rd – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "9/23/2026",
+        "start_date_iso": "2026-09-23T00:00:00",
+        "notification_date": "2026-09-23",
+        "end_date": "9/23/2026",
+        "end_date_iso": "2026-09-23T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility"
+        ],
+        "when_text": "09/23/2026",
+        "event_dates": [
+          "9/23/2026"
+        ]
+      }
+    },
+    {
       "id": "f04cdc506c29be88c14f58f05a8bbd1ee16d5f3ff3cb1a99d3847c8a4954bcc9",
       "title": "Arnprior, ON, CA - Sept 26th - Scout's Pals",
       "url": "https://updogchallenge.com/events/arnprior-on-ca-sept-26th-scouts-pals/",
@@ -3562,6 +3691,33 @@
       }
     },
     {
+      "id": "bac45d6ff14103e3c16a1f33692bfb1428480e68fe6e3dbe86f1a616a990594c",
+      "title": "Avon, IN, US - Sept 26th & 27th - Clever Girl Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/avon-in-us-sept-26th-27th-clever-girl-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Avon, IN, US – Sept 26th & 27th – Clever Girl Disc Dogs – Triple Crown",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "5203 E County Rd 150 N, Avon, IN 46123, United States",
+        "start_date": "9/26/2026",
+        "start_date_iso": "2026-09-26T00:00:00",
+        "notification_date": "2026-09-26",
+        "end_date": "9/27/2026",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "09/26/2026 - 09/27/2026",
+        "event_dates": [
+          "9/26/2026",
+          "9/27/2026"
+        ]
+      }
+    },
+    {
       "id": "7acc2f73467ebb6b4c6af5a404659940f4a29d129ad32fdf0b9c023543ac354a",
       "title": "Cobleskill, NY, US - Sept 26th & 27th - Splashdown Dog Sports",
       "url": "https://updogchallenge.com/events/cobleskill-ny-us-sept-26th-27th-splashdown-dog-sports/",
@@ -3687,6 +3843,34 @@
         "when_text": "09/27/2026",
         "event_dates": [
           "9/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "8746cd6a528565a176dbc979b3ed662fde7fb06e02c26b35195cb3044af3ef05",
+      "title": "Spruce Grove, AB, CA - Sept 30th - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-sept-30th-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Sept 30th – Edmonton Disc Dog Club",
+        "club_name": "Edmonton Disc Dog Club",
+        "contact_name": "Courtney Forester",
+        "contact_email": "Info@edmontondiscdogclub.ca",
+        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
+        "start_date": "9/30/2026",
+        "start_date_iso": "2026-09-30T00:00:00",
+        "notification_date": "2026-09-30",
+        "end_date": "9/30/2026",
+        "end_date_iso": "2026-09-30T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 AM",
+        "games": [
+          "Greedy",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "09/30/2026",
+        "event_dates": [
+          "9/30/2026"
         ]
       }
     },
@@ -4367,6 +4551,63 @@
       }
     },
     {
+      "id": "90f586398e202d299c00471f030e1d2a2f63cd6d2406e195fda4d12153104196",
+      "title": "Stayner, ON, CA - Oct 10th - Sega Family Farms",
+      "url": "https://updogchallenge.com/events/stayner-on-ca-oct-10th-sega-family-farms/",
+      "details": {
+        "title": "Stayner, ON, CA – Oct 10th – Sega Family Farms",
+        "club_name": "Sega Family Farms",
+        "contact_name": "Laura Sega",
+        "contact_email": "segafamilyfarms@hotmail.com",
+        "event_address": "1454 County Road 42, Stayner, ON L0M 1S0, Canada",
+        "start_date": "10/10/2026",
+        "start_date_iso": "2026-10-10T00:00:00",
+        "notification_date": "2026-10-10",
+        "end_date": "10/10/2026",
+        "end_date_iso": "2026-10-10T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "7Up",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ],
+        "prereg_url": "https://www.segafamilyfarms.ca/book-now",
+        "when_text": "10/10/2026",
+        "event_dates": [
+          "10/10/2026"
+        ]
+      }
+    },
+    {
+      "id": "06456a0baf8ac804669cc903bc92dea0c70720fd4796709c49b1934d6a7b6277",
+      "title": "Avon, IN, US - Oct 10th & 11th - Clever Girl Disc Dogs",
+      "url": "https://updogchallenge.com/events/avon-in-us-sept-12th-13th-clever-girl-disc-dogs-triple-crown/",
+      "details": {
+        "title": "Avon, IN, US – Oct 10th & 11th – Clever Girl Disc Dogs",
+        "club_name": "Clever Girl Disc Dogs",
+        "contact_name": "Samantha Stinson",
+        "contact_email": "clevergirldisc@gmail.com",
+        "event_address": "5203 E County Rd 150 N, Avon, IN 46123, United States",
+        "start_date": "10/10/2026",
+        "start_date_iso": "2026-10-10T00:00:00",
+        "notification_date": "2026-10-10",
+        "end_date": "10/11/2026",
+        "end_date_iso": "2026-10-11T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "10/10/2026 - 10/11/2026",
+        "event_dates": [
+          "10/10/2026",
+          "10/11/2026"
+        ]
+      }
+    },
+    {
       "id": "c93d3c998de34601c2503bf649b622c2544a98758f2df8120918f6ccc81e776f",
       "title": "Bridgewater, NS, CA - Oct 11th - Gale Force Disc Dogs",
       "url": "https://updogchallenge.com/events/bridgewater-ns-ca-oct-11th-gale-force-disc-dogs/",
@@ -4499,6 +4740,40 @@
         "when_text": "10/16/2026",
         "event_dates": [
           "10/16/2026"
+        ]
+      }
+    },
+    {
+      "id": "508896b2fc597851f97f565bae2a06b9e3435818130cdd4d3749337785d69dc1",
+      "title": "East Selkirk, MB, CA - Oct 17th & 18th - Whipp'in Disc Dogs",
+      "url": "https://updogchallenge.com/events/east-selkirk-mb-ca-oct-17th-18th-whippin-disc-dogs/",
+      "details": {
+        "title": "East Selkirk, MB, CA – Oct 17th & 18th – Whipp’in Disc Dogs",
+        "club_name": "Whipp’in Disc Dogs",
+        "contact_name": "Jill Voth",
+        "contact_email": "whippindiscdogs@outlook.com",
+        "event_address": "353 Stone Church Rd, East Selkirk, MB R0E 0M0, Canada",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "10/17/2026 - 10/18/2026",
+        "event_dates": [
+          "10/17/2026",
+          "10/18/2026"
         ]
       }
     },
