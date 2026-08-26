@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T06:44:37Z",
-  "count": 255,
+  "last_updated": "2026-08-26T06:45:44Z",
+  "count": 251,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,122 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "5b81e06dbebaed1358d881ed1a7c8d409275f688333da7532402183c086948ef",
-      "title": "Carlisle, PA, US - Aug 25th - Woof Pack Disc Dogs",
-      "url": "https://updogchallenge.com/events/carlisle-pa-us-aug-25th-woof-pack-disc-dogs/",
-      "details": {
-        "title": "Carlisle, PA, US – Aug 25th – Woof Pack Disc Dogs",
-        "club_name": "Woof Pack Disc Dogs",
-        "contact_name": "Emily Leiby",
-        "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "379 Longs Gap Rd, Carlisle, PA 17013, United States",
-        "start_date": "8/25/2026",
-        "start_date_iso": "2026-08-25T00:00:00",
-        "notification_date": "2026-08-25",
-        "end_date": "8/25/2026",
-        "end_date_iso": "2026-08-25T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "Pairs Four Way Play",
-          "Pairs Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Walk up, points only. Disc only games, no crossovers.",
-        "when_text": "08/25/2026",
-        "event_dates": [
-          "8/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "4f3033f501ace0bfb7c831f24cec99da145cd674b2d3d8d49347178772ccf937",
-      "title": "Foothills, AB, CA - Aug 25th - Foothills Flyers Disc Dog Club",
-      "url": "https://updogchallenge.com/events/foothills-ab-ca-aug-25th-bite-club-foothills-flyers-disc-dog-club/",
-      "details": {
-        "title": "Foothills, AB, CA – Aug 25th – Foothills Flyers Disc Dog Club",
-        "club_name": "Foothills Flyers",
-        "contact_name": "Sharon Spooner",
-        "contact_email": "Foothillsflyersddc@gmail.com",
-        "event_address": "1262 Drive W, Foothills, AB T0L 1W0, Canada",
-        "start_date": "8/25/2026",
-        "start_date_iso": "2026-08-25T00:00:00",
-        "notification_date": "2026-08-25",
-        "end_date": "8/25/2026",
-        "end_date_iso": "2026-08-25T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "08/25/2026",
-        "event_dates": [
-          "8/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "185b48cb382902bb2647640e40fa2394871475a32613aa8aa4e083817a94198b",
-      "title": "Huntertown, IN, US - Aug 25th - Summit City Disc Dogs",
-      "url": "https://updogchallenge.com/events/huntertown-in-us-aug-25th-summit-city-disc-dogs/",
-      "details": {
-        "title": "Huntertown, IN, US – Aug 25th – Summit City Disc Dogs",
-        "club_name": "Summit City Disc Dog Group",
-        "contact_name": "Mark Smith",
-        "contact_email": "summitcityddg@hotmail.com",
-        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
-        "start_date": "8/25/2026",
-        "start_date_iso": "2026-08-25T00:00:00",
-        "notification_date": "2026-08-25",
-        "end_date": "8/25/2026",
-        "end_date_iso": "2026-08-25T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This event is for points only",
-        "when_text": "08/25/2026",
-        "event_dates": [
-          "8/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "5950b59c41cc00875b42320a3a743869e373add1c186f35dc2ad91eb988957e1",
-      "title": "Lloydminster, AB, CA - Aug 25th - Border City Dog Sports",
-      "url": "https://updogchallenge.com/events/lloydminster-ab-ca-aug-25th-border-city-dog-sports/",
-      "details": {
-        "title": "Lloydminster, AB, CA – Aug 25th – Border City Dog Sports",
-        "club_name": "Border City Dog Sports",
-        "contact_name": "Stacey Gamble",
-        "contact_email": "bordercitydogsports@gmail.com",
-        "event_address": "3705 57A AVENUE, Lloydminster, Alberta T9V 2N6, Canada",
-        "start_date": "8/25/2026",
-        "start_date_iso": "2026-08-25T00:00:00",
-        "notification_date": "2026-08-25",
-        "end_date": "8/25/2026",
-        "end_date_iso": "2026-08-25T00:00:00",
-        "start_time": "6:15 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Four Way Play",
-          "Spaced Out"
-        ],
-        "when_text": "08/25/2026",
-        "event_dates": [
-          "8/25/2026"
         ]
       }
     },
