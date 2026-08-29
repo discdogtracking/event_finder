@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T18:14:11Z",
-  "count": 250,
+  "last_updated": "2026-08-29T12:16:56Z",
+  "count": 249,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -832,33 +832,6 @@
           "8/27/2026",
           "8/28/2026",
           "8/29/2026"
-        ]
-      }
-    },
-    {
-      "id": "2d82f139bfa51f1580694f0ec567285a6180b0e787b1a06005836899f1133a36",
-      "title": "Mohnton, PA, US - Aug 28th - Reading Disc Dogs",
-      "url": "https://updogchallenge.com/events/mohnton-pa-us-aug-28th-reading-disc-dogs-2/",
-      "details": {
-        "title": "Mohnton, PA, US – Aug 28th – Reading Disc Dogs",
-        "club_name": "Reading Disc Dogs",
-        "contact_name": "Ann Flemming",
-        "contact_email": "pandaflemming@yahoo.com",
-        "event_address": "30 Stauffer Park Lane, Mohnton, Pa 19540, United States",
-        "start_date": "8/28/2026",
-        "start_date_iso": "2026-08-28T00:00:00",
-        "notification_date": "2026-08-28",
-        "end_date": "8/28/2026",
-        "end_date_iso": "2026-08-28T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Start time will be determined by weather.",
-        "when_text": "08/28/2026",
-        "event_dates": [
-          "8/28/2026"
         ]
       }
     },
