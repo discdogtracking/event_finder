@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T12:36:32Z",
-  "count": 235,
+  "last_updated": "2026-09-01T11:04:54Z",
+  "count": 234,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,35 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "3158cb51e70ceb988182c2960ee42df99f9d38409ba292ad13b050edad13ebf1",
-      "title": "Jacksonville, FL, US - Aug 31st - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/jacksonville-fl-us-aug-31st-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Jacksonville, FL, US – Aug 31st – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, FL 32218, United States",
-        "start_date": "8/31/2026",
-        "start_date_iso": "2026-08-31T00:00:00",
-        "notification_date": "2026-08-31",
-        "end_date": "8/31/2026",
-        "end_date_iso": "2026-08-31T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Far Out",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "JaxDiscDogs.weebly.com",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSe-pyko_4xHmiPUp8PWdl8P0Rbl15HYthUHP_4Zqu4FkzFP9g/viewform?usp=dialog",
-        "when_text": "08/31/2026",
-        "event_dates": [
-          "8/31/2026"
         ]
       }
     },
