@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T11:04:54Z",
-  "count": 234,
+  "last_updated": "2026-09-02T10:34:17Z",
+  "count": 233,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,33 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "1dd6080ed9428e029a970abf4382ebd9c1f8d477639b9145bb02fe48b12e2ede",
-      "title": "Huntertown, IN, US - Sept 1st - Summit City Disc Dogs",
-      "url": "https://updogchallenge.com/events/huntertown-in-us-sept-1st-summit-city-disc-dogs/",
-      "details": {
-        "title": "Huntertown, IN, US – Sept 1st – Summit City Disc Dogs",
-        "club_name": "Summit City Disc Dog Group",
-        "contact_name": "Mark Smith",
-        "contact_email": "summitcityddg@hotmail.com",
-        "event_address": "18818 Lima Rd, HUNTERTOWN, IN 46748, United States",
-        "start_date": "9/1/2026",
-        "start_date_iso": "2026-09-01T00:00:00",
-        "notification_date": "2026-09-01",
-        "end_date": "9/1/2026",
-        "end_date_iso": "2026-09-01T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This event is for points only",
-        "when_text": "09/01/2026",
-        "event_dates": [
-          "9/1/2026"
         ]
       }
     },
