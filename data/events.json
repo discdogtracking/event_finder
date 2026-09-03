@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T10:34:17Z",
-  "count": 233,
+  "last_updated": "2026-09-03T10:40:45Z",
+  "count": 232,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,31 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "b086a9cf12853de32e48c72aa037e39b3b90e6280e41c63652e516e29ff80aed",
-      "title": "Pilot Butte, SK, CA - Sept 2nd - Encore Disc Dog Club",
-      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-sept-2nd-encore-disc-dog-club/",
-      "details": {
-        "title": "Pilot Butte, SK, CA – Sept 2nd – Encore Disc Dog Club",
-        "club_name": "Encore Disc Dog Club",
-        "contact_name": "Cheryl Petryshyn",
-        "contact_email": "encoredogsports@gmail.com",
-        "event_address": "330 Hanley Cres, Pilot Butte, SK S0G 3Z0, Canada",
-        "start_date": "9/2/2026",
-        "start_date_iso": "2026-09-02T00:00:00",
-        "notification_date": "2026-09-02",
-        "end_date": "9/2/2026",
-        "end_date_iso": "2026-09-02T00:00:00",
-        "start_time": "5:00 PM",
-        "games": [
-          "Four Way Play"
-        ],
-        "when_text": "09/02/2026",
-        "event_dates": [
-          "9/2/2026"
         ]
       }
     },
