@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T10:40:45Z",
-  "count": 232,
+  "last_updated": "2026-09-04T10:32:11Z",
+  "count": 230,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,60 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "00d5e3dcf01a4954093af667f14b14b898fe249359e4f21e3370323628a67146",
-      "title": "Penobscot, ME, US - Sept 3rd - Downeast Dog Sports",
-      "url": "https://updogchallenge.com/events/penobscot-me-us-sept-3rd-downeast-dog-sports/",
-      "details": {
-        "title": "Penobscot, ME, US – Sept 3rd – Downeast Dog Sports",
-        "club_name": "Downeast Dog Sports",
-        "contact_name": "Donna Boidi",
-        "contact_email": "donna@downeastdogsports.com",
-        "event_address": "Jim Henry Field, Penobscot, Maine 04476, United States",
-        "start_date": "9/3/2026",
-        "start_date_iso": "2026-09-03T00:00:00",
-        "notification_date": "2026-09-03",
-        "end_date": "9/3/2026",
-        "end_date_iso": "2026-09-03T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "Greedy"
-        ],
-        "additional_event_information_for_participants": "2 rounds of Greedy played back to back! Placement ribbons for first, second, and third place will be cumulative.",
-        "when_text": "09/03/2026",
-        "event_dates": [
-          "9/3/2026"
-        ]
-      }
-    },
-    {
-      "id": "e9a52d2b3c5238449d2599ed2a2ad0157ed4b9841ab6cdbef3eeb0a5306f5877",
-      "title": "Hutto, TX, US - Sept 3rd - Lone Star Disc Dogs",
-      "url": "https://updogchallenge.com/events/hutto-tx-us-sept-3rd-lone-star-disc-dogs/",
-      "details": {
-        "title": "Hutto, TX, US – Sept 3rd – Lone Star Disc Dogs",
-        "club_name": "Lone Star Disc Dogs",
-        "contact_name": "Tammy Montgomery",
-        "contact_email": "lonestardiscdogs@gmail.com",
-        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
-        "start_date": "9/3/2026",
-        "start_date_iso": "2026-09-03T00:00:00",
-        "notification_date": "2026-09-03",
-        "end_date": "9/3/2026",
-        "end_date_iso": "2026-09-03T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "10:00 PM",
-        "games": [
-          "7Up"
-        ],
-        "additional_event_information_for_participants": "Dependent on number of players we will play multiple rounds",
-        "when_text": "09/03/2026",
-        "event_dates": [
-          "9/3/2026"
         ]
       }
     },
