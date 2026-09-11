@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T10:32:44Z",
-  "count": 208,
+  "last_updated": "2026-09-11T10:35:23Z",
+  "count": 222,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -1277,10 +1277,10 @@
     },
     {
       "id": "2111f9839109393de751be5974c9474ff0af03819c2c0b8bb463d5ef9cb1fb38",
-      "title": "Avon, IN, US - Sept 13th - Clever Girl Disc Dogs",
+      "title": "Avon, IN, US - Sept 13th - Clever Girl Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/avon-in-us-sept-13th-clever-girl-disc-dogs/",
       "details": {
-        "title": "Avon, IN, US – Sept 13th – Clever Girl Disc Dogs",
+        "title": "Avon, IN, US – Sept 13th – Clever Girl Disc Dogs – Triple Crown",
         "club_name": "Clever Girl Disc Dogs",
         "contact_name": "Samantha Stinson",
         "contact_email": "clevergirldisc@gmail.com",
@@ -1293,7 +1293,7 @@
         "start_time": "9:30 AM",
         "end_time": "5:00 PM",
         "games": [
-          "To Be Determined"
+          "Throw N Go lvl 1, Spaced out lvl 1, Time Warp Lvl 1, Spaced Out lvl 2, Time Warp Lvl 2, and Four Way Play Lvl 2."
         ],
         "when_text": "09/13/2026",
         "event_dates": [
@@ -1687,14 +1687,14 @@
         "club_name": "Encore Disc Dog Club",
         "contact_name": "Cheryl Petryshyn",
         "contact_email": "encoredogsports@gmail.com",
-        "event_address": "6 Crocus Lane, Pilot Butte, SK S0G 3Z0, Canada",
+        "event_address": "330 Hanley Cres Pilot Butte SK Canada",
         "start_date": "9/20/2026",
         "start_date_iso": "2026-09-20T00:00:00",
         "notification_date": "2026-09-20",
         "end_date": "9/20/2026",
         "end_date_iso": "2026-09-20T00:00:00",
         "games": [
-          "To Be Determined"
+          "Playing on a short 40 yard field"
         ],
         "when_text": "09/20/2026",
         "event_dates": [
@@ -2255,10 +2255,10 @@
     },
     {
       "id": "bac45d6ff14103e3c16a1f33692bfb1428480e68fe6e3dbe86f1a616a990594c",
-      "title": "Avon, IN, US - Sept 26th & 27th - Clever Girl Disc Dogs - Triple Crown",
+      "title": "Avon, IN, US - Sept 26th & 27th - Clever Girl Disc Dogs",
       "url": "https://updogchallenge.com/events/avon-in-us-sept-26th-27th-clever-girl-disc-dogs-triple-crown/",
       "details": {
-        "title": "Avon, IN, US – Sept 26th & 27th – Clever Girl Disc Dogs – Triple Crown",
+        "title": "Avon, IN, US – Sept 26th & 27th – Clever Girl Disc Dogs",
         "club_name": "Clever Girl Disc Dogs",
         "contact_name": "Samantha Stinson",
         "contact_email": "clevergirldisc@gmail.com",
@@ -2406,6 +2406,43 @@
         "when_text": "09/27/2026",
         "event_dates": [
           "9/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "181bc1267772ed3702bda3e00e4c001699b6bed239fc530b4e0802a69ef521d3",
+      "title": "Hot Springs, AR, US - Sept 29th - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/hot-springs-ar-us-sept-29th-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "Hot Springs, AR, US – Sept 29th – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
+        "start_date": "9/29/2026",
+        "start_date_iso": "2026-09-29T00:00:00",
+        "notification_date": "2026-09-29",
+        "end_date": "9/29/2026",
+        "end_date_iso": "2026-09-29T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
+        "when_text": "09/29/2026",
+        "event_dates": [
+          "9/29/2026"
         ]
       }
     },
@@ -2956,6 +2993,43 @@
       }
     },
     {
+      "id": "94f496ac70c7e57094e80d873cef697deb0d2bd1b3490ead45b33393ea0950db",
+      "title": "Hot Springs, AR, US - Oct 6th - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/hot-springs-ar-us-oct-6th-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "Hot Springs, AR, US – Oct 6th – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
+        "start_date": "10/6/2026",
+        "start_date_iso": "2026-10-06T00:00:00",
+        "notification_date": "2026-10-06",
+        "end_date": "10/6/2026",
+        "end_date_iso": "2026-10-06T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
+        "when_text": "10/06/2026",
+        "event_dates": [
+          "10/6/2026"
+        ]
+      }
+    },
+    {
       "id": "15c0496af8351d664e718ca85fb3d7c7c657980dc32dc0629a45d2eaffb2930a",
       "title": "Greenfield, MA, US - Oct 9th thru 11th - Face to Face Disc",
       "url": "https://updogchallenge.com/events/greenfield-ma-us-oct-9th-thru-11th-face-to-face-disc/",
@@ -3004,6 +3078,44 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "In conjunction with the Beauceron National Specialty and Nickel City Cluster\nhttps://www.dfwdiscdogclub.org/events/abc-national\nAll games will be played in the times alloted below. We will provide a running order for each game, however we will provide flexibility of walk-ups for teams with conflicts due to other sports throughout the weekend.\nFriday, October 9\n12-3 pm Walkup 60 Second Disc Only Games (Throw N Go, 4 Way Play, Time Warp, Spaced Out)\n3-4 pm Far Out\n4-5 pm 7Up\nSaturday, October 10\n8-9:45 am Time Warp\n10-11:45 am Frizgility\n12-12:45 pm Freestyle Performance\n1-2:45 pm 4 Way Play\n3-4:45 pm Greedy\nSunday, October 11\n8-9:45 am Throw N Go\n10-11:45 am FunKey\n12-1:45 pm Fireball\n2-3:45 pm 4 Way Play",
+        "when_text": "10/09/2026 - 10/11/2026",
+        "event_dates": [
+          "10/9/2026",
+          "10/10/2026",
+          "10/11/2026"
+        ]
+      }
+    },
+    {
+      "id": "07209fc4efba9d378a0b769e32d7127f4cafb41fe2162326f6dc52c9f69bb8b8",
+      "title": "Fort Pierce, FL, US - Oct 9th thru 11th - Disc Dogs of Treasure Coast",
+      "url": "https://updogchallenge.com/events/fort-pierce-fl-us-oct-9th-thru-11th-disc-dogs-of-treasure-coast/",
+      "details": {
+        "title": "Fort Pierce, FL, US – Oct 9th thru 11th – Disc Dogs of Treasure Coast",
+        "club_name": "Disc Dogs of Treasure Coast",
+        "contact_name": "Julie Spring",
+        "contact_email": "discdogsoftreasurecoast@gmail.com",
+        "event_address": "15601 W Midway Rd, Fort Pierce, FL 34945, United States",
+        "start_date": "10/9/2026",
+        "start_date_iso": "2026-10-09T00:00:00",
+        "notification_date": "2026-10-09",
+        "end_date": "10/11/2026",
+        "end_date_iso": "2026-10-11T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Friday: You-pick, no crossover games offered, 9am-3pm\nSat: Throw N GO, 4-WAY PLAY, GREEDY, FRIZGILITY, 9am\nSun: TIME WARP, SPACED OUT, FIREBALL, FUNKEY, 9am\n!!Raffles!!\nDock Diving, agility, fast cat & lure coursing on site.",
+        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfTreasureCoast/PIRATECLUSTER2026",
         "when_text": "10/09/2026 - 10/11/2026",
         "event_dates": [
           "10/9/2026",
@@ -3079,6 +3191,38 @@
         "event_dates": [
           "10/10/2026",
           "10/11/2026"
+        ]
+      }
+    },
+    {
+      "id": "066368a6e9446beb264c08be4ca37293e557358b0ea9a87056c504afe44ceeab",
+      "title": "Waukesha, WI, US - Oct 10th - Bite Club - K9 Ventures",
+      "url": "https://updogchallenge.com/events/waukesha-wi-us-oct-10th-bite-club-k9-ventures/",
+      "details": {
+        "title": "Waukesha, WI, US – Oct 10th – Bite Club – K9 Ventures",
+        "club_name": "K9 Ventures",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
+        "start_date": "10/10/2026",
+        "start_date_iso": "2026-10-10T00:00:00",
+        "notification_date": "2026-10-10",
+        "end_date": "10/10/2026",
+        "end_date_iso": "2026-10-10T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "10:30 AM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSecaCrzDT_5Wr-2rYcpiLkvIOVoSBIIaDdHkoiw-ZJdiOZV0g/viewform?usp=publish-editor",
+        "when_text": "10/10/2026",
+        "event_dates": [
+          "10/10/2026"
         ]
       }
     },
@@ -3281,6 +3425,43 @@
       }
     },
     {
+      "id": "8b05f9b0689bc8c3487c853736d94d39203b8a00f74cd7383621252eed62212d",
+      "title": "Hot Springs, AR, US - Oct 13th - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/hot-springs-ar-us-oct-13th-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "Hot Springs, AR, US – Oct 13th – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
+        "start_date": "10/13/2026",
+        "start_date_iso": "2026-10-13T00:00:00",
+        "notification_date": "2026-10-13",
+        "end_date": "10/13/2026",
+        "end_date_iso": "2026-10-13T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
+        "when_text": "10/13/2026",
+        "event_dates": [
+          "10/13/2026"
+        ]
+      }
+    },
+    {
       "id": "dafe7add684ecc9ac0f61d32d97f8006fd414f41c8d3b41e9fa0af0b49352e49",
       "title": "Mahopac, NY, US - Oct 16th - Bite Club - Bring Your Own (BYO) Disc Dogs",
       "url": "https://updogchallenge.com/events/mahopac-ny-us-oct-16th-bite-club-bring-your-own-byo-disc-dogs/",
@@ -3303,6 +3484,44 @@
         "when_text": "10/16/2026",
         "event_dates": [
           "10/16/2026"
+        ]
+      }
+    },
+    {
+      "id": "ad61bcc0e6cc8fa80d21dd970f4ab1598bb91898a9e0c47ac63bb11936ca3415",
+      "title": "Leesburg, VA, US - Oct 17th & 18th - Potomac River Rapid Catchers",
+      "url": "https://updogchallenge.com/events/leesburg-va-us-oct-17th-18th-potomac-river-rapid-catchers/",
+      "details": {
+        "title": "Leesburg, VA, US – Oct 17th & 18th – Potomac River Rapid Catchers",
+        "club_name": "Potomac River Rapid Catchers",
+        "contact_name": "Karen Schutz",
+        "contact_email": "karen.a.schutz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "9:00 AM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This event is being held in conjunction with Flying Dog Agility’s agility seminars in the building. Feel free to sign up for agility in the morning and afternoon updog, or the reverse. Follow Flying Dog Agility and/or Potomac River Rapid Catchers on facebook for more info.",
+        "prereg_url": "https://forms.gle/HxiSKRyVBgkviKVB6",
+        "when_text": "10/17/2026 - 10/18/2026",
+        "event_dates": [
+          "10/17/2026",
+          "10/18/2026"
         ]
       }
     },
@@ -3337,6 +3556,38 @@
         "event_dates": [
           "10/17/2026",
           "10/18/2026"
+        ]
+      }
+    },
+    {
+      "id": "60b597dab1f68130fa033a78cb1d2919a76bcaf4257143f14cf617911cae1754",
+      "title": "Waukesha, WI, US - Oct 17th - Bite Club - K9 Ventures",
+      "url": "https://updogchallenge.com/events/waukesha-wi-us-oct-17th-bite-club-k9-ventures/",
+      "details": {
+        "title": "Waukesha, WI, US – Oct 17th – Bite Club – K9 Ventures",
+        "club_name": "K9 Ventures",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/17/2026",
+        "end_date_iso": "2026-10-17T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "10:30 AM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSecaCrzDT_5Wr-2rYcpiLkvIOVoSBIIaDdHkoiw-ZJdiOZV0g/viewform?usp=publish-editor",
+        "when_text": "10/17/2026",
+        "event_dates": [
+          "10/17/2026"
         ]
       }
     },
@@ -3945,6 +4196,43 @@
       }
     },
     {
+      "id": "00584e436fbca589973ce5b07b5149ccda7f0ffe1f1957d06a7e0ad61be4dc0c",
+      "title": "Hot Springs, AR, US - Oct 20th - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/hot-springs-ar-us-oct-20th-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "Hot Springs, AR, US – Oct 20th – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
+        "start_date": "10/20/2026",
+        "start_date_iso": "2026-10-20T00:00:00",
+        "notification_date": "2026-10-20",
+        "end_date": "10/20/2026",
+        "end_date_iso": "2026-10-20T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
+        "when_text": "10/20/2026",
+        "event_dates": [
+          "10/20/2026"
+        ]
+      }
+    },
+    {
       "id": "314ae00bcb88af673f38465fe9014e0248e1e633c8f1c5ed97477715edbc9d2f",
       "title": "Phoenix, AZ, US - Oct 23rd thru 25th - East Valley Sport Dog Club",
       "url": "https://updogchallenge.com/events/phoenix-az-us-oct-30th-thru-nov-1st-east-valley-sport-dog-club/",
@@ -4016,6 +4304,38 @@
         "start_date_iso": "2026-10-24T00:00:00",
         "end_date_iso": "2026-10-25T00:00:00",
         "notification_date": "2026-10-24"
+      }
+    },
+    {
+      "id": "05d1966bc112893af1bc6695c88e92665b77a80136f352174bcf1fda94c419d2",
+      "title": "Waukesha, WI, US - Oct 24th - Bite Club - K9 Ventures",
+      "url": "https://updogchallenge.com/events/waukesha-wi-us-oct-24th-bite-club-k9-ventures/",
+      "details": {
+        "title": "Waukesha, WI, US – Oct 24th – Bite Club – K9 Ventures",
+        "club_name": "K9 Ventures",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
+        "start_date": "10/24/2026",
+        "start_date_iso": "2026-10-24T00:00:00",
+        "notification_date": "2026-10-24",
+        "end_date": "10/24/2026",
+        "end_date_iso": "2026-10-24T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "10:30 AM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSecaCrzDT_5Wr-2rYcpiLkvIOVoSBIIaDdHkoiw-ZJdiOZV0g/viewform?usp=publish-editor",
+        "when_text": "10/24/2026",
+        "event_dates": [
+          "10/24/2026"
+        ]
       }
     },
     {
@@ -4413,6 +4733,43 @@
       }
     },
     {
+      "id": "517c2ee83afd2ccad294a449aa1372e874e7925b293e5fe6ae7aa00cfc92d7d3",
+      "title": "Hot Springs, AR, US - Oct 27th - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/hot-springs-ar-us-oct-27th-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "Hot Springs, AR, US – Oct 27th – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
+        "start_date": "10/27/2026",
+        "start_date_iso": "2026-10-27T00:00:00",
+        "notification_date": "2026-10-27",
+        "end_date": "10/27/2026",
+        "end_date_iso": "2026-10-27T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
+        "when_text": "10/27/2026",
+        "event_dates": [
+          "10/27/2026"
+        ]
+      }
+    },
+    {
       "id": "89ef15245db344f89530f55efe5ff9281aa5025de09933db13b35748e5bedd07",
       "title": "Vinita, OK, US - Oct 31st & Nov 1st - UpDog Tulsa",
       "url": "https://updogchallenge.com/events/vinita-ok-us-dec-12th-13th-updog-tulsa/",
@@ -4436,6 +4793,38 @@
         "event_dates": [
           "10/31/2026",
           "11/1/2026"
+        ]
+      }
+    },
+    {
+      "id": "45833d12f5672147081aad24175a214c112d956c3b2de73f3799beb54ac86f80",
+      "title": "Waukesha, WI, US - Oct 31st - Bite Club - K9 Ventures",
+      "url": "https://updogchallenge.com/events/waukesha-wi-us-oct-31st-bite-club-k9-ventures/",
+      "details": {
+        "title": "Waukesha, WI, US – Oct 31st – Bite Club – K9 Ventures",
+        "club_name": "K9 Ventures",
+        "contact_name": "Katie Oilschlager",
+        "contact_email": "info.k9ventures@gmail.com",
+        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
+        "start_date": "10/31/2026",
+        "start_date_iso": "2026-10-31T00:00:00",
+        "notification_date": "2026-10-31",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "10:30 AM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSecaCrzDT_5Wr-2rYcpiLkvIOVoSBIIaDdHkoiw-ZJdiOZV0g/viewform?usp=publish-editor",
+        "when_text": "10/31/2026",
+        "event_dates": [
+          "10/31/2026"
         ]
       }
     },
@@ -5011,6 +5400,43 @@
       }
     },
     {
+      "id": "9126ba25b5a0cc7c5abd7a733fe8c3b3e1deeb8a2c3b40baadfbf4e096f01ec3",
+      "title": "Hot Springs, AR, US - Nov 3rd - Central Arkansas Disc Dog Organization",
+      "url": "https://updogchallenge.com/events/hot-springs-ar-us-nov-3rd-central-arkansas-disc-dog-organization/",
+      "details": {
+        "title": "Hot Springs, AR, US – Nov 3rd – Central Arkansas Disc Dog Organization",
+        "club_name": "Central Arkansas Disc Dog Organization",
+        "contact_name": "Alexis Brewer",
+        "contact_email": "alexisbrewer@gmail.com",
+        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
+        "start_date": "11/3/2026",
+        "start_date_iso": "2026-11-03T00:00:00",
+        "notification_date": "2026-11-03",
+        "end_date": "11/3/2026",
+        "end_date_iso": "2026-11-03T00:00:00",
+        "start_time": "7:00 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
+        "when_text": "11/03/2026",
+        "event_dates": [
+          "11/3/2026"
+        ]
+      }
+    },
+    {
       "id": "6cb0611c1d8c4ef4f6b317af597842af177791bb0c9b415fd279224aa3912d02",
       "title": "Middle Island, NY, US - Nov 7th & 8th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
       "url": "https://updogchallenge.com/events/middle-island-ny-us-nov-7th-8th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
@@ -5438,6 +5864,40 @@
       }
     },
     {
+      "id": "f2350935a457296ef54742cfb630ee7dfbc3924ba3490e2d500ee920053d2252",
+      "title": "Punta Gorda, FL, US - Oct 9th thru 11th - Disc Dogs of Treasure Coast",
+      "url": "https://updogchallenge.com/events/punta-gorda-fl-us-oct-9th-thru-11th-disc-dogs-of-treasure-coast/",
+      "details": {
+        "title": "Punta Gorda, FL, US – Oct 9th thru 11th – Disc Dogs of Treasure Coast",
+        "club_name": "Disc Dogs of Treasure Coast",
+        "contact_name": "Julie Spring",
+        "contact_email": "discdogsoftreasurecoast@gmail.com",
+        "event_address": "2551 Taylor Rd, Punta Gorda, FL 33950, United States",
+        "start_date": "11/14/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "notification_date": "2026-11-14",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "7Up",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "NOVEMBER 14: Throw n GO, 4-way play, frizgility\nNOVEMBER 15: Greedy, Time warp, 7UP",
+        "prereg_url": "https://www.cognitoforms.com/DiscDogsOfTreasureCoast/BrattyPawsNovember2026",
+        "when_text": "11/14/2026 - 11/15/2026",
+        "event_dates": [
+          "11/14/2026",
+          "11/15/2026"
+        ]
+      }
+    },
+    {
       "id": "8d16557320eec9addf7cd40f0ba62523ea84933c42ba93f6f24a55ab6e2b4a2e",
       "title": "Shermans Dale, PA, US - Nov 14th & 15th - Woof Pack Disc Dogs",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-nov-14th-15th-woof-pack-disc-dogs/",
@@ -5495,6 +5955,39 @@
         "when_text": "11/14/2026",
         "event_dates": [
           "11/14/2026"
+        ]
+      }
+    },
+    {
+      "id": "e84ff4959ecbd8ae3b7e967ca6d43da9a64cfac2e4e1526753d40ad426a88a75",
+      "title": "Wetumpka, AL, US - Nov 20th & 21st - Tossin' Tides Disc Dogs",
+      "url": "https://updogchallenge.com/events/wetumpka-al-us-nov-20th-21st-tossin-tides-disc-dogs/",
+      "details": {
+        "title": "Wetumpka, AL, US – Nov 20th & 21st – Tossin’ Tides Disc Dogs",
+        "club_name": "Tossin’ Tides Disc Dogs",
+        "contact_name": "Joy Vinson",
+        "contact_email": "fhopeswmr@icloud.com",
+        "event_address": "2350 Coosa River Pkwy, Wetumpka, Alabama 36092, United States",
+        "start_date": "11/20/2026",
+        "start_date_iso": "2026-11-20T00:00:00",
+        "notification_date": "2026-11-20",
+        "end_date": "11/21/2026",
+        "end_date_iso": "2026-11-21T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "9:00 AM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "11/20/2026 - 11/21/2026",
+        "event_dates": [
+          "11/20/2026",
+          "11/21/2026"
         ]
       }
     },
