@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T10:03:29Z",
-  "count": 222,
+  "last_updated": "2026-09-13T11:04:16Z",
+  "count": 216,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -841,85 +841,6 @@
       }
     },
     {
-      "id": "4079a9cb091c162525eb91623e59ea6f823f540535ec163504c4335bb508efab",
-      "title": "Lyalta, AB, CA - Sept 12th - Calgary Disc Dogs",
-      "url": "https://updogchallenge.com/events/lyalta-ab-ca-sept-12th-calgary-disc-dogs/",
-      "details": {
-        "title": "Lyalta, AB, CA – Sept 12th – Calgary Disc Dogs",
-        "club_name": "Calgary Disc Dogs",
-        "contact_name": "Kara Bellingham",
-        "contact_email": "kara.marciniak@gmail.com",
-        "event_address": "251030, Lyalta, AB T1 0V1, Canada",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/12/2026",
-        "end_date_iso": "2026-09-12T00:00:00",
-        "start_time": "8:00 AM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "09/12/2026",
-        "event_dates": [
-          "9/12/2026"
-        ]
-      }
-    },
-    {
-      "id": "00297bc0918beb7613eb55ad38486621722688869f5882e76bd6985b6db8a129",
-      "title": "Manhattan, KS, US - Sep 12th - Prairie Disc Dogs",
-      "url": "https://updogchallenge.com/events/manhattan-ks-us-sep-12th-prairie-disc-dogs/",
-      "details": {
-        "title": "Manhattan, KS, US – Sep 12th – Prairie Disc Dogs",
-        "club_name": "Prairie Disc Dogs",
-        "contact_name": "Jennifer Anthony",
-        "contact_email": "jennanthony@gmail.com",
-        "event_address": "1191 E 26th Ave, Manhattan, KS 66502, United States",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/12/2026",
-        "end_date_iso": "2026-09-12T00:00:00",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Spaced Out",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "The event live fact sheet will be updated with more information as the event gets closer:\nhttps://docs.google.com/document/d/1Qq-9TltdpCuOP4dBKlZxRRpfKr6H6093aR_2zWgxLDw/edit?usp=drivesdk\nAdditional information can be found on the Prairie Disc Dog Facebook page:\nhttps://m.facebook.com/groups/PrairieDiscDogsMHK/?ref=share",
-        "when_text": "09/12/2026",
-        "event_dates": [
-          "9/12/2026"
-        ]
-      }
-    },
-    {
-      "id": "26d267c37955dd7491263cf3d580ee6bdb9c289ff8d81dcb933c5ee6944eacaf",
-      "title": "Woodstock, CT, US - Sept 12th - Face to Face - Triple Crown",
-      "url": "https://updogchallenge.com/events/north-grosvenordale-ma-us-sept-13th-face-to-face-triple-crown/",
-      "details": {
-        "title": "Woodstock, CT, US – Sept 12th – Face to Face – Triple Crown",
-        "club_name": "Face to Face Dog Sports",
-        "contact_name": "Ashley Fulton",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "Stone Bridge Rd, Woodstock, CT 06281",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/12/2026",
-        "end_date_iso": "2026-09-12T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Triple Crown",
-        "when_text": "09/12/2026",
-        "event_dates": [
-          "9/12/2026"
-        ]
-      }
-    },
-    {
       "id": "91d26848e67fa839be7f7885a9c70d92a15f4a7cacfa8a57a2f7f6cf856314c3",
       "title": "Biglerville, PA, US - Sept 12th & 13th - Woof Pack Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-12th-13th-woof-pack-disc-dogs-triple-crown/",
@@ -983,94 +904,6 @@
         "event_dates": [
           "9/12/2026",
           "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "b3867c8612dbc3732eb85cf420206b8026cad67dd456bef7d5f33464e3799839",
-      "title": "Elkton, MD, US - Sept 12th - Dog On It! Dog Sports & Elkton TNF - Triple Crown",
-      "url": "https://updogchallenge.com/events/elkton-md-us-sept-12th-dog-on-it-dog-sports-elkton-tnf-triple-crown/",
-      "details": {
-        "title": "Elkton, MD, US – Sept 12th – Dog On It! Dog Sports & Elkton TNF – Triple Crown",
-        "club_name": "Dog On It! Dog Sports & Elkton Toss & Fetch",
-        "contact_name": "Laura O’Neill",
-        "contact_email": "dogonitdogsports@gmail.com",
-        "event_address": "Get Rev’d Agility, 312 Middle Road, Elkton, MD 21921, United States",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/12/2026",
-        "end_date_iso": "2026-09-12T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Spaced Out, Throw N Go, Time Warp, Frizgility, 7Up"
-        ],
-        "additional_event_information_for_participants": "This event will be part of the Triple Crown. We will also be hosting the World Wide Toss & Fetch World Championships on Sunday 9/13.\nregistration form:\nhttps://bit.ly/3RFy48v\nLive Fact Sheet:\nhttps://bit.ly/3TgZF05",
-        "when_text": "09/12/2026",
-        "event_dates": [
-          "9/12/2026"
-        ]
-      }
-    },
-    {
-      "id": "f4b8b63ebff78c57fc0c2977b567ccb19d2c53e5e25c8f4e573e86c464c8a007",
-      "title": "Somers, WI, US - Sept 12th - Dairyland Disc Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/somers-wi-us-sept-12th-dairyland-disc-dogs-triple-crown/",
-      "details": {
-        "title": "Somers, WI, US – Sept 12th – Dairyland Disc Dogs – Triple Crown",
-        "club_name": "Dairyland Disc Dogs",
-        "contact_name": "Dean Shavit",
-        "contact_email": "dean@macworkshops.com",
-        "event_address": "Private Residence, =, Somers, WI 53144, United States",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/12/2026",
-        "end_date_iso": "2026-09-12T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:30 PM",
-        "games": [
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "when_text": "09/12/2026",
-        "event_dates": [
-          "9/12/2026"
-        ]
-      }
-    },
-    {
-      "id": "40798e3b0a343f06fc78eace12c8ba1d680ef63d307005fb060ddb409295f420",
-      "title": "Green Bay, WI, US - Sept 12th - Northeast Wisconsin Australian Shepherd Club",
-      "url": "https://updogchallenge.com/events/green-bay-wi-us-sept-12th-northeast-wisconsin-australian-shepherd-club/",
-      "details": {
-        "title": "Green Bay, WI, US – Sept 12th – Northeast Wisconsin Australian Shepherd Club",
-        "club_name": "Northeast Wisconsin Australian Shepherd Club",
-        "contact_name": "Sarah Blodgett",
-        "contact_email": "newasclub@gmail.com",
-        "event_address": "Packerland Kennel Club, 2031 Bellevue St., Green Bay, WI 54311, United States",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/12/2026",
-        "end_date_iso": "2026-09-12T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Indoor crating space available. Field is fenced. No food for sale on site.",
-        "prereg_url": "https://www.newasclub.com/",
-        "when_text": "09/12/2026",
-        "event_dates": [
-          "9/12/2026"
         ]
       }
     },
