@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T11:04:16Z",
-  "count": 216,
+  "last_updated": "2026-09-14T11:39:59Z",
+  "count": 208,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,370 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "7508860f02ea7c735c5e2227fe64fd3be0e9876e8b38d3870cf6017c0a1cb0c7",
-      "title": "Surrey, BC, CA - Sept 11th thru 13th - PNW Championships",
-      "url": "https://updogchallenge.com/events/surrey-bc-ca-sept-11th-thru-13th-pnw-championships/",
-      "details": {
-        "title": "Surrey, BC, CA – Sept 11th thru 13th – PNW Championships",
-        "club_name": "Multi – PNW Championship",
-        "contact_name": "COREY POLIS",
-        "contact_email": "pnwdiscchampionship@gmail.com",
-        "event_address": "18843 8 Ave, Surrey, BC V3Z 9R9, Canada",
-        "start_date": "9/11/2026",
-        "start_date_iso": "2026-09-11T00:00:00",
-        "notification_date": "2026-09-11",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "Pairs Four Way Play"
-        ],
-        "additional_event_information_for_participants": "https://www.facebook.com/groups/990756235355199",
-        "prereg_url": "https://www.cognitoforms.com/pnwdiscchampionship/_2026pnwupdogchampionshipregistration/",
-        "when_text": "09/11/2026 - 09/13/2026",
-        "event_dates": [
-          "9/11/2026",
-          "9/12/2026",
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "91d26848e67fa839be7f7885a9c70d92a15f4a7cacfa8a57a2f7f6cf856314c3",
-      "title": "Biglerville, PA, US - Sept 12th & 13th - Woof Pack Disc Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-sept-12th-13th-woof-pack-disc-dogs-triple-crown/",
-      "details": {
-        "title": "Biglerville, PA, US – Sept 12th & 13th – Woof Pack Disc Dogs – Triple Crown",
-        "club_name": "Woof Pack Disc Dogs",
-        "contact_name": "Emily Leiby",
-        "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "615 Narrows Rd. Biglerville, PA 17307",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "For the most up-to-date information, follow our Facebook page, Woof Pack Disc Dogs!\nhttps://www.facebook.com/woofpackdiscdogs",
-        "when_text": "09/12/2026 - 09/13/2026",
-        "event_dates": [
-          "9/12/2026",
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "f867c13f83a25b03b912abb5f631e2e9c8b32af6d0000bcca6dbb63b874a6203",
-      "title": "Odenville, AL, US - Sept 12th & 13th - CC Canine Air Dogs",
-      "url": "https://updogchallenge.com/events/odenville-al-us-sept-12th-13th-cc-canine-air-dogs/",
-      "details": {
-        "title": "Odenville, AL, US – Sept 12th & 13th – CC Canine Air Dogs",
-        "club_name": "CC Canine Air Dogs",
-        "contact_name": "Chris Sides",
-        "contact_email": "dcsides1@gmail.com",
-        "event_address": "125 Aspen Lane, Odenville, AL 35120, United States",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://form.jotform.com/261314063589156",
-        "when_text": "09/12/2026 - 09/13/2026",
-        "event_dates": [
-          "9/12/2026",
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "558b6dd32126b4f738bdc21516c291e9bcec5ff1c2999f3ea41be781a24cb977",
-      "title": "Mahopac, NY, US - Sept 12th & 13th - Bring Your Own (BYO) Disc Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/mahopac-ny-us-sept-12th-13th-bring-your-own-byo-disc-dogs-triple-crown/",
-      "details": {
-        "title": "Mahopac, NY, US – Sept 12th & 13th – Bring Your Own (BYO) Disc Dogs – Triple Crown",
-        "club_name": "Bring Your Own (BYO) Disc Dogs",
-        "contact_name": "Sara Gagnon",
-        "contact_email": "byodiscdogs@gmail.com",
-        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
-        "start_date": "9/12/2026",
-        "start_date_iso": "2026-09-12T00:00:00",
-        "notification_date": "2026-09-12",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "09/12/2026 - 09/13/2026",
-        "event_dates": [
-          "9/12/2026",
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "fbc8ebd57dfd03e083139b9df9b7eb959ad06766c0b82979cebf98608a3e2d07",
-      "title": "Winnipeg, MB, CA - Sept 13th - River City Disc Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/winnipeg-mb-ca-sept-13th-river-city-disc-dogs-triple-crown/",
-      "details": {
-        "title": "Winnipeg, MB, CA – Sept 13th – River City Disc Dogs – Triple Crown",
-        "club_name": "River City Disc Dogs",
-        "contact_name": "Shawna Kondratuk",
-        "contact_email": "shawnabillingham@yahoo.ca",
-        "event_address": "Bord-aire Community Club 471 Hampton St, Winnipeg, MB R3J 1R1, Canada",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "9ef7cb852cd9f9a137e1ce36cccf875a4e7a6fd79df51fe1e574cbd002e1fb7f",
-      "title": "Hillsboro, AL, US - Sept 13th - Unhinged Canines",
-      "url": "https://updogchallenge.com/events/hillsboro-al-us-sept-13th-unhinged-canines/",
-      "details": {
-        "title": "Hillsboro, AL, US – Sept 13th – Unhinged Canines",
-        "club_name": "Unhinged Canines",
-        "contact_name": "Aslyn Estill",
-        "contact_email": "unhingedcanines@gmail.com",
-        "event_address": "439 Co Rd 413, Hillsboro, AL 35643-3726, United States",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "2026 Triple Crown",
-        "prereg_url": "https://form.jotform.com/261998290127164",
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "e7e827699e562c7ec33187f4af9a3794a51109d4f2b1df1b01aaef20ff9641e8",
-      "title": "Repentigny, QC, CA - Sept 13th",
-      "url": "https://updogchallenge.com/events/repentigny-qc-ca-sept-13th-guides-canins/",
-      "details": {
-        "title": "Repentigny, QC, CA – Sept 13th",
-        "club_name": "",
-        "contact_name": "Suzanne Lapointe",
-        "contact_email": "suzanne.frisbee4k9@gmail.com",
-        "event_address": "455 Rue de la Presqu’ile, Repentigny, QC J5Z4C7, Canada",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "7:30 PM",
-        "games": [
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out"
-        ],
-        "additional_event_information_for_participants": "Cross Over Crown Event",
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "f7283005e35b5754778093e363e16c702fa0fa098306ca534986d5667d489f0f",
-      "title": "Bartlett, IL, US - Sept 13th - McHenry Disc Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/bartlett-il-us-sept-13th-mchenry-disc-dogs/",
-      "details": {
-        "title": "Bartlett, IL, US – Sept 13th – McHenry Disc Dogs – Triple Crown",
-        "club_name": "McHenry Disc Dogs",
-        "contact_name": "Zach Perlmutter",
-        "contact_email": "zperlmut@gmail.com",
-        "event_address": "2255 Southwind Blvd, Bartlett, IL 60103, United States",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Freestyle",
-          "Frizgility",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "445fcc0d65c6d96875e61854504fb2da28270477b184042f4a829e746549ec47",
-      "title": "Hopkinton, MA, US - Sept 13th - The Fetch Collective - Triple Crown",
-      "url": "https://updogchallenge.com/events/hopkinton-ma-us-sept-13th-the-fetch-collective/",
-      "details": {
-        "title": "Hopkinton, MA, US – Sept 13th – The Fetch Collective – Triple Crown",
-        "club_name": "The Fetch Collective",
-        "contact_name": "Leah Lodato",
-        "contact_email": "fetchcollectiveclub@gmail.com",
-        "event_address": "Reed Park, Hopkinton, MA 01748, United States",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "816342594be280acd501d3d1b2586f21feb4e93d43395163f4541c5c6d256519",
-      "title": "Monroe, MI, US - Sept 13th - Downriver Disc Dogs",
-      "url": "https://updogchallenge.com/events/monroe-mi-us-sept-13th-downriver-disc-dogs/",
-      "details": {
-        "title": "Monroe, MI, US – Sept 13th – Downriver Disc Dogs",
-        "club_name": "Downriver Disc Dogs",
-        "contact_name": "Ronald Corey",
-        "contact_email": "Downriverdiscdogs@gmail.com",
-        "event_address": "4665 E Dunbar Rd., Monroe, MI 48151, United States",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "https://www.facebook.com/share/17C6fJv7DY/\nNo Checks, Cash, Paypal, Venmo",
-        "prereg_url": "https://www.facebook.com/share/17C6fJv7DY/",
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "2111f9839109393de751be5974c9474ff0af03819c2c0b8bb463d5ef9cb1fb38",
-      "title": "Avon, IN, US - Sept 13th - Clever Girl Disc Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/avon-in-us-sept-13th-clever-girl-disc-dogs/",
-      "details": {
-        "title": "Avon, IN, US – Sept 13th – Clever Girl Disc Dogs – Triple Crown",
-        "club_name": "Clever Girl Disc Dogs",
-        "contact_name": "Samantha Stinson",
-        "contact_email": "clevergirldisc@gmail.com",
-        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "9:30 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Throw N Go lvl 1, Spaced out lvl 1, Time Warp Lvl 1, Spaced Out lvl 2, Time Warp Lvl 2, and Four Way Play Lvl 2."
-        ],
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "0a00745c868259b471e9f93b0aecd0f3e24fbff947c896f5035921fc910e471b",
-      "title": "Gander, NL, CA - Sept 13th - YQX Dog Sports",
-      "url": "https://updogchallenge.com/events/gander-nl-ca-sept-13-yqx-dog-sports/",
-      "details": {
-        "title": "Gander, NL, CA – Sept 13th – YQX Dog Sports",
-        "club_name": "YQX Dog Sports",
-        "contact_name": "Jill Hartle",
-        "contact_email": "yqxdogsports@gmail.com",
-        "event_address": "5 Penney Avenue, Room 205, Gander, NL A1V 0J3, Canada",
-        "start_date": "9/13/2026",
-        "start_date_iso": "2026-09-13T00:00:00",
-        "notification_date": "2026-09-13",
-        "end_date": "9/13/2026",
-        "end_date_iso": "2026-09-13T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey"
-        ],
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSdmFXv6n8PW7Kwky6QF1OiK21iiQ6ZXpeCezwobzoirqZM2IA/viewform?usp=header",
-        "when_text": "09/13/2026",
-        "event_dates": [
-          "9/13/2026"
         ]
       }
     },
@@ -3891,6 +3527,37 @@
       }
     },
     {
+      "id": "e8ade93587cb6285b358a1c5538498f79593139b6b78e221a12869c714d1d382",
+      "title": "Seville, OH, US - Oct 18th - Dawg Gone It",
+      "url": "https://updogchallenge.com/events/seville-oh-us-oct-18th-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Oct 18th – Dawg Gone It",
+        "club_name": "Dawg Gone It",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, OH 44273, United States",
+        "start_date": "10/18/2026",
+        "start_date_iso": "2026-10-18T00:00:00",
+        "notification_date": "2026-10-18",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "FunKey",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Outside rain/snow/ or sun",
+        "when_text": "10/18/2026",
+        "event_dates": [
+          "10/18/2026"
+        ]
+      }
+    },
+    {
       "id": "b9130fe0148ec77c411116b1fc5335bfcf4a9b816f42fc1aa0354ccb03b85c76",
       "title": "Wrentham, MA, US - Oct 18th - Minute Dog Disc",
       "url": "https://updogchallenge.com/events/wrentham-wa-us-oct-18th-minute-dog-disc/",
@@ -4599,6 +4266,34 @@
         "when_text": "10/27/2026",
         "event_dates": [
           "10/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "45c11d89587579aeff147d2d2a68da08dce11e2e9899c4976262f4c7e4a150fd",
+      "title": "Indianapolis, IN, US - Oct 28th - Indy Dog & Disc Club",
+      "url": "https://updogchallenge.com/events/indianapolis-in-us-oct-28th-indy-dog-disc-club/",
+      "details": {
+        "title": "Indianapolis, IN, US – Oct 28th – Indy Dog & Disc Club",
+        "club_name": "Indy Dog and Disc Club",
+        "contact_name": "Sheridan Gilchrist",
+        "contact_email": "sheridangi@aol.com",
+        "event_address": "1790 E 54Tth St, Indianapolis, Indiana 46220, United States",
+        "start_date": "10/28/2026",
+        "start_date_iso": "2026-10-28T00:00:00",
+        "notification_date": "2026-10-28",
+        "end_date": "10/28/2026",
+        "end_date_iso": "2026-10-28T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out"
+        ],
+        "additional_event_information_for_participants": "This is the official UpDog competition to end our UpDog practice rounds from the previous weeks.",
+        "when_text": "10/28/2026",
+        "event_dates": [
+          "10/28/2026"
         ]
       }
     },
@@ -5621,6 +5316,42 @@
       }
     },
     {
+      "id": "e1ba008a2a4feac2fcfea84ae89d1209555d7f2b3a3b6e2d2e8995e74ace0c78",
+      "title": "Columbus, IN, US - Nov 14th & 15th - Indy Dog and Disc Club",
+      "url": "https://updogchallenge.com/events/columbus-in-us-nov-14th-15th-indy-dog-and-disc-club/",
+      "details": {
+        "title": "Columbus, IN, US – Nov 14th & 15th – Indy Dog and Disc Club",
+        "club_name": "Indy Dog and Disc Club",
+        "contact_name": "Sheridan Gilchrist",
+        "contact_email": "sheridangi@aol.com",
+        "event_address": "6095 West Lowell Rd, Columbus, Indiana 47201, United States",
+        "start_date": "11/14/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "notification_date": "2026-11-14",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "11/14/2026 - 11/15/2026",
+        "event_dates": [
+          "11/14/2026",
+          "11/15/2026"
+        ]
+      }
+    },
+    {
       "id": "a947a18980d1a07ab3897f494e33b7203190bd6aa38cfbf6f1b7bd350ad82338",
       "title": "Gretna, VA, US - Nov 14th & 15th - Leesville Lake Campground",
       "url": "https://updogchallenge.com/events/gretna-va-us-nov-14th-15th-leesville-lake-campground/",
@@ -5788,6 +5519,30 @@
         "when_text": "11/14/2026",
         "event_dates": [
           "11/14/2026"
+        ]
+      }
+    },
+    {
+      "id": "7665c33a565b4678f16720642e4ead51eb8ed40989588176897a3042ee32ba2b",
+      "title": "Woodstock, CT, US - Nov 15th - Face to Face Disc Club",
+      "url": "https://updogchallenge.com/events/woodstock-ct-us-nov-15th-face-to-face-disc-club/",
+      "details": {
+        "title": "Woodstock, CT, US – Nov 15th – Face to Face Disc Club",
+        "club_name": "Face to Face Disc Club",
+        "contact_name": "Deborah Taylor",
+        "contact_email": "taydeb06@gmail.com",
+        "event_address": "Stone Bridge Rd, Woodstock, CT 06281, United States",
+        "start_date": "11/15/2026",
+        "start_date_iso": "2026-11-15T00:00:00",
+        "notification_date": "2026-11-15",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/15/2026",
+        "event_dates": [
+          "11/15/2026"
         ]
       }
     },
