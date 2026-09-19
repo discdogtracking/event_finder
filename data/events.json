@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T10:31:39Z",
-  "count": 206,
+  "last_updated": "2026-09-19T10:16:49Z",
+  "count": 208,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -1288,24 +1288,6 @@
       }
     },
     {
-      "id": "b6a1ec44b1219284cd889f3a6dc56723275e2a95359ec631fee9611d283ec2aa",
-      "title": "Lutz, FL, US - Sept 26th & 27th - CFDDC",
-      "url": "https://updogchallenge.com/events/lutz-fl-us-sept-26th-27th-cfddc/",
-      "details": {
-        "title": "Lutz, FL, US – Sept 26th & 27th – CFDDC",
-        "when_text": "09/26/2026 - 09/27/2026",
-        "event_dates": [
-          "9/26/2026",
-          "9/27/2026"
-        ],
-        "start_date": "9/26/2026",
-        "end_date": "9/27/2026",
-        "start_date_iso": "2026-09-26T00:00:00",
-        "end_date_iso": "2026-09-27T00:00:00",
-        "notification_date": "2026-09-26"
-      }
-    },
-    {
       "id": "1bf3699f7aded975fb525885f1b0a7525f834b82c86a382afa53d14b6c0d56f8",
       "title": "Pilot Butte, SK, CA - Sept 26th - Encore Disc Dog Club",
       "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-sept-26th-encore-disc-dog-club/",
@@ -1738,6 +1720,23 @@
         "event_dates": [
           "9/27/2026"
         ]
+      }
+    },
+    {
+      "id": "f36f2209e3d7bc54a069b3352ec81c06a9e090a7267bdfc44fcfa8454d97118a",
+      "title": "Lutz, FL, US - Sept 27th - CFDDC",
+      "url": "https://updogchallenge.com/events/lutz-fl-us-sept-27th-cfddc-2/",
+      "details": {
+        "title": "Lutz, FL, US – Sept 27th – CFDDC",
+        "when_text": "09/27/2026",
+        "event_dates": [
+          "9/27/2026"
+        ],
+        "start_date": "9/27/2026",
+        "end_date": "9/27/2026",
+        "start_date_iso": "2026-09-27T00:00:00",
+        "end_date_iso": "2026-09-27T00:00:00",
+        "notification_date": "2026-09-27"
       }
     },
     {
@@ -5676,6 +5675,43 @@
       }
     },
     {
+      "id": "6c267b7729ed6ad8321dc9e476f40e846475438a949e52494f19de66706639f2",
+      "title": "Odenville, AL, US - Nov 21st & 22nd - CC Canine Air Dogs Club",
+      "url": "https://updogchallenge.com/events/odenville-al-us-nov-21st-22nd-cc-canine-air-dogs-club/",
+      "details": {
+        "title": "Odenville, AL, US – Nov 21st & 22nd – CC Canine Air Dogs Club",
+        "club_name": "CC Canine Air Dogs Club",
+        "contact_name": "Chris Sides",
+        "contact_email": "dcsides1@gmail.com",
+        "event_address": "125 Aspen Ln, Odenville, Alabama 35120, United States",
+        "start_date": "11/21/2026",
+        "start_date_iso": "2026-11-21T00:00:00",
+        "notification_date": "2026-11-21",
+        "end_date": "11/22/2026",
+        "end_date_iso": "2026-11-22T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "when_text": "11/21/2026 - 11/22/2026",
+        "event_dates": [
+          "11/21/2026",
+          "11/22/2026"
+        ]
+      }
+    },
+    {
       "id": "760d09a31b559a3fc36d2abce05347eb402d131a02cecfcaab1914194b9a61f2",
       "title": "Columbus, IN, US - Nov 21st & 22nd - Driftwood Disc Dogs",
       "url": "https://updogchallenge.com/events/columbus-in-us-nov-21st-22nd-driftwood-disc-dogs/",
@@ -6283,6 +6319,32 @@
         "when_text": "12/19/2026",
         "event_dates": [
           "12/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "3c6020429d131179eb13e986edb8f7f8c71077a36726cf7f4c938d6eeab6c0fe",
+      "title": "Lumsden, SK, CA - Dec 20th - Absolute Elite K9",
+      "url": "https://updogchallenge.com/events/lumsden-sk-ca-dec-20th-absolute-elite-k9/",
+      "details": {
+        "title": "Lumsden, SK, CA – Dec 20th – Absolute Elite K9",
+        "club_name": "Absolute Elite K9",
+        "contact_name": "Amanda Abs",
+        "contact_email": "absoluteelitek9@gmail.com",
+        "event_address": "Hwy 734, Lumsden, SK S4P2X1, Canada",
+        "start_date": "12/20/2026",
+        "start_date_iso": "2026-12-20T00:00:00",
+        "notification_date": "2026-12-20",
+        "end_date": "12/20/2026",
+        "end_date_iso": "2026-12-20T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "4:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "12/20/2026",
+        "event_dates": [
+          "12/20/2026"
         ]
       }
     },
