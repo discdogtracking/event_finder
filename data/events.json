@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T10:16:49Z",
-  "count": 208,
+  "last_updated": "2026-09-20T10:35:07Z",
+  "count": 205,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -878,88 +878,6 @@
         "event_dates": [
           "9/19/2026",
           "9/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "0a346a38a9cc296c27ba66dc1ae628ca16351553b02a855aa3b3a61388255979",
-      "title": "Spruce Grove, AB, CA - Sept 19th - Edmonton Disc Dog Club - Triple Crown",
-      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-sept-19th-edmonton-disc-dog-club-triple-crown/",
-      "details": {
-        "title": "Spruce Grove, AB, CA – Sept 19th – Edmonton Disc Dog Club – Triple Crown",
-        "club_name": "Edmonton Disc Dog Club",
-        "contact_name": "Courtney Forester",
-        "contact_email": "info@edmontondiscdogclub.ca",
-        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
-        "start_date": "9/19/2026",
-        "start_date_iso": "2026-09-19T00:00:00",
-        "notification_date": "2026-09-19",
-        "end_date": "9/19/2026",
-        "end_date_iso": "2026-09-19T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "09/19/2026",
-        "event_dates": [
-          "9/19/2026"
-        ]
-      }
-    },
-    {
-      "id": "8945e1661ad26feda2a578a8f9cdaeda6ab98cf433aa9a81201093f3edca8941",
-      "title": "Grand Rapids, MI, US - Sept 19th - Bring it Back Disc-O",
-      "url": "https://updogchallenge.com/events/grand-rapids-mi-us-sept-19th-bring-it-back-disc-o/",
-      "details": {
-        "title": "Grand Rapids, MI, US – Sept 19th – Bring it Back Disc-O",
-        "club_name": "Bring it Back Disc-O",
-        "contact_name": "Danielle Hyde",
-        "contact_email": "daniellemhyde@gmail.com",
-        "event_address": "13648 Ironwood Dr NW,, Grand Rapids, MI 49534, United States",
-        "start_date": "9/19/2026",
-        "start_date_iso": "2026-09-19T00:00:00",
-        "notification_date": "2026-09-19",
-        "end_date": "9/19/2026",
-        "end_date_iso": "2026-09-19T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "More details to come on Facebook.\nBring it Back K9 Disc-o Club\nhttps://www.facebook.com/profile.php?id=61563994156191",
-        "when_text": "09/19/2026",
-        "event_dates": [
-          "9/19/2026"
-        ]
-      }
-    },
-    {
-      "id": "0bacb1230236d60b4c82f37ef879067c1fc97f2f82ed38907d62a9c1a0953b69",
-      "title": "Hutto, TX, US - Sept 19th - Lone Star Disc Dogs",
-      "url": "https://updogchallenge.com/events/liberty-hill-tx-us-sept-19th-lone-star-disc-dogs/",
-      "details": {
-        "title": "Hutto, TX, US – Sept 19th – Lone Star Disc Dogs",
-        "club_name": "Lone Star Disc Dogs",
-        "contact_name": "Tammy Montgomery",
-        "contact_email": "lonestardiscdogs@gmail.com",
-        "event_address": "200 Co Rd 197\nHutto, Tx 78634",
-        "start_date": "9/19/2026",
-        "start_date_iso": "2026-09-19T00:00:00",
-        "notification_date": "2026-09-19",
-        "end_date": "9/19/2026",
-        "end_date_iso": "2026-09-19T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out"
-        ],
-        "when_text": "09/19/2026",
-        "event_dates": [
-          "9/19/2026"
         ]
       }
     },
