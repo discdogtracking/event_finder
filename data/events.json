@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T10:55:15Z",
-  "count": 195,
+  "last_updated": "2026-09-23T10:44:31Z",
+  "count": 198,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -906,34 +906,6 @@
       }
     },
     {
-      "id": "1bf3699f7aded975fb525885f1b0a7525f834b82c86a382afa53d14b6c0d56f8",
-      "title": "Pilot Butte, SK, CA - Sept 26th - Encore Disc Dog Club",
-      "url": "https://updogchallenge.com/events/pilot-butte-sk-ca-sept-26th-encore-disc-dog-club/",
-      "details": {
-        "title": "Pilot Butte, SK, CA – Sept 26th – Encore Disc Dog Club",
-        "club_name": "Encore Disc Dog Club",
-        "contact_name": "Cheryl Petryshyn",
-        "contact_email": "encoredogsports@gmail.com",
-        "event_address": "330 Hanley Cres, Pilot Butte, SK S0G 3Z0, Canada",
-        "start_date": "9/26/2026",
-        "start_date_iso": "2026-09-26T00:00:00",
-        "notification_date": "2026-09-26",
-        "end_date": "9/26/2026",
-        "end_date_iso": "2026-09-26T00:00:00",
-        "start_time": "2:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "7Up",
-          "Time Warp"
-        ],
-        "when_text": "09/26/2026",
-        "event_dates": [
-          "9/26/2026"
-        ]
-      }
-    },
-    {
       "id": "fb17663ca21fd65f24e65f92427483f0fb95fc4d73f594f82213d6df89aa8e70",
       "title": "Phoenix, AZ, US - Sept 26th & 27th - East Valley Sport Dog Club",
       "url": "https://updogchallenge.com/events/phoenix-az-us-sept-26th-27th-east-valley-sport-dog-club/",
@@ -1739,6 +1711,44 @@
       }
     },
     {
+      "id": "5e459dbac37c53236e045190f693c20e023a940076ec025e0174d302413f22c0",
+      "title": "Vernon, BC, CA - Oct 3rd & 4th - Kelowna Disc Dogs - Triple Crown",
+      "url": "https://updogchallenge.com/events/vernon-bc-ca-oct-3rd-4th-kelowna-disc-dogs/",
+      "details": {
+        "title": "Vernon, BC, CA – Oct 3rd & 4th – Kelowna Disc Dogs – Triple Crown",
+        "club_name": "Kelowna Disc Dogs",
+        "contact_name": "Roni Bedard",
+        "contact_email": "info@kelownadiscdogs.com",
+        "event_address": "10777 Westshore Rd, Vernon, BC V1H 2C3, Canada",
+        "start_date": "10/3/2026",
+        "start_date_iso": "2026-10-03T00:00:00",
+        "notification_date": "2026-10-03",
+        "end_date": "10/4/2026",
+        "end_date_iso": "2026-10-04T00:00:00",
+        "start_time": "8:30 AM",
+        "end_time": "5:30 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/KelownaDiscDogClub/CampfireClassic2026",
+        "when_text": "10/03/2026 - 10/04/2026",
+        "event_dates": [
+          "10/3/2026",
+          "10/4/2026"
+        ]
+      }
+    },
+    {
       "id": "61388ad5860638d9ee093eb610ec23407c281b79a591a3c304e77a863d05eee5",
       "title": "Bunnell, FL, US - Oct 3rd - Daytona Disc Dogs - Triple Crown",
       "url": "https://updogchallenge.com/events/bunnell-fl-us-oct-3rd-daytona-disc-dogs/",
@@ -2250,7 +2260,7 @@
           "Throw N Go",
           "Time Warp"
         ],
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSecaCrzDT_5Wr-2rYcpiLkvIOVoSBIIaDdHkoiw-ZJdiOZV0g/viewform?usp=publish-editor",
+        "prereg_url": "https://forms.gle/NtN8VcpY3HMkpBFD8",
         "when_text": "10/10/2026",
         "event_dates": [
           "10/10/2026"
@@ -3032,6 +3042,36 @@
       }
     },
     {
+      "id": "1ed34be22efde1dfb12df31b840aa42e2be69f993f02a615adab5b5907f0a8a2",
+      "title": "Norman, OK, US - Oct 18th - Tornado Alley Disc Dogs",
+      "url": "https://updogchallenge.com/events/norman-ok-us-oct-18th-tornado-alley-disc-dogs/",
+      "details": {
+        "title": "Norman, OK, US – Oct 18th – Tornado Alley Disc Dogs",
+        "club_name": "Tornado Alley Disc Dogs",
+        "contact_name": "Jamee salley",
+        "contact_email": "tornadoalleydiscdog@pldi.net",
+        "event_address": "1776 E Robinson st, norman, ok 73010, United States",
+        "start_date": "10/18/2026",
+        "start_date_iso": "2026-10-18T00:00:00",
+        "notification_date": "2026-10-18",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:20 PM",
+        "games": [
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "10/18/2026",
+        "event_dates": [
+          "10/18/2026"
+        ]
+      }
+    },
+    {
       "id": "540efbcedcad11aefdc3e20cd4df9d0a1515d655f7b84a782f0ffb130f9db719",
       "title": "Jacksonville, FL, US - Oct 18th - Bite Club - Jacksonville Disc Dogs",
       "url": "https://updogchallenge.com/events/jacksonville-fl-us-oct-18th-bite-club-jacksonville-disc-dogs/",
@@ -3174,6 +3214,39 @@
           "Time Warp"
         ],
         "prereg_url": "https://forms.gle/d5WC5gJAuVmLpdpZ6",
+        "when_text": "10/18/2026",
+        "event_dates": [
+          "10/18/2026"
+        ]
+      }
+    },
+    {
+      "id": "09263795ee5b7835d6663d25f32ade21b023b855195e13aa1bb00241142c8919",
+      "title": "Reston, VA, US - Oct 18th - Bite Club - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/reston-va-us-oct-18th-bite-club-nova-dog-sports/",
+      "details": {
+        "title": "Reston, VA, US – Oct 18th – Bite Club – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "2286 Archdale Road, Reston, VA 20191, United States",
+        "start_date": "10/18/2026",
+        "start_date_iso": "2026-10-18T00:00:00",
+        "notification_date": "2026-10-18",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/BiteClubFall2026",
         "when_text": "10/18/2026",
         "event_dates": [
           "10/18/2026"
@@ -4385,6 +4458,39 @@
           "Time Warp"
         ],
         "prereg_url": "https://forms.gle/d5WC5gJAuVmLpdpZ6",
+        "when_text": "11/01/2026",
+        "event_dates": [
+          "11/1/2026"
+        ]
+      }
+    },
+    {
+      "id": "077dca9cba6cd90b7f3d74cce5b04f1978ca89fa8433aad8f21585729c26713d",
+      "title": "Reston, VA, US - Nov 1st - Bite Club - NoVA Dog Sports",
+      "url": "https://updogchallenge.com/events/reston-va-us-nov-1st-bite-club-nova-dog-sports/",
+      "details": {
+        "title": "Reston, VA, US – Nov 1st – Bite Club – NoVA Dog Sports",
+        "club_name": "NoVA Dog Sports",
+        "contact_name": "Doug Kurucz",
+        "contact_email": "doug.kurucz@gmail.com",
+        "event_address": "19277 Evergreen Mills Rd, Leesburg, VA 20175",
+        "start_date": "11/1/2026",
+        "start_date_iso": "2026-11-01T00:00:00",
+        "notification_date": "2026-11-01",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/BiteClubFall2026",
         "when_text": "11/01/2026",
         "event_dates": [
           "11/1/2026"
