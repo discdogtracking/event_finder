@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T10:44:31Z",
-  "count": 198,
+  "last_updated": "2026-09-24T11:04:34Z",
+  "count": 202,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,62 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "157f22e3165c3120fa84a0d96464d3116516d46078627adb9135d99c72cdfa89",
-      "title": "Carmel, IN, US - Sept 23rd - Indy Dog and Disc Club",
-      "url": "https://updogchallenge.com/events/carmel-in-us-sept-23rd-thru-26th-indy-dog-and-disc-club/",
-      "details": {
-        "title": "Carmel, IN, US – Sept 23rd – Indy Dog and Disc Club",
-        "club_name": "Indy Dog and Disc Club",
-        "contact_name": "Sheridan Gilchrist",
-        "contact_email": "sheridangi@aol.com",
-        "event_address": "11836 WESTWOOD DR, Carmel, Indiana 46033, United States",
-        "start_date": "9/23/2026",
-        "start_date_iso": "2026-09-23T00:00:00",
-        "notification_date": "2026-09-23",
-        "end_date": "9/23/2026",
-        "end_date_iso": "2026-09-23T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Spaced Out",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "The official sanctioned event end to our third League practice series",
-        "when_text": "09/23/2026",
-        "event_dates": [
-          "9/23/2026"
-        ]
-      }
-    },
-    {
-      "id": "a398c9c70855b71516c3f645e79d732d7bc6ad07e45ac8bd9e00b1bb2fdff75b",
-      "title": "Spruce Grove, AB, CA - Sept 23rd - Edmonton Disc Dog Club",
-      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-sept-23rd-edmonton-disc-dog-club/",
-      "details": {
-        "title": "Spruce Grove, AB, CA – Sept 23rd – Edmonton Disc Dog Club",
-        "club_name": "Edmonton Disc Dog Club",
-        "contact_name": "Courtney Forester",
-        "contact_email": "info@edmontondiscdogclub.ca",
-        "event_address": "27317 Township Rd 514, Spruce Grove, AB T7Y 1H7, Canada",
-        "start_date": "9/23/2026",
-        "start_date_iso": "2026-09-23T00:00:00",
-        "notification_date": "2026-09-23",
-        "end_date": "9/23/2026",
-        "end_date_iso": "2026-09-23T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Frizgility"
-        ],
-        "when_text": "09/23/2026",
-        "event_dates": [
-          "9/23/2026"
         ]
       }
     },
@@ -1652,6 +1596,32 @@
       }
     },
     {
+      "id": "ca08ff0dd95122a96966321019562db78b15367e2209549f43a0e86fcce2cec6",
+      "title": "Saskatoon, SK, CA - Oct 3rd - Saskatoon Disc Dogs",
+      "url": "https://updogchallenge.com/events/saskatoon-sk-ca-oct-3rd-saskatoon-disc-dogs/",
+      "details": {
+        "title": "Saskatoon, SK, CA – Oct 3rd – Saskatoon Disc Dogs",
+        "club_name": "Saskatoon Disc Dogs",
+        "contact_name": "Kris Avivi",
+        "contact_email": "shadowlands@shaw.ca",
+        "event_address": "1701 2nd Avenue North, Saskatoon, SK S7K2G4, Canada",
+        "start_date": "10/3/2026",
+        "start_date_iso": "2026-10-03T00:00:00",
+        "notification_date": "2026-10-03",
+        "end_date": "10/3/2026",
+        "end_date_iso": "2026-10-03T00:00:00",
+        "games": [
+          "Fireball",
+          "Greedy",
+          "Time Warp"
+        ],
+        "when_text": "10/03/2026",
+        "event_dates": [
+          "10/3/2026"
+        ]
+      }
+    },
+    {
       "id": "dcedf94a01149abe71e980b355b164520946a1caaf87ecc29b524980fee5bf69",
       "title": "Brandon, MB, CA - Oct 3rd & 4th - Crocus Obedience & Kennel Club",
       "url": "https://updogchallenge.com/events/brandon-mb-ca-oct-3rd-4th-crocus-obedience-kennel-club/",
@@ -2208,6 +2178,34 @@
       }
     },
     {
+      "id": "cbb205975c53f702e9881fcc890273eaeef11d3d735c385edcc43bebc67cc1c7",
+      "title": "Saskatoon, SK, CA - Oct 10th - Saskatoon Disc Dogs",
+      "url": "https://updogchallenge.com/events/saskatoon-sk-ca-oct-10th-saskatoon-disc-dogs/",
+      "details": {
+        "title": "Saskatoon, SK, CA – Oct 10th – Saskatoon Disc Dogs",
+        "club_name": "Saskatoon Disc Dogs",
+        "contact_name": "Kris Avivi",
+        "contact_email": "shadowlands@shaw.ca",
+        "event_address": "1701 2nd Avenue North, Saskatoon, SK S7K2G4, Canada",
+        "start_date": "10/10/2026",
+        "start_date_iso": "2026-10-10T00:00:00",
+        "notification_date": "2026-10-10",
+        "end_date": "10/10/2026",
+        "end_date_iso": "2026-10-10T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Spaced Out"
+        ],
+        "when_text": "10/10/2026",
+        "event_dates": [
+          "10/10/2026"
+        ]
+      }
+    },
+    {
       "id": "dbaf5bfcc2b7ac0a2445d866b1ba1d0d3adfa6eebd7d75ef309b95cccf26842e",
       "title": "Rio Dell, CA, US - Oct 10th & 11th - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-oct-10th-11th-humboldt-disc-dog-club/",
@@ -2521,6 +2519,37 @@
         "end_time": "4:00 PM",
         "games": [
           "To Be Determined"
+        ],
+        "when_text": "10/16/2026",
+        "event_dates": [
+          "10/16/2026"
+        ]
+      }
+    },
+    {
+      "id": "ab64f00860e7abb872f41153d31a9df8edbf0a7b081c203424566c549d39aac6",
+      "title": "Millington, TN, US - Oct 16th - Bite Club - Good News Dogs",
+      "url": "https://updogchallenge.com/events/millington-tn-us-oct-16th-bite-club-good-news-dogs/",
+      "details": {
+        "title": "Millington, TN, US – Oct 16th – Bite Club – Good News Dogs",
+        "club_name": "Good News Dogs",
+        "contact_name": "Desiree Gombos",
+        "contact_email": "desireegombos@gmail.com",
+        "event_address": "8020 Epperson Mill rd, Millington, TN 38053, United States",
+        "start_date": "10/16/2026",
+        "start_date_iso": "2026-10-16T00:00:00",
+        "notification_date": "2026-10-16",
+        "end_date": "10/16/2026",
+        "end_date_iso": "2026-10-16T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
         ],
         "when_text": "10/16/2026",
         "event_dates": [
@@ -3374,6 +3403,37 @@
       }
     },
     {
+      "id": "61030af9d940e609ce58dfda4dcc55b3b6f52cf00e54e0cb96c0c9b39188de84",
+      "title": "Millington, TN, US - Oct 23rd - Bite Club - Good News Dogs",
+      "url": "https://updogchallenge.com/events/millington-tn-us-oct-23rd-bite-club-good-news-dogs/",
+      "details": {
+        "title": "Millington, TN, US – Oct 23rd – Bite Club – Good News Dogs",
+        "club_name": "Good News Dogs",
+        "contact_name": "Desiree Gombos",
+        "contact_email": "desireegombos@gmail.com",
+        "event_address": "8020 Epperson Mill rd, Millington, TN 38053, United States",
+        "start_date": "10/23/2026",
+        "start_date_iso": "2026-10-23T00:00:00",
+        "notification_date": "2026-10-23",
+        "end_date": "10/23/2026",
+        "end_date_iso": "2026-10-23T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "10/23/2026",
+        "event_dates": [
+          "10/23/2026"
+        ]
+      }
+    },
+    {
       "id": "1aebb00b99424c6f99dd8b02ffd5f1b32954bebbabd4fc98a9384f2ed677a8d6",
       "title": "Columbus, OH, US - Oct 24th - Catch em All Canines",
       "url": "https://updogchallenge.com/events/columbus-oh-us-oct-24th-catch-em-all-canines/",
@@ -3944,6 +4004,37 @@
         "when_text": "10/28/2026",
         "event_dates": [
           "10/28/2026"
+        ]
+      }
+    },
+    {
+      "id": "0efe947b62f0d739c9c8f4189df1896c31aa37ace748aedec23e9cde356e8e06",
+      "title": "Millington, TN, US - Oct 30th - Bite Club - Good News Dogs",
+      "url": "https://updogchallenge.com/events/millington-tn-us-oct-30th-bite-club-good-news-dogs/",
+      "details": {
+        "title": "Millington, TN, US – Oct 30th – Bite Club – Good News Dogs",
+        "club_name": "Good News Dogs",
+        "contact_name": "Desiree Gombos",
+        "contact_email": "desireegombos@gmail.com",
+        "event_address": "8020 Epperson Mill rd, Millington, TN 38053, United States",
+        "start_date": "10/30/2026",
+        "start_date_iso": "2026-10-30T00:00:00",
+        "notification_date": "2026-10-30",
+        "end_date": "10/30/2026",
+        "end_date_iso": "2026-10-30T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "10/30/2026",
+        "event_dates": [
+          "10/30/2026"
         ]
       }
     },
@@ -4644,6 +4735,37 @@
         "when_text": "11/03/2026",
         "event_dates": [
           "11/3/2026"
+        ]
+      }
+    },
+    {
+      "id": "41410a7ad4d563510cd323e7c173dda084676cdb652a72c339a83e6dde71183c",
+      "title": "Millington, TN, US - Nov 6th - Bite Club - Good News Dogs",
+      "url": "https://updogchallenge.com/events/millington-tn-us-nov-6th-bite-club-good-news-dogs/",
+      "details": {
+        "title": "Millington, TN, US – Nov 6th – Bite Club – Good News Dogs",
+        "club_name": "Good News Dogs",
+        "contact_name": "Desiree Gombos",
+        "contact_email": "desireegombos@gmail.com",
+        "event_address": "8020 Epperson Mill rd, Millington, TN 38053, United States",
+        "start_date": "11/6/2026",
+        "start_date_iso": "2026-11-06T00:00:00",
+        "notification_date": "2026-11-06",
+        "end_date": "11/6/2026",
+        "end_date_iso": "2026-11-06T00:00:00",
+        "start_time": "5:00 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "11/06/2026",
+        "event_dates": [
+          "11/6/2026"
         ]
       }
     },
