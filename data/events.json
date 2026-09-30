@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T12:05:21Z",
-  "count": 202,
+  "last_updated": "2026-09-30T11:53:58Z",
+  "count": 200,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,70 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "b624a4d788b7fe07988134c5bd3c5aaad8580ad23297d631a70348871bba4ce2",
-      "title": "Huntertown, IN, US - Sept 29th - Summit City Disc Dog Group",
-      "url": "https://updogchallenge.com/events/huntertown-in-us-sept-29th-summit-city-disc-dog-group/",
-      "details": {
-        "title": "Huntertown, IN, US – Sept 29th – Summit City Disc Dog Group",
-        "club_name": "Summit City Disc Dog Group",
-        "contact_name": "Mark Smith",
-        "contact_email": "summitcityddg@hotmail.com",
-        "event_address": "18818 Lima Rd, Huntertown, IN 46748-9212, United States",
-        "start_date": "9/29/2026",
-        "start_date_iso": "2026-09-29T00:00:00",
-        "notification_date": "2026-09-29",
-        "end_date": "9/29/2026",
-        "end_date_iso": "2026-09-29T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Points only",
-        "when_text": "09/29/2026",
-        "event_dates": [
-          "9/29/2026"
-        ]
-      }
-    },
-    {
-      "id": "181bc1267772ed3702bda3e00e4c001699b6bed239fc530b4e0802a69ef521d3",
-      "title": "Hot Springs, AR, US - Sept 29th - Central Arkansas Disc Dog Organization",
-      "url": "https://updogchallenge.com/events/hot-springs-ar-us-sept-29th-central-arkansas-disc-dog-organization/",
-      "details": {
-        "title": "Hot Springs, AR, US – Sept 29th – Central Arkansas Disc Dog Organization",
-        "club_name": "Central Arkansas Disc Dog Organization",
-        "contact_name": "Alexis Brewer",
-        "contact_email": "alexisbrewer@gmail.com",
-        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
-        "start_date": "9/29/2026",
-        "start_date_iso": "2026-09-29T00:00:00",
-        "notification_date": "2026-09-29",
-        "end_date": "9/29/2026",
-        "end_date_iso": "2026-09-29T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
-        "when_text": "09/29/2026",
-        "event_dates": [
-          "9/29/2026"
         ]
       }
     },
