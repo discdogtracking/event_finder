@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T11:52:46Z",
-  "count": 209,
+  "last_updated": "2026-10-03T11:06:13Z",
+  "count": 214,
   "events": [
     {
       "id": "fc229de3e8fd96e457d15054a112c666569fa82337cd37ec3bb726a327e45fbc",
@@ -5314,31 +5314,6 @@
       }
     },
     {
-      "id": "53de17c26108100b51b5e3719d18467598fb56dc6de551a8659e2f9b525e3011",
-      "title": "Greenfield, MA, US - Oct 2nd - Face to Face Disc",
-      "url": "https://updogchallenge.com/events/greenfield-ma-us-oct-2nd-face-to-face-disc/",
-      "details": {
-        "title": "Greenfield, MA, US – Oct 2nd – Face to Face Disc",
-        "club_name": "Face to Face Disc",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "facetofacedogsports@gmail.com",
-        "event_address": "89 Wisdom Way, Greenfield, MA 01301, United States",
-        "start_date": "10/2/2026",
-        "start_date_iso": "2026-10-02T00:00:00",
-        "notification_date": "2026-10-02",
-        "end_date": "10/2/2026",
-        "end_date_iso": "2026-10-02T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.facebook.com/profile.php?id=100093106537119",
-        "when_text": "10/02/2026",
-        "event_dates": [
-          "10/2/2026"
-        ]
-      }
-    },
-    {
       "id": "69ecb87b8bc8055558926495f9c98020afeca8b3cb5befafcb101b28ca20bf7e",
       "title": "Gray Summit, MO, US - Oct 2nd thru 4th - STLDD",
       "url": "https://updogchallenge.com/events/gray-summit-mo-us-oct-2nd-thru-4th-stldd/",
@@ -5373,34 +5348,6 @@
           "10/2/2026",
           "10/3/2026",
           "10/4/2026"
-        ]
-      }
-    },
-    {
-      "id": "35b3a7ba984abf45bc7aa9ec350c1e70a021291d8840b1b2ffe0c6cecbb89ef7",
-      "title": "Millington, TN, US - Oct 2nd - Good News Dogs - Triple Crown",
-      "url": "https://updogchallenge.com/events/millington-tn-us-oct-2nd-good-news-dogs-triple-crown/",
-      "details": {
-        "title": "Millington, TN, US – Oct 2nd – Good News Dogs – Triple Crown",
-        "club_name": "Good News Dogs",
-        "contact_name": "Desiree Gombos",
-        "contact_email": "desireegombos@gmail.com",
-        "event_address": "8020 Epperson Mill Rd, MILLINGTON, TN 38053, United States",
-        "start_date": "10/2/2026",
-        "start_date_iso": "2026-10-02T00:00:00",
-        "notification_date": "2026-10-02",
-        "end_date": "10/2/2026",
-        "end_date_iso": "2026-10-02T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:30 PM",
-        "games": [
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "10/02/2026",
-        "event_dates": [
-          "10/2/2026"
         ]
       }
     },
@@ -5808,6 +5755,33 @@
         "games": [
           "Throw & Go, 4 Way Play, Frizgility, FunKey, Time Warp, and Spaced Out"
         ],
+        "when_text": "10/04/2026",
+        "event_dates": [
+          "10/4/2026"
+        ]
+      }
+    },
+    {
+      "id": "2a4b0f8a6350a0ce59c105122053cf784fe2a370cae4082e410ffe3c47d0c732",
+      "title": "Huntertown, IN, US - Oct 4th - Summit City Disc Dog Group",
+      "url": "https://updogchallenge.com/events/huntertown-in-us-oct-4th-summit-city-disc-dog-group/",
+      "details": {
+        "title": "Huntertown, IN, US – Oct 4th – Summit City Disc Dog Group",
+        "club_name": "Summit City Disc Dog Group",
+        "contact_name": "Mark Smith",
+        "contact_email": "summitcityddg@hotmail.com",
+        "event_address": "18818 Lima Rd, Huntertown, IN 46748, United States",
+        "start_date": "10/4/2026",
+        "start_date_iso": "2026-10-04T00:00:00",
+        "notification_date": "2026-10-04",
+        "end_date": "10/4/2026",
+        "end_date_iso": "2026-10-04T00:00:00",
+        "start_time": "11:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points only",
         "when_text": "10/04/2026",
         "event_dates": [
           "10/4/2026"
@@ -6272,10 +6246,10 @@
     },
     {
       "id": "84ae8625bacd456e100af8849c79e2b302ecc283a93d5d51f58611c94e46e979",
-      "title": "Luray, VA, US - Oct 3rd - NoVA Dog Sports",
+      "title": "Luray, VA, US - Oct 10th - NoVA Dog Sports",
       "url": "https://updogchallenge.com/events/luray-va-us-oct-3rd-nova-dog-sports/",
       "details": {
-        "title": "Luray, VA, US – Oct 3rd – NoVA Dog Sports",
+        "title": "Luray, VA, US – Oct 10th – NoVA Dog Sports",
         "club_name": "NoVA Dog Sports",
         "contact_name": "Doug Kurucz",
         "contact_email": "doug.kurucz@gmail.com",
@@ -6319,6 +6293,39 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "10/11/2026",
+        "event_dates": [
+          "10/11/2026"
+        ]
+      }
+    },
+    {
+      "id": "7e3f3183bc01d42245ca590cc39132c8c9d619debe7aadcc9e33142aa9d1c68c",
+      "title": "Labelle, QC, CA - Oct 11th - Bite Club - \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-oct-11th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – Oct 11th – Bite Club – \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "10/11/2026",
+        "start_date_iso": "2026-10-11T00:00:00",
+        "notification_date": "2026-10-11",
+        "end_date": "10/11/2026",
+        "end_date_iso": "2026-10-11T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Après les semaines de ligue Toss & Fetch, nous enchaînerons avec des rondes de Bite Club. Profitez d’un rabais à l’inscription si vous participez également à la ligue d’automne Toss & Fetch.",
+        "prereg_url": "https://forms.gle/shZragFAqZFBH6Jy7",
         "when_text": "10/11/2026",
         "event_dates": [
           "10/11/2026"
@@ -7055,6 +7062,39 @@
       }
     },
     {
+      "id": "54a99dd069b7dc2dd76f983d18e5d61e85d44b30c40d2ca585cf329980b5bfbd",
+      "title": "Hampshire, IL, US - Oct 17th - Bite Club - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/hampshire-il-us-oct-17th-bite-club-mchenry-disc-dogs/",
+      "details": {
+        "title": "Hampshire, IL, US – Oct 17th – Bite Club – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
+        "start_date": "10/17/2026",
+        "start_date_iso": "2026-10-17T00:00:00",
+        "notification_date": "2026-10-17",
+        "end_date": "10/17/2026",
+        "end_date_iso": "2026-10-17T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "10/17/2026",
+        "event_dates": [
+          "10/17/2026"
+        ]
+      }
+    },
+    {
       "id": "d8dcbe2c904b1f7cde58cc2320d40770e4a7f3c62f90d9f4a0266f67f4e7955b",
       "title": "Oromocto, NB, CA - Oct 17th - Bite Club - Oromocto Disc Dog Club",
       "url": "https://updogchallenge.com/events/oromocto-nb-ca-oct-17th-bite-club-oromocto-disc-dog-club/",
@@ -7372,6 +7412,39 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "10/18/2026",
+        "event_dates": [
+          "10/18/2026"
+        ]
+      }
+    },
+    {
+      "id": "ce51b57c7b12d0b5bace3308c001a2def2560f05d4f3834a0c4f57697f678877",
+      "title": "Labelle, QC, CA - Oct 18th - Bite Club - \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-oct-18th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – Oct 18th – Bite Club – \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "10/18/2026",
+        "start_date_iso": "2026-10-18T00:00:00",
+        "notification_date": "2026-10-18",
+        "end_date": "10/18/2026",
+        "end_date_iso": "2026-10-18T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Après les semaines de ligue Toss & Fetch, nous enchaînerons avec des rondes de Bite Club. Profitez d’un rabais à l’inscription si vous participez également à la ligue d’automne Toss & Fetch.",
+        "prereg_url": "https://forms.gle/shZragFAqZFBH6Jy7",
         "when_text": "10/18/2026",
         "event_dates": [
           "10/18/2026"
@@ -8116,6 +8189,39 @@
       }
     },
     {
+      "id": "1f7a80a98a28cb1992fd570851f888728f35f3189a51a601ab96526c719311d4",
+      "title": "Labelle, QC, CA - Oct 25th - Bite Club - \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-oct-25th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – Oct 25th – Bite Club – \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "10/25/2026",
+        "start_date_iso": "2026-10-25T00:00:00",
+        "notification_date": "2026-10-25",
+        "end_date": "10/25/2026",
+        "end_date_iso": "2026-10-25T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Après les semaines de ligue Toss & Fetch, nous enchaînerons avec des rondes de Bite Club. Profitez d’un rabais à l’inscription si vous participez également à la ligue d’automne Toss & Fetch.",
+        "prereg_url": "https://forms.gle/shZragFAqZFBH6Jy7",
+        "when_text": "10/25/2026",
+        "event_dates": [
+          "10/25/2026"
+        ]
+      }
+    },
+    {
       "id": "6bd1d9ea25e416f5b6cf06983e90da965ae073b1dff99dd68f94a24bfa83d28b",
       "title": "Foothills, AB, CA - Oct 25th - Bite Club - Foothills Flyers Disc Dog Club",
       "url": "https://updogchallenge.com/events/foothills-ab-ca-oct-25th-bite-club-foothills-flyers-disc-dog-club/",
@@ -8318,6 +8424,39 @@
         "when_text": "10/28/2026",
         "event_dates": [
           "10/28/2026"
+        ]
+      }
+    },
+    {
+      "id": "111f6712125c2c7505870e6c52d2f764cac039e186d562321dacb5413345af83",
+      "title": "Hampshire, IL, US - Oct 30th - Bite Club - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/hampshire-il-us-oct-30th-bite-club-mchenry-disc-dogs/",
+      "details": {
+        "title": "Hampshire, IL, US – Oct 30th – Bite Club – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
+        "start_date": "10/30/2026",
+        "start_date_iso": "2026-10-30T00:00:00",
+        "notification_date": "2026-10-30",
+        "end_date": "10/30/2026",
+        "end_date_iso": "2026-10-30T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "10/30/2026",
+        "event_dates": [
+          "10/30/2026"
         ]
       }
     },
@@ -8927,6 +9066,39 @@
       }
     },
     {
+      "id": "4c7af96055f634a5081028c91555895995bbb6ee6bbd5d699f3b6dae633c4348",
+      "title": "Labelle, QC, CA - Nov 1st - Bite Club - Frisbee Canin Laurentides / Laurentian Disc Dogs",
+      "url": "https://updogchallenge.com/events/labelle-qc-ca-nov-1st-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
+      "details": {
+        "title": "Labelle, QC, CA – Nov 1st – Bite Club – Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
+        "contact_name": "Cara Smeeton",
+        "contact_email": "cara@frisbeecanin.com",
+        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
+        "start_date": "11/1/2026",
+        "start_date_iso": "2026-11-01T00:00:00",
+        "notification_date": "2026-11-01",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Après les semaines de ligue Toss & Fetch, nous enchaînerons avec des rondes de Bite Club. Profitez d’un rabais à l’inscription si vous participez également à la ligue d’automne Toss & Fetch.",
+        "prereg_url": "https://forms.gle/shZragFAqZFBH6Jy7",
+        "when_text": "11/01/2026",
+        "event_dates": [
+          "11/1/2026"
+        ]
+      }
+    },
+    {
       "id": "23b37027098712f748bdc00e604d469dc4b7020e5a401d8e83ce419bfece9e50",
       "title": "Ball Ground, GA, US - Nov 1st - Bite Club - Happy Disc Doggers",
       "url": "https://updogchallenge.com/events/ball-ground-ga-us-nov-1st-bite-club-happy-disc-doggers/",
@@ -9226,6 +9398,39 @@
         "when_text": "11/03/2026",
         "event_dates": [
           "11/3/2026"
+        ]
+      }
+    },
+    {
+      "id": "ed568ec84e50deced38b7b9c59c48c86a7daef917d153b50d96af13012bd7bae",
+      "title": "Hampshire, IL, US - Nov 6th - Bite Club - McHenry Disc Dogs",
+      "url": "https://updogchallenge.com/events/hampshire-il-us-nov-6th-bite-club-mchenry-disc-dogs/",
+      "details": {
+        "title": "Hampshire, IL, US – Nov 6th – Bite Club – McHenry Disc Dogs",
+        "club_name": "McHenry Disc Dogs",
+        "contact_name": "Zach Perlmutter",
+        "contact_email": "zperlmut@gmail.com",
+        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
+        "start_date": "11/6/2026",
+        "start_date_iso": "2026-11-06T00:00:00",
+        "notification_date": "2026-11-06",
+        "end_date": "11/6/2026",
+        "end_date_iso": "2026-11-06T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "when_text": "11/06/2026",
+        "event_dates": [
+          "11/6/2026"
         ]
       }
     },
@@ -9823,30 +10028,6 @@
         "when_text": "11/14/2026",
         "event_dates": [
           "11/14/2026"
-        ]
-      }
-    },
-    {
-      "id": "7665c33a565b4678f16720642e4ead51eb8ed40989588176897a3042ee32ba2b",
-      "title": "Woodstock, CT, US - Nov 15th - Face to Face Disc Club",
-      "url": "https://updogchallenge.com/events/woodstock-ct-us-nov-15th-face-to-face-disc-club/",
-      "details": {
-        "title": "Woodstock, CT, US – Nov 15th – Face to Face Disc Club",
-        "club_name": "Face to Face Disc Club",
-        "contact_name": "Deborah Taylor",
-        "contact_email": "taydeb06@gmail.com",
-        "event_address": "Stone Bridge Rd, Woodstock, CT 06281, United States",
-        "start_date": "11/15/2026",
-        "start_date_iso": "2026-11-15T00:00:00",
-        "notification_date": "2026-11-15",
-        "end_date": "11/15/2026",
-        "end_date_iso": "2026-11-15T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/15/2026",
-        "event_dates": [
-          "11/15/2026"
         ]
       }
     },
