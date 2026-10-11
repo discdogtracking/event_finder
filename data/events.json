@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T11:52:38Z",
-  "count": 194,
+  "last_updated": "2026-10-11T12:04:19Z",
+  "count": 189,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -936,34 +936,6 @@
       }
     },
     {
-      "id": "cbb205975c53f702e9881fcc890273eaeef11d3d735c385edcc43bebc67cc1c7",
-      "title": "Saskatoon, SK, CA - Oct 10th - Saskatoon Disc Dogs",
-      "url": "https://updogchallenge.com/events/saskatoon-sk-ca-oct-10th-saskatoon-disc-dogs/",
-      "details": {
-        "title": "Saskatoon, SK, CA – Oct 10th – Saskatoon Disc Dogs",
-        "club_name": "Saskatoon Disc Dogs",
-        "contact_name": "Kris Avivi",
-        "contact_email": "shadowlands@shaw.ca",
-        "event_address": "1701 2nd Avenue North, Saskatoon, SK S7K2G4, Canada",
-        "start_date": "10/10/2026",
-        "start_date_iso": "2026-10-10T00:00:00",
-        "notification_date": "2026-10-10",
-        "end_date": "10/10/2026",
-        "end_date_iso": "2026-10-10T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Spaced Out"
-        ],
-        "when_text": "10/10/2026",
-        "event_dates": [
-          "10/10/2026"
-        ]
-      }
-    },
-    {
       "id": "dbaf5bfcc2b7ac0a2445d866b1ba1d0d3adfa6eebd7d75ef309b95cccf26842e",
       "title": "Rio Dell, CA, US - Oct 10th & 11th - Humboldt Disc Dog Club",
       "url": "https://updogchallenge.com/events/rio-dell-ca-us-oct-10th-11th-humboldt-disc-dog-club/",
@@ -992,99 +964,6 @@
       }
     },
     {
-      "id": "066368a6e9446beb264c08be4ca37293e557358b0ea9a87056c504afe44ceeab",
-      "title": "Waukesha, WI, US - Oct 10th - Bite Club - K9 Ventures",
-      "url": "https://updogchallenge.com/events/waukesha-wi-us-oct-10th-bite-club-k9-ventures/",
-      "details": {
-        "title": "Waukesha, WI, US – Oct 10th – Bite Club – K9 Ventures",
-        "club_name": "K9 Ventures",
-        "contact_name": "Katie Oilschlager",
-        "contact_email": "info.k9ventures@gmail.com",
-        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
-        "start_date": "10/10/2026",
-        "start_date_iso": "2026-10-10T00:00:00",
-        "notification_date": "2026-10-10",
-        "end_date": "10/10/2026",
-        "end_date_iso": "2026-10-10T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "10:30 AM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://forms.gle/NtN8VcpY3HMkpBFD8",
-        "when_text": "10/10/2026",
-        "event_dates": [
-          "10/10/2026"
-        ]
-      }
-    },
-    {
-      "id": "def85ae18c877bff645aed244008e95ec46de5377374bfbe85f8211badabfd5d",
-      "title": "Springhill, NS, CA - Oct 10th - Simcoe Disc Dogs",
-      "url": "https://updogchallenge.com/events/springhill-ns-ca-oct-10th-simcoe-disc-dogs/",
-      "details": {
-        "title": "Springhill, NS, CA – Oct 10th – Simcoe Disc Dogs",
-        "club_name": "Simcoe Disc Dogs",
-        "contact_name": "Rich Williamson",
-        "contact_email": "simcoediscdogs@gmail.com",
-        "event_address": "6 Main Street, Springhill, Nova Scotia B0M 1X0, Canada",
-        "start_date": "10/10/2026",
-        "start_date_iso": "2026-10-10T00:00:00",
-        "notification_date": "2026-10-10",
-        "end_date": "10/10/2026",
-        "end_date_iso": "2026-10-10T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Four Way Play",
-          "Frizgility",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "",
-        "when_text": "10/10/2026",
-        "event_dates": [
-          "10/10/2026"
-        ]
-      }
-    },
-    {
-      "id": "90f586398e202d299c00471f030e1d2a2f63cd6d2406e195fda4d12153104196",
-      "title": "Stayner, ON, CA - Oct 10th - Sega Family Farms",
-      "url": "https://updogchallenge.com/events/stayner-on-ca-oct-10th-sega-family-farms/",
-      "details": {
-        "title": "Stayner, ON, CA – Oct 10th – Sega Family Farms",
-        "club_name": "Sega Family Farms",
-        "contact_name": "Laura Sega",
-        "contact_email": "segafamilyfarms@hotmail.com",
-        "event_address": "1454 County Road 42, Stayner, ON L0M 1S0, Canada",
-        "start_date": "10/10/2026",
-        "start_date_iso": "2026-10-10T00:00:00",
-        "notification_date": "2026-10-10",
-        "end_date": "10/10/2026",
-        "end_date_iso": "2026-10-10T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Fireball",
-          "7Up",
-          "Time Warp",
-          "Pairs Four Way Play"
-        ],
-        "prereg_url": "https://www.segafamilyfarms.ca/book-now",
-        "when_text": "10/10/2026",
-        "event_dates": [
-          "10/10/2026"
-        ]
-      }
-    },
-    {
       "id": "06456a0baf8ac804669cc903bc92dea0c70720fd4796709c49b1934d6a7b6277",
       "title": "Avon, IN, US - Oct 10th & 11th - Clever Girl Disc Dogs",
       "url": "https://updogchallenge.com/events/avon-in-us-sept-12th-13th-clever-girl-disc-dogs-triple-crown/",
@@ -1108,35 +987,6 @@
         "event_dates": [
           "10/10/2026",
           "10/11/2026"
-        ]
-      }
-    },
-    {
-      "id": "84ae8625bacd456e100af8849c79e2b302ecc283a93d5d51f58611c94e46e979",
-      "title": "Luray, VA, US - Oct 10th - NoVA Dog Sports",
-      "url": "https://updogchallenge.com/events/luray-va-us-oct-3rd-nova-dog-sports/",
-      "details": {
-        "title": "Luray, VA, US – Oct 10th – NoVA Dog Sports",
-        "club_name": "NoVA Dog Sports",
-        "contact_name": "Doug Kurucz",
-        "contact_email": "doug.kurucz@gmail.com",
-        "event_address": "2645 Dry Run Rd, Luray, VA 22835, United States",
-        "start_date": "10/10/2026",
-        "start_date_iso": "2026-10-10T00:00:00",
-        "notification_date": "2026-10-10",
-        "end_date": "10/10/2026",
-        "end_date_iso": "2026-10-10T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Four Way Play",
-          "Throw N Go",
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Walk-up style, points only! There will be no advanced registration for this event. This event is in support of the 4th Annual ARMA Anniversary Celebration, and is for charity! This will be in conjunction with an hourly seminar for event participants. Come support the charity event, learn some disc strategy, and get an opportunity to earn points for your team! Try-its are available, as well as fully judged runs!",
-        "when_text": "10/10/2026",
-        "event_dates": [
-          "10/10/2026"
         ]
       }
     },
