@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T13:29:12Z",
-  "count": 177,
+  "last_updated": "2026-10-14T11:06:58Z",
+  "count": 176,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,121 +799,6 @@
       }
     },
     {
-      "id": "aaece09861018699ff8f643d5e08c3b6606e55219857894bb99e253bc673491b",
-      "title": "Middle Island, NY, US - Oct 13th - Bite Club - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-      "url": "https://updogchallenge.com/events/middle-island-ny-us-oct-13th-bite-club-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
-      "details": {
-        "title": "Middle Island, NY, US – Oct 13th – Bite Club – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "contact_name": "Katrina Winsor",
-        "contact_email": "leadthepackdiscdogs@gmail.com",
-        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, New York 11953, United States",
-        "start_date": "10/13/2026",
-        "start_date_iso": "2026-10-13T00:00:00",
-        "notification_date": "2026-10-13",
-        "end_date": "10/13/2026",
-        "end_date_iso": "2026-10-13T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live.",
-        "when_text": "10/13/2026",
-        "event_dates": [
-          "10/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "efdd352738fa00f4e4295bd577204d85113c63e340d722bccfd431611123ba4e",
-      "title": "Seville, OH, US - Oct 13th - Bite Club - Dawg Gone It",
-      "url": "https://updogchallenge.com/events/seville-oh-us-oct-13th-bite-club-dawg-gone-it/",
-      "details": {
-        "title": "Seville, OH, US – Oct 13th – Bite Club – Dawg Gone It",
-        "club_name": "Dawg Gone It",
-        "contact_name": "Heidi Pitts",
-        "contact_email": "graehm@gmail.com",
-        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
-        "start_date": "10/13/2026",
-        "start_date_iso": "2026-10-13T00:00:00",
-        "notification_date": "2026-10-13",
-        "end_date": "10/13/2026",
-        "end_date_iso": "2026-10-13T00:00:00",
-        "start_time": "2:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/13/2026",
-        "event_dates": [
-          "10/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "24a21e8eb768e20ccdb6f3eb13fb467a744302501aecc9233978a80d2d0050a5",
-      "title": "Huntertown, IN, US - Oct 13th - Summit City Disc Dog Group",
-      "url": "https://updogchallenge.com/events/huntertown-in-us-oct-13th-summit-city-disc-dog-group/",
-      "details": {
-        "title": "Huntertown, IN, US – Oct 13th – Summit City Disc Dog Group",
-        "club_name": "Summit City Disc Dog Group",
-        "contact_name": "Mark Smith",
-        "contact_email": "summitcityddg@hotmail.com",
-        "event_address": "18818 Lima Rd, Huntertown, IN 46748-9212, United States",
-        "start_date": "10/13/2026",
-        "start_date_iso": "2026-10-13T00:00:00",
-        "notification_date": "2026-10-13",
-        "end_date": "10/13/2026",
-        "end_date_iso": "2026-10-13T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Points only",
-        "when_text": "10/13/2026",
-        "event_dates": [
-          "10/13/2026"
-        ]
-      }
-    },
-    {
-      "id": "8b05f9b0689bc8c3487c853736d94d39203b8a00f74cd7383621252eed62212d",
-      "title": "Hot Springs, AR, US - Oct 13th - Central Arkansas Disc Dog Organization",
-      "url": "https://updogchallenge.com/events/hot-springs-ar-us-oct-13th-central-arkansas-disc-dog-organization/",
-      "details": {
-        "title": "Hot Springs, AR, US – Oct 13th – Central Arkansas Disc Dog Organization",
-        "club_name": "Central Arkansas Disc Dog Organization",
-        "contact_name": "Alexis Brewer",
-        "contact_email": "alexisbrewer@gmail.com",
-        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
-        "start_date": "10/13/2026",
-        "start_date_iso": "2026-10-13T00:00:00",
-        "notification_date": "2026-10-13",
-        "end_date": "10/13/2026",
-        "end_date_iso": "2026-10-13T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
-        "when_text": "10/13/2026",
-        "event_dates": [
-          "10/13/2026"
-        ]
-      }
-    },
-    {
       "id": "dafe7add684ecc9ac0f61d32d97f8006fd414f41c8d3b41e9fa0af0b49352e49",
       "title": "Mahopac, NY, US - Oct 16th - Bite Club - Bring Your Own (BYO) Disc Dogs",
       "url": "https://updogchallenge.com/events/mahopac-ny-us-oct-16th-bite-club-bring-your-own-byo-disc-dogs/",
@@ -1051,7 +936,7 @@
         "club_name": "disc dog performance",
         "contact_name": "Maxime Dubuc",
         "contact_email": "discdogperformance@hotmail.com",
-        "event_address": "558 route demanche, lavenir, QC J0C1B0, Canada",
+        "event_address": "867 Rte Boisvert, L’Avenir, QC J0C 1B0",
         "start_date": "10/17/2026",
         "start_date_iso": "2026-10-17T00:00:00",
         "notification_date": "2026-10-17",
@@ -2253,6 +2138,36 @@
       }
     },
     {
+      "id": "b553ced692b1fb7330ea381d58f7b1c76136fc8dfda2592a74a1455cd63d7bda",
+      "title": "Muskegon, MI, US - Oct 24th - West Michigan Disc Dogs",
+      "url": "https://updogchallenge.com/events/muskegon-mi-us-oct-24th-west-michigan-disc-dogs/",
+      "details": {
+        "title": "Muskegon, MI, US – Oct 24th – West Michigan Disc Dogs",
+        "club_name": "West Michigan Disc Dogs",
+        "contact_name": "Lisa Califf",
+        "contact_email": "westmichigandiscdogs@gmail.com",
+        "event_address": "698 N Maple Island Rd, Muskegon, MI 49442, United States",
+        "start_date": "10/24/2026",
+        "start_date_iso": "2026-10-24T00:00:00",
+        "notification_date": "2026-10-24",
+        "end_date": "10/24/2026",
+        "end_date_iso": "2026-10-24T00:00:00",
+        "start_time": "1:00 PM",
+        "games": [
+          "Far Out",
+          "Four Way Play",
+          "Frizgility",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "This an outdoor event in a rustic field. There may be rustic (No hookups) camping on site if needed for a fee. Contact club if you need.",
+        "prereg_url": "https://www.cognitoforms.com/WestMichiganDiscDogs/HocusPocusDiscsInFocus",
+        "when_text": "10/24/2026",
+        "event_dates": [
+          "10/24/2026"
+        ]
+      }
+    },
+    {
       "id": "05d1966bc112893af1bc6695c88e92665b77a80136f352174bcf1fda94c419d2",
       "title": "Waukesha, WI, US - Oct 24th - Bite Club - K9 Ventures",
       "url": "https://updogchallenge.com/events/waukesha-wi-us-oct-24th-bite-club-k9-ventures/",
@@ -2843,6 +2758,34 @@
         "when_text": "10/28/2026",
         "event_dates": [
           "10/28/2026"
+        ]
+      }
+    },
+    {
+      "id": "35237371b4f816ec5c140b6c62dc43a222555b62394a8500fe2a3b0e234ad974",
+      "title": "Hutto, TX, US - Oct 29th - Lone Star Disc Dogs",
+      "url": "https://updogchallenge.com/events/hutto-tx-us-oct-29th-lone-star-disc-dogs/",
+      "details": {
+        "title": "Hutto, TX, US – Oct 29th – Lone Star Disc Dogs",
+        "club_name": "Lone Star Disc Dogs",
+        "contact_name": "Tammy Montgomery",
+        "contact_email": "lonestardiscdogs@gmail.com",
+        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
+        "start_date": "10/29/2026",
+        "start_date_iso": "2026-10-29T00:00:00",
+        "notification_date": "2026-10-29",
+        "end_date": "10/29/2026",
+        "end_date_iso": "2026-10-29T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "10:00 PM",
+        "games": [
+          "Frizgility",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "Dependent on time we might play multiple rounds of these two games",
+        "when_text": "10/29/2026",
+        "event_dates": [
+          "10/29/2026"
         ]
       }
     },
@@ -3876,6 +3819,34 @@
         "when_text": "11/03/2026",
         "event_dates": [
           "11/3/2026"
+        ]
+      }
+    },
+    {
+      "id": "185ffd10aba0c1edd8afb3d58656ed9007ec1c9b659b26671f3236f00143d5cf",
+      "title": "Hutto, TX, US - Nov 5th - Lone Star Disc Dogs",
+      "url": "https://updogchallenge.com/events/hutto-tx-us-nov-5th-lone-star-disc-dogs/",
+      "details": {
+        "title": "Hutto, TX, US – Nov 5th – Lone Star Disc Dogs",
+        "club_name": "Lone Star Disc Dogs",
+        "contact_name": "Tammy Montgomery",
+        "contact_email": "lonestardiscdogs@gmail.com",
+        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
+        "start_date": "11/5/2026",
+        "start_date_iso": "2026-11-05T00:00:00",
+        "notification_date": "2026-11-05",
+        "end_date": "11/5/2026",
+        "end_date_iso": "2026-11-05T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "10:00 PM",
+        "games": [
+          "Fireball",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Could play multiple rounds depending on time",
+        "when_text": "11/05/2026",
+        "event_dates": [
+          "11/5/2026"
         ]
       }
     },
