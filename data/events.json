@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T10:54:08Z",
-  "count": 176,
+  "last_updated": "2026-10-16T10:37:16Z",
+  "count": 178,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -2887,6 +2887,34 @@
       }
     },
     {
+      "id": "609a81f5d0e2f5c23d4122f4d08ca555c6fe015c2d15eb920e009a461d679a3e",
+      "title": "Hutto, TX, US - Oct 30th - Lone Star Disc Dogs",
+      "url": "https://updogchallenge.com/events/hutto-tx-us-oct-30th-lone-star-disc-dogs/",
+      "details": {
+        "title": "Hutto, TX, US – Oct 30th – Lone Star Disc Dogs",
+        "club_name": "Lone Star Disc Dogs",
+        "contact_name": "Tammy Montgomery",
+        "contact_email": "lonestardiscdogs@gmail.com",
+        "event_address": "200 Co Rd 197, Hutto, TEXAS 78642, United States",
+        "start_date": "10/30/2026",
+        "start_date_iso": "2026-10-30T00:00:00",
+        "notification_date": "2026-10-30",
+        "end_date": "10/30/2026",
+        "end_date_iso": "2026-10-30T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "Boom!",
+          "FunKey"
+        ],
+        "additional_event_information_for_participants": "Dependent on time we might play multiple rounds",
+        "when_text": "10/30/2026",
+        "event_dates": [
+          "10/30/2026"
+        ]
+      }
+    },
+    {
       "id": "89ef15245db344f89530f55efe5ff9281aa5025de09933db13b35748e5bedd07",
       "title": "Vinita, OK, US - Oct 31st & Nov 1st - UpDog Tulsa",
       "url": "https://updogchallenge.com/events/vinita-ok-us-dec-12th-13th-updog-tulsa/",
@@ -5541,6 +5569,24 @@
           "1/2/2027",
           "1/3/2027"
         ]
+      }
+    },
+    {
+      "id": "05a00243d8fc19e516dc13ed4a2f1ce107c2ba138d386ee87ce3ac2444d06913",
+      "title": "Brooksville, FL, US - January 9th & 10th - Florida States",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-january-9th-10th-florida-states/",
+      "details": {
+        "title": "Brooksville, FL, US – January 9th & 10th – Florida States",
+        "when_text": "01/09/2027 - 01/10/2027",
+        "event_dates": [
+          "1/9/2027",
+          "1/10/2027"
+        ],
+        "start_date": "1/9/2027",
+        "end_date": "1/10/2027",
+        "start_date_iso": "2027-01-09T00:00:00",
+        "end_date_iso": "2027-01-10T00:00:00",
+        "notification_date": "2027-01-09"
       }
     },
     {
