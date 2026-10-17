@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T10:37:16Z",
-  "count": 178,
+  "last_updated": "2026-10-17T10:07:42Z",
+  "count": 184,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,63 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "dafe7add684ecc9ac0f61d32d97f8006fd414f41c8d3b41e9fa0af0b49352e49",
-      "title": "Mahopac, NY, US - Oct 16th - Bite Club - Bring Your Own (BYO) Disc Dogs",
-      "url": "https://updogchallenge.com/events/mahopac-ny-us-oct-16th-bite-club-bring-your-own-byo-disc-dogs/",
-      "details": {
-        "title": "Mahopac, NY, US – Oct 16th – Bite Club – Bring Your Own (BYO) Disc Dogs",
-        "club_name": "Bring Your Own (BYO) Disc Dogs",
-        "contact_name": "Sara Gagnon",
-        "contact_email": "byodiscdogs@gmail.com",
-        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
-        "start_date": "10/16/2026",
-        "start_date_iso": "2026-10-16T00:00:00",
-        "notification_date": "2026-10-16",
-        "end_date": "10/16/2026",
-        "end_date_iso": "2026-10-16T00:00:00",
-        "start_time": "9:30 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/16/2026",
-        "event_dates": [
-          "10/16/2026"
-        ]
-      }
-    },
-    {
-      "id": "ab64f00860e7abb872f41153d31a9df8edbf0a7b081c203424566c549d39aac6",
-      "title": "Millington, TN, US - Oct 16th - Bite Club - Good News Dogs",
-      "url": "https://updogchallenge.com/events/millington-tn-us-oct-16th-bite-club-good-news-dogs/",
-      "details": {
-        "title": "Millington, TN, US – Oct 16th – Bite Club – Good News Dogs",
-        "club_name": "Good News Dogs",
-        "contact_name": "Desiree Gombos",
-        "contact_email": "desireegombos@gmail.com",
-        "event_address": "8020 Epperson Mill rd, Millington, TN 38053, United States",
-        "start_date": "10/16/2026",
-        "start_date_iso": "2026-10-16T00:00:00",
-        "notification_date": "2026-10-16",
-        "end_date": "10/16/2026",
-        "end_date_iso": "2026-10-16T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "10/16/2026",
-        "event_dates": [
-          "10/16/2026"
         ]
       }
     },
@@ -2022,6 +1965,33 @@
         "when_text": "10/20/2026",
         "event_dates": [
           "10/20/2026"
+        ]
+      }
+    },
+    {
+      "id": "bf85be605003768ca1f2274cbe12a84041f7c342f50bf59394b0d35acbf8ed5a",
+      "title": "Troy, VA, US - Oct 21st - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-oct-21st-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Oct 21st – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "10/21/2026",
+        "start_date_iso": "2026-10-21T00:00:00",
+        "notification_date": "2026-10-21",
+        "end_date": "10/21/2026",
+        "end_date_iso": "2026-10-21T00:00:00",
+        "start_time": "4:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
+        "when_text": "10/21/2026",
+        "event_dates": [
+          "10/21/2026"
         ]
       }
     },
@@ -3287,6 +3257,33 @@
       }
     },
     {
+      "id": "7e2768c3d46c67967366e902d4bdbf1b785a77c7a4506cf7280f2c9a4c00e290",
+      "title": "Troy, VA, US - Oct 31st - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-oct-31st-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Oct 31st – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "10/31/2026",
+        "start_date_iso": "2026-10-31T00:00:00",
+        "notification_date": "2026-10-31",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "4:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
+        "when_text": "10/31/2026",
+        "event_dates": [
+          "10/31/2026"
+        ]
+      }
+    },
+    {
       "id": "da069441f8a4aeea7fc62d4b8d4e4ca8494a73ded1a1d90fb6b8ed7535be9354",
       "title": "Houston, TX, US - Nov 1st - Houston Canine Frisbee Disc Club",
       "url": "https://updogchallenge.com/events/houston-tx-us-nov-1st-houston-canine-frisbee-disc-club/",
@@ -3417,6 +3414,38 @@
           "Frizgility"
         ],
         "additional_event_information_for_participants": "We will offer two runs of each game (Four Way Play and Frizgility), for a total of 4 runs on that day.",
+        "when_text": "11/01/2026",
+        "event_dates": [
+          "11/1/2026"
+        ]
+      }
+    },
+    {
+      "id": "84cbe2123f2f2eb3832ab422fa3bb523eb10af918298b0d247ff25eb9d46e15d",
+      "title": "Texarkana, TX, US - Nov 1st - Barklatex Discfunctional Family",
+      "url": "https://updogchallenge.com/events/texarkana-tx-us-nov-1st-barklatex-discfunctional-family/",
+      "details": {
+        "title": "Texarkana, TX, US – Nov 1st – Barklatex Discfunctional Family",
+        "club_name": "Barklatex Discfunctional Family",
+        "contact_name": "Tera Holder",
+        "contact_email": "tera@muttworksdogtraining.com",
+        "event_address": "7070 W 7th St., Texarkana, TX 75501, United States",
+        "start_date": "11/1/2026",
+        "start_date_iso": "2026-11-01T00:00:00",
+        "notification_date": "2026-11-01",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "prereg_url": "TBA",
         "when_text": "11/01/2026",
         "event_dates": [
           "11/1/2026"
@@ -3847,6 +3876,33 @@
         "when_text": "11/03/2026",
         "event_dates": [
           "11/3/2026"
+        ]
+      }
+    },
+    {
+      "id": "4cb47a93e477d5415bfb5141caea18d0675b5cd26f34265ddc6f9358f2247b3c",
+      "title": "Troy, VA, US - Nov 4th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-nov-4th-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Nov 4th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "11/4/2026",
+        "start_date_iso": "2026-11-04T00:00:00",
+        "notification_date": "2026-11-04",
+        "end_date": "11/4/2026",
+        "end_date_iso": "2026-11-04T00:00:00",
+        "start_time": "4:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
+        "when_text": "11/04/2026",
+        "event_dates": [
+          "11/4/2026"
         ]
       }
     },
@@ -5077,6 +5133,33 @@
       }
     },
     {
+      "id": "86a3cb54d5ff0ecdbcff93212e1256ace76747d232d85928ead1db357ab0676d",
+      "title": "Troy, VA, US - Dec 9th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-dec-9th-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Dec 9th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "12/9/2026",
+        "start_date_iso": "2026-12-09T00:00:00",
+        "notification_date": "2026-12-09",
+        "end_date": "12/9/2026",
+        "end_date_iso": "2026-12-09T00:00:00",
+        "start_time": "4:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
+        "when_text": "12/09/2026",
+        "event_dates": [
+          "12/9/2026"
+        ]
+      }
+    },
+    {
       "id": "696ca338a1020ce176bbc89066ea921f766e30e0a4adb22e59fb451c0c29613b",
       "title": "Calgary, AB, CA - Dec 12th & 13th - Calgary Disc Dogs",
       "url": "https://updogchallenge.com/events/calgary-ab-ca-dec-12th-13th-calgary-disc-dogs/",
@@ -5278,6 +5361,33 @@
       }
     },
     {
+      "id": "1d04483cd5af3c145e501b7c72500e214e5b02300e9e59169a6e37678696e885",
+      "title": "Troy, VA, US - Dec 16th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-dec-16th-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Dec 16th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "12/16/2026",
+        "start_date_iso": "2026-12-16T00:00:00",
+        "notification_date": "2026-12-16",
+        "end_date": "12/16/2026",
+        "end_date_iso": "2026-12-16T00:00:00",
+        "start_time": "4:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
+        "when_text": "12/16/2026",
+        "event_dates": [
+          "12/16/2026"
+        ]
+      }
+    },
+    {
       "id": "03eac9d92aee270a7efd84074f48a3dd3a4f8e9032a6fb3eca1f205dd497b091",
       "title": "Eustis, FL, US - Dec 19th - Central Florida K9",
       "url": "https://updogchallenge.com/events/eustis-fl-us-dec-19th-central-florida-k9/",
@@ -5437,6 +5547,33 @@
       }
     },
     {
+      "id": "8c50fad1e2d68d35b37095ceb8f7c092bfe8f46cec20997068b6ccb26559b12a",
+      "title": "Troy, VA, US - Dec 23rd - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-dec-23rd-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Dec 23rd – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "12/23/2026",
+        "start_date_iso": "2026-12-23T00:00:00",
+        "notification_date": "2026-12-23",
+        "end_date": "12/23/2026",
+        "end_date_iso": "2026-12-23T00:00:00",
+        "start_time": "4:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
+        "when_text": "12/23/2026",
+        "event_dates": [
+          "12/23/2026"
+        ]
+      }
+    },
+    {
       "id": "37460d3467e7b7e172bd0559d4cdf408530cf248b660778ba5d79a06066c5bef",
       "title": "Garland, TX, US - Dec 26th & 27th- UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-dec-26th-27th-updog-dallas/",
@@ -5508,6 +5645,33 @@
         "when_text": "12/27/2026",
         "event_dates": [
           "12/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "bd775a3aa778caebe88e0da43efe208b01e3b67c59ac51e893ff59999b20699c",
+      "title": "Troy, VA, US - Dec 30th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-dec-30th-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Dec 30th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "12/30/2026",
+        "start_date_iso": "2026-12-30T00:00:00",
+        "notification_date": "2026-12-30",
+        "end_date": "12/30/2026",
+        "end_date_iso": "2026-12-30T00:00:00",
+        "start_time": "4:30 PM",
+        "end_time": "7:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
+        "when_text": "12/30/2026",
+        "event_dates": [
+          "12/30/2026"
         ]
       }
     },
