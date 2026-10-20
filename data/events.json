@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T11:59:27Z",
-  "count": 151,
+  "last_updated": "2026-10-20T10:54:33Z",
+  "count": 159,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,33 +799,6 @@
       }
     },
     {
-      "id": "b73f9404261f804aa313d75f10be9a28f91ac8da04ea82cd8b5dfe722855cc85",
-      "title": "West St Paul, MN, US - Oct 19th - Bite Club - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-19th-bite-club-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – Oct 19th – Bite Club – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "jess@thek9coach.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
-        "start_date": "10/19/2026",
-        "start_date_iso": "2026-10-19T00:00:00",
-        "notification_date": "2026-10-19",
-        "end_date": "10/19/2026",
-        "end_date_iso": "2026-10-19T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club",
-        "when_text": "10/19/2026",
-        "event_dates": [
-          "10/19/2026"
-        ]
-      }
-    },
-    {
       "id": "adc650e46ba50fabb156f9ea88a37a65fc59c1ebd6299e7b31d80d4e6f0a8fe7",
       "title": "Cambridge, MN, US - Oct 20th - Happy Dog Lodge",
       "url": "https://updogchallenge.com/events/cambridge-mn-us-oct-20th-happy-dog-lodge/",
@@ -1587,6 +1560,58 @@
           "Spaced Out",
           "Throw N Go",
           "Time Warp"
+        ],
+        "when_text": "10/25/2026",
+        "event_dates": [
+          "10/25/2026"
+        ]
+      }
+    },
+    {
+      "id": "e308f30a5fc2099ee077106395f9a41b95c5fe7bf6327209496ac8665bcf016c",
+      "title": "Gerry, NY, US - Oct 25th - Bite Club - Resurgence Dog Sports",
+      "url": "https://updogchallenge.com/events/gerry-ny-us-oct-25th-bite-club-resurgence-dog-sports/",
+      "details": {
+        "title": "Gerry, NY, US – Oct 25th – Bite Club – Resurgence Dog Sports",
+        "club_name": "Resurgence Dog Sports",
+        "contact_name": "Richard Myers",
+        "contact_email": "Richard.Myers.02@gmail.com",
+        "event_address": "4795 Route 60, Gerry, New York 14740, United States",
+        "start_date": "10/25/2026",
+        "start_date_iso": "2026-10-25T00:00:00",
+        "notification_date": "2026-10-25",
+        "end_date": "10/25/2026",
+        "end_date_iso": "2026-10-25T00:00:00",
+        "start_time": "3:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "10/25/2026",
+        "event_dates": [
+          "10/25/2026"
+        ]
+      }
+    },
+    {
+      "id": "46f3dc310f803e616080214df41c4fe5af6f84ed0b66704cde85b918d8a99c6e",
+      "title": "Brandon, MB, CA - Oct 25th - Crocus Obedience & Kennel Club",
+      "url": "https://updogchallenge.com/events/brandon-mb-ca-oct-25th-crocus-obedience-kennel-club/",
+      "details": {
+        "title": "Brandon, MB, CA – Oct 25th – Crocus Obedience & Kennel Club",
+        "club_name": "Crocus obedience & kennel club",
+        "contact_name": "Marie-eve Gagnon",
+        "contact_email": "marieevegagnon93@gmail.com",
+        "event_address": "RR #2 Site 200 Box 32, Brandon, Mb R7a5y2, Canada",
+        "start_date": "10/25/2026",
+        "start_date_iso": "2026-10-25T00:00:00",
+        "notification_date": "2026-10-25",
+        "end_date": "10/25/2026",
+        "end_date_iso": "2026-10-25T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "7:30 PM",
+        "games": [
+          "To Be Determined"
         ],
         "when_text": "10/25/2026",
         "event_dates": [
@@ -2716,6 +2741,32 @@
       }
     },
     {
+      "id": "c812e39f619014e8515fa7d9485917fbac3ee97a70e4c953c54448de8dc9ae2a",
+      "title": "Gerry, NY, US - Nov 1st - Bite Club - Resurgence Dog Sports",
+      "url": "https://updogchallenge.com/events/gerry-ny-us-nov-1st-bite-club-resurgence-dog-sports/",
+      "details": {
+        "title": "Gerry, NY, US – Nov 1st – Bite Club – Resurgence Dog Sports",
+        "club_name": "Resurgence Dog Sports",
+        "contact_name": "Richard Myers",
+        "contact_email": "Richard.Myers.02@gmail.com",
+        "event_address": "4795 Route 60, Gerry, New York 14740, United States",
+        "start_date": "11/1/2026",
+        "start_date_iso": "2026-11-01T00:00:00",
+        "notification_date": "2026-11-01",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "start_time": "3:00 PM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/01/2026",
+        "event_dates": [
+          "11/1/2026"
+        ]
+      }
+    },
+    {
       "id": "84ac7fa1d0ac9c3edea25b6be6711caca2eaac3969a44ed154ae6a825636137c",
       "title": "Rochester, MN, US - Nov 1st - Bite Club - Rochester Frisbee Dogs",
       "url": "https://updogchallenge.com/events/rochester-mn-us-nov-1st-bite-club-rochester-frisbee-dogs/",
@@ -3096,6 +3147,34 @@
         "event_dates": [
           "11/7/2026",
           "11/8/2026"
+        ]
+      }
+    },
+    {
+      "id": "5dc558063a2967afb432e3d0ca37005332a6ef05114c3349a3e27017765df0ea",
+      "title": "Hillsboro, AL, US - Nov 7th - Unhinged Canines",
+      "url": "https://updogchallenge.com/events/hillsboro-al-us-nov-7th-unhinged-canines/",
+      "details": {
+        "title": "Hillsboro, AL, US – Nov 7th – Unhinged Canines",
+        "club_name": "Unhinged Canines",
+        "contact_name": "Aslyn Estill",
+        "contact_email": "unhingedcanines@gmail.com",
+        "event_address": "439 Co Rd 413, Hillsboro, AL 35643-3726, United States",
+        "start_date": "11/7/2026",
+        "start_date_iso": "2026-11-07T00:00:00",
+        "notification_date": "2026-11-07",
+        "end_date": "11/7/2026",
+        "end_date_iso": "2026-11-07T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wildcard event! Pick your games! Up to 3 rounds per game, 10 round limit per dog- UpDog rules! Space is limited! Pre- registration is required!",
+        "prereg_url": "https://form.jotform.com/262785161881163",
+        "when_text": "11/07/2026",
+        "event_dates": [
+          "11/7/2026"
         ]
       }
     },
@@ -3903,6 +3982,40 @@
       }
     },
     {
+      "id": "829410c5bd20d8c78ab43c7dc6d2a6e9b0632287028ccda01d97d59a926e788b",
+      "title": "Irmo, SC, US - Nov 29th - Soda City Disc Dogs",
+      "url": "https://updogchallenge.com/events/irmo-sc-us-nov-29th-soda-city-disc-dogs/",
+      "details": {
+        "title": "Irmo, SC, US – Nov 29th – Soda City Disc Dogs",
+        "club_name": "Soda City Disc Dogs",
+        "contact_name": "Alex Nolte",
+        "contact_email": "info@SCDiscDogs.com",
+        "event_address": "Irmo YMCA, 1501 Kennerly Rd, Irmo, SC 29063, United States",
+        "start_date": "11/29/2026",
+        "start_date_iso": "2026-11-29T00:00:00",
+        "notification_date": "2026-11-29",
+        "end_date": "11/29/2026",
+        "end_date_iso": "2026-11-29T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "IT’S-A-ME, UPDOG!\nGet ready to grab your discs and power up! We’re hosting a Mario-themed UpDog competition at the Irmo YMCA 1501 Kennerly Rd, Irmo SC 29063 on November 29th!\nWe’ll get started at 9:30 AM and will be offering Level 1 games only, making this a great opportunity for newer teams to come out, play, and have some fun. Our Far Out field will be set at 100 yards, so bring your best throws and let those discs fly!\nGame Order:\nThrow N Go\n4 Way Play\nGreedy\nSpaced Out\nBoom\nTime Warp\nFar Out\n⭐️ Fun Awards & Photo Ops\nWe’ll have some fun Mario-themed awards throughout the day, along with plenty of opportunities to grab some fun photos with your dogs!\nPhotography\nShannon Moseby will be photographing the event.\nJudging\nHead Judge: Alexandra Nolte\nSecondary Judge: Emily Allred\n️ Workers Raffle\nWant to help make the day run smoothly? We’ll be doing a Workers Raffle for anyone willing to lend a hand with line judging or running announcements/timer throughout the event. Help out, earn raffle entries, and have a chance to win some fun prizes!\nFEO — Exhibition Only\nNot quite ready to put your scores on the board? No problem! FEO is a great way to try out the games in a low-pressure, no-score-submission format.\nThere is a separate sign-up box for FEO rounds, so if you’re planning to run FEO, make sure you register there.\nNew to UpDog? No problem!\nThis is a beginner-friendly event, and I’d love to have you join us!\nLet’s-a-go!",
+        "prereg_url": "https://www.cognitoforms.com/SodaCityDiscDogs/SCDDNov29th1UpDogChallenge",
+        "when_text": "11/29/2026",
+        "event_dates": [
+          "11/29/2026"
+        ]
+      }
+    },
+    {
       "id": "989a1bfa629358607ce8ef02d3b727365303a3b5f0c13a8971ba35430d2b2592",
       "title": "Garland, TX, US - Dec 4th thru 6th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-dec-4th-thru-6th-updog-dallas/",
@@ -4107,6 +4220,40 @@
           "Pairs Throw N Go"
         ],
         "additional_event_information_for_participants": "U-pick event",
+        "when_text": "12/06/2026",
+        "event_dates": [
+          "12/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "1c0f7e94f4314cee895c72b792cdd898eaf2ac38369cd1335dfe199ef7094e03",
+      "title": "Irmo, SC, US - Dec 6th - Soda City Disc Dogs",
+      "url": "https://updogchallenge.com/events/irmo-sc-us-dec-6th-soda-city-disc-dogs/",
+      "details": {
+        "title": "Irmo, SC, US – Dec 6th – Soda City Disc Dogs",
+        "club_name": "Soda City Disc Dogs",
+        "contact_name": "Alex Nolte",
+        "contact_email": "info@SCDiscDogs.com",
+        "event_address": "Irmo YMCA, 1501 Kennerly Rd, Irmo, SC 29063, United States",
+        "start_date": "12/6/2026",
+        "start_date_iso": "2026-12-06T00:00:00",
+        "notification_date": "2026-12-06",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Far Out",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Come join us for a Muppet Christmas Carol themed UpDog competition at the Irmo YMCA on November 29th!\nWe’ll start at 9:30 AM and will be offering Level 1 games only, making this a great event for newer teams to come out, play, and have some fun. Our Far Out field will be set at 100 yards, so bring your best throws!\nFreestyle\nWe’re especially excited to offer Freestyle at this event! Teams will get one performance round to show off their creativity, teamwork, and holiday spirit. Start thinking about your music, costumes, and choreography because we want to see what you’ve got!\nGame Order\nThrow N Go\nFreestyle (Perfomance Round)\nFunkey\n7 Up\nFrizgility\nGreedy\nFar Out\nWe’ll have Muppet Christmas Carol themed awards, along with some fun Christmas photo opportunities for you and your dogs. Whether you’re feeling more like Kermit, Miss Piggy, Fozzie, Gonzo, Rizzo, or even a little Scrooge, come ready to have some fun with the theme.\nUgly Sweater Contest\nWhat’s Christmas without an ugly sweater? Come dressed in your best, worst, most ridiculous Christmas sweater for our Ugly Sweater Contest! We’ll have a special prize for the winner, so don’t be afraid to get creative.\nPhotography\nShannon Moseby will be photographing the event, so you’ll have the chance to get some great action shots and Christmas memories with your dogs.\nJudging\nHead Judge: Alexandra Nolte\nSecondary Judge: Emily Allred\nWorkers Raffle\nEvery good production needs a crew behind the scenes! If you’re willing to help with line judging or running announcements/timer, we’ll have a Workers Raffle for our volunteers. Help keep the day running smoothly and earn a chance at some fun prizes.\nFEO\nThere will be no FEO at this event.\nNew to UpDog?\nThis is a beginner-friendly event, and I’d love to have you join me!\nCome spend the day playing some UpDog, celebrating the holidays, and getting into the spirit of An Uppy Christmas Carol.\n“Light the lamp, not the rat!”",
+        "prereg_url": "https://www.cognitoforms.com/SodaCityDiscDogs/SCDDDecember6thAnUppyChristmasCarol",
         "when_text": "12/06/2026",
         "event_dates": [
           "12/6/2026"
@@ -4342,6 +4489,33 @@
       }
     },
     {
+      "id": "b1e70b415191b6b83e0066c8aeb1c0f5acfd4bd8f1511ffcc3d29166ab086826",
+      "title": "Troy, VA, US - Dec 13th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-dec-13th-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Dec 13th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "12/13/2026",
+        "start_date_iso": "2026-12-13T00:00:00",
+        "notification_date": "2026-12-13",
+        "end_date": "12/13/2026",
+        "end_date_iso": "2026-12-13T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points- only, players choice. All games, all levels available.",
+        "when_text": "12/13/2026",
+        "event_dates": [
+          "12/13/2026"
+        ]
+      }
+    },
+    {
       "id": "1d04483cd5af3c145e501b7c72500e214e5b02300e9e59169a6e37678696e885",
       "title": "Troy, VA, US - Dec 16th - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/troy-va-us-dec-16th-gdu-disc-dogs/",
@@ -4470,6 +4644,43 @@
         "when_text": "12/19/2026",
         "event_dates": [
           "12/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "b7c22560292da2d6bf64624273aafadcc2fd83f633afe7374d5fc1072b386747",
+      "title": "Irmo, SC, US - Dec 20th - Soda City Disc Dogs",
+      "url": "https://updogchallenge.com/events/irmo-sc-us-dec-20th-soda-city-disc-dogs/",
+      "details": {
+        "title": "Irmo, SC, US – Dec 20th – Soda City Disc Dogs",
+        "club_name": "Soda City Disc Dogs",
+        "contact_name": "Alex Nolte",
+        "contact_email": "info@SCDiscDogs.com",
+        "event_address": "Irmo YMCA, 1501 Kennerly Rd, Irmo, SC 29063, United States",
+        "start_date": "12/20/2026",
+        "start_date_iso": "2026-12-20T00:00:00",
+        "notification_date": "2026-12-20",
+        "end_date": "12/20/2026",
+        "end_date_iso": "2026-12-20T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "LAST CHANCE UPDOG\nNeed a few more UpDog points before the year wraps up? Come join us on December 20th for a no-frills UpDog event focused on getting those last-minute points!\nNo theme, no extras, just dogs, discs, and lots of opportunities to play.\nWe’ll be offering two rounds of each game, giving you plenty of chances to get out there and finish the year strong.\nGames Offered-\nThrow N Go\n4 Way Play\nSpaced Out\nTime Warp\n7 Up\nFrizgility\nFunkey\nGreedy\nBoom\nFar Out\nMulligans\nWe’ll be offering Mulligans at this event for $10 per team/dog. Mulligan profits will be donated to Planned Parenthood Columbia.\nHere’s how it works:\nAt registration, you can purchase one Mulligan ticket for $10 per team/dog.\nHaving a bad round? Before time expires, loudly yell “MULLIGAN!”\nTurn in your Mulligan ticket and immediately restart the round from scratch.\nYour original score is completely wiped out and does not count.\nYour new round becomes your official and unchangeable score, even if the second attempt ends up being worse than the first.\nMulligans are limited to one round per event per team.\nImportant Reminder\nDogs are only eligible to compete in 10 rounds per day, regardless of handler. Please keep this in mind when planning your runs.\nTwo Fields\nIf we exceed 100 total runs, we will run two fields to help keep the day moving and get everyone through their rounds efficiently.\nWhether you’re chasing a few more points, trying to squeeze in some extra games before the end of the year, or just want to get out and play, this one is for you.\nCome get those last-minute UpDog points and finish out the year with us!",
+        "prereg_url": "https://www.cognitoforms.com/SodaCityDiscDogs/SCDDDec20thUpdogOopsAllPoints",
+        "when_text": "12/20/2026",
+        "event_dates": [
+          "12/20/2026"
         ]
       }
     },
@@ -4623,6 +4834,33 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSfXVz5GPWmisbbvn1Nw1COv7G8EqUB6IiTQvtbf2y9BXoLL4A/viewform?usp=publish-editor",
+        "when_text": "12/27/2026",
+        "event_dates": [
+          "12/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "c662f9f31c75080a135e4fe6626241a7725a91829705fbe3c2d85e90a2ac00df",
+      "title": "Troy, VA, US - Dec 27th - GDU Disc Dogs",
+      "url": "https://updogchallenge.com/events/troy-va-us-dec-27th-gdu-disc-dogs/",
+      "details": {
+        "title": "Troy, VA, US – Dec 27th – GDU Disc Dogs",
+        "club_name": "GDU Disc Dogs",
+        "contact_name": "Kevin Proctor",
+        "contact_email": "gdudiscdogs@gmail.com",
+        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
+        "start_date": "12/27/2026",
+        "start_date_iso": "2026-12-27T00:00:00",
+        "notification_date": "2026-12-27",
+        "end_date": "12/27/2026",
+        "end_date_iso": "2026-12-27T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points- only, players choice. All games, all levels available.",
         "when_text": "12/27/2026",
         "event_dates": [
           "12/27/2026"
@@ -4846,35 +5084,6 @@
       }
     },
     {
-      "id": "6329f6152f14f3ea61337ea64c28c7ce3a213b5082620d2af9f078112b523de2",
-      "title": "Phoenix, AZ, US - Feb 13th & 14th - East Valley Sport Dog Club",
-      "url": "https://updogchallenge.com/events/phoenix-az-us-feb-13th-14th-east-valley-sport-dog-club/",
-      "details": {
-        "title": "Phoenix, AZ, US – Feb 13th & 14th – East Valley Sport Dog Club",
-        "club_name": "East Valley Sport Dog Club",
-        "contact_name": "Alyssa Slaysman",
-        "contact_email": "slaysmana@gmail.com",
-        "event_address": "17642 N 40th Street, Phoenix, AZ 85032, United States",
-        "start_date": "2/13/2027",
-        "start_date_iso": "2027-02-13T00:00:00",
-        "notification_date": "2027-02-13",
-        "end_date": "2/14/2027",
-        "end_date_iso": "2027-02-14T00:00:00",
-        "start_time": "7:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "TBD",
-        "prereg_url": "TBD",
-        "when_text": "02/13/2027 - 02/14/2027",
-        "event_dates": [
-          "2/13/2027",
-          "2/14/2027"
-        ]
-      }
-    },
-    {
       "id": "71faf058f56e59ecf02720f2099a248396be7749ebfde9071ff590d37331ec0a",
       "title": "Garland, TX, US - Feb 13th & 14th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-feb-13th-14th-updog-dallas/",
@@ -4938,6 +5147,35 @@
         "when_text": "02/15/2027",
         "event_dates": [
           "2/15/2027"
+        ]
+      }
+    },
+    {
+      "id": "6329f6152f14f3ea61337ea64c28c7ce3a213b5082620d2af9f078112b523de2",
+      "title": "Phoenix, AZ, US - Feb 20th & 21st - East Valley Sport Dog Club",
+      "url": "https://updogchallenge.com/events/phoenix-az-us-feb-13th-14th-east-valley-sport-dog-club/",
+      "details": {
+        "title": "Phoenix, AZ, US – Feb 20th & 21st – East Valley Sport Dog Club",
+        "club_name": "East Valley Sport Dog Club",
+        "contact_name": "Alyssa Slaysman",
+        "contact_email": "slaysmana@gmail.com",
+        "event_address": "17642 N 40th Street, Phoenix, AZ 85032, United States",
+        "start_date": "2/20/2027",
+        "start_date_iso": "2027-02-20T00:00:00",
+        "notification_date": "2027-02-20",
+        "end_date": "2/21/2027",
+        "end_date_iso": "2027-02-21T00:00:00",
+        "start_time": "7:00 AM",
+        "end_time": "6:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "TBD",
+        "prereg_url": "TBD",
+        "when_text": "02/20/2027 - 02/21/2027",
+        "event_dates": [
+          "2/20/2027",
+          "2/21/2027"
         ]
       }
     },
