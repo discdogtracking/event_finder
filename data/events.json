@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T10:54:33Z",
-  "count": 159,
+  "last_updated": "2026-10-21T11:06:40Z",
+  "count": 155,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,130 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "adc650e46ba50fabb156f9ea88a37a65fc59c1ebd6299e7b31d80d4e6f0a8fe7",
-      "title": "Cambridge, MN, US - Oct 20th - Happy Dog Lodge",
-      "url": "https://updogchallenge.com/events/cambridge-mn-us-oct-20th-happy-dog-lodge/",
-      "details": {
-        "title": "Cambridge, MN, US – Oct 20th – Happy Dog Lodge",
-        "club_name": "Happy Dog Lodge",
-        "contact_name": "Sara Brueske",
-        "contact_email": "sarab@happydoglodge.com",
-        "event_address": "31158 Palisade St NE, Cambridge, MN 55008, United States",
-        "start_date": "10/20/2026",
-        "start_date_iso": "2026-10-20T00:00:00",
-        "notification_date": "2026-10-20",
-        "end_date": "10/20/2026",
-        "end_date_iso": "2026-10-20T00:00:00",
-        "start_time": "2:00 PM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "This is a choose your game, play for points only event. Prizes will be given for personal bests.",
-        "prereg_url": "https://www.happydoglodge.com/events",
-        "when_text": "10/20/2026",
-        "event_dates": [
-          "10/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "926d92df25280af516dee890fff36ac882b15bcffb972787f3e672d71e6df432",
-      "title": "Seville, OH, US - Oct 20th - Bite Club - Dawg Gone It",
-      "url": "https://updogchallenge.com/events/seville-oh-us-oct-20th-bite-club-dawg-gone-it/",
-      "details": {
-        "title": "Seville, OH, US – Oct 20th – Bite Club – Dawg Gone It",
-        "club_name": "Dawg Gone It",
-        "contact_name": "Heidi Pitts",
-        "contact_email": "graehm@gmail.com",
-        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
-        "start_date": "10/20/2026",
-        "start_date_iso": "2026-10-20T00:00:00",
-        "notification_date": "2026-10-20",
-        "end_date": "10/20/2026",
-        "end_date_iso": "2026-10-20T00:00:00",
-        "start_time": "2:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/20/2026",
-        "event_dates": [
-          "10/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "2aab6e6a4bf20ddae4e51827f3b215fe90229c63e8ed717e54dd9892602d9f89",
-      "title": "Huntertown, IN, US - Oct 20th - Summit City Disc Dog Group",
-      "url": "https://updogchallenge.com/events/huntertown-in-us-oct-20th-summit-city-disc-dog-group-2/",
-      "details": {
-        "title": "Huntertown, IN, US – Oct 20th – Summit City Disc Dog Group",
-        "club_name": "Summit City Disc Dog Group",
-        "contact_name": "Mark Smith",
-        "contact_email": "summitcityddg@hotmail.com",
-        "event_address": "18818 Lima Rd, Huntertown, IN 46748-9212, United States",
-        "start_date": "10/20/2026",
-        "start_date_iso": "2026-10-20T00:00:00",
-        "notification_date": "2026-10-20",
-        "end_date": "10/20/2026",
-        "end_date_iso": "2026-10-20T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Points only",
-        "when_text": "10/20/2026",
-        "event_dates": [
-          "10/20/2026"
-        ]
-      }
-    },
-    {
-      "id": "00584e436fbca589973ce5b07b5149ccda7f0ffe1f1957d06a7e0ad61be4dc0c",
-      "title": "Hot Springs, AR, US - Oct 20th - Central Arkansas Disc Dog Organization",
-      "url": "https://updogchallenge.com/events/hot-springs-ar-us-oct-20th-central-arkansas-disc-dog-organization/",
-      "details": {
-        "title": "Hot Springs, AR, US – Oct 20th – Central Arkansas Disc Dog Organization",
-        "club_name": "Central Arkansas Disc Dog Organization",
-        "contact_name": "Alexis Brewer",
-        "contact_email": "alexisbrewer@gmail.com",
-        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
-        "start_date": "10/20/2026",
-        "start_date_iso": "2026-10-20T00:00:00",
-        "notification_date": "2026-10-20",
-        "end_date": "10/20/2026",
-        "end_date_iso": "2026-10-20T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
-        "when_text": "10/20/2026",
-        "event_dates": [
-          "10/20/2026"
         ]
       }
     },
