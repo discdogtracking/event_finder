@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T11:06:40Z",
-  "count": 155,
+  "last_updated": "2026-10-22T11:05:49Z",
+  "count": 170,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,29 +799,28 @@
       }
     },
     {
-      "id": "bf85be605003768ca1f2274cbe12a84041f7c342f50bf59394b0d35acbf8ed5a",
-      "title": "Troy, VA, US - Oct 21st - GDU Disc Dogs",
-      "url": "https://updogchallenge.com/events/troy-va-us-oct-21st-gdu-disc-dogs/",
+      "id": "9213970ee597cb8682cf86ec4335eae344c89cf23b995057330918a7a86aa834",
+      "title": "Cochrane, AB, CA - Oct 22nd - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/cochrane-ab-ca-oct-22nd-calgary-disc-dog-club/",
       "details": {
-        "title": "Troy, VA, US – Oct 21st – GDU Disc Dogs",
-        "club_name": "GDU Disc Dogs",
-        "contact_name": "Kevin Proctor",
-        "contact_email": "gdudiscdogs@gmail.com",
-        "event_address": "1171 N Boston Rd, Troy, VA 22974, United States",
-        "start_date": "10/21/2026",
-        "start_date_iso": "2026-10-21T00:00:00",
-        "notification_date": "2026-10-21",
-        "end_date": "10/21/2026",
-        "end_date_iso": "2026-10-21T00:00:00",
-        "start_time": "4:30 PM",
-        "end_time": "7:00 PM",
+        "title": "Cochrane, AB, CA – Oct 22nd – Calgary Disc Dog Club",
+        "club_name": "Calgary disc dog club",
+        "contact_name": "Tom Lines",
+        "contact_email": "calgarydiscdogclub@gmail.com",
+        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
+        "start_date": "10/22/2026",
+        "start_date_iso": "2026-10-22T00:00:00",
+        "notification_date": "2026-10-22",
+        "end_date": "10/22/2026",
+        "end_date_iso": "2026-10-22T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
         "games": [
           "To Be Determined"
         ],
-        "additional_event_information_for_participants": "Points-only, players choice. No crossover games.",
-        "when_text": "10/21/2026",
+        "when_text": "10/22/2026",
         "event_dates": [
-          "10/21/2026"
+          "10/22/2026"
         ]
       }
     },
@@ -1610,6 +1609,32 @@
         "when_text": "10/28/2026",
         "event_dates": [
           "10/28/2026"
+        ]
+      }
+    },
+    {
+      "id": "153c36193fb17370d241af56563900107c9035222b91c2288aac606e11ca9167",
+      "title": "Cochrane, AB, CA - Oct 29th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/cochrane-ab-ca-oct-29th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Cochrane, AB, CA – Oct 29th – Calgary Disc Dog Club",
+        "club_name": "Calgary disc dog club",
+        "contact_name": "Tom Lines",
+        "contact_email": "calgarydiscdogclub@gmail.com",
+        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
+        "start_date": "10/29/2026",
+        "start_date_iso": "2026-10-29T00:00:00",
+        "notification_date": "2026-10-29",
+        "end_date": "10/29/2026",
+        "end_date_iso": "2026-10-29T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "10/29/2026",
+        "event_dates": [
+          "10/29/2026"
         ]
       }
     },
@@ -2788,6 +2813,33 @@
       }
     },
     {
+      "id": "041cf7188591753dd8d7d5f4b5034ed766af2c99281a48a03531a520ccde05a5",
+      "title": "Mohnton, PA, US - Nov 4th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-nov-4th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Nov 4th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "ANN M FLEMMING",
+        "contact_email": "Pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer park lane, Mohnton, PA 19540, United States",
+        "start_date": "11/4/2026",
+        "start_date_iso": "2026-11-04T00:00:00",
+        "notification_date": "2026-11-04",
+        "end_date": "11/4/2026",
+        "end_date_iso": "2026-11-04T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday Lunch Bunch",
+        "when_text": "11/04/2026",
+        "event_dates": [
+          "11/4/2026"
+        ]
+      }
+    },
+    {
       "id": "4cb47a93e477d5415bfb5141caea18d0675b5cd26f34265ddc6f9358f2247b3c",
       "title": "Troy, VA, US - Nov 4th - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/troy-va-us-nov-4th-gdu-disc-dogs/",
@@ -2811,6 +2863,32 @@
         "when_text": "11/04/2026",
         "event_dates": [
           "11/4/2026"
+        ]
+      }
+    },
+    {
+      "id": "5203a29e2f1fac0cef5bf790f9400818ca3ce65e3319d49fbb5845be79a57435",
+      "title": "Cochrane, AB, CA - Nov 5th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/cochrane-ab-ca-nov-5th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Cochrane, AB, CA – Nov 5th – Calgary Disc Dog Club",
+        "club_name": "Calgary disc dog club",
+        "contact_name": "Tom Lines",
+        "contact_email": "calgarydiscdogclub@gmail.com",
+        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
+        "start_date": "11/5/2026",
+        "start_date_iso": "2026-11-05T00:00:00",
+        "notification_date": "2026-11-05",
+        "end_date": "11/5/2026",
+        "end_date_iso": "2026-11-05T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/05/2026",
+        "event_dates": [
+          "11/5/2026"
         ]
       }
     },
@@ -3138,6 +3216,38 @@
       }
     },
     {
+      "id": "e88720ca0aab449a306fa8eae23ff486e3c55848ffcff8e996dfef5190d76b87",
+      "title": "Ropesville, TX, US - Nov 7th & 8th - Heart of the Plains Kennel Club",
+      "url": "https://updogchallenge.com/events/ropesville-tx-us-nov-7th-8th-heart-of-the-plains-kennel-club/",
+      "details": {
+        "title": "Ropesville, TX, US – Nov 7th & 8th – Heart of the Plains Kennel Club",
+        "club_name": "Heart of the Plains Kennel Club",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "6634 Foster Rd, Ropesville, TX 79358, United States",
+        "start_date": "11/7/2026",
+        "start_date_iso": "2026-11-07T00:00:00",
+        "notification_date": "2026-11-07",
+        "end_date": "11/8/2026",
+        "end_date_iso": "2026-11-08T00:00:00",
+        "start_time": "2:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This is part of a seminar series. 2 games on Saturday, 3 games on Sunday,",
+        "when_text": "11/07/2026 - 11/08/2026",
+        "event_dates": [
+          "11/7/2026",
+          "11/8/2026"
+        ]
+      }
+    },
+    {
       "id": "a8f524ff1da02a60cb0e4a7fe6635fc8f3a78bd1e27731a9a66407d6b1625fdb",
       "title": "Great Village, NS, CA - Nov 8th - Bite Club - Colchester DDC",
       "url": "https://updogchallenge.com/events/great-village-ns-ca-nov-8th-bite-club-colchester-ddc/",
@@ -3189,6 +3299,32 @@
         "when_text": "11/09/2026",
         "event_dates": [
           "11/9/2026"
+        ]
+      }
+    },
+    {
+      "id": "65bbac3155f8b2b6a3b29a1665acfb146a14eab8a7766aaf66b9e6d7a6ae6ef1",
+      "title": "Cochrane, AB, CA - Nov 12th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/cochrane-ab-ca-nov-12th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Cochrane, AB, CA – Nov 12th – Calgary Disc Dog Club",
+        "club_name": "Calgary disc dog club",
+        "contact_name": "Tom Lines",
+        "contact_email": "calgarydiscdogclub@gmail.com",
+        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
+        "start_date": "11/12/2026",
+        "start_date_iso": "2026-11-12T00:00:00",
+        "notification_date": "2026-11-12",
+        "end_date": "11/12/2026",
+        "end_date_iso": "2026-11-12T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/12/2026",
+        "event_dates": [
+          "11/12/2026"
         ]
       }
     },
@@ -3531,6 +3667,59 @@
       }
     },
     {
+      "id": "7e1dc99eeba55526e4a907e092b6d3de367f7082a1dd9553e46677308857ce4d",
+      "title": "Mohnton, PA, US - Nov 18th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-nov-18th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Nov 18th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "ANN M FLEMMING",
+        "contact_email": "Pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer park lane, Mohnton, PA 19540, United States",
+        "start_date": "11/18/2026",
+        "start_date_iso": "2026-11-18T00:00:00",
+        "notification_date": "2026-11-18",
+        "end_date": "11/18/2026",
+        "end_date_iso": "2026-11-18T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday Lunch Bunch",
+        "when_text": "11/18/2026",
+        "event_dates": [
+          "11/18/2026"
+        ]
+      }
+    },
+    {
+      "id": "609b04f6ec6df639d6253eb8f5ecbeec21f961fd809fcb1865dcb86ee017cd4d",
+      "title": "Cochrane, AB, CA - Nov 19th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/cochrane-ab-ca-nov-19th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Cochrane, AB, CA – Nov 19th – Calgary Disc Dog Club",
+        "club_name": "Calgary disc dog club",
+        "contact_name": "Tom Lines",
+        "contact_email": "calgarydiscdogclub@gmail.com",
+        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
+        "start_date": "11/19/2026",
+        "start_date_iso": "2026-11-19T00:00:00",
+        "notification_date": "2026-11-19",
+        "end_date": "11/19/2026",
+        "end_date_iso": "2026-11-19T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/19/2026",
+        "event_dates": [
+          "11/19/2026"
+        ]
+      }
+    },
+    {
       "id": "e84ff4959ecbd8ae3b7e967ca6d43da9a64cfac2e4e1526753d40ad426a88a75",
       "title": "Wetumpka, AL, US - Nov 20th & 21st - Tossin' Tides Disc Dogs",
       "url": "https://updogchallenge.com/events/wetumpka-al-us-nov-20th-21st-tossin-tides-disc-dogs/",
@@ -3789,6 +3978,88 @@
       }
     },
     {
+      "id": "3f9fb4993a5edc2ed7c0d8b1a3195c2ae0d81d3e844d82def796204058f9c162",
+      "title": "Cambridge, MN, US - Nov 24th - Happy Dog Lodge",
+      "url": "https://updogchallenge.com/events/cambridge-mn-us-nov-24th-happy-dog-lodge/",
+      "details": {
+        "title": "Cambridge, MN, US – Nov 24th – Happy Dog Lodge",
+        "club_name": "Happy Dog Lodge",
+        "contact_name": "Sara Brueske",
+        "contact_email": "sarab@happydoglodge.com",
+        "event_address": "31158 Palisade St NE, Cambridge, MN 55008, United States",
+        "start_date": "11/24/2026",
+        "start_date_iso": "2026-11-24T00:00:00",
+        "notification_date": "2026-11-24",
+        "end_date": "11/24/2026",
+        "end_date_iso": "2026-11-24T00:00:00",
+        "start_time": "2:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Frizgility",
+          "FunKey",
+          "7Up"
+        ],
+        "additional_event_information_for_participants": "This is a play for points only, prizes awarded for personal bests. Crossover games only.",
+        "when_text": "11/24/2026",
+        "event_dates": [
+          "11/24/2026"
+        ]
+      }
+    },
+    {
+      "id": "22efbdc64a5473cbf99815992e2c7b35ecc52a99a779bc27d7fd747c87a5a473",
+      "title": "Mohnton, PA, US - Nov 25th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-nov-25th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Nov 25th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "ANN M FLEMMING",
+        "contact_email": "Pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer park lane, Mohnton, PA 19540, United States",
+        "start_date": "11/25/2026",
+        "start_date_iso": "2026-11-25T00:00:00",
+        "notification_date": "2026-11-25",
+        "end_date": "11/25/2026",
+        "end_date_iso": "2026-11-25T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday Lunch Bunch",
+        "when_text": "11/25/2026",
+        "event_dates": [
+          "11/25/2026"
+        ]
+      }
+    },
+    {
+      "id": "78a9338d9c9046ff1495bd117571d87b8d23efd7bcdb562c7b62683b95ca7099",
+      "title": "Cochrane, AB, CA - Nov 26th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/cochrane-ab-ca-nov-26th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Cochrane, AB, CA – Nov 26th – Calgary Disc Dog Club",
+        "club_name": "Calgary disc dog club",
+        "contact_name": "Tom Lines",
+        "contact_email": "calgarydiscdogclub@gmail.com",
+        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
+        "start_date": "11/26/2026",
+        "start_date_iso": "2026-11-26T00:00:00",
+        "notification_date": "2026-11-26",
+        "end_date": "11/26/2026",
+        "end_date_iso": "2026-11-26T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/26/2026",
+        "event_dates": [
+          "11/26/2026"
+        ]
+      }
+    },
+    {
       "id": "2206a9394bd1600c83b59735d54a8b57ca801e4f2ecf6fac1104f3266b894c2c",
       "title": "Pilot Mountain, NC, US - Nov 28th & 29th - Jam-Min' Disc Dogs",
       "url": "https://updogchallenge.com/events/pilot-mountain-nc-us-nov-28th-29th-jam-min-disc-dogs-2/",
@@ -3888,6 +4159,59 @@
         "when_text": "11/29/2026",
         "event_dates": [
           "11/29/2026"
+        ]
+      }
+    },
+    {
+      "id": "db428692575ead012490f4f32fc8d01f4a7d251c37e4c77ee661ffe48b231d99",
+      "title": "Mohnton, PA, US - Dec 2nd - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-dec-2nd-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Dec 2nd – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "ANN M FLEMMING",
+        "contact_email": "Pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer park lane, Mohnton, PA 19540, United States",
+        "start_date": "12/2/2026",
+        "start_date_iso": "2026-12-02T00:00:00",
+        "notification_date": "2026-12-02",
+        "end_date": "12/2/2026",
+        "end_date_iso": "2026-12-02T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday Lunch Bunch",
+        "when_text": "12/02/2026",
+        "event_dates": [
+          "12/2/2026"
+        ]
+      }
+    },
+    {
+      "id": "3799a8e1863721032418d8a7faf5c1d667b9fc85385764106f8531d2e92c3375",
+      "title": "Cochrane, AB, CA - Dec 3rd - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/cochrane-ab-ca-dec-3rd-calgary-disc-dog-club/",
+      "details": {
+        "title": "Cochrane, AB, CA – Dec 3rd – Calgary Disc Dog Club",
+        "club_name": "Calgary disc dog club",
+        "contact_name": "Tom Lines",
+        "contact_email": "calgarydiscdogclub@gmail.com",
+        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
+        "start_date": "12/3/2026",
+        "start_date_iso": "2026-12-03T00:00:00",
+        "notification_date": "2026-12-03",
+        "end_date": "12/3/2026",
+        "end_date_iso": "2026-12-03T00:00:00",
+        "start_time": "5:30 PM",
+        "end_time": "8:30 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "12/03/2026",
+        "event_dates": [
+          "12/3/2026"
         ]
       }
     },
@@ -4392,6 +4716,33 @@
       }
     },
     {
+      "id": "05e4c493eab6f4a24867108aa14b624914521db0e6d091c193c10e8abc077312",
+      "title": "Mohnton, PA, US - Dec 16th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-dec-16th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Dec 16th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "ANN M FLEMMING",
+        "contact_email": "Pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer park lane, Mohnton, PA 19540, United States",
+        "start_date": "12/16/2026",
+        "start_date_iso": "2026-12-16T00:00:00",
+        "notification_date": "2026-12-16",
+        "end_date": "12/16/2026",
+        "end_date_iso": "2026-12-16T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday Lunch Bunch",
+        "when_text": "12/16/2026",
+        "event_dates": [
+          "12/16/2026"
+        ]
+      }
+    },
+    {
       "id": "1d04483cd5af3c145e501b7c72500e214e5b02300e9e59169a6e37678696e885",
       "title": "Troy, VA, US - Dec 16th - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/troy-va-us-dec-16th-gdu-disc-dogs/",
@@ -4744,6 +5095,33 @@
       }
     },
     {
+      "id": "7ffdf5a6af0398d4a104f77ebff094e25cbf9fea298a1b7004888c5e166e9929",
+      "title": "Mohnton, PA, US - Dec 30th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-dec-30th-reading-disc-dogs-2/",
+      "details": {
+        "title": "Mohnton, PA, US – Dec 30th – Reading Disc Dogs",
+        "club_name": "Reading Disc Dogs",
+        "contact_name": "ANN M FLEMMING",
+        "contact_email": "Pandaflemming@yahoo.com",
+        "event_address": "30 Stauffer park lane, Mohnton, PA 19540, United States",
+        "start_date": "12/30/2026",
+        "start_date_iso": "2026-12-30T00:00:00",
+        "notification_date": "2026-12-30",
+        "end_date": "12/30/2026",
+        "end_date_iso": "2026-12-30T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Wednesday Lunch Bunch",
+        "when_text": "12/30/2026",
+        "event_dates": [
+          "12/30/2026"
+        ]
+      }
+    },
+    {
       "id": "bd775a3aa778caebe88e0da43efe208b01e3b67c59ac51e893ff59999b20699c",
       "title": "Troy, VA, US - Dec 30th - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/troy-va-us-dec-30th-gdu-disc-dogs/",
@@ -5024,6 +5402,26 @@
         "event_dates": [
           "2/15/2027"
         ]
+      }
+    },
+    {
+      "id": "43079cde9ad95e08aee28a6de41b8fc867b810b657849b7d6650164b8a4b253c",
+      "title": "Lakeland, FL, US - Feb 18th thru 21st - CFDDC",
+      "url": "https://updogchallenge.com/events/lakeland-fl-us-feb-18th-thru-21st-cfddc/",
+      "details": {
+        "title": "Lakeland, FL, US – Feb 18th thru 21st – CFDDC",
+        "when_text": "02/18/2027 - 02/21/2027",
+        "event_dates": [
+          "2/18/2027",
+          "2/19/2027",
+          "2/20/2027",
+          "2/21/2027"
+        ],
+        "start_date": "2/18/2027",
+        "end_date": "2/21/2027",
+        "start_date_iso": "2027-02-18T00:00:00",
+        "end_date_iso": "2027-02-21T00:00:00",
+        "notification_date": "2027-02-18"
       }
     },
     {
