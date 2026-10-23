@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T11:05:49Z",
-  "count": 170,
+  "last_updated": "2026-10-23T11:00:22Z",
+  "count": 169,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,32 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "9213970ee597cb8682cf86ec4335eae344c89cf23b995057330918a7a86aa834",
-      "title": "Cochrane, AB, CA - Oct 22nd - Calgary Disc Dog Club",
-      "url": "https://updogchallenge.com/events/cochrane-ab-ca-oct-22nd-calgary-disc-dog-club/",
-      "details": {
-        "title": "Cochrane, AB, CA – Oct 22nd – Calgary Disc Dog Club",
-        "club_name": "Calgary disc dog club",
-        "contact_name": "Tom Lines",
-        "contact_email": "calgarydiscdogclub@gmail.com",
-        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
-        "start_date": "10/22/2026",
-        "start_date_iso": "2026-10-22T00:00:00",
-        "notification_date": "2026-10-22",
-        "end_date": "10/22/2026",
-        "end_date_iso": "2026-10-22T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/22/2026",
-        "event_dates": [
-          "10/22/2026"
         ]
       }
     },
