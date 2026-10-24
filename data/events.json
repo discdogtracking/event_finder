@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T11:00:22Z",
-  "count": 169,
+  "last_updated": "2026-10-24T10:15:14Z",
+  "count": 168,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -825,37 +825,6 @@
           "10/23/2026",
           "10/24/2026",
           "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "61030af9d940e609ce58dfda4dcc55b3b6f52cf00e54e0cb96c0c9b39188de84",
-      "title": "Millington, TN, US - Oct 23rd - Bite Club - Good News Dogs",
-      "url": "https://updogchallenge.com/events/millington-tn-us-oct-23rd-bite-club-good-news-dogs/",
-      "details": {
-        "title": "Millington, TN, US – Oct 23rd – Bite Club – Good News Dogs",
-        "club_name": "Good News Dogs",
-        "contact_name": "Desiree Gombos",
-        "contact_email": "desireegombos@gmail.com",
-        "event_address": "8020 Epperson Mill rd, Millington, TN 38053, United States",
-        "start_date": "10/23/2026",
-        "start_date_iso": "2026-10-23T00:00:00",
-        "notification_date": "2026-10-23",
-        "end_date": "10/23/2026",
-        "end_date_iso": "2026-10-23T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "10/23/2026",
-        "event_dates": [
-          "10/23/2026"
         ]
       }
     },
@@ -3179,7 +3148,8 @@
         "games": [
           "Frizgility",
           "FunKey",
-          "7Up"
+          "7Up",
+          "Freestyle"
         ],
         "additional_event_information_for_participants": "This is a play for points, choose your rounds event. Prizes will be given for personal bests only.",
         "prereg_url": "https://www.happydoglodge.com/events",
@@ -3971,7 +3941,8 @@
         "games": [
           "Frizgility",
           "FunKey",
-          "7Up"
+          "7Up",
+          "Freestyle"
         ],
         "additional_event_information_for_participants": "This is a play for points only, prizes awarded for personal bests. Crossover games only.",
         "when_text": "11/24/2026",
