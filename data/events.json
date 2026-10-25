@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T10:15:14Z",
-  "count": 168,
+  "last_updated": "2026-10-25T10:38:54Z",
+  "count": 162,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -829,119 +829,6 @@
       }
     },
     {
-      "id": "1aebb00b99424c6f99dd8b02ffd5f1b32954bebbabd4fc98a9384f2ed677a8d6",
-      "title": "Columbus, OH, US - Oct 24th - Catch em All Canines",
-      "url": "https://updogchallenge.com/events/columbus-oh-us-oct-24th-catch-em-all-canines/",
-      "details": {
-        "title": "Columbus, OH, US – Oct 24th – Catch em All Canines",
-        "club_name": "Catch em All Canines",
-        "contact_name": "Amanda Burkhart",
-        "contact_email": "help@catchemallcanines.com",
-        "event_address": "John F. Wolfe Columbus Commons, 160 S High St, Columbus, OH 43215, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/24/2026",
-        "end_date_iso": "2026-10-24T00:00:00",
-        "start_time": "9:00 AM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Event hosted with Gigi’s Walkin the Dog 2026 Event. Check catch em all canines Facebook group for the most up to date information.",
-        "when_text": "10/24/2026",
-        "event_dates": [
-          "10/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "9655443a24f44b0db25445829f441367b190b9291f935235b6ec87e4cd8ca67f",
-      "title": "Middle Island, NY, US - Oct 24th - Bite Club - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-      "url": "https://updogchallenge.com/events/middle-island-ny-us-oct-24th-bite-club-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
-      "details": {
-        "title": "Middle Island, NY, US – Oct 24th – Bite Club – Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "club_name": "Long Island Disc Dogs hosted by Lead the Pack Dog Training",
-        "contact_name": "Katrina Winsor",
-        "contact_email": "leadthepackdiscdogs@gmail.com",
-        "event_address": "Cathedral Pines County Park, 116 Yaphank-Middle Island Road, Middle Island, New York 11953, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/24/2026",
-        "end_date_iso": "2026-10-24T00:00:00",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live.",
-        "when_text": "10/24/2026",
-        "event_dates": [
-          "10/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "b553ced692b1fb7330ea381d58f7b1c76136fc8dfda2592a74a1455cd63d7bda",
-      "title": "Muskegon, MI, US - Oct 24th - West Michigan Disc Dogs",
-      "url": "https://updogchallenge.com/events/muskegon-mi-us-oct-24th-west-michigan-disc-dogs/",
-      "details": {
-        "title": "Muskegon, MI, US – Oct 24th – West Michigan Disc Dogs",
-        "club_name": "West Michigan Disc Dogs",
-        "contact_name": "Lisa Califf",
-        "contact_email": "westmichigandiscdogs@gmail.com",
-        "event_address": "698 N Maple Island Rd, Muskegon, MI 49442, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/24/2026",
-        "end_date_iso": "2026-10-24T00:00:00",
-        "start_time": "1:00 PM",
-        "games": [
-          "Far Out",
-          "Four Way Play",
-          "Frizgility",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "This an outdoor event in a rustic field. There may be rustic (No hookups) camping on site if needed for a fee. Contact club if you need.",
-        "prereg_url": "https://www.cognitoforms.com/WestMichiganDiscDogs/HocusPocusDiscsInFocus",
-        "when_text": "10/24/2026",
-        "event_dates": [
-          "10/24/2026"
-        ]
-      }
-    },
-    {
-      "id": "05d1966bc112893af1bc6695c88e92665b77a80136f352174bcf1fda94c419d2",
-      "title": "Waukesha, WI, US - Oct 24th - Bite Club - K9 Ventures",
-      "url": "https://updogchallenge.com/events/waukesha-wi-us-oct-24th-bite-club-k9-ventures/",
-      "details": {
-        "title": "Waukesha, WI, US – Oct 24th – Bite Club – K9 Ventures",
-        "club_name": "K9 Ventures",
-        "contact_name": "Katie Oilschlager",
-        "contact_email": "info.k9ventures@gmail.com",
-        "event_address": "Faith Baptist Church, 3250 Summit Ave, Waukesha, WI 53188, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/24/2026",
-        "end_date_iso": "2026-10-24T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "10:30 AM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSecaCrzDT_5Wr-2rYcpiLkvIOVoSBIIaDdHkoiw-ZJdiOZV0g/viewform?usp=publish-editor",
-        "when_text": "10/24/2026",
-        "event_dates": [
-          "10/24/2026"
-        ]
-      }
-    },
-    {
       "id": "1645a4250de0cbb3387a763515d6a2a913a93c06fe0459845a53893c0c388015",
       "title": "Frankford, ON, CA - Oct 24th & 25th - MC Dog Sports",
       "url": "https://updogchallenge.com/events/frankford-on-ca-oct-24th-25th-mc-dog-sports/",
@@ -1036,33 +923,6 @@
       }
     },
     {
-      "id": "ea91ff3b9f2e970ffd50c9e33f079b2a5cb890a9cd36d2d321a6b18d9e429b1f",
-      "title": "Wrentham, MA, US - Oct 24th - Bite Club - Minute Dog Disc",
-      "url": "https://updogchallenge.com/events/wrentham-wa-us-oct-24th-bite-club-minute-dog-disc/",
-      "details": {
-        "title": "Wrentham, MA, US – Oct 24th – Bite Club – Minute Dog Disc",
-        "club_name": "Minute Dog Disc",
-        "contact_name": "Chris Magruder",
-        "contact_email": "minutedogdisc@gmail.com",
-        "event_address": "Crackerbarrel Fairgrounds, 54 Emerald St, Wrentham, MA 02093, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/24/2026",
-        "end_date_iso": "2026-10-24T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "More information can be found in our fb group —\nhttps://www.facebook.com/share/g/14cMABPV7yE/",
-        "when_text": "10/24/2026",
-        "event_dates": [
-          "10/24/2026"
-        ]
-      }
-    },
-    {
       "id": "4c5ab0daad79fd8d0c3df011be4c4e2222c25b7351e0a77003723966f19036a4",
       "title": "Avon, IN, US - Oct 24th & 25th- Clever Girl Disc Dogs",
       "url": "https://updogchallenge.com/events/avon-in-us-oct-24th-25th-clever-girl-disc-dogs/",
@@ -1113,45 +973,6 @@
         "event_dates": [
           "10/24/2026",
           "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "b405863795c27a43176705ae5cd460085d43c9d1974d8a2e97725978d80df06c",
-      "title": "Millington, TN, US - Oct 24th & 25th - Delta Disc Dogs",
-      "url": "https://updogchallenge.com/events/millington-tn-us-oct-24th-25th-delta-disc-dogs/",
-      "details": {
-        "title": "Millington, TN, US – Oct 24th & 25th – Delta Disc Dogs",
-        "club_name": "Delta Disc Dogs (formerly Midsouth Disc Dog)",
-        "contact_name": "Jessica Gatewood Jessica Gatewood",
-        "contact_email": "jdgatewood16@gmail.com",
-        "event_address": "8021 Epperson Mill Road, Millington, Tennessee 38053, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/24/2026",
-        "end_date_iso": "2026-10-24T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp",
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Posts only event. Walk up style.",
-        "when_text": "10/24/2026",
-        "event_dates": [
-          "10/24/2026"
         ]
       }
     },
