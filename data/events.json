@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T10:38:54Z",
-  "count": 162,
+  "last_updated": "2026-10-26T12:12:00Z",
+  "count": 146,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,466 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "314ae00bcb88af673f38465fe9014e0248e1e633c8f1c5ed97477715edbc9d2f",
-      "title": "Phoenix, AZ, US - Oct 23rd thru 25th - East Valley Sport Dog Club",
-      "url": "https://updogchallenge.com/events/phoenix-az-us-oct-30th-thru-nov-1st-east-valley-sport-dog-club/",
-      "details": {
-        "title": "Phoenix, AZ, US – Oct 23rd thru 25th – East Valley Sport Dog Club",
-        "club_name": "East Valley Sport Dog Club",
-        "contact_name": "Alyssa Slaysman",
-        "contact_email": "slaysmana@gmail.com",
-        "event_address": "17642 N 40th Street, Phoenix, AZ 85032, United States",
-        "start_date": "10/23/2026",
-        "start_date_iso": "2026-10-23T00:00:00",
-        "notification_date": "2026-10-23",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "7:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "TBD",
-        "prereg_url": "TBD",
-        "when_text": "10/23/2026 - 10/25/2026",
-        "event_dates": [
-          "10/23/2026",
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "1645a4250de0cbb3387a763515d6a2a913a93c06fe0459845a53893c0c388015",
-      "title": "Frankford, ON, CA - Oct 24th & 25th - MC Dog Sports",
-      "url": "https://updogchallenge.com/events/frankford-on-ca-oct-24th-25th-mc-dog-sports/",
-      "details": {
-        "title": "Frankford, ON, CA – Oct 24th & 25th – MC Dog Sports",
-        "club_name": "MC DOG SPORTS",
-        "contact_name": "BRIAN AYLING",
-        "contact_email": "MCDOGSPORTS@GMAIL.COM",
-        "event_address": "323 HARRINGTON RD, FRANKFORD, ON K0K2C0, Canada",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/24/2026 - 10/25/2026",
-        "event_dates": [
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "ceb27849084d034d41856321ed1b713cf5112eb1746084ea9475844529487ec5",
-      "title": "Gretna, VA, US - Oct 24th & 25th - Leesville Lake Campground",
-      "url": "https://updogchallenge.com/events/gretna-va-us-oct-24th-25th-leesville-lake-campground/",
-      "details": {
-        "title": "Gretna, VA, US – Oct 24th & 25th – Leesville Lake Campground",
-        "club_name": "Leesville Lake Campground",
-        "contact_name": "Tracy Love",
-        "contact_email": "contactus@llcampground.com",
-        "event_address": "3129 Gallows Rd, Gretna, VA 24557, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Throw N Go",
-          "Time Warp",
-          "Pairs Four Way Play",
-          "Pairs Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Leesville Lake Campground’s Howl-o-ween weekend. Saturday night music, S’mores costumes and lots of Halloween fun! For on-site camping reservations:\nhttps://llcampground.com/reservations.html",
-        "prereg_url": "https://llcampground.com/events.html",
-        "when_text": "10/24/2026 - 10/25/2026",
-        "event_dates": [
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "c01e37d57d0b4dc2a10bea3629124af9bf5355fadfd2edb1fbeb50b17d63725d",
-      "title": "Shermans Dale, PA, US - Oct 24th & 25th - Woof Pack Disc Dogs",
-      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-oct-24th-25th-woof-pack-disc-dogs/",
-      "details": {
-        "title": "Shermans Dale, PA, US – Oct 24th & 25th – Woof Pack Disc Dogs",
-        "club_name": "Woof Pack Disc Dogs",
-        "contact_name": "Emily Leiby",
-        "contact_email": "woofpackdiscdogs@gmail.com",
-        "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "UPDIF prep outdoors on a full field! Follow our Facebook page, Woof Pack Disc Dogs, for the most up-to-date information!\nhttps://www.facebook.com/woofpackdiscdogs",
-        "when_text": "10/24/2026 - 10/25/2026",
-        "event_dates": [
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "4c5ab0daad79fd8d0c3df011be4c4e2222c25b7351e0a77003723966f19036a4",
-      "title": "Avon, IN, US - Oct 24th & 25th- Clever Girl Disc Dogs",
-      "url": "https://updogchallenge.com/events/avon-in-us-oct-24th-25th-clever-girl-disc-dogs/",
-      "details": {
-        "title": "Avon, IN, US – Oct 24th & 25th- Clever Girl Disc Dogs",
-        "club_name": "Clever Girl Disc Dogs",
-        "contact_name": "Samantha Stinson",
-        "contact_email": "clevergirldisc@gmail.com",
-        "event_address": "5203 E County Road 150 N, Avon, IN 46123, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:30 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/24/2026 - 10/25/2026",
-        "event_dates": [
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "1733f667c1fef9cff15daa73894699aae32d143c2cba2327ff00f7c379459bd4",
-      "title": "Mahopac, NY, US - Oct 24th & 25th - Bite Club - Bring Your Own (BYO) Disc Dogs",
-      "url": "https://updogchallenge.com/events/mahopac-ny-us-oct-24th-25th-bite-club-bring-your-own-byo-disc-dogs/",
-      "details": {
-        "title": "Mahopac, NY, US – Oct 24th & 25th – Bite Club – Bring Your Own (BYO) Disc Dogs",
-        "club_name": "Bring Your Own (BYO) Disc Dogs",
-        "contact_name": "Sara Gagnon",
-        "contact_email": "byodiscdogs@gmail.com",
-        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:30 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/24/2026 - 10/25/2026",
-        "event_dates": [
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "112e6dd55745d0a49363bbaf07e1a2b50c8a52cdb62216207e127eeaafbe06a9",
-      "title": "Lebanon, TN, US - Oct 24th & 25th - NashVertical",
-      "url": "https://updogchallenge.com/events/lebanon-tn-us-oct-24th-25th-nashvertical/",
-      "details": {
-        "title": "Lebanon, TN, US – Oct 24th & 25th – NashVertical",
-        "club_name": "NashVertical",
-        "contact_name": "Melissa Moerland",
-        "contact_email": "nashvertical@gmail.com",
-        "event_address": "5242 E Richmond Shop Rd, Lebanon, TN 37090, United States",
-        "start_date": "10/24/2026",
-        "start_date_iso": "2026-10-24T00:00:00",
-        "notification_date": "2026-10-24",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Follow NashVertical on Facebook for further details!\nfacebook.com/nashverticaldiscdogs",
-        "prereg_url": "https://www.cognitoforms.com/NashVerticalDiscDogs/CampNVFall",
-        "when_text": "10/24/2026 - 10/25/2026",
-        "event_dates": [
-          "10/24/2026",
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "2b9891e21af2dd2428786a868f7940628bfa1075f836a15958f5d1e42aa31ce4",
-      "title": "Moose Jaw, SK, CA - Oct 25th - Regina Disc Dog Club",
-      "url": "https://updogchallenge.com/events/moose-jaw-sk-ca-oct-25th-regina-disc-dog-club/",
-      "details": {
-        "title": "Moose Jaw, SK, CA – Oct 25th – Regina Disc Dog Club",
-        "club_name": "Regina Disc Dog Club",
-        "contact_name": "Margaret Lewis",
-        "contact_email": "lewism40@gmail.com",
-        "event_address": "Over the Top Riding Arena, Moose Jaw, Saskatchewan S4T 6J7, Canada",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "8:30 AM",
-        "end_time": "4:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "This is our annual Monster Mash trial with a costume contest and other fun stuff",
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "485453e79dc7f529b18c88a7c0f469d7ee2818926f31565bb4413835696e7bc0",
-      "title": "Wrentham, MA, US - Oct 25th - Minute Dog Disc",
-      "url": "https://updogchallenge.com/events/wrentham-wa-us-oct-25th-minute-dog-disc/",
-      "details": {
-        "title": "Wrentham, MA, US – Oct 25th – Minute Dog Disc",
-        "club_name": "Minute Dog Disc",
-        "contact_name": "Chris Magruder",
-        "contact_email": "minutedogdisc@gmail.com",
-        "event_address": "Crackerbarrel Fairgrounds, 54 Emerald St, Wrentham, MA 02093, United States",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "More information available in fb group —\nhttps://www.facebook.com/share/g/1CXxekuZo7/",
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "b73da2f63958c145effb4cc384efd951896af378c3d063cc3b495be34b6f0e7b",
-      "title": "Great Village, NS, CA - Oct 25th - Bite Club - Colchester DDC",
-      "url": "https://updogchallenge.com/events/great-village-ns-ca-oct-25th-bite-club-colchester-ddc/",
-      "details": {
-        "title": "Great Village, NS, CA – Oct 25th – Bite Club – Colchester DDC",
-        "club_name": "Colchester DDC",
-        "contact_name": "Melanie Smith",
-        "contact_email": "melanieangus@hotmail.com",
-        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "1:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "1f7a80a98a28cb1992fd570851f888728f35f3189a51a601ab96526c719311d4",
-      "title": "Labelle, QC, CA - Oct 25th - Bite Club - \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
-      "url": "https://updogchallenge.com/events/labelle-qc-ca-oct-25th-bite-club-frisbee-canin-laurentides-laurentian-disc-dogs/",
-      "details": {
-        "title": "Labelle, QC, CA – Oct 25th – Bite Club – \tFrisbee Canin Laurentides / Laurentian Disc Dogs",
-        "club_name": "Frisbee Canin Laurentides / Laurentian Disc Dogs",
-        "contact_name": "Cara Smeeton",
-        "contact_email": "cara@frisbeecanin.com",
-        "event_address": "4465 chemin de la Gare, Labelle, QC J0T 1H0, Canada",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "12:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Après les semaines de ligue Toss & Fetch, nous enchaînerons avec des rondes de Bite Club. Profitez d’un rabais à l’inscription si vous participez également à la ligue d’automne Toss & Fetch.",
-        "prereg_url": "https://forms.gle/shZragFAqZFBH6Jy7",
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "6bd1d9ea25e416f5b6cf06983e90da965ae073b1dff99dd68f94a24bfa83d28b",
-      "title": "Foothills, AB, CA - Oct 25th - Bite Club - Foothills Flyers Disc Dog Club",
-      "url": "https://updogchallenge.com/events/foothills-ab-ca-oct-25th-bite-club-foothills-flyers-disc-dog-club/",
-      "details": {
-        "title": "Foothills, AB, CA – Oct 25th – Bite Club – Foothills Flyers Disc Dog Club",
-        "club_name": "Foothills Flyers Disc Dog Club",
-        "contact_name": "Sharon Spooner",
-        "contact_email": "Foothillsflyersddc@gmail.com",
-        "event_address": "1262 Drive W, Foothills, AB T0L 1W0, Canada",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "1:00 PM",
-        "end_time": "4:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "0979df572ac3100fd6fd9f7431e8062f756e3b154701559aab6af847f8dfe259",
-      "title": "Fultondale, AL, US - Oct 25th - CC Canine Academy Air Dogs Club",
-      "url": "https://updogchallenge.com/events/fultondale-al-us-oct-25th-cc-canine-academy-air-dogs-club/",
-      "details": {
-        "title": "Fultondale, AL, US – Oct 25th – CC Canine Academy Air Dogs Club",
-        "club_name": "CC Canine Academy Air Dogs Club",
-        "contact_name": "Chris Sides",
-        "contact_email": "Dcsides1@gmail.com",
-        "event_address": "2408 Stouts Rd,, Fultondale, AL 35068, United States",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "1:30 PM",
-        "end_time": "5:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "5406ed23c8a82566ded855841195a3e16e2c74b9090e0508793e3c164dbf07a3",
-      "title": "Wembly, AB, CA - Oct 25th - Bite Club - GP Sparkly Unicorn Disc Dog Squad",
-      "url": "https://updogchallenge.com/events/wembly-ab-ca-oct-25th-bite-club-gp-sparkly-unicorn-disc-dog-squad/",
-      "details": {
-        "title": "Wembly, AB, CA – Oct 25th – Bite Club – GP Sparkly Unicorn Disc Dog Squad",
-        "club_name": "GP Sparkly Unicorn Disc Dog Squad",
-        "contact_name": "Virginia Studer",
-        "contact_email": "virginia.studer91@gmail.com",
-        "event_address": "713002B RR80, Wembley, AB T0H3S0, Canada",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "2:30 PM",
-        "end_time": "4:30 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "e308f30a5fc2099ee077106395f9a41b95c5fe7bf6327209496ac8665bcf016c",
-      "title": "Gerry, NY, US - Oct 25th - Bite Club - Resurgence Dog Sports",
-      "url": "https://updogchallenge.com/events/gerry-ny-us-oct-25th-bite-club-resurgence-dog-sports/",
-      "details": {
-        "title": "Gerry, NY, US – Oct 25th – Bite Club – Resurgence Dog Sports",
-        "club_name": "Resurgence Dog Sports",
-        "contact_name": "Richard Myers",
-        "contact_email": "Richard.Myers.02@gmail.com",
-        "event_address": "4795 Route 60, Gerry, New York 14740, United States",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "3:00 PM",
-        "end_time": "6:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
-        ]
-      }
-    },
-    {
-      "id": "46f3dc310f803e616080214df41c4fe5af6f84ed0b66704cde85b918d8a99c6e",
-      "title": "Brandon, MB, CA - Oct 25th - Crocus Obedience & Kennel Club",
-      "url": "https://updogchallenge.com/events/brandon-mb-ca-oct-25th-crocus-obedience-kennel-club/",
-      "details": {
-        "title": "Brandon, MB, CA – Oct 25th – Crocus Obedience & Kennel Club",
-        "club_name": "Crocus obedience & kennel club",
-        "contact_name": "Marie-eve Gagnon",
-        "contact_email": "marieevegagnon93@gmail.com",
-        "event_address": "RR #2 Site 200 Box 32, Brandon, Mb R7a5y2, Canada",
-        "start_date": "10/25/2026",
-        "start_date_iso": "2026-10-25T00:00:00",
-        "notification_date": "2026-10-25",
-        "end_date": "10/25/2026",
-        "end_date_iso": "2026-10-25T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "7:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/25/2026",
-        "event_dates": [
-          "10/25/2026"
         ]
       }
     },
@@ -3432,6 +2972,38 @@
       }
     },
     {
+      "id": "50e80949db9450931020a4741f6dca738ca774f3dcef489e83a135e71ba7ffbb",
+      "title": "Penobscot, ME, US - Nov 15th - Downeast Dog Sports",
+      "url": "https://updogchallenge.com/events/penobscot-me-us-nov-15th-downeast-dog-sports/",
+      "details": {
+        "title": "Penobscot, ME, US – Nov 15th – Downeast Dog Sports",
+        "club_name": "Downeast Dog Sports",
+        "contact_name": "Donna Boidi",
+        "contact_email": "donna@downeastdogsports.com",
+        "event_address": "Jim Henry Field, Penobscot, ME 04476, United States",
+        "start_date": "11/15/2026",
+        "start_date_iso": "2026-11-15T00:00:00",
+        "notification_date": "2026-11-15",
+        "end_date": "11/15/2026",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "This is a choose your game, points only event. We will play frizgility first and then players can choose any of the field games being offered.",
+        "when_text": "11/15/2026",
+        "event_dates": [
+          "11/15/2026"
+        ]
+      }
+    },
+    {
       "id": "7e1dc99eeba55526e4a907e092b6d3de367f7082a1dd9553e46677308857ce4d",
       "title": "Mohnton, PA, US - Nov 18th - Reading Disc Dogs",
       "url": "https://updogchallenge.com/events/mohnton-pa-us-nov-18th-reading-disc-dogs/",
@@ -4941,40 +4513,6 @@
       }
     },
     {
-      "id": "96d18183d0a71e23e50ab3c2033269690de7cd994c4ad5fe9bd20fa3c7fa11c0",
-      "title": "Jacksonville/Fernandina Beach, FL, US - Jan 2nd & 3rd - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/jacksonville-fernandina-beach-fl-us-jan-2nd-3rd-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Jacksonville/Fernandina Beach, FL, US – Jan 2nd & 3rd – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "Oceanway Park, 12215 Sago Ave, Jacksonville, Florida 32218, United States",
-        "start_date": "1/2/2027",
-        "start_date_iso": "2027-01-02T00:00:00",
-        "notification_date": "2027-01-02",
-        "end_date": "1/3/2027",
-        "end_date_iso": "2027-01-03T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Freestyle",
-          "Frizgility",
-          "FunKey"
-        ],
-        "additional_event_information_for_participants": "Saturday at Lily’s: 95512 Arbor Ln Fernandina Beach, FL 32034\nSunday at Oceanway: 12215 Sago Ave Jacksonville, FL 32218",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSc_ga18SvD56zsRHKmxHyvnrye1ZBNXhr13OhOH4p3tVtuGnQ/viewform?usp=publish-editor",
-        "when_text": "01/02/2027 - 01/03/2027",
-        "event_dates": [
-          "1/2/2027",
-          "1/3/2027"
-        ]
-      }
-    },
-    {
       "id": "05a00243d8fc19e516dc13ed4a2f1ce107c2ba138d386ee87ce3ac2444d06913",
       "title": "Brooksville, FL, US - January 9th & 10th - Florida States",
       "url": "https://updogchallenge.com/events/brooksville-fl-us-january-9th-10th-florida-states/",
@@ -5031,6 +4569,32 @@
       }
     },
     {
+      "id": "9a426d5c0ae8e189d9e5921d0a4081db841d2e3c0e36c90c7fbc8f42c3858f90",
+      "title": "Fernandina Beach, FL, US - Jan 16th & 17th - Jacksonville Disc Dogs",
+      "url": "https://updogchallenge.com/events/jacksonville-fl-us-jan-30th-31st-jacksonville-disc-dogs/",
+      "details": {
+        "title": "Fernandina Beach, FL, US – Jan 16th & 17th – Jacksonville Disc Dogs",
+        "club_name": "Jacksonville Disc Dogs",
+        "contact_name": "Colleen Hegyi",
+        "contact_email": "jaxdiscdogs@gmail.com",
+        "event_address": "95512 Arbor Lane Fernandina Beach, FL",
+        "start_date": "1/16/2027",
+        "start_date_iso": "2027-01-16T00:00:00",
+        "notification_date": "2027-01-16",
+        "end_date": "1/17/2027",
+        "end_date_iso": "2027-01-17T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [],
+        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLScEbW85HVmKwlvTyR0T_9kD9gGsMd3B6jxyMfsnORPLlqV3lg/viewform?usp=publish-editor",
+        "when_text": "01/16/2027 - 01/17/2027",
+        "event_dates": [
+          "1/16/2027",
+          "1/17/2027"
+        ]
+      }
+    },
+    {
       "id": "cb1dea85f234faeaa79bf843bdbda78dcdd1a1577e985cb56cd3c3697395f7e6",
       "title": "North East, PA, US - Jan 16th - Flagship Dog Sports",
       "url": "https://updogchallenge.com/events/north-east-pa-us-jan-16th-flagship-dog-sports/",
@@ -5061,45 +4625,6 @@
         "when_text": "01/16/2027",
         "event_dates": [
           "1/16/2027"
-        ]
-      }
-    },
-    {
-      "id": "9a426d5c0ae8e189d9e5921d0a4081db841d2e3c0e36c90c7fbc8f42c3858f90",
-      "title": "Jacksonville, FL, US - Jan 30th & 31st - Jacksonville Disc Dogs",
-      "url": "https://updogchallenge.com/events/jacksonville-fl-us-jan-30th-31st-jacksonville-disc-dogs/",
-      "details": {
-        "title": "Jacksonville, FL, US – Jan 30th & 31st – Jacksonville Disc Dogs",
-        "club_name": "Jacksonville Disc Dogs",
-        "contact_name": "Colleen Hegyi",
-        "contact_email": "jaxdiscdogs@gmail.com",
-        "event_address": "Jacksonville Equestrian Center, 13611 Normandy Blvd, Jacksonville, Florida 32221, United States",
-        "start_date": "1/30/2027",
-        "start_date_iso": "2027-01-30T00:00:00",
-        "notification_date": "2027-01-30",
-        "end_date": "1/31/2027",
-        "end_date_iso": "2027-01-31T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "Pals & Paws Agility Club will be hosting an AKC agility trial & Fast CAT at the same facility.",
-        "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLScEbW85HVmKwlvTyR0T_9kD9gGsMd3B6jxyMfsnORPLlqV3lg/viewform?usp=publish-editor",
-        "when_text": "01/30/2027 - 01/31/2027",
-        "event_dates": [
-          "1/30/2027",
-          "1/31/2027"
         ]
       }
     },
