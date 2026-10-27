@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T12:12:00Z",
-  "count": 146,
+  "last_updated": "2026-10-27T11:33:02Z",
+  "count": 145,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,33 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "b677c463639b1a820448da5a12da681f721355a6da7408f721c43f648c4e196d",
-      "title": "West St Paul, MN, US - Oct 26th - Bite Club - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-oct-26th-bite-club-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – Oct 26th – Bite Club – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "jess@thek9coach.com",
-        "event_address": "1700 Marthaler Lane, West St Paul, MN 55118, United States",
-        "start_date": "10/26/2026",
-        "start_date_iso": "2026-10-26T00:00:00",
-        "notification_date": "2026-10-26",
-        "end_date": "10/26/2026",
-        "end_date_iso": "2026-10-26T00:00:00",
-        "start_time": "4:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "prereg_url": "https://www.thek9coach.com/class-schedule?name=bite-club",
-        "when_text": "10/26/2026",
-        "event_dates": [
-          "10/26/2026"
         ]
       }
     },
