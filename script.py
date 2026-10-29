@@ -285,6 +285,35 @@ def parse_event_detail(session, url):
     table_data = parse_table_rows_to_dict(soup)
     detail.update(table_data)
 
+    # Fall back to the event description when no table info is available.
+    if not detail.get("additional_event_information_for_participants"):
+        content = soup.select_one(".em-event-content")
+        if content:
+            paragraphs = [
+                el.get_text(" ", strip=True)
+                for el in content.select("h2, h3, h4, p, li")
+            ]
+            text = "\n\n".join(p for p in paragraphs if p)
+            if text:
+                detail["additional_event_information_for_participants"] = text
+
+    # Fall back to the location shown in the page metadata.
+    if not detail.get("event_address"):
+        location = soup.select_one(
+            ".em-event-where .em-item-meta-line.em-event-location"
+        )
+        if location:
+            detail["event_address"] = location.get_text(" ", strip=True)
+
+    # Fall back to the time shown in the page metadata.
+    time_el = soup.select_one(".em-event-time")
+    if time_el:
+        time_text = time_el.get_text(" ", strip=True)
+        parts = re.split(r"\s+[-–—]\s+", time_text, maxsplit=1)
+        if len(parts) == 2:
+            detail.setdefault("start_time", parts[0])
+            detail.setdefault("end_time", parts[1])
+
     # "When" from page meta is authoritative for actual event days
     when_text = _extract_when_text(soup)
     _apply_when_dates(detail, when_text)
