@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T12:03:12Z",
-  "count": 143,
+  "last_updated": "2026-10-29T12:13:46Z",
+  "count": 145,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -799,34 +799,6 @@
       }
     },
     {
-      "id": "45c11d89587579aeff147d2d2a68da08dce11e2e9899c4976262f4c7e4a150fd",
-      "title": "Indianapolis, IN, US - Oct 28th - Indy Dog & Disc Club",
-      "url": "https://updogchallenge.com/events/indianapolis-in-us-oct-28th-indy-dog-disc-club/",
-      "details": {
-        "title": "Indianapolis, IN, US – Oct 28th – Indy Dog & Disc Club",
-        "club_name": "Indy Dog and Disc Club",
-        "contact_name": "Sheridan Gilchrist",
-        "contact_email": "sheridangi@aol.com",
-        "event_address": "1790 E 54Tth St, Indianapolis, Indiana 46220, United States",
-        "start_date": "10/28/2026",
-        "start_date_iso": "2026-10-28T00:00:00",
-        "notification_date": "2026-10-28",
-        "end_date": "10/28/2026",
-        "end_date_iso": "2026-10-28T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out"
-        ],
-        "additional_event_information_for_participants": "This is the official UpDog competition to end our UpDog practice rounds from the previous weeks.",
-        "when_text": "10/28/2026",
-        "event_dates": [
-          "10/28/2026"
-        ]
-      }
-    },
-    {
       "id": "153c36193fb17370d241af56563900107c9035222b91c2288aac606e11ca9167",
       "title": "Cochrane, AB, CA - Oct 29th - Calgary Disc Dog Club",
       "url": "https://updogchallenge.com/events/cochrane-ab-ca-oct-29th-calgary-disc-dog-club/",
@@ -1002,6 +974,36 @@
         "when_text": "10/30/2026",
         "event_dates": [
           "10/30/2026"
+        ]
+      }
+    },
+    {
+      "id": "1d39c879b979e6d7e7a83d93219c5b2eb11ec95f0d727481bb62ee029bb1df7d",
+      "title": "Mitchell, ACT, AU - Oct 31st - BDOC",
+      "url": "https://updogchallenge.com/events/mitchell-act-au-oct-31st-bdoc/",
+      "details": {
+        "title": "Mitchell, ACT, AU – Oct 31st – BDOC",
+        "club_name": "BDOC",
+        "contact_name": "Justin Allen",
+        "contact_email": "allen.online@bigpond.com",
+        "event_address": "1 Morisset Road, Mitchell, ACT 2912, Australia",
+        "start_date": "10/31/2026",
+        "start_date_iso": "2026-10-31T00:00:00",
+        "notification_date": "2026-10-31",
+        "end_date": "10/31/2026",
+        "end_date_iso": "2026-10-31T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Frizgility",
+          "Greedy",
+          "7Up",
+          "Spaced Out"
+        ],
+        "when_text": "10/31/2026",
+        "event_dates": [
+          "10/31/2026"
         ]
       }
     },
@@ -1763,6 +1765,40 @@
       }
     },
     {
+      "id": "6d61d87e64c174b6b883d651be8a56b1de881b6def66f793af86afe96d304129",
+      "title": "St Johns, MI, US - Nov 1st - Leashed Favorite Dog Club",
+      "url": "https://updogchallenge.com/events/st-johns-mi-us-nov-1st-leashed-favorite-dog-club/",
+      "details": {
+        "title": "St Johns, MI, US – Nov 1st – Leashed Favorite Dog Club",
+        "club_name": "Leashed Favorite Dog Club",
+        "contact_name": "Ashley Kutzli",
+        "contact_email": "leashedfavorite@gmail.com",
+        "event_address": "712 W. Gibbs Street, St. Johns, MI 48879, United States",
+        "start_date": "11/1/2026",
+        "start_date_iso": "2026-11-01T00:00:00",
+        "notification_date": "2026-11-01",
+        "end_date": "11/1/2026",
+        "end_date_iso": "2026-11-01T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Pre-registration required – email\nleashedfavorite@gmail.com",
+        "when_text": "11/01/2026",
+        "event_dates": [
+          "11/1/2026"
+        ]
+      }
+    },
+    {
       "id": "e081551b2ca313b302f9a72f1e8374f71ed0392a8bb227a2bc9973f8d3098c53",
       "title": "Foothills, AB, CA - Nov 1st - Bite Club - Foothills Flyers Disc Dog Club",
       "url": "https://updogchallenge.com/events/foothills-ab-ca-nov-1st-bite-club-foothills-flyers-disc-dog-club/",
@@ -2199,6 +2235,35 @@
       }
     },
     {
+      "id": "92964624b2cb72670b1a21892c945495a174adf3bd6f0cd2e6802477b73b6245",
+      "title": "Lumsden, SK, CA - Nov 6th - Absolute Elite K9",
+      "url": "https://updogchallenge.com/events/lumsden-sk-ca-nov-6th-absolute-elite-k9/",
+      "details": {
+        "title": "Lumsden, SK, CA – Nov 6th – Absolute Elite K9",
+        "club_name": "Absolute Elite K9",
+        "contact_name": "Amanda Abs",
+        "contact_email": "absoluteelitek9@gmail.com",
+        "event_address": "Highway 734, Lumsden, Saskatchewan S4P2X1, Canada",
+        "start_date": "11/6/2026",
+        "start_date_iso": "2026-11-06T00:00:00",
+        "notification_date": "2026-11-06",
+        "end_date": "11/6/2026",
+        "end_date_iso": "2026-11-06T00:00:00",
+        "start_time": "6:15 PM",
+        "end_time": "9:30 PM",
+        "games": [
+          "Far Out",
+          "Four Way Play",
+          "Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Throw and Go will be played on a modified field (max 40 yards for length)",
+        "when_text": "11/06/2026",
+        "event_dates": [
+          "11/6/2026"
+        ]
+      }
+    },
+    {
       "id": "6cb0611c1d8c4ef4f6b317af597842af177791bb0c9b415fd279224aa3912d02",
       "title": "Middle Island, NY, US - Nov 7th & 8th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
       "url": "https://updogchallenge.com/events/middle-island-ny-us-nov-7th-8th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
@@ -2544,24 +2609,6 @@
       }
     },
     {
-      "id": "8b03669a8c1da9e23e45da629c7ccd4d615e01a344ed6e56231f0a5340fe4473",
-      "title": "Brooksville, FL, US - Nov 14th & 15th - UpDog Invitational",
-      "url": "https://updogchallenge.com/events/brooksville-fl-us-nov-14th-15th-updog-invitational/",
-      "details": {
-        "title": "Brooksville, FL, US – Nov 14th & 15th – UpDog Invitational",
-        "when_text": "11/14/2026 - 11/15/2026",
-        "event_dates": [
-          "11/14/2026",
-          "11/15/2026"
-        ],
-        "start_date": "11/14/2026",
-        "end_date": "11/15/2026",
-        "start_date_iso": "2026-11-14T00:00:00",
-        "end_date_iso": "2026-11-15T00:00:00",
-        "notification_date": "2026-11-14"
-      }
-    },
-    {
       "id": "81e2ed5e8db0e783114cbc6d0ceb3d72e255a4e5ef717d0194aa966216e7ce96",
       "title": "Calgary, AB, CA - Nov 14th & 15th - Calgary Disc Dogs",
       "url": "https://updogchallenge.com/events/calgary-ab-ca-nov-14th-15th-calgary-disc-dogs/",
@@ -2675,6 +2722,24 @@
       }
     },
     {
+      "id": "8b03669a8c1da9e23e45da629c7ccd4d615e01a344ed6e56231f0a5340fe4473",
+      "title": "Brooksville, FL, US - Nov 14th & 15th - UpDog Invitational",
+      "url": "https://updogchallenge.com/events/brooksville-fl-us-nov-14th-15th-updog-invitational/",
+      "details": {
+        "title": "Brooksville, FL, US – Nov 14th & 15th – UpDog Invitational",
+        "when_text": "11/14/2026 - 11/15/2026",
+        "event_dates": [
+          "11/14/2026",
+          "11/15/2026"
+        ],
+        "start_date": "11/14/2026",
+        "end_date": "11/15/2026",
+        "start_date_iso": "2026-11-14T00:00:00",
+        "end_date_iso": "2026-11-15T00:00:00",
+        "notification_date": "2026-11-14"
+      }
+    },
+    {
       "id": "e1ba008a2a4feac2fcfea84ae89d1209555d7f2b3a3b6e2d2e8995e74ace0c78",
       "title": "Columbus, IN, US - Nov 14th & 15th - Indy Dog and Disc Club",
       "url": "https://updogchallenge.com/events/columbus-in-us-nov-14th-15th-indy-dog-and-disc-club/",
@@ -2750,14 +2815,14 @@
     },
     {
       "id": "ac72acb4c600286217f52149fbde6b6f2784694ab94a97ae8cf335e69821584e",
-      "title": "McRae, AR, US - Nov 14th & 15th - Central Arkansas Disc Dog Organization",
+      "title": "Hot Springs, AR, US - Nov 14th & 15th - Central Arkansas Disc Dog Organization",
       "url": "https://updogchallenge.com/events/mcrae-ar-us-oct-24th-25th-central-arkansas-disc-dog-organization/",
       "details": {
-        "title": "McRae, AR, US – Nov 14th & 15th – Central Arkansas Disc Dog Organization",
+        "title": "Hot Springs, AR, US – Nov 14th & 15th – Central Arkansas Disc Dog Organization",
         "club_name": "Central Arkansas Disc Dog Organization",
         "contact_name": "Alexis Brewer",
         "contact_email": "alexisbrewer@gmail.com",
-        "event_address": "112 Webb Hill Road, McRae, AR 72012, United States",
+        "event_address": "KEP\nDoggie Dude Ranch National Park, 3799 Albert Pike Rd, Hot Springs, AR\n71913",
         "start_date": "11/14/2026",
         "start_date_iso": "2026-11-14T00:00:00",
         "notification_date": "2026-11-14",
