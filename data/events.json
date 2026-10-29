@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T12:13:46Z",
+  "last_updated": "2026-10-29T13:58:48Z",
   "count": 145,
   "events": [
     {
@@ -1441,6 +1441,8 @@
       "url": "https://updogchallenge.com/events/lutz-fl-us-nov1st-cfddc/",
       "details": {
         "title": "Lutz, FL, US – Nov 1st – Bite Club – CFDDC",
+        "additional_event_information_for_participants": "A NADD dock diving event will be occurring at this same location the same weekend.  Enjoy two sports in one place!",
+        "event_address": "Courteous Canine 3414 Melissa Country Way, Lutz, FL, 33559",
         "when_text": "11/01/2026",
         "event_dates": [
           "11/1/2026"
@@ -2727,6 +2729,10 @@
       "url": "https://updogchallenge.com/events/brooksville-fl-us-nov-14th-15th-updog-invitational/",
       "details": {
         "title": "Brooksville, FL, US – Nov 14th & 15th – UpDog Invitational",
+        "additional_event_information_for_participants": "The UpDog Invitational is being held at Florida Classic Park in Brooksville, FL November 14th & 15th.\n\nThe top teams in Freestyle, Far Out and Four Way Play will be showing off their skills and competing to see who is the best of the best!  Competition begins at 8:30am each day and will go until approximately 5pm each day.  Human spectators are welcome!\n\nThere will also be You Pick games on a separate field throughout the day both days.  These are open to any disc doggers, not just those invited to the Invitational.  Registration closes November 8th or when full.  Register below.",
+        "event_address": "Florida Classic Park 5360 Lockhart Rd , Brooksville, FL , 34602",
+        "start_time": "8:30 am",
+        "end_time": "5:00 pm",
         "when_text": "11/14/2026 - 11/15/2026",
         "event_dates": [
           "11/14/2026",
@@ -3094,6 +3100,7 @@
           "Throw N Go",
           "Time Warp"
         ],
+        "additional_event_information_for_participants": "Register here: https://form.jotform.com/260966709184065",
         "when_text": "11/20/2026 - 11/22/2026",
         "event_dates": [
           "11/20/2026",
@@ -3919,6 +3926,9 @@
       "url": "https://updogchallenge.com/events/dade-city-fl-us-nov-7th-8th-cfddc-2/",
       "details": {
         "title": "Dade City, FL, US – Dec 12th & 13th – CFDDC",
+        "event_address": "Dade City, Florida 18446 Sweetbay Ln, Dade City, FL, 33523",
+        "start_time": "9:00 am",
+        "end_time": "5:00 pm",
         "when_text": "12/12/2026 - 12/13/2026",
         "event_dates": [
           "12/12/2026",
@@ -4181,6 +4191,7 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "Indoors, limited buffer, limited indoor crating area",
+        "event_address": "Seville, OH 5628 buffham road, Seville, OH, 44273",
         "when_text": "12/19/2026",
         "event_dates": [
           "12/19/2026"
@@ -4493,6 +4504,10 @@
       "url": "https://updogchallenge.com/events/brooksville-fl-us-january-9th-10th-florida-states/",
       "details": {
         "title": "Brooksville, FL, US – January 9th & 10th – Florida States",
+        "additional_event_information_for_participants": "Registration will open in November.",
+        "event_address": "Florida Classic Park 5360 Lockhart Rd , Brooksville, FL , 34602",
+        "start_time": "9:00 am",
+        "end_time": "5:00 pm",
         "when_text": "01/09/2027 - 01/10/2027",
         "event_dates": [
           "1/9/2027",
@@ -4562,6 +4577,7 @@
         "end_time": "3:00 PM",
         "games": [],
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLScEbW85HVmKwlvTyR0T_9kD9gGsMd3B6jxyMfsnORPLlqV3lg/viewform?usp=publish-editor",
+        "additional_event_information_for_participants": "Sunday- https://docs.google.com/forms/d/e/1FAIpQLSfNCHStwTUeWxqtYGrJjKIi-tHhHEzNkXMyAALHTB8oFEDtCw/viewform?usp=publish-editor",
         "when_text": "01/16/2027 - 01/17/2027",
         "event_dates": [
           "1/16/2027",
@@ -4676,6 +4692,8 @@
       "url": "https://updogchallenge.com/events/lakeland-fl-us-feb-18th-thru-21st-cfddc/",
       "details": {
         "title": "Lakeland, FL, US – Feb 18th thru 21st – CFDDC",
+        "additional_event_information_for_participants": "4 Days of UpDog at the Strawberry Cluster!\n\nIf your dog can catch a thrown or rolled disc your team can earn points!  All UpDog points earned go towards AKC Disc Dog titles!\n\nRegistration will open in December.\n\nStay tuned for more details!\n\nLocation SUN ‘n FUN Expo Campus , 4175 Medulla Rd, Lakeland, FL 33811",
+        "event_address": "Lakeland, FL 4175 Medulla Rd, Lakeland, FL, 33811",
         "when_text": "02/18/2027 - 02/21/2027",
         "event_dates": [
           "2/18/2027",
@@ -4895,6 +4913,8 @@
       "url": "https://updogchallenge.com/events/decatur-al-us-april-7th-thru-11th-updog-international-finals/",
       "details": {
         "title": "Decatur, AL, US – April 7th thru 11th – UpDog International Finals",
+        "additional_event_information_for_participants": "Spectator Information:\n\nCompetition begins between  8-9am each day and goes until 3-5pm depending on the day.  The event is free to the public, making it an excellent opportunity for families, dog lovers, and sports enthusiasts to enjoy the action-packed competition. Attendees are encouraged to bring their lawn chairs and enjoy a front-row seat to this dynamic display of skill and teamwork.  Each of the 6 competition fields will have an area for spectators opposite the sound booth.  In the interest of safety and out of respect for the canine competitors, UpDog asks that spectators leave their canine friends at home.\n\nCompetitor Information:\n\nLIVE FACT SHEET\n\nGo to the live Fact Sheet to see the schedule of games, lodging info, banquet info and more.  Information will continually be posted at the link below as we get closer to the event.\n\nAlso keep an eye out for announcements at the UpDog Discussion Page on Facebook: https://www.facebook.com/groups/Updogfans",
+        "event_address": "Point Mallard Park, Spirit of America Field, Decatur, Alabama 2901 Point Mallard Cir SE, Decatur, AL, 35601",
         "when_text": "04/07/2027 - 04/11/2027",
         "event_dates": [
           "4/7/2027",
