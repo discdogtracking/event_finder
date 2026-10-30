@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T13:58:48Z",
-  "count": 145,
+  "last_updated": "2026-10-30T12:04:05Z",
+  "count": 147,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,60 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "153c36193fb17370d241af56563900107c9035222b91c2288aac606e11ca9167",
-      "title": "Cochrane, AB, CA - Oct 29th - Calgary Disc Dog Club",
-      "url": "https://updogchallenge.com/events/cochrane-ab-ca-oct-29th-calgary-disc-dog-club/",
-      "details": {
-        "title": "Cochrane, AB, CA – Oct 29th – Calgary Disc Dog Club",
-        "club_name": "Calgary disc dog club",
-        "contact_name": "Tom Lines",
-        "contact_email": "calgarydiscdogclub@gmail.com",
-        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
-        "start_date": "10/29/2026",
-        "start_date_iso": "2026-10-29T00:00:00",
-        "notification_date": "2026-10-29",
-        "end_date": "10/29/2026",
-        "end_date_iso": "2026-10-29T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "10/29/2026",
-        "event_dates": [
-          "10/29/2026"
-        ]
-      }
-    },
-    {
-      "id": "35237371b4f816ec5c140b6c62dc43a222555b62394a8500fe2a3b0e234ad974",
-      "title": "Hutto, TX, US - Oct 29th - Lone Star Disc Dogs",
-      "url": "https://updogchallenge.com/events/hutto-tx-us-oct-29th-lone-star-disc-dogs/",
-      "details": {
-        "title": "Hutto, TX, US – Oct 29th – Lone Star Disc Dogs",
-        "club_name": "Lone Star Disc Dogs",
-        "contact_name": "Tammy Montgomery",
-        "contact_email": "lonestardiscdogs@gmail.com",
-        "event_address": "200 Co Rd 197, Hutto, TEXAS 78634, United States",
-        "start_date": "10/29/2026",
-        "start_date_iso": "2026-10-29T00:00:00",
-        "notification_date": "2026-10-29",
-        "end_date": "10/29/2026",
-        "end_date_iso": "2026-10-29T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "10:00 PM",
-        "games": [
-          "Frizgility",
-          "7Up"
-        ],
-        "additional_event_information_for_participants": "Dependent on time we might play multiple rounds of these two games",
-        "when_text": "10/29/2026",
-        "event_dates": [
-          "10/29/2026"
         ]
       }
     },
@@ -3422,6 +3368,35 @@
       }
     },
     {
+      "id": "7546e3d1cfd5b5fed529de10de0a28cbb53ddc31b37b91ef82a633348a08efe5",
+      "title": "Cincinnati, OH, US - Nov 28th - The Wonderdog Show",
+      "url": "https://updogchallenge.com/events/cincinnati-oh-us-nov-28th-the-wonderdog-show/",
+      "details": {
+        "title": "Cincinnati, OH, US – Nov 28th – The Wonderdog Show",
+        "club_name": "The Wonderdog Show",
+        "contact_name": "Ariel Faeth",
+        "contact_email": "wonderdogshow@gmail.com",
+        "event_address": "1501 Sherman Ave, Cincinnati, Ohio 45212, United States",
+        "start_date": "11/28/2026",
+        "start_date_iso": "2026-11-28T00:00:00",
+        "notification_date": "2026-11-28",
+        "end_date": "11/28/2026",
+        "end_date_iso": "2026-11-28T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Freestyle"
+        ],
+        "additional_event_information_for_participants": "points only event",
+        "when_text": "11/28/2026",
+        "event_dates": [
+          "11/28/2026"
+        ]
+      }
+    },
+    {
       "id": "54cd9f560d93fdaa35d26c9c584ede4557e9375b71ac81f059a2d5a7ba1f8611",
       "title": "Moose Jaw, SK, CA - Nov 29th - Regina Disc Dog Club",
       "url": "https://updogchallenge.com/events/moose-jaw-sk-ca-nov-29th-regina-disc-dog-club/",
@@ -3442,6 +3417,34 @@
           "To Be Determined"
         ],
         "additional_event_information_for_participants": "This will be a no-frills, points only trial. It will also be our mulligan trial with mulligan proceeds to canine cancer research.",
+        "when_text": "11/29/2026",
+        "event_dates": [
+          "11/29/2026"
+        ]
+      }
+    },
+    {
+      "id": "deb0c1faafba16720999f4888842c0b37d61980f33ce12ac94a1b1d53cc75677",
+      "title": "Lutz, FL, US - Nov 29th - CFDDC",
+      "url": "https://updogchallenge.com/events/lutz-fl-us-nov-29th-cfddc/",
+      "details": {
+        "title": "Lutz, FL, US – Nov 29th – CFDDC",
+        "club_name": "CFDDC",
+        "contact_name": "Jennifer Brown",
+        "contact_email": "jenbrowndvm@gmail.com",
+        "event_address": "18920 Sunlake Blvd, Lutz, FL 33558, United States",
+        "start_date": "11/29/2026",
+        "start_date_iso": "2026-11-29T00:00:00",
+        "notification_date": "2026-11-29",
+        "end_date": "11/29/2026",
+        "end_date_iso": "2026-11-29T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Far Out",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Focus on Far Out! We will be doing 3 rounds of Far Out followed by You Pick for those interested. Please email Jennifer Brown if you plan on doing You Pick games and what ones you would like to do for planning purposes. $8/run CFDDC member $10 non-members. No pre-registration, but please RSVP. This will be a points only event.",
         "when_text": "11/29/2026",
         "event_dates": [
           "11/29/2026"
@@ -3570,6 +3573,33 @@
           "12/4/2026",
           "12/5/2026",
           "12/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "bc5d1532ec9722a3ecc34d198410a3daf6854ad33dc7a171c4e30cbb2d455305",
+      "title": "Odenville, AL, US - Dec 5th - CC Canine Air Dogs Club",
+      "url": "https://updogchallenge.com/events/odenville-al-us-dec-5th-cc-canine-air-dogs-club/",
+      "details": {
+        "title": "Odenville, AL, US – Dec 5th – CC Canine Air Dogs Club",
+        "club_name": "CC Canine Air Dogs Club",
+        "contact_name": "Chris Sides",
+        "contact_email": "dcsides1@gmail.com",
+        "event_address": "125 Aspen Ln, Odenville, Alabama 35120, United States",
+        "start_date": "12/5/2026",
+        "start_date_iso": "2026-12-05T00:00:00",
+        "notification_date": "2026-12-05",
+        "end_date": "12/5/2026",
+        "end_date_iso": "2026-12-05T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Last Chance for Points! Points only event!",
+        "when_text": "12/05/2026",
+        "event_dates": [
+          "12/5/2026"
         ]
       }
     },
@@ -4008,6 +4038,41 @@
         "when_text": "12/12/2026",
         "event_dates": [
           "12/12/2026"
+        ]
+      }
+    },
+    {
+      "id": "30deab19cbe0d462092d3361ecb655fcdc25979d7b92c3a1350d38314c38d0e4",
+      "title": "Carencro, LA, US - Dec 13th - Acadiana UpDog at Mill Pond Kennels",
+      "url": "https://updogchallenge.com/events/carencro-la-us-dec-13th-acadiana-updog-at-mill-pond-kennels/",
+      "details": {
+        "title": "Carencro, LA, US – Dec 13th – Acadiana UpDog at Mill Pond Kennels",
+        "club_name": "Acadiana UpDog at Mill Pond Kennels",
+        "contact_name": "Nikki Sonnier",
+        "contact_email": "nikkisonnier@millpondkennels.com",
+        "event_address": "425 Railroad St., Carencro, LA 70520, United States",
+        "start_date": "12/13/2026",
+        "start_date_iso": "2026-12-13T00:00:00",
+        "notification_date": "2026-12-13",
+        "end_date": "12/13/2026",
+        "end_date_iso": "2026-12-13T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play",
+          "FunKey",
+          "Greedy",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Registration link is coming soon. Please join our Facebook Group for the most up to date information:\nhttps://www.facebook.com/groups/acadianaupdog",
+        "prereg_url": "Link will be sent to UpDog HQ as we get closer.",
+        "when_text": "12/13/2026",
+        "event_dates": [
+          "12/13/2026"
         ]
       }
     },
