@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T13:33:12Z",
-  "count": 124,
+  "last_updated": "2026-11-04T13:44:07Z",
+  "count": 123,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,69 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "2eeaab57aeedb47325dafcb3aef0a9e68e86cfa0b6ff47556711a9bba79a2c3d",
-      "title": "Seville, OH, US - Nov 3rd - Bite Club - Dawg Gone It",
-      "url": "https://updogchallenge.com/events/seville-oh-us-nov-3rd-bite-club-dawg-gone-it/",
-      "details": {
-        "title": "Seville, OH, US – Nov 3rd – Bite Club – Dawg Gone It",
-        "club_name": "Dawg Gone It",
-        "contact_name": "Heidi Pitts",
-        "contact_email": "graehm@gmail.com",
-        "event_address": "5628 buffham road, Seville, Ohio 44138, United States",
-        "start_date": "11/3/2026",
-        "start_date_iso": "2026-11-03T00:00:00",
-        "notification_date": "2026-11-03",
-        "end_date": "11/3/2026",
-        "end_date_iso": "2026-11-03T00:00:00",
-        "start_time": "2:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/03/2026",
-        "event_dates": [
-          "11/3/2026"
-        ]
-      }
-    },
-    {
-      "id": "9126ba25b5a0cc7c5abd7a733fe8c3b3e1deeb8a2c3b40baadfbf4e096f01ec3",
-      "title": "Hot Springs, AR, US - Nov 3rd - Central Arkansas Disc Dog Organization",
-      "url": "https://updogchallenge.com/events/hot-springs-ar-us-nov-3rd-central-arkansas-disc-dog-organization/",
-      "details": {
-        "title": "Hot Springs, AR, US – Nov 3rd – Central Arkansas Disc Dog Organization",
-        "club_name": "Central Arkansas Disc Dog Organization",
-        "contact_name": "Alexis Brewer",
-        "contact_email": "alexisbrewer@gmail.com",
-        "event_address": "3799 Albert Pike Rd, Hot Springs, AR 71913, United States",
-        "start_date": "11/3/2026",
-        "start_date_iso": "2026-11-03T00:00:00",
-        "notification_date": "2026-11-03",
-        "end_date": "11/3/2026",
-        "end_date_iso": "2026-11-03T00:00:00",
-        "start_time": "7:00 PM",
-        "end_time": "8:00 PM",
-        "games": [
-          "Boom!",
-          "Far Out",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "FunKey",
-          "Greedy",
-          "7Up",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "additional_event_information_for_participants": "We are holding an Introduction to UpDog Games on Tuesday for 6 weeks this fall. Each week we will tackle 2 games, learn the rules, practice, and then play for points. We will only play two games each week. You do not need to be part of the class to participate in the Points Only play after the class ends. We will start playing for points at approximately 7 pm. We have lights for the field. Pleas reach out if you have any questions or for the schedule of games. We will not be offering freestyle for points.",
-        "when_text": "11/03/2026",
-        "event_dates": [
-          "11/3/2026"
         ]
       }
     },
@@ -3918,6 +3855,32 @@
         "event_dates": [
           "1/23/2027",
           "1/24/2027"
+        ]
+      }
+    },
+    {
+      "id": "d5b045c327153d23b4274bc8ad02e9fb3bc75439a071567d7291244e3f67768c",
+      "title": "Julian, NC, US - Jan 31st - Quicksilver Canine",
+      "url": "https://updogchallenge.com/events/julian-nc-us-jan-31st-quicksilver-canine/",
+      "details": {
+        "title": "Julian, NC, US – Jan 31st – Quicksilver Canine",
+        "club_name": "Quicksilver Canine",
+        "contact_name": "Leerie Jenkins",
+        "contact_email": "leerie.jenkins@gmail.com",
+        "event_address": "5600 Clarence Rd, Julian, NC 27283, United States",
+        "start_date": "1/31/2027",
+        "start_date_iso": "2027-01-31T00:00:00",
+        "notification_date": "2027-01-31",
+        "end_date": "1/31/2027",
+        "end_date_iso": "2027-01-31T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "01/31/2027",
+        "event_dates": [
+          "1/31/2027"
         ]
       }
     },
