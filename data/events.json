@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T13:42:07Z",
-  "count": 127,
+  "last_updated": "2026-11-07T12:22:47Z",
+  "count": 124,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,99 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "ed568ec84e50deced38b7b9c59c48c86a7daef917d153b50d96af13012bd7bae",
-      "title": "Hampshire, IL, US - Nov 6th - Bite Club - McHenry Disc Dogs",
-      "url": "https://updogchallenge.com/events/hampshire-il-us-nov-6th-bite-club-mchenry-disc-dogs/",
-      "details": {
-        "title": "Hampshire, IL, US – Nov 6th – Bite Club – McHenry Disc Dogs",
-        "club_name": "McHenry Disc Dogs",
-        "contact_name": "Zach Perlmutter",
-        "contact_email": "zperlmut@gmail.com",
-        "event_address": "43W301 Plank Rd, Hampshire, IL 60140, United States",
-        "start_date": "11/6/2026",
-        "start_date_iso": "2026-11-06T00:00:00",
-        "notification_date": "2026-11-06",
-        "end_date": "11/6/2026",
-        "end_date_iso": "2026-11-06T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "Boom!",
-          "Fireball",
-          "Four Way Play",
-          "Frizgility",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "11/06/2026",
-        "event_dates": [
-          "11/6/2026"
-        ]
-      }
-    },
-    {
-      "id": "41410a7ad4d563510cd323e7c173dda084676cdb652a72c339a83e6dde71183c",
-      "title": "Millington, TN, US - Nov 6th - Bite Club - Good News Dogs",
-      "url": "https://updogchallenge.com/events/millington-tn-us-nov-6th-bite-club-good-news-dogs/",
-      "details": {
-        "title": "Millington, TN, US – Nov 6th – Bite Club – Good News Dogs",
-        "club_name": "Good News Dogs",
-        "contact_name": "Desiree Gombos",
-        "contact_email": "desireegombos@gmail.com",
-        "event_address": "8020 Epperson Mill rd, Millington, TN 38053, United States",
-        "start_date": "11/6/2026",
-        "start_date_iso": "2026-11-06T00:00:00",
-        "notification_date": "2026-11-06",
-        "end_date": "11/6/2026",
-        "end_date_iso": "2026-11-06T00:00:00",
-        "start_time": "5:00 PM",
-        "end_time": "7:00 PM",
-        "games": [
-          "Fireball",
-          "Four Way Play",
-          "Greedy",
-          "Spaced Out",
-          "Throw N Go",
-          "Time Warp"
-        ],
-        "when_text": "11/06/2026",
-        "event_dates": [
-          "11/6/2026"
-        ]
-      }
-    },
-    {
-      "id": "92964624b2cb72670b1a21892c945495a174adf3bd6f0cd2e6802477b73b6245",
-      "title": "Lumsden, SK, CA - Nov 6th - Absolute Elite K9",
-      "url": "https://updogchallenge.com/events/lumsden-sk-ca-nov-6th-absolute-elite-k9/",
-      "details": {
-        "title": "Lumsden, SK, CA – Nov 6th – Absolute Elite K9",
-        "club_name": "Absolute Elite K9",
-        "contact_name": "Amanda Abs",
-        "contact_email": "absoluteelitek9@gmail.com",
-        "event_address": "Highway 734, Lumsden, Saskatchewan S4P2X1, Canada",
-        "start_date": "11/6/2026",
-        "start_date_iso": "2026-11-06T00:00:00",
-        "notification_date": "2026-11-06",
-        "end_date": "11/6/2026",
-        "end_date_iso": "2026-11-06T00:00:00",
-        "start_time": "6:15 PM",
-        "end_time": "9:30 PM",
-        "games": [
-          "Far Out",
-          "Four Way Play",
-          "Throw N Go"
-        ],
-        "additional_event_information_for_participants": "Throw and Go will be played on a modified field (max 40 yards for length)",
-        "when_text": "11/06/2026",
-        "event_dates": [
-          "11/6/2026"
         ]
       }
     },
