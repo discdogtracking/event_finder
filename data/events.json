@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T12:22:47Z",
-  "count": 124,
+  "last_updated": "2026-11-08T12:41:52Z",
+  "count": 118,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -851,32 +851,6 @@
       }
     },
     {
-      "id": "6deb99712fab339e6dd862a026417d3004530e5f684e5f991977587264337667",
-      "title": "Bunnell, FL, US - Nov 7th - Daytona Disc Dogs",
-      "url": "https://updogchallenge.com/events/bunnell-fl-us-nov-7th-daytona-disc-dogs/",
-      "details": {
-        "title": "Bunnell, FL, US – Nov 7th – Daytona Disc Dogs",
-        "club_name": "Daytona Disc Dogs",
-        "contact_name": "Brian Fidler",
-        "contact_email": "bfidler1996@gmail.com",
-        "event_address": "345 county rd 335, Bunnell, Fl 32110, United States",
-        "start_date": "11/7/2026",
-        "start_date_iso": "2026-11-07T00:00:00",
-        "notification_date": "2026-11-07",
-        "end_date": "11/7/2026",
-        "end_date_iso": "2026-11-07T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/07/2026",
-        "event_dates": [
-          "11/7/2026"
-        ]
-      }
-    },
-    {
       "id": "986370438d26fa86f045750de2ef96cb52fb55646c9d5f51c3a1b8fa435b0673",
       "title": "Dacula, GA, US - Nov 7th & 8th - Forest City Sport Dogs",
       "url": "https://updogchallenge.com/events/dacula-ga-us-nov-7th-8th-forest-city-sport-dogs/",
@@ -915,143 +889,6 @@
         "event_dates": [
           "11/7/2026",
           "11/8/2026"
-        ]
-      }
-    },
-    {
-      "id": "5dc558063a2967afb432e3d0ca37005332a6ef05114c3349a3e27017765df0ea",
-      "title": "Hillsboro, AL, US - Nov 7th - Unhinged Canines",
-      "url": "https://updogchallenge.com/events/hillsboro-al-us-nov-7th-unhinged-canines/",
-      "details": {
-        "title": "Hillsboro, AL, US – Nov 7th – Unhinged Canines",
-        "club_name": "Unhinged Canines",
-        "contact_name": "Aslyn Estill",
-        "contact_email": "unhingedcanines@gmail.com",
-        "event_address": "439 Co Rd 413, Hillsboro, AL 35643-3726, United States",
-        "start_date": "11/7/2026",
-        "start_date_iso": "2026-11-07T00:00:00",
-        "notification_date": "2026-11-07",
-        "end_date": "11/7/2026",
-        "end_date_iso": "2026-11-07T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "2:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Wildcard event! Pick your games! Up to 3 rounds per game, 10 round limit per dog- UpDog rules! Space is limited! Pre- registration is required!",
-        "prereg_url": "https://form.jotform.com/262785161881163",
-        "when_text": "11/07/2026",
-        "event_dates": [
-          "11/7/2026"
-        ]
-      }
-    },
-    {
-      "id": "58a508cfd23ca851502a5ff41e1f84c145e9cf100528b1f51d0b0134111d2638",
-      "title": "Winnipeg, MB, CA - Nov 7th - River City Disc Dogs",
-      "url": "https://updogchallenge.com/events/winnipeg-mb-ca-nov-7th-river-city-disc-dogs/",
-      "details": {
-        "title": "Winnipeg, MB, CA – Nov 7th – River City Disc Dogs",
-        "club_name": "River City Disc Dogs",
-        "contact_name": "Shawna Kondratuk",
-        "contact_email": "rivercitydiscdogs@gmail.com",
-        "event_address": "471 Hampton Street, Winnipeg, Manitoba R3J1R1, Canada",
-        "start_date": "11/7/2026",
-        "start_date_iso": "2026-11-07T00:00:00",
-        "notification_date": "2026-11-07",
-        "end_date": "11/7/2026",
-        "end_date_iso": "2026-11-07T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/07/2026",
-        "event_dates": [
-          "11/7/2026"
-        ]
-      }
-    },
-    {
-      "id": "0ba83dc84514fce8d246aa7f320c212883781ee86830aaa6f145a0d6069e6614",
-      "title": "Mahopac, NY, US - Nov 7th - Bite Club - Bring Your Own (BYO) Disc Dogs",
-      "url": "https://updogchallenge.com/events/mahopac-ny-us-nov-7th-8th-bite-club-bring-your-own-byo-disc-dogs/",
-      "details": {
-        "title": "Mahopac, NY, US – Nov 7th – Bite Club – Bring Your Own (BYO) Disc Dogs",
-        "club_name": "Bring Your Own (BYO) Disc Dogs",
-        "contact_name": "Sara Gagnon",
-        "contact_email": "byodiscdogs@gmail.com",
-        "event_address": "243 Secor Road, Mahopac, NY 10541, United States",
-        "start_date": "11/7/2026",
-        "start_date_iso": "2026-11-07T00:00:00",
-        "notification_date": "2026-11-07",
-        "end_date": "11/7/2026",
-        "end_date_iso": "2026-11-07T00:00:00",
-        "start_time": "9:30 AM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/07/2026",
-        "event_dates": [
-          "11/7/2026"
-        ]
-      }
-    },
-    {
-      "id": "a5994d002905863b5f436f6f3be30574d5c1a9ac7f6daf95084c5d115b1e59f1",
-      "title": "Cambridge, MN, US - Nov 7th - Happy Dog Lodge",
-      "url": "https://updogchallenge.com/events/cambridge-mn-us-nov-7th-happy-dog-lodge/",
-      "details": {
-        "title": "Cambridge, MN, US – Nov 7th – Happy Dog Lodge",
-        "club_name": "Happy Dog Lodge",
-        "contact_name": "Sara Brueske",
-        "contact_email": "sarab@happydoglodge.com",
-        "event_address": "31158 Palisade St NE, Cambridge, MN 55008, United States",
-        "start_date": "11/7/2026",
-        "start_date_iso": "2026-11-07T00:00:00",
-        "notification_date": "2026-11-07",
-        "end_date": "11/7/2026",
-        "end_date_iso": "2026-11-07T00:00:00",
-        "start_time": "11:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "7Up",
-          "Freestyle"
-        ],
-        "additional_event_information_for_participants": "This is a play for points, choose your rounds event. Prizes will be given for personal bests only.",
-        "prereg_url": "https://www.happydoglodge.com/events",
-        "when_text": "11/07/2026",
-        "event_dates": [
-          "11/7/2026"
-        ]
-      }
-    },
-    {
-      "id": "0b9b9123089c40057c51fe59deb1ea7598833d5b20be3f459d3dffb09157f3b1",
-      "title": "Kelowna, BC, CA - Nov 7th - Kelowna Disc Dogs",
-      "url": "https://updogchallenge.com/events/kelowna-bc-ca-nov-7th-kelowna-disc-dogs/",
-      "details": {
-        "title": "Kelowna, BC, CA – Nov 7th – Kelowna Disc Dogs",
-        "club_name": "Kelowna Disc Dogs",
-        "contact_name": "Roni Bedard",
-        "contact_email": "info@kelownadiscdogs.com",
-        "event_address": "2870 Benvoulin Rd, Kelowna, BC V1W 2E3, Canada",
-        "start_date": "11/7/2026",
-        "start_date_iso": "2026-11-07T00:00:00",
-        "notification_date": "2026-11-07",
-        "end_date": "11/7/2026",
-        "end_date_iso": "2026-11-07T00:00:00",
-        "start_time": "12:00 PM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/07/2026",
-        "event_dates": [
-          "11/7/2026"
         ]
       }
     },
