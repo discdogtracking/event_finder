@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T14:14:26Z",
-  "count": 110,
+  "last_updated": "2026-11-11T13:29:45Z",
+  "count": 113,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -969,7 +969,7 @@
       "url": "https://updogchallenge.com/events/brooksville-fl-us-nov-14th-15th-updog-invitational/",
       "details": {
         "title": "Brooksville, FL, US – Nov 14th & 15th – UpDog Invitational",
-        "additional_event_information_for_participants": "The UpDog Invitational is being held at Florida Classic Park in Brooksville, FL November 14th & 15th.\n\nThe top teams in Freestyle, Far Out and Four Way Play will be showing off their skills and competing to see who is the best of the best!  Competition begins at 8:30am each day and will go until approximately 5pm each day.  Human spectators are welcome!\n\nThere will also be You Pick games on a separate field throughout the day both days.  These are open to any disc doggers, not just those invited to the Invitational.  Registration closes November 8th or when full.  Register below.",
+        "additional_event_information_for_participants": "The UpDog Invitational is being held at Florida Classic Park in Brooksville, FL November 14th & 15th.\n\nThe top teams in Freestyle, Far Out and Four Way Play will be showing off their skills and competing to see who is the best of the best!  Competition begins at 8:30am each day and will go until approximately 5pm each day.  Human spectators are welcome!\n\nSchedule of Events\n\nSaturday – Main Field: (Times are approximate)\n\n8:30-9:45am Far Out\n\n10:00-12:30om Freestyle\n\n1:00-2:15pm Far Out\n\n2:30-4:30pm Freestyle\n\nSunday – Main Field (Times are approximate)\n\n8:30-11:30am Freestyle\n\n12-1:30pm Four Way Play Level 2\n\n1:45-4:00pm Freestyle",
         "event_address": "Florida Classic Park 5360 Lockhart Rd , Brooksville, FL , 34602",
         "start_time": "8:30 am",
         "end_time": "5:00 pm",
@@ -1884,6 +1884,32 @@
       }
     },
     {
+      "id": "9ada9c42113c73a5fca08c9a2499ef83e768f3fbac313e9b86e9986744b89917",
+      "title": "Colchester, CT, US - Nov 27th - Central K9",
+      "url": "https://updogchallenge.com/events/colchester-ct-us-nov-27th-central-k9-2/",
+      "details": {
+        "title": "Colchester, CT, US – Nov 27th – Central K9",
+        "club_name": "Central K9",
+        "contact_name": "Shelby Dumond",
+        "contact_email": "shelby.dumond@gmail.com",
+        "event_address": "493 Norwich Ave, Colchester, CT 06231, United States",
+        "start_date": "11/27/2026",
+        "start_date_iso": "2026-11-27T00:00:00",
+        "notification_date": "2026-11-27",
+        "end_date": "11/27/2026",
+        "end_date_iso": "2026-11-27T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "12:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/27/2026",
+        "event_dates": [
+          "11/27/2026"
+        ]
+      }
+    },
+    {
       "id": "0af2d6d60212739bd384e8b1f209fc7b2552a686a448409548a3dd1e41bd8fb3",
       "title": "West St Paul, MN, US - Nov 27th - The Canine Coach!",
       "url": "https://updogchallenge.com/events/west-st-paul-mn-us-nov-27th-the-canine-coach/",
@@ -2421,6 +2447,32 @@
       }
     },
     {
+      "id": "aca967d961e8930840dbd278cc4925749f149d4afbcdebf3b19400abb9d31696",
+      "title": "Julian, NC, US - Dec 5th - Quicksilver Canine",
+      "url": "https://updogchallenge.com/events/julian-nc-us-dec-5th-quicksilver-canine/",
+      "details": {
+        "title": "Julian, NC, US – Dec 5th – Quicksilver Canine",
+        "club_name": "Quicksilver Canine",
+        "contact_name": "Leerie Jenkins",
+        "contact_email": "leerie.jenkins@gmail.com",
+        "event_address": "5600 Clarence Rd, Julian, NC 27283, United States",
+        "start_date": "12/5/2026",
+        "start_date_iso": "2026-12-05T00:00:00",
+        "notification_date": "2026-12-05",
+        "end_date": "12/5/2026",
+        "end_date_iso": "2026-12-05T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "5:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "12/05/2026",
+        "event_dates": [
+          "12/5/2026"
+        ]
+      }
+    },
+    {
       "id": "ddd88fad4fe1001cd17b23f13cad630d183e8df221ea27f9bc8da015bd7d7a3e",
       "title": "Middle Island, NY, US - Dec 6th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
       "url": "https://updogchallenge.com/events/middle-island-ny-us-dec-6th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
@@ -2804,14 +2856,18 @@
         "start_time": "8:00 AM",
         "end_time": "5:00 PM",
         "games": [
-          "Boom!",
+          "Saturday:",
+          "Time Warp",
+          "Greedy",
           "Fireball",
+          "Far Out",
+          "Sunday:",
+          "Boom!",
           "Four Way Play",
           "FunKey",
-          "Greedy",
           "Spaced Out",
           "Throw N Go",
-          "Time Warp"
+          "Far Out"
         ],
         "additional_event_information_for_participants": "Registration link is coming soon. Please join our Facebook Group for the most up to date information:\nhttps://www.facebook.com/groups/acadianaupdog",
         "prereg_url": "Link will be sent to UpDog HQ as we get closer.",
@@ -3279,6 +3335,38 @@
         "when_text": "12/30/2026",
         "event_dates": [
           "12/30/2026"
+        ]
+      }
+    },
+    {
+      "id": "26b07ecf5d7a3ffc5910b2b8522e2ef851ec168f8fb23408767fa0b170e94212",
+      "title": "Seville, OH, US - Dec 31st - Dawg Gone It!",
+      "url": "https://updogchallenge.com/events/seville-oh-us-dec-31st-dawg-gone-it/",
+      "details": {
+        "title": "Seville, OH, US – Dec 31st – Dawg Gone It!",
+        "club_name": "Dawg Gone It!",
+        "contact_name": "Heidi Pitts",
+        "contact_email": "graehm@gmail.com",
+        "event_address": "5628 buffham road, Seville, OH 44273, United States",
+        "start_date": "12/31/2026",
+        "start_date_iso": "2026-12-31T00:00:00",
+        "notification_date": "2026-12-31",
+        "end_date": "12/31/2026",
+        "end_date_iso": "2026-12-31T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "7Up",
+          "Spaced Out",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Indoors with limited buffer",
+        "when_text": "12/31/2026",
+        "event_dates": [
+          "12/31/2026"
         ]
       }
     },
