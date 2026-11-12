@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T13:29:45Z",
-  "count": 113,
+  "last_updated": "2026-11-12T14:34:13Z",
+  "count": 112,
   "events": [
     {
       "id": "2b82a1c3d09e83c35a7aa6fd3e4c8d60ed141637052d0d05b34b3f40d4294c87",
@@ -795,32 +795,6 @@
           "6/4/2027",
           "6/5/2027",
           "6/6/2027"
-        ]
-      }
-    },
-    {
-      "id": "e4ae3d0fa9216d7bb2bad2c4cfe2f46f03bdb6ef574d35f4bd6bfe07e1200e93",
-      "title": "Spruce Grove, AB, CA - Nov 11th - Edmonton Disc Dog Club",
-      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-nov-11th-edmonton-disc-dog-club/",
-      "details": {
-        "title": "Spruce Grove, AB, CA – Nov 11th – Edmonton Disc Dog Club",
-        "club_name": "Edmonton disc dog club",
-        "contact_name": "Nicky Monson",
-        "contact_email": "info@edmontondiscdogclub.ca",
-        "event_address": "27317 twp 514, Spruce grove, Alberta T7y1h7, Canada",
-        "start_date": "11/11/2026",
-        "start_date_iso": "2026-11-11T00:00:00",
-        "notification_date": "2026-11-11",
-        "end_date": "11/11/2026",
-        "end_date_iso": "2026-11-11T00:00:00",
-        "start_time": "8:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/11/2026",
-        "event_dates": [
-          "11/11/2026"
         ]
       }
     },
