@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-11-24T16:55:25Z",
-  "count": 93,
+  "last_updated": "2026-11-25T16:43:25Z",
+  "count": 92,
   "events": [
-    {
-      "id": "3f9fb4993a5edc2ed7c0d8b1a3195c2ae0d81d3e844d82def796204058f9c162",
-      "title": "Cambridge, MN, US - Nov 24th - Happy Dog Lodge",
-      "url": "https://updogchallenge.com/events/cambridge-mn-us-nov-24th-happy-dog-lodge/",
-      "details": {
-        "title": "Cambridge, MN, US – Nov 24th – Happy Dog Lodge",
-        "club_name": "Happy Dog Lodge",
-        "contact_name": "Sara Brueske",
-        "contact_email": "sarab@happydoglodge.com",
-        "event_address": "31158 Palisade St NE, Cambridge, MN 55008, United States",
-        "start_date": "11/24/2026",
-        "start_date_iso": "2026-11-24T00:00:00",
-        "notification_date": "2026-11-24",
-        "end_date": "11/24/2026",
-        "end_date_iso": "2026-11-24T00:00:00",
-        "start_time": "2:00 PM",
-        "end_time": "5:00 PM",
-        "games": [
-          "Frizgility",
-          "FunKey",
-          "7Up",
-          "Freestyle"
-        ],
-        "additional_event_information_for_participants": "This is a play for points only, prizes awarded for personal bests. Crossover games only.",
-        "when_text": "11/24/2026",
-        "event_dates": [
-          "11/24/2026"
-        ]
-      }
-    },
     {
       "id": "22efbdc64a5473cbf99815992e2c7b35ecc52a99a779bc27d7fd747c87a5a473",
       "title": "Mohnton, PA, US - Nov 25th - Reading Disc Dogs",
@@ -1067,9 +1037,9 @@
       }
     },
     {
-      "id": "54bc9eb0c53e59d3b9b831e77f573d41235aa597701326a64e5b8867bfeb3035",
+      "id": "ee5d346a88a338b68114000d3e2bd286317044e2f2049610fa3c126fa3c7cbf9",
       "title": "Dade City, FL, US - Dec 12th & 13th - CFDDC",
-      "url": "https://updogchallenge.com/events/dade-city-fl-us-nov-7th-8th-cfddc-2/",
+      "url": "https://updogchallenge.com/events/dade-city-fl-us-dec-12th-13th-cfddc/",
       "details": {
         "title": "Dade City, FL, US – Dec 12th & 13th – CFDDC",
         "event_address": "Dade City, Florida 18446 Sweetbay Ln, Dade City, FL, 33523",
