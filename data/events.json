@@ -1,34 +1,7 @@
 {
-  "last_updated": "2026-11-25T16:43:25Z",
-  "count": 92,
+  "last_updated": "2026-11-26T16:18:05Z",
+  "count": 103,
   "events": [
-    {
-      "id": "22efbdc64a5473cbf99815992e2c7b35ecc52a99a779bc27d7fd747c87a5a473",
-      "title": "Mohnton, PA, US - Nov 25th - Reading Disc Dogs",
-      "url": "https://updogchallenge.com/events/mohnton-pa-us-nov-25th-reading-disc-dogs/",
-      "details": {
-        "title": "Mohnton, PA, US – Nov 25th – Reading Disc Dogs",
-        "club_name": "Reading Disc Dogs",
-        "contact_name": "ANN M FLEMMING",
-        "contact_email": "Pandaflemming@yahoo.com",
-        "event_address": "30 Stauffer park lane, Mohnton, PA 19540, United States",
-        "start_date": "11/25/2026",
-        "start_date_iso": "2026-11-25T00:00:00",
-        "notification_date": "2026-11-25",
-        "end_date": "11/25/2026",
-        "end_date_iso": "2026-11-25T00:00:00",
-        "start_time": "10:00 AM",
-        "end_time": "5:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Wednesday Lunch Bunch",
-        "when_text": "11/25/2026",
-        "event_dates": [
-          "11/25/2026"
-        ]
-      }
-    },
     {
       "id": "78a9338d9c9046ff1495bd117571d87b8d23efd7bcdb562c7b62683b95ca7099",
       "title": "Cochrane, AB, CA - Nov 26th - Calgary Disc Dog Club",
@@ -56,6 +29,34 @@
       }
     },
     {
+      "id": "6c1f3b7ea407ebb17401e9c34cccce08aad52af51f5e515218e7c763c57227d6",
+      "title": "Okotoks, AB, CA - Nov 26th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/okotoks-ab-ca-nov-26th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Okotoks, AB, CA – Nov 26th – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Tom Lines",
+        "contact_email": "thomas.lines1@gmail.com",
+        "event_address": "Okotoks AG, 306 Ave E, Okotoks, AB T1S 5E7, Canada",
+        "start_date": "11/26/2026",
+        "start_date_iso": "2026-11-26T00:00:00",
+        "notification_date": "2026-11-26",
+        "end_date": "11/26/2026",
+        "end_date_iso": "2026-11-26T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "https://calgarydiscdogclub.com/CDDL",
+        "prereg_url": "https://calgarydiscdogclub.com/entry",
+        "when_text": "11/26/2026",
+        "event_dates": [
+          "11/26/2026"
+        ]
+      }
+    },
+    {
       "id": "9ada9c42113c73a5fca08c9a2499ef83e768f3fbac313e9b86e9986744b89917",
       "title": "Colchester, CT, US - Nov 27th - Central K9",
       "url": "https://updogchallenge.com/events/colchester-ct-us-nov-27th-central-k9-2/",
@@ -75,6 +76,33 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "11/27/2026",
+        "event_dates": [
+          "11/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "50653f84ce96b5eb8e13bff0170b42a9914b4e5f70b2e2d6f329bc1a07aa35d8",
+      "title": "Mohnton, PA, US - Nov 27th - Reading Disc Dogs",
+      "url": "https://updogchallenge.com/events/mohnton-pa-us-nov-27th-reading-disc-dogs/",
+      "details": {
+        "title": "Mohnton, PA, US – Nov 27th – Reading Disc Dogs",
+        "club_name": "Reading Disc dogs",
+        "contact_name": "Ann Flemming",
+        "contact_email": "pandaflemming@yahoo.com",
+        "event_address": "14 Moore Rd, Mohnton, PA 19540-8736, United States",
+        "start_date": "11/27/2026",
+        "start_date_iso": "2026-11-27T00:00:00",
+        "notification_date": "2026-11-27",
+        "end_date": "11/27/2026",
+        "end_date_iso": "2026-11-27T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Weather is always considered when hosting in Pa.",
         "when_text": "11/27/2026",
         "event_dates": [
           "11/27/2026"
@@ -116,6 +144,32 @@
           "11/27/2026",
           "11/28/2026",
           "11/29/2026"
+        ]
+      }
+    },
+    {
+      "id": "3e4d1e31034f63b643e4ba8f01dd380a9c665a5860f9cfa1108623016147bf58",
+      "title": "Spruce Grove, AB, CA - Nov 27th - Edmonton Disc Dog Club",
+      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-nov-27th-edmonton-disc-dog-club/",
+      "details": {
+        "title": "Spruce Grove, AB, CA – Nov 27th – Edmonton Disc Dog Club",
+        "club_name": "Edmonton disc dog club",
+        "contact_name": "Nicky Monson",
+        "contact_email": "info@edmontondiscdogclub.ca",
+        "event_address": "27317 RR 514, Spruce grove, Alberta T7y1h1, Canada",
+        "start_date": "11/27/2026",
+        "start_date_iso": "2026-11-27T00:00:00",
+        "notification_date": "2026-11-27",
+        "end_date": "11/27/2026",
+        "end_date_iso": "2026-11-27T00:00:00",
+        "start_time": "1:00 PM",
+        "end_time": "4:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "11/27/2026",
+        "event_dates": [
+          "11/27/2026"
         ]
       }
     },
@@ -505,6 +559,34 @@
       }
     },
     {
+      "id": "6992713f8b873d3e94488667b45a2009b56e13ea6b4599767e17cdd50551db64",
+      "title": "Okotoks, AB, CA - Dec 3rd - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/okotoks-ab-ca-dec-3rd-calgary-disc-dog-club/",
+      "details": {
+        "title": "Okotoks, AB, CA – Dec 3rd – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Tom Lines",
+        "contact_email": "thomas.lines1@gmail.com",
+        "event_address": "Okotoks AG, 306 Ave E, Okotoks, AB T1S 5E7, Canada",
+        "start_date": "12/3/2026",
+        "start_date_iso": "2026-12-03T00:00:00",
+        "notification_date": "2026-12-03",
+        "end_date": "12/3/2026",
+        "end_date_iso": "2026-12-03T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "https://calgarydiscdogclub.com/CDDL",
+        "prereg_url": "https://calgarydiscdogclub.com/entry",
+        "when_text": "12/03/2026",
+        "event_dates": [
+          "12/3/2026"
+        ]
+      }
+    },
+    {
       "id": "989a1bfa629358607ce8ef02d3b727365303a3b5f0c13a8971ba35430d2b2592",
       "title": "Garland, TX, US - Dec 4th thru 6th - UpDog Dallas",
       "url": "https://updogchallenge.com/events/garland-tx-us-dec-4th-thru-6th-updog-dallas/",
@@ -868,6 +950,62 @@
       }
     },
     {
+      "id": "34ae49d9b58a40726ada4dad3510f5cd96de14cabe19a6474e99791ab9858257",
+      "title": "St Genevieve, MO, US - Dec 6th - STLDD",
+      "url": "https://updogchallenge.com/events/st-genevieve-mo-us-dec-6th-stldd/",
+      "details": {
+        "title": "St Genevieve, MO, US – Dec 6th – STLDD",
+        "club_name": "STLDD",
+        "contact_name": "Troy Mool",
+        "contact_email": "aussiediscdog@me.com",
+        "event_address": "14490 Hennick Road, St Genevieve, MO 63670, United States",
+        "start_date": "12/6/2026",
+        "start_date_iso": "2026-12-06T00:00:00",
+        "notification_date": "2026-12-06",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "start_time": "10:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "Four Way Play"
+        ],
+        "additional_event_information_for_participants": "This will be for points only. No awards. Very short day. Walk up order. No registration. No sign up. Just show up and play for last chance for needed Updif points",
+        "prereg_url": "No pre-registration. Will create fb event page on STLDD facebook group for any/all communication about this event $6 run",
+        "when_text": "12/06/2026",
+        "event_dates": [
+          "12/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "f0f8e64a054d9764cae18c6872e4ee0e251c36d221ea925d583d56f2e15e92f7",
+      "title": "Great Village, NS, CA - Dec 6th - Colchester Disc Dog Club",
+      "url": "https://updogchallenge.com/events/great-village-ns-ca-dec-6th-colchester-disc-dog-club/",
+      "details": {
+        "title": "Great Village, NS, CA – Dec 6th – Colchester Disc Dog Club",
+        "club_name": "Colchester Disc Dog Club",
+        "contact_name": "Melanie Smith",
+        "contact_email": "melanieangus@hotmail.com",
+        "event_address": "10 Cross rd, Great Village, NS B0M1L0, Canada",
+        "start_date": "12/6/2026",
+        "start_date_iso": "2026-12-06T00:00:00",
+        "notification_date": "2026-12-06",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "start_time": "11:00 AM",
+        "end_time": "1:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "when_text": "12/06/2026",
+        "event_dates": [
+          "12/6/2026"
+        ]
+      }
+    },
+    {
       "id": "14c3885cea4b74dbe0639d6f5a4bd06606094430d300cf023239dfba88d0f002",
       "title": "Hutto, TX, US - Dec 8th - Lone Star Disc Dogs",
       "url": "https://updogchallenge.com/events/hutto-tx-us-dec-8th-lone-star-disc-dogs/",
@@ -920,6 +1058,34 @@
         "when_text": "12/09/2026",
         "event_dates": [
           "12/9/2026"
+        ]
+      }
+    },
+    {
+      "id": "d73c369ae286dea91f0284a6a5b86ffbf6b6d9dc7127f49cb0f211eef60dfdca",
+      "title": "Okotoks, AB, CA - Dec 10th - Calgary Disc Dog Club",
+      "url": "https://updogchallenge.com/events/okotoks-ab-ca-dec-10th-calgary-disc-dog-club/",
+      "details": {
+        "title": "Okotoks, AB, CA – Dec 10th – Calgary Disc Dog Club",
+        "club_name": "Calgary Disc Dog Club",
+        "contact_name": "Tom Lines",
+        "contact_email": "thomas.lines1@gmail.com",
+        "event_address": "Okotoks AG, 306 Ave E, Okotoks, AB T1S 5E7, Canada",
+        "start_date": "12/10/2026",
+        "start_date_iso": "2026-12-10T00:00:00",
+        "notification_date": "2026-12-10",
+        "end_date": "12/10/2026",
+        "end_date_iso": "2026-12-10T00:00:00",
+        "start_time": "6:00 PM",
+        "end_time": "9:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "https://calgarydiscdogclub.com/CDDL",
+        "prereg_url": "https://calgarydiscdogclub.com/entry",
+        "when_text": "12/10/2026",
+        "event_dates": [
+          "12/10/2026"
         ]
       }
     },
@@ -1203,6 +1369,84 @@
       }
     },
     {
+      "id": "7af51f17f98e7e3072d58ca4a4ee1d1e25378c6f7aa159470cee206f50208161",
+      "title": "Tulalip Bay, WA, US - Dec 13th - Evergreen Disc Dogs",
+      "url": "https://updogchallenge.com/events/tulalip-bay-wa-us-dec-13th-evergreen-disc-dogs/",
+      "details": {
+        "title": "Tulalip Bay, WA, US – Dec 13th – Evergreen Disc Dogs",
+        "club_name": "Evergreen Disc Dogs",
+        "contact_name": "Raena Lorio",
+        "contact_email": "evergreendiscdogs@gmail.com",
+        "event_address": "6713 12th Avenue Northwest, Tulalip Bay, Washington 98271, United States",
+        "start_date": "12/13/2026",
+        "start_date_iso": "2026-12-13T00:00:00",
+        "notification_date": "2026-12-13",
+        "end_date": "12/13/2026",
+        "end_date_iso": "2026-12-13T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Choose your own adventure! Points only.",
+        "when_text": "12/13/2026",
+        "event_dates": [
+          "12/13/2026"
+        ]
+      }
+    },
+    {
+      "id": "f090feddb81befc0938360bd920ad0584c43c21c75fc1d3c721639a10966e92c",
+      "title": "Shermans Dale, PA, US - Dec 13th - Woof Pack Disc Dogs",
+      "url": "https://updogchallenge.com/events/shermans-dale-pa-us-dec-13th-woof-pack-disc-dogs/",
+      "details": {
+        "title": "Shermans Dale, PA, US – Dec 13th – Woof Pack Disc Dogs",
+        "club_name": "Woof Pack Disc Dogs",
+        "contact_name": "Emily Leiby",
+        "contact_email": "woofpackdiscdogs@gmail.com",
+        "event_address": "316 Old State Rd, Shermans Dale, PA 17090, United States",
+        "start_date": "12/13/2026",
+        "start_date_iso": "2026-12-13T00:00:00",
+        "notification_date": "2026-12-13",
+        "end_date": "12/13/2026",
+        "end_date_iso": "2026-12-13T00:00:00",
+        "start_time": "9:30 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Freestyle",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play",
+          "Pairs Throw N Go"
+        ],
+        "additional_event_information_for_participants": "Player’s choice, up to 3 rounds per game. Points only.",
+        "when_text": "12/13/2026",
+        "event_dates": [
+          "12/13/2026"
+        ]
+      }
+    },
+    {
       "id": "b1e70b415191b6b83e0066c8aeb1c0f5acfd4bd8f1511ffcc3d29166ab086826",
       "title": "Troy, VA, US - Dec 13th - GDU Disc Dogs",
       "url": "https://updogchallenge.com/events/troy-va-us-dec-13th-gdu-disc-dogs/",
@@ -1280,6 +1524,45 @@
         "when_text": "12/16/2026",
         "event_dates": [
           "12/16/2026"
+        ]
+      }
+    },
+    {
+      "id": "d732629f68b1ceb91ed8af37523e4f2664ee74f0d61bc18fa8a52804e301c1d7",
+      "title": "Texarkana, TX, US - Dec 19th & 20th - Barklatex Discfunctional Family",
+      "url": "https://updogchallenge.com/events/texarkana-tx-us-dec-19th-20th-barklatex-discfunctional-family/",
+      "details": {
+        "title": "Texarkana, TX, US – Dec 19th & 20th – Barklatex Discfunctional Family",
+        "club_name": "Barklatex Discfunctional Family",
+        "contact_name": "Tera Holder",
+        "contact_email": "barklatexdiscfunctionalfamily@gmail.com",
+        "event_address": "7070 West 7th Street, Texarkana, TX 75501, United States",
+        "start_date": "12/19/2026",
+        "start_date_iso": "2026-12-19T00:00:00",
+        "notification_date": "2026-12-19",
+        "end_date": "12/20/2026",
+        "end_date_iso": "2026-12-20T00:00:00",
+        "start_time": "8:00 AM",
+        "end_time": "4:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "Pairs Four Way Play"
+        ],
+        "prereg_url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fform.jotform.com%2F263217772627059%3Futm_id%3D97757_v0_s00_e0_tv0%26fbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFOWFBzRkdSWWQ2QTlhTzljc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABH0yYRmyJlPRzhqkpn6huW_zp-0zQAPQXgGqT0gnCo9e0EousNYMGVaOZ4S7g_aem_XWqRvZ92aoq_OkWdX1zSlQ&h=AUDqXmH-vca8NRx3GtQtAn-eV2z5GGxWGJ9pamdVFCi2zIBtcBn7yJbAioRK-XTtENP-eaYuZHR8RrWkg1Q9xvNdg229tnMShitGIboNAaKY-MiwSc6uK5P91AHa",
+        "when_text": "12/19/2026 - 12/20/2026",
+        "event_dates": [
+          "12/19/2026",
+          "12/20/2026"
         ]
       }
     },
@@ -1442,6 +1725,44 @@
         "when_text": "12/19/2026",
         "event_dates": [
           "12/19/2026"
+        ]
+      }
+    },
+    {
+      "id": "84c12460b0e74425b8eb70b39f7c4ca5e3b55739daadc605d698472fe42a0427",
+      "title": "Millington, TN, US - Dec 19th & 20th - Delta Disc Dogs",
+      "url": "https://updogchallenge.com/events/millington-tn-us-dec-19th-20th-delta-disc-dogs/",
+      "details": {
+        "title": "Millington, TN, US – Dec 19th & 20th – Delta Disc Dogs",
+        "club_name": "Delta Disc Dogs",
+        "contact_name": "Jessica Gatewood Jessica Gatewood",
+        "contact_email": "jdgatewood16@gmail.com",
+        "event_address": "8021 Epperson Mill Road, Millington, Tennessee 38053, United States",
+        "start_date": "12/19/2026",
+        "start_date_iso": "2026-12-19T00:00:00",
+        "notification_date": "2026-12-19",
+        "end_date": "12/20/2026",
+        "end_date_iso": "2026-12-20T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "Points only, walk up style",
+        "when_text": "12/19/2026 - 12/20/2026",
+        "event_dates": [
+          "12/19/2026",
+          "12/20/2026"
         ]
       }
     },
@@ -1652,6 +1973,44 @@
         ],
         "additional_event_information_for_participants": "https://jaxdiscdogs.weebly.com/",
         "prereg_url": "https://docs.google.com/forms/d/e/1FAIpQLSfXVz5GPWmisbbvn1Nw1COv7G8EqUB6IiTQvtbf2y9BXoLL4A/viewform?usp=publish-editor",
+        "when_text": "12/27/2026",
+        "event_dates": [
+          "12/27/2026"
+        ]
+      }
+    },
+    {
+      "id": "f1bebee0cff9394a8ddba6918fb956be6da7df7005c80e7db838815edc4c506b",
+      "title": "Opelika, AL, US - Dec 27th - Disc Dogs on the Plains",
+      "url": "https://updogchallenge.com/events/opelika-al-us-dec-27th-disc-dogs-on-the-plains/",
+      "details": {
+        "title": "Opelika, AL, US – Dec 27th – Disc Dogs on the Plains",
+        "club_name": "Disc Dogs on the Plains",
+        "contact_name": "Becky Jones",
+        "contact_email": "rebeccalenoir@live.com",
+        "event_address": "300 Co Rd 29, Opelika, AL 36804, United States",
+        "start_date": "12/27/2026",
+        "start_date_iso": "2026-12-27T00:00:00",
+        "notification_date": "2026-12-27",
+        "end_date": "12/27/2026",
+        "end_date_iso": "2026-12-27T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "2:00 PM",
+        "games": [
+          "Boom!",
+          "Far Out",
+          "Fireball",
+          "Four Way Play",
+          "Frizgility",
+          "FunKey",
+          "Greedy",
+          "7Up",
+          "Spaced Out",
+          "Throw N Go",
+          "Time Warp",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "This event will be for *points only* (no placements given).\nMultiple rounds available. Level 2 available.\nMore information and registration can be found on our Facebook page:\nhttps://www.facebook.com/discdogsontheplains\nGPS is sometimes weird about navigating to the event location – if you haven’t been to this location before and have any questions about whether or not you’re going to the right place, please reach out!",
         "when_text": "12/27/2026",
         "event_dates": [
           "12/27/2026"
