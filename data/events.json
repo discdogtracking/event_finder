@@ -1,61 +1,7 @@
 {
-  "last_updated": "2026-11-26T16:18:05Z",
-  "count": 103,
+  "last_updated": "2026-11-27T16:02:06Z",
+  "count": 101,
   "events": [
-    {
-      "id": "78a9338d9c9046ff1495bd117571d87b8d23efd7bcdb562c7b62683b95ca7099",
-      "title": "Cochrane, AB, CA - Nov 26th - Calgary Disc Dog Club",
-      "url": "https://updogchallenge.com/events/cochrane-ab-ca-nov-26th-calgary-disc-dog-club/",
-      "details": {
-        "title": "Cochrane, AB, CA – Nov 26th – Calgary Disc Dog Club",
-        "club_name": "Calgary disc dog club",
-        "contact_name": "Tom Lines",
-        "contact_email": "calgarydiscdogclub@gmail.com",
-        "event_address": "Cochrane AG, 43080 bow Valley trail, Cochrane, Ab T4C 1A9, Canada",
-        "start_date": "11/26/2026",
-        "start_date_iso": "2026-11-26T00:00:00",
-        "notification_date": "2026-11-26",
-        "end_date": "11/26/2026",
-        "end_date_iso": "2026-11-26T00:00:00",
-        "start_time": "5:30 PM",
-        "end_time": "8:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/26/2026",
-        "event_dates": [
-          "11/26/2026"
-        ]
-      }
-    },
-    {
-      "id": "6c1f3b7ea407ebb17401e9c34cccce08aad52af51f5e515218e7c763c57227d6",
-      "title": "Okotoks, AB, CA - Nov 26th - Calgary Disc Dog Club",
-      "url": "https://updogchallenge.com/events/okotoks-ab-ca-nov-26th-calgary-disc-dog-club/",
-      "details": {
-        "title": "Okotoks, AB, CA – Nov 26th – Calgary Disc Dog Club",
-        "club_name": "Calgary Disc Dog Club",
-        "contact_name": "Tom Lines",
-        "contact_email": "thomas.lines1@gmail.com",
-        "event_address": "Okotoks AG, 306 Ave E, Okotoks, AB T1S 5E7, Canada",
-        "start_date": "11/26/2026",
-        "start_date_iso": "2026-11-26T00:00:00",
-        "notification_date": "2026-11-26",
-        "end_date": "11/26/2026",
-        "end_date_iso": "2026-11-26T00:00:00",
-        "start_time": "6:00 PM",
-        "end_time": "9:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "https://calgarydiscdogclub.com/CDDL",
-        "prereg_url": "https://calgarydiscdogclub.com/entry",
-        "when_text": "11/26/2026",
-        "event_dates": [
-          "11/26/2026"
-        ]
-      }
-    },
     {
       "id": "9ada9c42113c73a5fca08c9a2499ef83e768f3fbac313e9b86e9986744b89917",
       "title": "Colchester, CT, US - Nov 27th - Central K9",
