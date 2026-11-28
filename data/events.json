@@ -1,60 +1,7 @@
 {
-  "last_updated": "2026-11-27T16:02:06Z",
+  "last_updated": "2026-11-28T14:59:20Z",
   "count": 101,
   "events": [
-    {
-      "id": "9ada9c42113c73a5fca08c9a2499ef83e768f3fbac313e9b86e9986744b89917",
-      "title": "Colchester, CT, US - Nov 27th - Central K9",
-      "url": "https://updogchallenge.com/events/colchester-ct-us-nov-27th-central-k9-2/",
-      "details": {
-        "title": "Colchester, CT, US – Nov 27th – Central K9",
-        "club_name": "Central K9",
-        "contact_name": "Shelby Dumond",
-        "contact_email": "shelby.dumond@gmail.com",
-        "event_address": "493 Norwich Ave, Colchester, CT 06231, United States",
-        "start_date": "11/27/2026",
-        "start_date_iso": "2026-11-27T00:00:00",
-        "notification_date": "2026-11-27",
-        "end_date": "11/27/2026",
-        "end_date_iso": "2026-11-27T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "12:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/27/2026",
-        "event_dates": [
-          "11/27/2026"
-        ]
-      }
-    },
-    {
-      "id": "50653f84ce96b5eb8e13bff0170b42a9914b4e5f70b2e2d6f329bc1a07aa35d8",
-      "title": "Mohnton, PA, US - Nov 27th - Reading Disc Dogs",
-      "url": "https://updogchallenge.com/events/mohnton-pa-us-nov-27th-reading-disc-dogs/",
-      "details": {
-        "title": "Mohnton, PA, US – Nov 27th – Reading Disc Dogs",
-        "club_name": "Reading Disc dogs",
-        "contact_name": "Ann Flemming",
-        "contact_email": "pandaflemming@yahoo.com",
-        "event_address": "14 Moore Rd, Mohnton, PA 19540-8736, United States",
-        "start_date": "11/27/2026",
-        "start_date_iso": "2026-11-27T00:00:00",
-        "notification_date": "2026-11-27",
-        "end_date": "11/27/2026",
-        "end_date_iso": "2026-11-27T00:00:00",
-        "start_time": "9:00 AM",
-        "end_time": "3:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Weather is always considered when hosting in Pa.",
-        "when_text": "11/27/2026",
-        "event_dates": [
-          "11/27/2026"
-        ]
-      }
-    },
     {
       "id": "1206fd98aedec7adcd81ba69dfadfe794d05a1f97b9a9c991efa851b8d63f2f5",
       "title": "Princeton, IL, US - Nov 27th thru 29th - Harmony Training Club",
@@ -90,59 +37,6 @@
           "11/27/2026",
           "11/28/2026",
           "11/29/2026"
-        ]
-      }
-    },
-    {
-      "id": "3e4d1e31034f63b643e4ba8f01dd380a9c665a5860f9cfa1108623016147bf58",
-      "title": "Spruce Grove, AB, CA - Nov 27th - Edmonton Disc Dog Club",
-      "url": "https://updogchallenge.com/events/spruce-grove-ab-ca-nov-27th-edmonton-disc-dog-club/",
-      "details": {
-        "title": "Spruce Grove, AB, CA – Nov 27th – Edmonton Disc Dog Club",
-        "club_name": "Edmonton disc dog club",
-        "contact_name": "Nicky Monson",
-        "contact_email": "info@edmontondiscdogclub.ca",
-        "event_address": "27317 RR 514, Spruce grove, Alberta T7y1h1, Canada",
-        "start_date": "11/27/2026",
-        "start_date_iso": "2026-11-27T00:00:00",
-        "notification_date": "2026-11-27",
-        "end_date": "11/27/2026",
-        "end_date_iso": "2026-11-27T00:00:00",
-        "start_time": "1:00 PM",
-        "end_time": "4:00 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "when_text": "11/27/2026",
-        "event_dates": [
-          "11/27/2026"
-        ]
-      }
-    },
-    {
-      "id": "0af2d6d60212739bd384e8b1f209fc7b2552a686a448409548a3dd1e41bd8fb3",
-      "title": "West St Paul, MN, US - Nov 27th - The Canine Coach!",
-      "url": "https://updogchallenge.com/events/west-st-paul-mn-us-nov-27th-the-canine-coach/",
-      "details": {
-        "title": "West St Paul, MN, US – Nov 27th – The Canine Coach!",
-        "club_name": "The Canine Coach!",
-        "contact_name": "Jess Kittredge",
-        "contact_email": "k9coachmgr@gmail.com",
-        "event_address": "1700 Marthalar Lane, West St Paul, MN 55118, United States",
-        "start_date": "11/27/2026",
-        "start_date_iso": "2026-11-27T00:00:00",
-        "notification_date": "2026-11-27",
-        "end_date": "11/27/2026",
-        "end_date_iso": "2026-11-27T00:00:00",
-        "start_time": "2:00 PM",
-        "end_time": "4:30 PM",
-        "games": [
-          "To Be Determined"
-        ],
-        "additional_event_information_for_participants": "Play for points, no awards. More details soon!",
-        "when_text": "11/27/2026",
-        "event_dates": [
-          "11/27/2026"
         ]
       }
     },
@@ -628,6 +522,33 @@
       }
     },
     {
+      "id": "3e0fdf35b4aaa6e4663668f69daeecdfddcceab79997c01b59b1c17ad84c89b6",
+      "title": "Yorktown, NY, US - Dec 5th & 6th - H2D2 Disc Dogs",
+      "url": "https://updogchallenge.com/events/yorktown-ny-us-dec-5th-h2d2-disc-dogs/",
+      "details": {
+        "title": "Yorktown, NY, US – Dec 5th & 6th – H2D2 Disc Dogs",
+        "club_name": "H2D2 Disc Dogs",
+        "contact_name": "Cor Brewer",
+        "contact_email": "Brewerad@aol.com",
+        "event_address": "FDR Park lot 4 2957 Crompond rd, Yorktown, Ny 10598, United States",
+        "start_date": "12/5/2026",
+        "start_date_iso": "2026-12-05T00:00:00",
+        "notification_date": "2026-12-05",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "end_time": "3:00 PM",
+        "games": [
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Please pre-register. H2D2discdogs.com or through our Facebook group. This event will be weather permitting.",
+        "when_text": "12/05/2026 - 12/06/2026",
+        "event_dates": [
+          "12/5/2026",
+          "12/6/2026"
+        ]
+      }
+    },
+    {
       "id": "89163d5a8d869bd2e027674570c4314776f4bbeccede55ad1e7a082d3fc98d84",
       "title": "Bois D'Arc, MO, US - Dec 5th & 6th - Wingin' It Disc Dogs",
       "url": "https://updogchallenge.com/events/bois-darc-mo-us-dec-5th-6th-wingin-it-disc-dogs/",
@@ -770,6 +691,37 @@
       }
     },
     {
+      "id": "3dcf27e067abfb56d1aad93b98f50c260d5b975730dd511d3f280e7395384e56",
+      "title": "Brandywine, MD, US - Dec 5th - NOVA Disc Dogs",
+      "url": "https://updogchallenge.com/events/brandywine-md-us-dec-5th-nova-disc-dogs/",
+      "details": {
+        "title": "Brandywine, MD, US – Dec 5th – NOVA Disc Dogs",
+        "club_name": "NOVA Disc Dogs",
+        "contact_name": "Birgit Locklear",
+        "contact_email": "bjlocklear@gmail.com",
+        "event_address": "BFF Pet Services, 4611 Wilkerson Road, Brandywine, Maryland 20613, United States",
+        "start_date": "12/5/2026",
+        "start_date_iso": "2026-12-05T00:00:00",
+        "notification_date": "2026-12-05",
+        "end_date": "12/5/2026",
+        "end_date_iso": "2026-12-05T00:00:00",
+        "start_time": "1:30 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Fireball",
+          "Spaced Out",
+          "Throw N Go",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "Points Only Event! Due to the small event and early dark, we have to limit to 20 runs a game. If time allows, Players Choice will be offered.",
+        "prereg_url": "https://www.cognitoforms.com/NoVADogSports/ChesapeakeUpDogDecember2026UpDogRegistrationForm",
+        "when_text": "12/05/2026",
+        "event_dates": [
+          "12/5/2026"
+        ]
+      }
+    },
+    {
       "id": "ddd88fad4fe1001cd17b23f13cad630d183e8df221ea27f9bc8da015bd7d7a3e",
       "title": "Middle Island, NY, US - Dec 6th - Long Island Disc Dogs hosted by Lead the Pack Dog Training",
       "url": "https://updogchallenge.com/events/middle-island-ny-us-dec-6th-long-island-disc-dogs-hosted-by-lead-the-pack-dog-training/",
@@ -788,6 +740,37 @@
           "To Be Determined"
         ],
         "prereg_url": "Please join our Long Island Disc Dog FB group and follow LIDD page on FB for updates including registration links when they go live.",
+        "when_text": "12/06/2026",
+        "event_dates": [
+          "12/6/2026"
+        ]
+      }
+    },
+    {
+      "id": "b5eff179a15595186d2b7c9181d1ddc3beb7f8b9d13d664f83c33c14d6dc8cb8",
+      "title": "Austin, TX, US - Dec 6th - South Austin Club",
+      "url": "https://updogchallenge.com/events/austin-tx-us-dec-6th-south-austin-club/",
+      "details": {
+        "title": "Austin, TX, US – Dec 6th – South Austin Club",
+        "club_name": "South Austin Club",
+        "contact_name": "Vanessa Fanelli",
+        "contact_email": "vanessa1955massimo@gmail.com",
+        "event_address": "404 Gate Tree Ln, Austin, Texas 78745, United States",
+        "start_date": "12/6/2026",
+        "start_date_iso": "2026-12-06T00:00:00",
+        "notification_date": "2026-12-06",
+        "end_date": "12/6/2026",
+        "end_date_iso": "2026-12-06T00:00:00",
+        "start_time": "9:00 AM",
+        "end_time": "3:00 PM",
+        "games": [
+          "Four Way Play",
+          "Frizgility",
+          "Throw N Go",
+          "Time Warp"
+        ],
+        "additional_event_information_for_participants": "We will be offering two runs per game per competitor.",
+        "prereg_url": "https://www.cognitoforms.com/VanessaFanelli/UpogDecember6",
         "when_text": "12/06/2026",
         "event_dates": [
           "12/6/2026"
@@ -1769,6 +1752,36 @@
         "games": [
           "To Be Determined"
         ],
+        "when_text": "12/20/2026",
+        "event_dates": [
+          "12/20/2026"
+        ]
+      }
+    },
+    {
+      "id": "bb7b96f06ab76a49dfc0dc62bcbb6e2b81644023592eeff4300fe6aec751335e",
+      "title": "Simpsonville, KY, US - Dec 20th - LouDD Louisville Disc Dogs",
+      "url": "https://updogchallenge.com/events/simpsonville-ky-us-dec-20th-loudd-louisville-disc-dogs/",
+      "details": {
+        "title": "Simpsonville, KY, US – Dec 20th – LouDD Louisville Disc Dogs",
+        "club_name": "LouDD Louisville Disc Dogs",
+        "contact_name": "Jason Rigler",
+        "contact_email": "k9sportsevents@gmail.com",
+        "event_address": "101 Helson Rd, Simpsonville, KY 40071, United States",
+        "start_date": "12/20/2026",
+        "start_date_iso": "2026-12-20T00:00:00",
+        "notification_date": "2026-12-20",
+        "end_date": "12/20/2026",
+        "end_date_iso": "2026-12-20T00:00:00",
+        "start_time": "12:00 PM",
+        "end_time": "5:00 PM",
+        "games": [
+          "Boom!",
+          "Fireball",
+          "FunKey",
+          "To Be Determined"
+        ],
+        "additional_event_information_for_participants": "We will have wildcard",
         "when_text": "12/20/2026",
         "event_dates": [
           "12/20/2026"
